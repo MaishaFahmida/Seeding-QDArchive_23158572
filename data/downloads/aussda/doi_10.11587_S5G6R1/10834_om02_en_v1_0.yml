@@ -1,0 +1,8 @@
+positive: [chance*, gleich*, helfe*, hilf*, nutzen, nützt, inklusiv*, möglich*]
+
+negative: [abbruch, antisem*, archai*, bedrohung, behindern, besorgnis, diskrimin*, eindämm*,
+			entgegegen_zu_treten, folter*, fremd*, gegensteuern, genital*, gewalt*, grausam*,
+			kampf, kulturell_bedingt, illegal*, irregulär*, menschenhandel, opfer,
+			paralellgesell*, patriarch*, schliessung, sorge*, tradition, unkontrolliert*,
+			untergraben, verhind*, verurteil*, zwangsheirat]
+

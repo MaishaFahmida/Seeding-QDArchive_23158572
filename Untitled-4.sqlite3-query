@@ -1,0 +1,17 @@
+-- database: c:\Users\Maisha Fahmida\Desktop\QDA_Maisha\23158572_id-seeding.db
+
+SELECT * FROM files
+ORDER BY `id` ASC;
+
+DELETE FROM files;
+DELETE FROM person_role;
+DELETE FROM keywords;
+DELETE FROM licenses;
+DELETE FROM projects;
+
+
+DELETE FROM sqlite_sequence WHERE name='projects';
+DELETE FROM sqlite_sequence WHERE name='files';
+DELETE FROM sqlite_sequence WHERE name='licenses';
+DELETE FROM sqlite_sequence WHERE name='keywords';
+DELETE FROM sqlite_sequence WHERE name='person_role';

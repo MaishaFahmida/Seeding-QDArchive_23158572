@@ -1,0 +1,4 @@
+-- database: ./23158572_id-seeding.db
+
+SELECT * FROM projects
+ORDER BY `id` ASC;
