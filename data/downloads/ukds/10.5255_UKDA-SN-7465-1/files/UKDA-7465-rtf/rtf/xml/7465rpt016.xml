@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 38 - first half of February 1949</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-784ce8a4-c54b-49bd-98c1-dba71704f636</idno>
+				<idno type="qudexdocument">q-fcc78d46-77bb-46ad-8f4e-83df2f86dca8</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-8014e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="1">Public Opinion Research Office</note>
+				<note xml:id="q-8114e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="2">Political Division</note>
+				<note xml:id="q-8214e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="3">Lancaster House</note>
+				<note xml:id="q-8314e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="4">HQ CCG (BE)</note>
+				<note xml:id="q-8414e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="5">Berlin</note>
+				<note xml:id="q-8514e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="6">B.A.O.R.2</note>
+				<note xml:id="q-8614e013-1390-e311-a968-000bdb5cc6d5" type="date" n="7">18 Feb 49</note>
+				<note xml:id="q-8714e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="8">To: Public Opinion Research Office</note>
+				<note xml:id="q-8814e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="9">229 HQ OCG</note>
+				<note xml:id="q-8914e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="10">Hannover</note>
+				<note xml:id="q-8a14e013-1390-e311-a968-000bdb5cc6d5" type="subject" n="11">Subject: Morale Report No. 38.</note>
+				<note xml:id="q-8b14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="12">Herewith Report on Berlin Morale No. 38 for the first half of February.</note>
+				<note xml:id="q-8c14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="13">Readers are asked to remember that although this report is compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting.</note>
+				<note xml:id="q-8d14e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="14">J.E. Dixon</note>
+				<note xml:id="q-8e14e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="15">P.O.R.O. Pol.Div.</note>
+				<note xml:id="q-8f14e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="16">HQ CCG (BE)</note>
+				<note xml:id="q-9014e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="17">B.A.O.R.2.</note>
+				<note xml:id="q-9114e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="18">CONFIDENTIAL</note>
+				<note xml:id="q-9214e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="19">Public Opinion Research Office</note>
+				<note xml:id="q-9314e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="20">Political Division</note>
+				<note xml:id="q-9414e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="21">Lancaster House</note>
+				<note xml:id="q-9514e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="22">HQ CCG (BE)</note>
+				<note xml:id="q-9614e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="23">Berlin</note>
+				<note xml:id="q-9714e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="24">B.A.O.R.2</note>
+				<note xml:id="q-9814e013-1390-e311-a968-000bdb5cc6d5" type="subject" n="25">Report on Berlin Morale No. 38. (First Half of February).</note>
+				<note xml:id="q-9914e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="26">1. General Atmosphere and Morale</note>
+				<note xml:id="q-9a14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="27">Worries concerning winter and financial problems continue to take the first place in the minds of the Berliners.</note>
+				<note xml:id="q-9b14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="28">The majority interviewed were not impressed by Stalin's proposed conference with Truman, they looked upon it as a propaganda move. Many of those interviewed said the answer given by the Western Powers was the correct one.</note>
+				<note xml:id="q-9c14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="29">Greater concern was roused by the order made by the Western Allies to the Magistrat of Western Berlin, to reduce expenditure by 30 mill Marks as from 1st April 49. Unemployment is feared by a large section of the population as a result of this recommendation.</note>
+				<note xml:id="q-9d14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="30">The resolution taken by the Parliamentary Council in Bonn to accept Berlin as. the 12th Lend in the planned Western German. Federal State is welcomed by the majority of the population as a symbolic expression of ­Western Germany's loyalty to Berlin. However, any concrete improvement: in living conditions in Berlin is not expected as a result. Furthermore people think that it is most unlikely that the Western Potters will consent to the inclusion of Berlin in the Western German Federal State, as they believe the hope of settlement of the Berlin problem on a quadripartite basis would diminish through a unilateral joining of Berlin to Western Germany.</note>
+				<note xml:id="q-9e14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="31">The journey made by the Oberbuergermeister of Western Berlin, Prof. Reuter, to London and Paris has been viewed by Berliners with satisfaction and his, reception by the Foreign Ministers, Bevin and Schumann, is looked upon as a visible proof of esteem for Berlin. The Berliners hope that Prof. Reuter has succeeded in clarifying urgent Berlin problems (airlift-transport, currency. question etc.).</note>
+				<note xml:id="q-9f14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="32">Berliners have given negligible attention to the preliminary discussions on the North Atlantic Pact and other events in international politics. With regard to the trial of Cardinal Mindszenty, Berliners show sympathy and general, expect an official protest to be raised by the Western Powers.</note>
+				<note xml:id="q-a014e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="33">The verdict on the West German communist leader, Reimann, has been widely discussed in Berlin. Many Berliners, however, think that this verdict was unwise because it might lead to glamorising Reimann as a martyr.</note>
+				<note xml:id="q-a114e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="34">2. Domestic Fuel and Lighting</note>
+				<note xml:id="q-a214e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="35">The question of fuel and light continues to be the Berliners' chief worry. Everybody looks forward to warmer weather and longer hours of daylight.</note>
+				<note xml:id="q-a314e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="36">Attempts by the Berlin Magistrat at extracting soft coal in the French Sector of the City, are generally derided by the majority interviewed. They do not expect any visible or worthwhile results.</note>
+				<note xml:id="q-a414e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="37">3. Financial Worries</note>
+				<note xml:id="q-a514e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="38">Owing to the unchanged currency position the Berliners' financial worries remained the same. They believe that many shops (mainly for electrical fittings, radio and household goods) which are holding sales are endeavouring to tempt customers by great reduction in prices. Despite this, neither the wish nor the power to purchase have increased and the population strongly criticise the exorbitant prices for textiles, boots and shoes.</note>
+				<note xml:id="q-a614e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="39">4. Food</note>
+				<note xml:id="q-a714e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="40">Many continue to complain about the quality of certain goods; above all dehydrated potatoes, tomatoes in vinegar, saccharin and Bosco cigarettes. These people think that many goods being sent to Berlin are unsaleable in Western Germany.</note>
+				<note xml:id="q-a814e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="41">Recently, confectioners are offering cake for sale on a larger scale against the appropriate number of coupons. The majority of those interviewed claim they cannot afford to surrender fat, sugar and bread-coupons for cake, so the desire is frequently expressed for the introduction of a cake-coupon. Issue of chocolate on sugar-coupons for children is gratefully welcomed by the majority of mothers, although many say that they find it difficult to have to reduce their number of available precious sugar-coupons for this allocation.</note>
+				<note xml:id="q-a914e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="42">The announcement that rice would be supplied shortly in the Western Sectors has greatly pleased housewives. They say in this connection that, particularly during the last few days, rice appeared on the Black Market at 4.00-6.00 DM per 500 g.</note>
+				<note xml:id="q-aa14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="43">Recently the rumour has again cropped up that in future there will be 4 allocations of foodstuffs a month, i.e. the weekly issue will equal to that hitherto issued for a 10 day period.</note>
+				<note xml:id="q-ab14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="44">The possibility of re-registration for provisions in the Western Sector is being bitterly criticised by many Berliners. They call this possibility unfair and they declare that persons who had registered in the Eastern Sector in order to obtain coal and potatoes during the winter, should not be allowed to re-register in the Western Sectors now that the winter is over. They say those who have been loyal and, despite their winter needs, continued on the Western Sectors are now looked upon as simpletons and furthermore exposed to the scorn of those who, without any political qualms of conscience, and thanks to registration and allocations in the Eastern Sector, had found it far easier to come through the winter.</note>
+				<note xml:id="q-ac14e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="45">5. Employment Worries</note>
+				<note xml:id="q-ad14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="46">During the month of February the fear of unemployment was growing. This fear was brought about by numerous recent or imminent dismissals, closing of factories and reduction of personnel in general.</note>
+				<note xml:id="q-ae14e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="47">6. Black Market</note>
+				<note xml:id="q-af14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="48">It is said that there is an acute shortage of American cigarettes and coffee, the prices of which range from 0.45 - 0.50 DM per cigarette and 27.00 ­29.00 DM per 1 lb of coffee.</note>
+				<note xml:id="q-b014e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="49">Other Black Market prices have not changed considerably during recent weeks and are quoted as follows:-</note>
+				<note xml:id="q-b114e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="50">500 g butter 18.00-20.00 DM</note>
+				<note xml:id="q-b214e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="51">500 g lard 22.00-23.00 "</note>
+				<note xml:id="q-b314e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="52">500 g rye flour 2.00 "</note>
+				<note xml:id="q-b414e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="53">500 g unskimmed milk powder 8.00-10.00 "</note>
+				<note xml:id="q-b514e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="54">500 g sugar 5.50 "</note>
+				<note xml:id="q-b614e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="55">100 g chocolate 6.00 "</note>
+				<note xml:id="q-b714e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="56">1500 g bread 2.50 "</note>
+				<note xml:id="q-b814e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="57">Bulgarian and Hungarian cigarettes 0.11- 0.15 "</note>
+				<note xml:id="q-b914e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="58">1 sack wood 7.00 "</note>
+				<note xml:id="q-ba14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="59">1 cwt. coal 12.00-15.00 "</note>
+				<note xml:id="q-bb14e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="60">J.E Dixon</note>
+				<note xml:id="q-bc14e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="61">P.O.R.O.</note>
+				<note xml:id="q-bd14e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="62">Pol.Div.</note>
+				<note xml:id="q-be14e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="63">HQ CCG (BE)</note>
+				<note xml:id="q-bf14e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="64">B.A.O.R.2</note>
+				<note xml:id="q-c014e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="65">NF/17 -2-49</note>
+			</div>
+		</body>
+	</text>
+</TEI>

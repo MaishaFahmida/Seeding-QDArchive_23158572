@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Public Safety Feburary 1948 Report on Morale and Public Opinion: Education</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-762656b7-2b4f-4b87-aba3-2f5dd33cd5e2</idno>
+				<idno type="qudexdocument">q-f19042d0-20f8-4d7b-a1da-1379262a579a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-be4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">Tel. Ext: 223</note>
+				<note xml:id="q-bf4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">609 /GOV/377/9/S</note>
+				<note xml:id="q-c04d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">SECRET</note>
+				<note xml:id="q-c14d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Governmental Group</note>
+				<note xml:id="q-c24d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ Hansestadt HAMBURG</note>
+				<note xml:id="q-c34d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">609 HQ COG (BE)</note>
+				<note xml:id="q-c44d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">BAOR</note>
+				<note xml:id="q-c54d88b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">Mar 48</note>
+				<note xml:id="q-c64d88b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="9">Subject: Public Safety February 1948 Report on Morale &amp; Public Opinion. hhh Education.</note>
+				<note xml:id="q-c74d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Paragraphs 76 and 77 of above mentioned report are appended below for your information.</note>
+				<note xml:id="q-c84d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">76. YOUTH - EDUCATION There is good reason to question, so many Hamburgers believe, the effectiveness of measures taken by Military Government and Hamburg school authorities to make schools not only a place for orderly learning, but also for the implementation of ideas which would give to the young generation conceptions of a social order which most of them have never known. The schools have a vital part to play in educating the young in liberal attitudes and principles of mutual tolerance, and much in this connection depends on the quality of the teaching staffs, and the degree of supervision they exercise. Hamburgers who are concerned with this problem fear that there are still many instances where teachers are failing in their duties, and that they are either indifferent to, or guilty of, encouraging a development among the school-going youth which might result in the dangerous retention of ideas and convictions which are part of Germany's lesser heritage.</note>
+				<note xml:id="q-c94d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">77. Instances are known where both teachers and pupils revealed a dangerous potential, and when it is claimed that pupils of a Trade School at the Hammersteindamm are conducting a brisk trade with HITLER likenesses from RM 50 upward, this is probably an unusual exception. There is no denying that many elements in the general situation, as they affect youth, together with the incorrigibility of certain groups of teachers, pose a serious problem to educationa­lists, as well as to other responsible citizens in the Hansestadt. "</note>
+				<note xml:id="q-ca4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="13">Regional Governmental Officer</note>
+				<note xml:id="q-cb4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="14">Hansestadt HAMBURG</note>
+				<note xml:id="q-cc4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">BAOR</note>
+				<note xml:id="q-cd4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">MC/CJ</note>
+			</div>
+		</body>
+	</text>
+</TEI>

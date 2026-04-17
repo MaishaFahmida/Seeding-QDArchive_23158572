@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 155</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-ad0cd37b-b9c8-4ecc-a171-0175dd132686</idno>
+				<idno type="qudexdocument">q-5fa68423-2b2d-4568-af30-1581d0a178af</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-43b819c2-b87e-e311-a968-000bdb5cc6d5" type="heading1" n="1">Life
+				Began</note>
+			<u xml:id="q-44b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="2">I left school at the
+				age of 18, in the Summer of 1978. I <sic>though</sic><corr>thought</corr> my whole life would change and to my
+				surprize it didn’t really.</u>
+			<u xml:id="q-45b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="3">For the first 3 months
+				after I had left school all I did was sit around the house and got into trouble
+				because I was so lazy and I managed to get in mum’s bad books because I just didn’t
+				want to do anything any more.</u>
+			<u xml:id="q-46b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="4">“Why don’t you get a
+				job and stop <sic>mopping</sic><corr>moping</corr> under my feet”, mum told me after I had an argument with her
+				over cleaning up my bedroom.</u>
+			<u xml:id="q-47b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="5">I felt as though I had
+				just jumped <sic>striaght</sic><corr>straight</corr> out of the fat into the fire. I used to think from a very early
+				age how nice it would be to lay in bed until late morning and please myself for the
+				rest of the day. But now I had done it, it just seemed so <sic>boreing</sic><corr>boring</corr> that I wish I had
+				stayed at school for yet another year now.</u>
+			<u xml:id="q-48b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="6">Then one morning I was
+				in town doing the shopping for mum as there wasn’t much else to do. When in the
+				middle of Liptons I met Gale. I hadn’t seen Gale since she joined the Police.</u>
+			<u xml:id="q-49b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="7">She smiled at me and we
+				began to talk. She really did like her job and ther I really wished I had one. So I
+				decided there and then to get one.</u>
+			<u xml:id="q-4ab819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="8">So I said goodbye to
+				Gale and walked <sic>striaght</sic><corr>straight</corr> down to the job centre. I was to join the Army although at
+				that time I didn’t know it. If I had I would have put foot right down and I know I
+				would have walked out and that would have been that.</u>
+			<u xml:id="q-4bb819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="9">When I got there the
+				people seemed really nice. I had an interview with a very nice lady, after I had
+				filled in a form to say what my interests were and how many exams I had.</u>
+			<u xml:id="q-4cb819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="10">She asked me all about
+				my mum and dad and if they had ever worked, and <sic>weather</sic><corr>whether</corr> both of them worked.</u>
+			<u xml:id="q-4db819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="11">When I left the room I
+				felt it had all been a waste of time. I wouldn’t get a job this way.</u>
+			<u xml:id="q-4eb819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="12">They had told me there
+				was a <sic>vaccance</sic><corr>vacancy</corr> in Woolworths. But that was only part time. There was also one in the
+				hospital but that was an office job and I really wanted to get out and meet
+				people.</u>
+			<u xml:id="q-4fb819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="13">Then my brother came
+				home about 6 months after I had gone to job centre. To my surprise he gave me a
+				signing up form. I <sic>laught</sic><corr>laughed</corr> at him and said dont be silly I wouldn't be a Pongo if it was the last thing on earth. He said it was only a joke he said I <sic>poped</sic><corr>popped</corr> the form in my bedroom <sic>draw</sic><corr>drawer</corr> and forgot all about it until one day my best
+				friend had signed up in the Horse Artilery.</u>
+			<u xml:id="q-50b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="14">From the moment she
+				said it I know that was the job for me. I filled in the form and sent it off.</u>
+			<u xml:id="q-51b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="15">I received a lovely
+				letter in return saying that I would be able to join with the next lot of <sic>recrutes</sic><corr>recruits</corr>
+				which was in a month’s time.</u>
+			<u xml:id="q-52b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="16">I rushed down stairs
+				to tell mum and das and they were really pleased for me.</u>
+			<u xml:id="q-53b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="17"><sic>On</sic><corr>One</corr> month went by very
+				quickly and I was soon packing my bags to go to Gablicesdale.</u>
+			<u xml:id="q-54b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="18">I hated every minute I
+				spent there but it was only 3 months although to me it could have been three years.
+				We had to do all the mucky things like cleaning out the loos and mucking out the
+				stables. <sic>Scrubing</sic><corr>Scrubbing</corr> floors I was told that they always do this first to see if you
+				really want to join,</u>
+			<u xml:id="q-55b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="19">In fact only 3 girls
+				got in. I stuck it for the 3 months. Then I was transferred to <sic>Albershot</sic><corr>Alershot</corr>. I really
+				started to enjoy myself. I used to come <sic>of</sic><corr>off</corr> the drilling field with saddle sores all
+				over my backside. But I loved riding so it didn’t really bother me.</u>
+			<u xml:id="q-56b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="20">Then came the day when
+				I was made Sargent of the corps I was really pleased that I wrote home <sic>striaght</sic><corr>straight</corr>
+				away.</u>
+			<u xml:id="q-57b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="21">I came home on holiday
+				soon after that <sic>an</sic><corr>and</corr> mum and dad held a party for me.</u>
+			<u xml:id="q-58b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="22">When I managed to get
+				back I found out I had been <sic>transfered</sic><corr>transferred</corr> right up to Scotland. I wrote home to tell
+				them I wouldn’t be home for two years.</u>
+			<u xml:id="q-59b819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="23">Within 4 weeks of
+				being sent up to Scotland I managed to come <sic>of</sic><corr>off</corr> a bolting horse on the drilling field and broke my leg. I had
+				8 weeks off and was sent home for 6 of them.</u>
+			<u xml:id="q-5ab819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="24">That was went I met
+				Alain. He worked at the hospital. He was really nice. His trade was a <sic>plaster</sic><corr>plasterer</corr>.</u>
+			<u xml:id="q-5bb819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="25">He often made joked
+				about this. Then came the time when I had to go back to Scotland but to my surprise
+				my prays had been answered and I had been <sic>transfered</sic><corr>transferred</corr> to Chamber.</u>
+			<u xml:id="q-5cb819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="26">From that day on I
+				used to see Alain <sic>alot</sic><corr>a lot</corr>. One night we had been to one of the Armies disco’s and he
+				asked me to marry him I said of course I would.</u>
+			<u xml:id="q-5db819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="27">I had only one year
+				left to serve in the Army and I <sic>dedcide</sic><corr>decided</corr> to leave after this. So we <sic>go</sic><corr>got</corr> engaged and
+				a year went by really quick, I was really surprised.</u>
+			<u xml:id="q-5eb819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="28">Before I knew it I was
+				married and heading towards Italy on a honeymoon.</u>
+			<u xml:id="q-5fb819c2-b87e-e311-a968-000bdb5cc6d5" who="R" n="29">We waited three years
+				before we had any children. On September 3rd I had a little girl called Lyn. She was
+				a really beautiful baby. 2 years later we had another one this time a little boy his
+				name was John.</u>
+		</body>
+	</text>
+</TEI>

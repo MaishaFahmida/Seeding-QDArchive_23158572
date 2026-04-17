@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 131</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-ea6835a0-5f6a-4b83-998e-f82a2098b19c</idno>
+        <idno type="qudexdocument">q-a566887a-d9d9-48f1-ab93-3dc24f53cf81</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-b8805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-b9805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I left
+				school at the age of 17 I didn’t have a job I had just finished taking the
+				secretarial course. I couldn’t get a job then my family and I moved we came to
+				another city where I went back to school I didn’t want to leave yet because moving
+				to a new place I wanted to get to know a few people first. When I grew up I wanted
+				to be rich. Well I left school and found a job as a secretary it was quite good
+				money as well. I kept that job I went out quite a lot to discos and things.</u>
+      <u xml:id="q-ba805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I saved up some
+				money and went on holidays with my friend. My family and I were not rich but we were
+				not poor either.</u>
+      <u xml:id="q-bb805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">When I was about
+				23 I got married and moved away from my family I used to go and see them quite a
+				lot. Then I had my first child {what?} I always want a little boy we were all very
+				happy together by now I was about 27 nearly half my life had gone although I
+				wouldn’t have known. We went out quite <sic>alot</sic><corr>a lot</corr> when we could get a babysitter and that
+				wasn’t very often. My son was beginning to grow up now. And I had a little girl that
+				was what I wanted a boy then a girl I was about 30 now. We couldn’t afford to go out
+				so much. The years went by we all grew older I was retired my son about 19 and
+				daughter about 17 or around there <sic>some where</sic><corr>somewhere</corr> my son got married we seen him quite
+				<sic>alot</sic><corr>a lot</corr> as well by now my mother and father had died and so had my husband I have <sic>alway</sic><corr>always</corr>
+				been afraid of dying and I still am. But <sic>everyones</sic><corr>everyone's</corr> got to die sometimes- in their
+				life.</u>
+    </body>
+  </text>
+</TEI>

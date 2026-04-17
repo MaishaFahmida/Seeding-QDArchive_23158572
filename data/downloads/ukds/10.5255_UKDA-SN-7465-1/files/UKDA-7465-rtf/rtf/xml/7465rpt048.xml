@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Home Opinion, Memorandum by the Minister of Information - August 28, 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-56aa2f82-ab64-4bdb-97f9-5f4d1496faf2</idno>
+				<idno type="qudexdocument">q-be68052d-9c94-4661-a474-0960338814a6</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-b25888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">THIS DOCUMENT IS THE PROPERTY HIS BRITANNIC MAJESTY'S GOVERNMENT</note>
+				<note xml:id="q-b35888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">SECRET</note>
+				<note xml:id="q-b45888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">W.P. (42) 385</note>
+				<note xml:id="q-b55888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">COPY NO.</note>
+				<note xml:id="q-b65888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="5">AUGUST 28, 1942.</note>
+				<note xml:id="q-b75888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">WAR CABINET</note>
+				<note xml:id="q-b85888b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="7">REPORT ON HOME OPINION</note>
+				<note xml:id="q-b95888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Memorandum by the Minister of Information</note>
+				<note xml:id="q-ba5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">The period under review has been marked by continuous and increasing disquiet about the Russian position. Although sympathy and admiration for the Russian people remain great, the possibilities of a Russian collapse arc now very much in people's minds.</note>
+				<note xml:id="q-bb5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">This sense of disquiet has, of course, maintained the desire for a Second Front in Europe, although there is nothing in the nature of an agitation for this Front to be opened immediately. The hard realities of our position have sunk in. But people are restless and unhappy at the spectacle of the Germans advancing in Russia, while we appear powerless to intervene; and it is rather that they long to be told that the time has come for the Second Front to be opened than that they urgently demand its opening.</note>
+				<note xml:id="q-bc5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Amongst many people there is a refusal to take a mental interest in the war, and this is not at all inconsistent with their being actively engaged in war work. There is ample evidence, however, of a fairly widespread decay of interest in war news, a reduction of listening to the B.B.C. and an avowed inability to follow what is going on. No doubt people are longing for good news, and when they do not get it they tend to dissociate their minds from news altogether.</note>
+				<note xml:id="q-bd5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Professions of readiness for further sacrifices are still very common. This feeling probably contributes to the high spirit with which German air raids are met by the people in the areas affected. Though it is widely expected that the weight of German air attacks will be intensified this Winter, they do not appear to be anticipated with alarm or foreboding. (This confidence is no doubt based in part on a belief that we are now much better prepared for active and passive defence than we were in previous years). Even the regular expressions of grateful approval with which food rationing and distribution are received by the public seem a little embarrassed and shamefaced, and it is possible to detect a feeling that further restrictions would be accepted. almost with relief.</note>
+				<note xml:id="q-be5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">"Holidays at home" have been a constant topic. This subject has been taken and fixed upon by the public as a typical example of Government muddle. Reasonable explanations as to the Government's share in the matter and as to the impossibility of any detailed system of rationing travel failed, at any rate, in the earlier weeks, to mitigate the public irritation. It may be useful to record two deductions from this: (a) In its present mood the public attributes to Government action or inaction all the main incidents that affect its daily life and does not seriously attend to distinctions between various forms of responsibility. If things seem to go right, the Government is praised: if they seem to go wrong the Government is thought to be run by incompetent people. (b) If appeals are used and things still appear to be wrong, there is a regular hostile reaction on the lines "Why can't they say what they want, and then order everyone to do it instead of appealing to people to do things"?</note>
+				<note xml:id="q-bf5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">The War Cabinet is aware of the special problem in international relations created by the arrival of large scale American forces in this country. It is early to speak, but I am glad to say that on the whole, reports of the British reaction to their visitors are genuinely favourable. Reports agree as to the fine type of man represented in the American forces. I hope that the Americans and the public will not be made self-conscious by too many people diagnosing differences in national character and Prescribing how they should be surmounted. The main "headache" is the very great disparity in the pay of the respective forces, which reacts both on the British soldiers and on the civilian population.</note>
+				<note xml:id="q-c05888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">There is practically no sign of disunity in the public reaction to events in India, but on the contrary solid support for the action of the authorities in arresting Gandhi and his followers and in taking firm action to repress rioting and sabotage. It may be that this is in part the usual favourable response to firm and decisive measures, and that more divergent voices will be heard if the civil disobedience movement does not quickly subside. But for the time being public feeling seems to be all one way.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

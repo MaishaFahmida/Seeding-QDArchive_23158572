@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 75</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-ccc138de-2447-4df5-bdef-0962c1c51216</idno>
+        <idno type="qudexdocument">q-2861d623-1463-4e30-96bc-be8d1f67d59a</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-f97e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">When I was 16 I
+				left school coming out into the large rough world. When I left I had to look around
+				for a job. Till one day some one took me on as a part time cleaner not having much
+				brains. This is all was fit for I stayed there <sic>till</sic><corr>until</corr><sic>is</sic><corr>I</corr> was about 18 ½ were I left
+				and decided to look around for something better <sic>till</sic><corr>until</corr> I was about 19 I did not have a
+				job I could not afford any equipment for hobbies. So one day I was walking down to
+				the social <sic>securets</sic><corr>security</corr> office when I saw a poster skilled men wanted. I took note and
+				decided to go for an interview next day I went to the works and met the manager he I
+				ask me questions and I answered him not knowing much about it. He then said thank
+				you very much we will consider you. I waited and waited till one day a little brown
+				letter addressed to me came through the door it said</u>
+      <u xml:id="q-fa7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Dear Sir</u>
+      <u xml:id="q-fb7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">You have been
+				consider for a <sic>aprentership</sic><corr>apprenticeship</corr> for the job £90.00 per week. I could not <sic>belive</sic><corr>believe</corr> it. When
+				I started the job I found it hard but with a little <sic>super vision</sic><corr>supervision</corr> I picked it up
+				quickly. After I had been there for a few months I was rich. 21 and I was smartly
+				dressed had my own house my own car and my hobbies started coming. Most of the time
+				I would be fishing or shooting till one night I went to my friend party I had a few
+				drinks and was social but I also met a girl and went out with her after about a year
+				and a ½-2 we decided to get married. I’d just turned 23 the years shot by and I had
+				now turned 36 I never felt so fed up I had to stay in and help the wife every night
+				could not go with my mates down the pub. Soon my hair turned grey my wife died and I
+				was a lonely old man I was 59 my job was still going well. A few years later I was
+				an old aged pensioner and I sat there thinking of when I was young. What I could do
+				all those things n now I can only stay indoors and watch <sic>telley</sic><corr>telly</corr> or listen to the
+				radio.</u>
+    </body>
+  </text>
+</TEI>

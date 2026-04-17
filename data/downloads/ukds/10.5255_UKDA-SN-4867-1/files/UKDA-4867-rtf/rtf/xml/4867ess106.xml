@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 106</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-3b0e61e9-f342-4c32-a899-6110ec3a0bf0</idno>
+        <idno type="qudexdocument">q-4c406afd-e0ac-4cea-8db8-17ebbb2bd020</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-e37f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-e47f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I am sitting in
+				front of the television, feeling rather fed up with life, when I hear voices and
+				laughter outside. I cross over to the window and look out. There are a group of
+				teenagers on their way home from school, about five girls and five boys. I wonder if
+				they are in their last year at school, just about to take their exams.</u>
+      <u xml:id="q-e57f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">They laugh and
+				joke, crossing the road without looking properly and they join their friends in the
+				crowded coffee bar.</u>
+      <u xml:id="q-e67f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I remember back
+				to when my life followed the same daily routine as theirs. My last year at school
+				having great times, then taking my exams, and gradually saying goodbye to most of my
+				friends as they left school.</u>
+      <u xml:id="q-e77f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Like them I left
+				and went to college for two years, to do social welfare. There another crowd of new
+				friends. Saying goodbye to them, as gradually we drifted apart and got jobs.</u>
+      <u xml:id="q-e87f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I still lived at
+				home and life carried on much the same. But there was one difference I was working
+				as a social worker. I suddenly felt a lot older and although I had left school just
+				two years ago it seemed a lifetime ago.</u>
+      <u xml:id="q-e97f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I got another job
+				and moved off of the island and moved into a flat with a few other girls.</u>
+      <u xml:id="q-ea7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I loved my job
+				and the city life, I had a busy social life and at one party my whole life seemed to
+				change. I met Dave and we got on really well straight away. After a year or so, we
+				were engaged. I didn’t want to get married early, so we waited three years and then
+				married. We had bought a small house near London, and were very happy I still had my
+				career but after a year gave it up to start a family. We had three children two
+				boys, then a girl. As they grew older and went to school, I went back to my
+				career.</u>
+      <u xml:id="q-eb7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Eventually the
+				children left home, and led their own <sic>lifes</sic><corr>lives</corr>.</u>
+      <u xml:id="q-ec7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Dave and I were
+				about forty-five by this time. We saved and with the children gone, had a lovely
+				time travelling together.</u>
+      <u xml:id="q-ed7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">Of course we
+				were getting older and we both retired. We have a lazy life now which can get very
+				boring at times.</u>
+      <u xml:id="q-ee7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">The teenagers
+				are leaving the coffee bar now, probably going home, doing homework, then they will
+				be off out somewhere to have some fun. As I watch them disappear round the corner, I
+				cannot help but envy them. What I would give to be in my ‘teens’ again.</u>
+    </body>
+  </text>
+</TEI>

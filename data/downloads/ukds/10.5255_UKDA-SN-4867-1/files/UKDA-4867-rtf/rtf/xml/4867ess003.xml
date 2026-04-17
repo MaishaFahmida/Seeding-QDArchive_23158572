@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 3</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-9bc40216-137c-4924-a55d-cd47c7333280</idno>
+        <idno type="qudexdocument">q-1951eacf-cc19-4d9d-9dab-bb429977feba</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-5c7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Looking Back</note>
+      <u xml:id="q-5d7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">In July 1978, I
+				left the Sheppey comprehensive and in September I began a technician <sic>apprentership</sic><corr>apprenticeship</corr>
+				at Marconi-Elliots. After being trained for several years, I started my job properly
+				at their factory at <sic>Rotchester</sic><corr>Rochester</corr> airport. It was at this time that I left home took up
+				lodgings nearer my work. The owners were a middle aged couple whose eldest child was
+				now in the sixth form of this school. The husband was a short stout man who was
+				unemployed at the time, and was finding it hard to get a job because of his age. His
+				wife, also short and stout, had near to grey hair and suffered from <sic>diabeitis</sic><corr>diabetes</corr>.</u>
+      <u xml:id="q-5e7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">The youngest son,
+				aged fifteen was approaching his exams and I was able to help him on subjects that I
+				had taken myself. The older brother who was taking ‘A’ levels did not need any help
+				and as I only took ‘O’ levels, I could not help him much anyway.</u>
+      <u xml:id="q-5f7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">At the age of
+				twenty nine, my firm opened up a factory in my home town of Sheerness, and I was
+				sent there and also promoted to foreman. I moved again and took residence in a new
+				block of flats near to my <sic>parents</sic><corr>parents'</corr> home.</u>
+      <u xml:id="q-607d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Three years
+				later, I did something I had always wanted to do, become self-employed. I was a
+				mechanic, and put an <sic>add</sic><corr>ad</corr> in the local newspaper saying that I would make house calls
+				to any customers. This proved a success so after only six months I began to hire a
+				place and run a garage, which also went <sic>of</sic><corr>off</corr> to a good start. It was about this time
+				when I met a girl that had known at school, after several months of dating each
+				other we got married. I moved out of the flat I had lived in, and together we
+				brought a house in Minster, a short distance from the garage.</u>
+    </body>
+  </text>
+</TEI>

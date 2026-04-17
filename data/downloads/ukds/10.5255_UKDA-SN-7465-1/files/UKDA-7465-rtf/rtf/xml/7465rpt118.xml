@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report for No. 3 Field Surgical Unit, RAMC, for quarter December 1944 - Februrary 1945</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-8d4885b8-9460-4875-91da-be08c9c5ecd8</idno>
+				<idno type="qudexdocument">q-7c60f61f-3051-431b-be6b-67bbdffb5f36</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-3f537fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">MORALE REPORT FOR:</note>
+				<note xml:id="q-40537fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="2">No.3 FIELD SURGICAL UNIT.RAMC.</note>
+				<note xml:id="q-41537fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="3">FOR QUARTER DECEMBER 1944 - FEBRUARY 1945.</note>
+				<note xml:id="q-42537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="4">SECTION (I).</note>
+				<note xml:id="q-43537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">Morale in General.</note>
+				<note xml:id="q-44537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Despite the continued adverse conditions we have encountered during the period under review, including the lack of work for which we are intended, the morale of this unit has remained remarkably high.</note>
+				<note xml:id="q-45537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="7">SECTION (II). hhh (a) Discipline.</note>
+				<note xml:id="q-46537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">The discipline of this small unit has been good over the past quarter, there having been no need for any disciplinary action in any case. hhh (b) Confidence.</note>
+				<note xml:id="q-47537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Satisfactory. hhh (c) Mail.</note>
+				<note xml:id="q-48537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">The receipt of mail has been very irregular, both from home and local areas. It is felt that this could be remedied, and in fact the unit was far better off when under the command of Floyd Force than in its present location. The Holdup appears to be in the distribution at this end rather than in the dispatch of mail. The local APO has been contacted, and it is hoped that improvement will soon be evident. hhh (d) Welfare.</note>
+				<note xml:id="q-49537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">The amusement and recreation provided during the past quarter has been adequate, even if somewhat scarce at times. There is a definite shortage of appropriate reading material, which was very much felt during the absence of work in the past quarter. Spare time was spent in heated discussion of current events at home and abroad, and the post­war world. hhh (e) Relationship between Officers and men.</note>
+				<note xml:id="q-4a537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Most satisfactory hhh (f) Relations with Other Services.</note>
+				<note xml:id="q-4b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Most Satisfactory. hhh (g) Relations with Allies.</note>
+				<note xml:id="q-4c537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Satisfactory. hhh (h) Home Affairs, Post War and Release.</note>
+				<note xml:id="q-4d537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">During discussions under ABCA, there appeared a strong feeling of apprehension and cynicism concerning the Government's lost War policy. This was largely due to the published experiences of men recently medically discharged from the Army and resultant Court cases concerning re-employment. The youngest member of the unit was even more apprehensive, having literally held no pre-war employment.</note>
+				<note xml:id="q-4e537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">The publication of the Post War Gratuity Scheme has caused much bitter disappointment and ill feeling. The main objection being the grading of the gratuity according to rank and disappointment of the smallness of the gratuity. However, a long term of enforced idleness has left much time to be filled in by these discussions, and the return of more work will bring a much more balanced view to these questions. hhh (i) Service Overseas.</note>
+				<note xml:id="q-4f537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">At least 50% of the unit have from 4 - 4 1/2 years' service overseas, and are somewhat disgruntled by the present publication of frequent leave from B.L.A. and the shorter term of service for SEAC and India. hhh (j) Leave.</note>
+				<note xml:id="q-50537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Leave for the unit has been non-existent for the past nine months. However, during the present lull full advantage has been taken of the opportunity, and the whole unit has now had seven days leave, and are consequently now much more contented with their lot. hhh (k) Relations with Civilian Population.</note>
+				<note xml:id="q-51537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Satisfactory. No trouble at all has been encountered with civilians either here or whilst serving with Floyd Force.</note>
+				<note xml:id="q-52537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">(Signed) …… major RAMC.</note>
+				<note xml:id="q-53537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">for O.C. No.3 Field Surgical Unit.</note>
+				<note xml:id="q-54537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="22">6 MAR 1945</note>
+			</div>
+		</body>
+	</text>
+</TEI>

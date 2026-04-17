@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 42</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-e2f2726f-15c8-4eb2-8d80-b7723d797216</idno>
+        <idno type="qudexdocument">q-3cfb37e7-fee5-4dac-aa7c-c7c9be9393a2</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-207e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-217e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				the age of 16 <sic>hopeing</sic><corr>hoping</corr> to find a job after giving up the hope of becoming an art
+				student at Medway college of Design. I was on the dole for six months after leaving
+				school, until I got a job in a garage, just helping clear up and help serve the
+				customers who come to get petrol. Then after a couple of months the manager asked if
+				I would like to try something like an apprenticeship <sic>emidiatly</sic><corr>immediately</corr> I took the offer. I
+				spent three years as an <sic>aprentice</sic><corr>apprentice</corr> motor mechanic, after that I took on a job as a
+				motor mechanic at Sheppey Autos and worked for a mister Turner. I stayed <sic>their</sic><corr>there</corr> for a
+				couple of years, as I liked it very much <sic>their</sic><corr>there</corr>.</u>
+      <u xml:id="q-227e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Around this time
+				my mum started nag me to try to find some other place to live well I was twenty two.
+				I had had some girl friends but never really took to any particular one. Then I
+				started to go with a girl named Emma, she was quite nice.</u>
+      <u xml:id="q-237e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I was twenty
+				three when I got an offer from my <sic>uncal</sic><corr>uncle</corr> in Derby to go and work with him in his
+				garage, dealing with Rolls Royce. I took his offer and I earned £51 a week. Emma and
+				I finally got engaged, we saved and managed to get a house and then the big day we
+				got <sic>maried</sic><corr>married</corr>.</u>
+      <u xml:id="q-247e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">At the age of
+				thirty one I still had the same job and me and Emma had a house just inside Derby in
+				Tutbury. It was a big year because we were <sic>exspecting</sic><corr>expecting</corr> patter of tiny feet. Not much
+				happened after that, it was just day in day out routine, Paul grew fast and it was
+				not long before he was at school. He had just settled down when me and my wife
+				decided to move to the Isle of Sheppey back to my home. Eventually we did move. And
+				when I saw the Island I was shocked. It was much cleaner and better than when I was
+				a kid.</u>
+      <u xml:id="q-257e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">We stayed on the
+				Island we got a house in Minster quite nice near the beach. The years <sic>past</sic><corr>passed</corr> on we had
+				another little one when paul was a comprehensive school. Funny enough the one I went
+				to, I was surprised it was still standing.</u>
+      <u xml:id="q-267e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Then it had to
+				come I reached the age of <sic>fortie</sic><corr>fourty</corr>, by this time I was managing my own garage and
+				<sic>imploying</sic><corr>employing</corr> youngsters.</u>
+    </body>
+  </text>
+</TEI>

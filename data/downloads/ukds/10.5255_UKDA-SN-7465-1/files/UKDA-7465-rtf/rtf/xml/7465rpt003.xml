@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Public Safety Feburary 1948 Report on Morale and Public Opinion: Manpower</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-3d2332cf-bf4b-474e-8b39-06d8dfb9f944</idno>
+				<idno type="qudexdocument">q-d5444fa8-6f7d-4607-a446-ae61872553dc</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-ac4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">Tel. Ext: 223</note>
+				<note xml:id="q-ad4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">609/GOV/377/9/S</note>
+				<note xml:id="q-ae4d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">SECRET</note>
+				<note xml:id="q-af4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Governmental Group</note>
+				<note xml:id="q-b04d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ Hansestadt HAMBURG</note>
+				<note xml:id="q-b14d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">609 HQ COG (BE)</note>
+				<note xml:id="q-b24d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">BAOR</note>
+				<note xml:id="q-b34d88b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">5 Mar 48</note>
+				<note xml:id="q-b44d88b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="9">Subject: Public Safety February 1948 Report on Morale &amp; Public Opinion. hhh Manpower (Housing).</note>
+				<note xml:id="q-b54d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Paragraphs 30, 31, 32 and 33 from the above mentioned report are appended below for your information:</note>
+				<note xml:id="q-b64d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">30. During the period under review, no cases of new confiscations of living space were discussed by the popula­tion. But vicious comment does not abate to the effect that there remain a great number of houses which are not being used by the British, and are kept from occupation by the Germans. Altogether, it is pointed out that large numbers of people continue to move into Hamburg, that new building on a significant scale is not taking place, and that individual living space, is in consequence, being still further compressed.</note>
+				<note xml:id="q-b74d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">31. There is also a growing expectation that at least one of the large Hamburg hotels in present use by the British will, at an early stage, be returned to the Germans, as transit visitors to Hamburg find it difficult to get accommodation. In this connection it is frequently said that the dwindling numbers of British in Hamburg provide less and less justification for the retention of these large buildings, only part of which are in constant use.</note>
+				<note xml:id="q-b84d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">32. For the rest, it is widely believed that the allocation of living space to Hamburgers is not governed by the application of impartial standards, and that a good number of individuals retain accommodation far in excess of their requirements. Most Hamburgers take it for granted that, as in most other fields, corruption and/or influence will often move the Wohnungsamt, and many of its officials, to depart from just and equitable standards. hhh BUILDING.</note>
+				<note xml:id="q-b94d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">33. The Grindel project is still being followed with considerable interest by sections of the general population and by people conversant with financial matters in particular. The public mind has not yet been able to decide who is finally responsible for an enterprise which is full of contradictions and has turned out to be a very expensive one. It is thought that all building on the project was stopped at the beginning of the month after the foundations and cellars (without ceilings) had been finished. The estimated cost of the whole project is thought to have been in the region of 48,000,000 Weis of which, it is claimed, 17.5 million have already been spent. If to this is added the purchasing price of the ground and other costs incidental to the project to its present state in view of its utter economic uselessness, and also the embitterment which it has caused the people who wore directly affected by it, many consider this a heavy price to pay, and would like to know whose folly it was."</note>
+				<note xml:id="q-ba4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">Regional Governmental Officer</note>
+				<note xml:id="q-bb4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">Hansestadt HAMBURG</note>
+				<note xml:id="q-bc4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">BAOR</note>
+				<note xml:id="q-bd4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="18">MC/CJ</note>
+			</div>
+		</body>
+	</text>
+</TEI>

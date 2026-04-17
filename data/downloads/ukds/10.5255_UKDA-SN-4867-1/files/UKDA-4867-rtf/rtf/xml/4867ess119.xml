@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 120</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-fe5c96fb-7799-44ff-bcd7-0aa58f1e59de</idno>
+        <idno type="qudexdocument">q-108984f2-d51f-4a1e-9a48-8dd035d15e12</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-62805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Looking Back</note>
+      <u xml:id="q-63805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I decided to stay
+				on at school at the age of 16, I took a Business studies course, I wanted to leave
+				at 16 but the course was not available to me until I’d finished in the 5th year. The
+				reason I wanted to leave at 16 was, I wanted to get a job and save up.</u>
+      <u xml:id="q-64805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I was engaged at
+				16 and my boyfriend Ian was saving and had been for nearly three years. I wanted to
+				help him so that we could get a good place to live. We wouldn’t get married until we
+				had a decent place.</u>
+      <u xml:id="q-65805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">When I did
+				eventually leave at 18 I started work, as a secretary, Ian wanted me to get a job in
+				one of the <sic>london</sic><corr>London</corr> Transport offices, that was where he worked.</u>
+      <u xml:id="q-66805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">When we <sic>finaly</sic><corr>finally</corr>
+				had enough to get a decent flat in Wimbledon we got married and I moved jobs, I did
+				work at London Transport just as he wanted.</u>
+      <u xml:id="q-67805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">We carried on
+				saving for two and a half years, and I fell pregnant with our first baby, Natalie.
+				Our second child came along three years later, we called him Chris.</u>
+      <u xml:id="q-68805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">It was a struggle
+				for four or five years, as I couldn’t go to work but we managed. It was a nice break
+				from working anyway.</u>
+      <u xml:id="q-69805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">My parents died
+				when I was about thirty my father died first. I used to think I couldn’t face life
+				if Ian died first, but you have to, you’ve still got a few responsibilities when
+				<sic>your</sic><corr>you're</corr> old.</u>
+      <u xml:id="q-6a805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">I was very upset
+				when my mother died we were always so close, but she was getting on so I was quite
+				prepared for it.</u>
+      <u xml:id="q-6b805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Not much happened
+				after that for about five years, then I had an unexpected visitor, a baby which we
+				called Maria. I was pleased because the other two were now almost grown up and all
+				the pleasures of them being toddlers were still in mind.</u>
+      <u xml:id="q-6c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">My first child
+				got married at the age of 19 I was about 39 to 40 old then.</u>
+      <u xml:id="q-6d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">I was <sic>begining</sic><corr>beginning</corr>
+				to feel old, 39 ½ sounded a lot younger than 40.</u>
+      <u xml:id="q-6e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">The years passed
+				quicker after that and by the age of 52 all my children had left home and Ian
+				eventually died and left me on my own.</u>
+      <u xml:id="q-6f805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">I did OK though,
+				Ian was insured and I still had my job not for long though, then I had to make do
+				with my pension and the Insurance money.</u>
+      <u xml:id="q-70805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">I was scared at
+				nights after all the years of having somebody with me, also I got wary of young
+				people, some were ok but others, well you heard so many stories of muggins and
+				things, the last five years have been lonely, but my children and grandchildren, of
+				which I have 10, still visit me. I suppose I’ll eventually go into a home for the
+				rest of my days. But until then I’ll manage.</u>
+    </body>
+  </text>
+</TEI>

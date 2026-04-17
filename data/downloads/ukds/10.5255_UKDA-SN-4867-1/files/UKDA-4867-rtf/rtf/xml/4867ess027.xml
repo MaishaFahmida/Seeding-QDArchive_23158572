@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 28</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-28247a4b-a833-454c-8926-12bb3c1a9e51</idno>
+        <idno type="qudexdocument">q-28c528c9-5de7-413d-8c6d-0956036b3f96</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-ed7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Memories</note>
+      <u xml:id="q-ee7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Here I am now at
+				the end of my career, I collect the much coveted present for forty two whole <sic>years</sic><corr>years'</corr>
+				service to the Fire Brigade the day after tomorrow. Following much in the path of my
+				older brother who also was a Fireman now retired. I can still remember vividly the
+				day it all started…</u>
+      <u xml:id="q-ef7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I <sic>teared</sic><corr>tore</corr> open the
+				envelope anxiously, impatiently waiting to study the actual results of my exams. A
+				big grin shot across my face as I saw English Language ‘B pass’ and then Maths ‘C
+				pass’, my chin then hit the floor when I read ‘Physics D fail’. I knew then it would
+				be another year at school to try to obtain the physics ‘o’ level I needed to become
+				an apprentice as an electrical engineer. After much studying I scrapped a ‘C pass’
+				and then began the electrical engineers course in the September of ’79. I will never
+				forget the day I walked out of school never to return, it was one of the <sic>sadest</sic><corr>saddest</corr> days
+				of my life. I knew I had to change all of my present friends and make new ones.</u>
+      <u xml:id="q-f07d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">With not much
+				success at electrical engineering I left the <sic>apprenticship</sic><corr>apprenticeship</corr> very disappointed, as the
+				unemployment situation was grave I was left with little hope of employment. Then on
+				a visit to my brothers he persuaded me that I should have a ‘crack’ at the Fire
+				Service. So with little else to do I applied with success, and realised perhaps this
+				was what I was looking for, a job with exciting prospects.</u>
+      <u xml:id="q-f17d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I was twenty two
+				years of age when I became a fully qualified Fireman, I now had a flat of my own, a
+				small motor-cycle to get me about, plenty of girlfriends and I was really enjoying
+				life. I was now living in the heart of London away from the increasingly boring Isle
+				of Sheppey.</u>
+      <u xml:id="q-f27d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">A few years later
+				I decided that perhaps it was time I settled down, got married and live in a house.
+				A girl I had been seeing for a long time seemed to be the right choice for me, so I
+				married her and I sold the flat for a nice profit and moved in to a beautiful house
+				on the out-skirts of London.</u>
+      <u xml:id="q-f37d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Soon after I
+				became a proud father of twins, and so more money was needed so I studied extremely
+				hard for promotion and with a lot of success. Everything was going perfectly when my
+				mother and father died in the short space of two years. Life had to go on and I
+				celebrated the beginning of a new century in real style. Life seemed to slow down by
+				now and I was gradually watching my children grow up and eventually leave home to
+				start off their own lives.</u>
+      <u xml:id="q-f47d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I was now a
+				governor of a Fire station with nothing else to look forward to but a few more <sic>years</sic><corr>years'</corr>
+				service, and a nice pension at the end of it all. I now have my own car, own house
+				and a loving wife.</u>
+      <u xml:id="q-f57d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Well the day has
+				come, I now get up for the last time to go to work, a very sad day but the rest will
+				be very much appreciated.</u>
+    </body>
+  </text>
+</TEI>

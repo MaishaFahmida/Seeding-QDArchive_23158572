@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 92</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-45dcc67f-6937-467e-9154-05b0019b6798</idno>
+        <idno type="qudexdocument">q-9ade66df-dbfa-4dfd-bc62-6bcc3b4d9cb3</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-697f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Life</note>
+      <u xml:id="q-6a7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back over
+				my life feel I have enjoyed it, if only I took advantage of the opportunities that
+				were open to me I would have done better in this world but as it is <sic>hear</sic><corr>here</corr> I am 60
+				years old and nothing really behind me, but <sic>happyness</sic><corr>happiness</corr>.</u>
+      <u xml:id="q-6b7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">After leaving
+				school at the age of 18 I went to a teacher training college I was very lucky to get
+				one of those much envied places in the college as they were very scarce. I passed
+				out of the college with a diploma for teaching and many praises from members of
+				staff there saying how well I had done. But <sic>dispite</sic><corr>despite</corr> all this I still failed in the
+				world. I got my first job in a school after being out of college for nearly 9 months
+				but this was only a temporary job so I was back on the dole <sic>que</sic><corr>queue</corr> after 6 months and
+				there I stayed for many months. I gave up the hope of getting a job as a teacher as
+				only about 1 in a 100 people leaving college get a job. During the time I was a
+				college I met up with a young man that I knew during my childhood. We saw each other
+				for about 10 months then we got engaged. We were engaged for about 2 ½ years and
+				<sic>dispite</sic><corr>despite</corr> all the trouble I had trying to find a job in this time we got married. We
+				were very lucky in our marriage as he lived in a house on his own after the death of
+				his parents so I moved straight into this house with him. Our life has been very
+				happy and has lasted a long time we have now been married coming up 40 years and are
+				still as happy as the day we met.</u>
+      <u xml:id="q-6c7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After having
+				trouble finding a job I started to do child minding during the day as I was
+				qualified due to the teaching diploma. I was very happy in this and kept children
+				daily up until I had my first child. As soon as this came it was hard work. And I
+				didn’t really have time for another job. When my first child was 3. I had another
+				child this time a boy and we went on another 5 years before having our second
+				girl.</u>
+      <u xml:id="q-6d7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">The children all
+				grew up very quickly and before I knew where I was they were all at school and the
+				oldest one just about to take exams I could see the children having all the same
+				sort of problems that I had with boy and girlfriends and then exams. Only my
+				youngest girl stayed on at school. And despite her hopes of becoming a teacher I
+				persuaded her to become a nurse and now she is still in that career and very happy
+				with it after working her way right up to the top. But the others didn’t do quite as
+				well as her. The oldest left school and 16 and became a police woman and the boy got
+				an apprenticeship but has <sic>resently</sic><corr>recently</corr> started his own firm. All my children have grown
+				up very happy and have never had long terms unemployed. After the children grew up
+				and started to get married and move away. I started to get lonely. So I got my self
+				a small job teaching again. It was in the remedial department in a big comprehensive
+				school I really enjoyed this work teaching the youngsters to read. I found it so
+				pleasing looking back at then and remembering my own children and my happy childhood
+				<sic>dispite</sic><corr>despite</corr> many upsets we all stuck together. I stayed in this job for about 13 years
+				right up until about 3 weeks ago when I finally had to retire. On my 60th birthday.
+				That is why now I am looking back on my life with both happy and sad memories. With
+				my children and many grandchildren always popping in to see me. I am so happy. And
+				it another year it will be better as my husband is finally retiring also so now we
+				can spend some much <sic>disurved</sic><corr>deserved</corr> time together. We are going to be so happy in our
+				<sic>retiremen</sic><corr>retirement</corr> just the two of us. So <sic>dispite</sic><corr>despite</corr> my upsets at the begging of my life with
+				the failure of my one ambition. It all changed and turned out right in the end.</u>
+    </body>
+  </text>
+</TEI>

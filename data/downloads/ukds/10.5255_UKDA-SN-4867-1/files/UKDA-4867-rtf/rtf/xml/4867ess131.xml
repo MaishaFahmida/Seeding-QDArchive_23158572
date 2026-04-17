@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 133</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-6758873d-8639-4131-ab2b-fdf2f3ffce07</idno>
+        <idno type="qudexdocument">q-8b9b6b0d-062a-493e-ad45-44f9516c2c57</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-c4805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-c5805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">My career began
+				while I was still at school. I had thought for a long time, what I would <sic>liked</sic><corr>like</corr> to
+				have done with my life. My appointment was made and I had to visit my careers
+				officer, she was then going to try and decide on my career. I had already made up my
+				mind. So she was no help at all. She asked me a few questions about the career which
+				I wanted to lead. I told her the answer and that was that. She had been no much help
+				at all. It lasted for about ten minutes which wasn’t hardly long enough to get a few
+				questions and answers out. She told me the wage which I should earn, but this wasn’t
+				exact. I more or less knew all this before I even entered her room. So that career
+				interview <sic>didnt</sic><corr>didn't</corr> do me much good.</u>
+      <u xml:id="q-c6805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I think that the
+				choices of subjects are chosen much too late. They should have been chosen at about
+				12 years old. So the choice of career should come sooner. Another thing which I
+				thought should have been done, was that the girls of the 5th form, also the boys,
+				should have been taken round different jobs and try each job out to see which person
+				is suited to which job.</u>
+      <u xml:id="q-c7805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Special subjects
+				should be brought into the time table, so each person can get qualifications for the
+				jobs which they would like to do. My career had been successful, but I am now glad
+				to retire into the relaxing life.</u>
+    </body>
+  </text>
+</TEI>

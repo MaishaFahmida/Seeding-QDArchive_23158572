@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 104</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-7f0511d4-336c-44c0-a366-4ec9bff2beb5</idno>
+        <idno type="qudexdocument">q-f3dd7642-a37c-439a-9af3-deb875721a91</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-d17f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-d27f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I started
+				gazing out of my tiny basement flat window, I could see the children coming home
+				from school. The comprehensive school stood at the top of the hill. As the teenagers
+				<sic>strold</sic><corr>strolled</corr> down the hill, talking and laughing in <sic>rased</sic><corr>raised</corr> voices. I began to remember the
+				<sic>day’s</sic><corr>days</corr> of my teens back in 1978.</u>
+      <u xml:id="q-d37f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">At the age of
+				sixteen I thought I had the weight of the world on my shoulders and all the worries
+				in the world. I left school and began the long hard search for a job. <sic>Writting</sic><corr>Writing</corr> to
+				every known employer and a few unknown, asking, if they had any <sic>vacances</sic><corr>vacancies</corr>.</u>
+      <u xml:id="q-d47f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I had just turned
+				seventeen when I <sic>recieved</sic><corr>received</corr> a letter, asking me to start work in “Midlands Bank” on
+				October 7th 1978. This seemed to be the outlet for the worries I had carried since
+				July 1978. The small brown envelope <sic>ment</sic><corr>meant</corr> so much to me. I knew then that the
+				pressure laid upon me in the last year of school was worth every minute spend
+				worried and unsettled.</u>
+      <u xml:id="q-d57f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Working life was
+				so different from what I had expected. There was so many new things to learn and
+				understand, far different from those taught at school. You had to learn, how to
+				treat someone <sic>whos</sic><corr>who's</corr> temper got the better of them, and how to work with someone
+				giving you direct orders. This I found hard, but as time passed I learnt how to cope
+				with each individual problem that arose.</u>
+      <u xml:id="q-d67f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">For the first two
+				years the job was pleasant, but <sic>repetertive</sic><corr>repetitive</corr>. Being only exciting and challenging.
+				But yet again I had to settle for second best. I began working in a large cloths
+				factory. This seemed strange to every one but me. Some how I enjoyed the factory
+				work much better than banking. Because after each days work I felt that I had
+				achieved something seeing a complete garment ready for the racks in the shops.</u>
+      <u xml:id="q-d77f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">At the age of
+				twenty-five I was married. I gave up my factory job to start a family of my own.</u>
+      <u xml:id="q-d87f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">With my family I
+				experienced all the factors of motherhood. Watching my children grow and become
+				teenagers themselves and sharing their problems.</u>
+      <u xml:id="q-d97f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">After my family
+				had families of their own there was only two to look after and we began to have all
+				those little things we had to <sic>forefit</sic><corr>forfeit</corr> for the children. I could no longer work, for
+				I had reached the age of sixty. The age that seemed so far away when I was sixteen,
+				but here it is.</u>
+      <u xml:id="q-da7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Still gazing out
+				of the window, I wondered if those sixteen years olds ever wonder what <sic>its</sic><corr>it's</corr> like to
+				be sixty, and think about the children they see passing their windows.</u>
+      <u xml:id="q-db7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">I once again
+				return to the tiny plot of land at the back of the house I call my garden.</u>
+    </body>
+  </text>
+</TEI>

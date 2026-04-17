@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Weekly Statistical Report, week ending March 27 1943</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-6631487f-2e5d-4a19-a512-6ae79848b998</idno>
+				<idno type="qudexdocument">q-a4f77786-c52e-4c76-aa85-49e198a27f96</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-3d17e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="1">ALLIED FORCE HEADQUARTERS</note>
+				<note xml:id="q-3e17e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="2">Censorship Branch (INC)</note>
+				<note xml:id="q-3f17e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="3">A.P.O. 512 U.S.A.</note>
+				<note xml:id="q-4017e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="4">Base Censor No. 3.</note>
+				<note xml:id="q-4117e013-1390-e311-a968-000bdb5cc6d5" type="date" n="5">1 April 1943.</note>
+				<note xml:id="q-4217e013-1390-e311-a968-000bdb5cc6d5" type="theme" n="6">WEEKLY STATISTICAL REPORT</note>
+				<note xml:id="q-4317e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="7">Week Ending March 27, 1943.</note>
+				<note xml:id="q-4417e013-1390-e311-a968-000bdb5cc6d5" type="subject" n="8">WEEKLY STATISTICAL REPORT FIELD BASE CENSOR</note>
+				<note xml:id="q-4517e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="9">No. 3 Week Ending March 27, 1943</note>
+				<note xml:id="q-4617e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="10">TO: G-1, FOR CIRCULATION WITHIN ALLIED FORCE HEADQUARTERS AID FOR FILING IN A.G.SECTION. CONFIDENTIAL Equals British SECRET</note>
+				<note xml:id="q-4717e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="11">FLOW OF MAIL:</note>
+				<note xml:id="q-4817e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="12">Taken from A.P.O. for Field Base Censor 54,769</note>
+				<note xml:id="q-4917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="13">Return to A. P. O. 54,961</note>
+				<note xml:id="q-4a17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="14">Examined of mail returned to A.P.O. 11%</note>
+				<note xml:id="q-4b17e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="15">EXAMINATION:</note>
+				<note xml:id="q-4c17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="16">Type:</note>
+				<note xml:id="q-4d17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="17">Boat 2,435</note>
+				<note xml:id="q-4e17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="18">Air and "V" 3,364</note>
+				<note xml:id="q-4f17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="19">Registered 39</note>
+				<note xml:id="q-5017e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="20">Parcel Post 153 TOTAL 5,991</note>
+				<note xml:id="q-5117e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="21">Source:</note>
+				<note xml:id="q-5217e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="22">Civilians and Auxiliaries of armed forces 259</note>
+				<note xml:id="q-5317e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="23">Officers 3,758</note>
+				<note xml:id="q-5417e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="24">Blue envelopes 893</note>
+				<note xml:id="q-5517e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="25">Unit censored 1,081</note>
+				<note xml:id="q-5617e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="26">TOTAL 5,991</note>
+				<note xml:id="q-5717e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="27">CENSORSHIP ACTION:</note>
+				<note xml:id="q-5817e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="28">Comment sheets prepared. 20</note>
+				<note xml:id="q-5917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="29">Mail forwarded to Theater Censor 0</note>
+				<note xml:id="q-5a17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="30">Mail returned because of censorship violations 25</note>
+				<note xml:id="q-5b17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="31">Mail excised 293</note>
+				<note xml:id="q-5c17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="32">NOTE: Low total of letters examined is due to small number of exam­iners now assigned to this office, which consists of a total officer per­sonnel of seven. Reduction in staff coincided with increase in amount of mail routed through this office, which accounts for the low percentage examined and inadequacy of checking.</note>
+				<note xml:id="q-5d17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="33">Submitted by:</note>
+				<note xml:id="q-5e17e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="34">CHAS. T. HEREFORD</note>
+				<note xml:id="q-5f17e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="35">Captain, Infantry</note>
+				<note xml:id="q-6017e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="36">Chief Field Base Censor</note>
+				<note xml:id="q-6117e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="37">CONFIDENTIAL</note>
+				<note xml:id="q-6217e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="38">(EQUALS BRITISH SECRET)</note>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 31</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-8d6063a0-57d2-4480-836b-9cc92241b0d1</idno>
+        <idno type="qudexdocument">q-aecaad4b-d8f6-4ef2-83f8-489d2d01a6bd</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-017e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">(An old timer
+				looking out of the window) (myself) 1978, leave school, got a summer job between
+				college as I was on the waiting list I remember spent 3 months at the Catering
+				College at Gravesend and was one of the best {four?} of the class so I had the
+				option of going an oil tanker BP was the company, but did not like that for long .
+				So I change to Shell, where they put me right I stayed with Shell for 7 years and
+				then moved to cargo by I was 24 years old I and during that I had worked myself up
+				from bay steward, to captain’s steward to {?} steward, I was earning £1.50 (due to
+				inflation and promotion) and I reckoned another year and I would be chief steward or
+				even further, but my company was laying off 30,000 men so I decided to change cargo
+				which set back in the {of} promotion, but it was a matter of keeping a job during
+				this I had studying city of Guilds Examination so when I left the shipping <sic>busseness</sic><corr>business</corr>
+				altogether, I would something to fall back on. When I had first started I had sent
+				home £10 each week, and now I sending £30 each week which was going into a bank (as
+				I did not have to for food or accommodation except on leave) and the sum had up to
+				£7740 in 9 years so I had put a deposit on a house on (then £700) and a I had a
+				second hand car, and I lived in a house in Kent which a friend while I was away and
+				paid the basic rates, the gas electricity while I paid the mortgage for he lived
+				while I was away (rest of the money remained the bank) I then changed to oil
+				tanker.</u>
+    </body>
+  </text>
+</TEI>

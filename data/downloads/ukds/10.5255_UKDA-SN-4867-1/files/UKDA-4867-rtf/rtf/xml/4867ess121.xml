@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 123</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-ac01ff37-b4fe-4d0b-be12-bc1bd491b430</idno>
+        <idno type="qudexdocument">q-7b0d5bf5-fa11-4336-8de4-372f47bfdf73</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-7a805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-7b805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back on
+				the day I left school.</u>
+      <u xml:id="q-7c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I left school on
+				26th May 78. In a <sic>weeks</sic><corr>weeks'</corr> time I would start my first job.</u>
+      <u xml:id="q-7d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I got a job
+				working in a shop, with my mother, the days went quick when I started work but it
+				was much more harder work, than school.</u>
+      <u xml:id="q-7e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I was eighteen
+				when I got married my first child arrived and I had a baby girl her name was Lynda,
+				later on came Susan our second.</u>
+      <u xml:id="q-7f805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Lynda got married
+				and went to live in Yorkshire with her husband.</u>
+      <u xml:id="q-80805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">About 3 months
+				afterwards Susan got married.</u>
+      <u xml:id="q-81805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">At the age of 43
+				I retired from work and just done odd things around the house like cook, clean, tidy
+				<sic>ect</sic><corr>etc</corr>.</u>
+      <u xml:id="q-82805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">There was only my
+				husband at work now it was a bit much for my husband but he never <sic>complaned</sic><corr>complained</corr>, he was
+				a good man.</u>
+      <u xml:id="q-83805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">At the age of 60
+				my husband died I missed him really a lot.</u>
+      <u xml:id="q-84805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">At the age of 62
+				and I am the only one here.</u>
+      <u xml:id="q-85805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">Lynda is still
+				in Yorkshire with 4 lovely children of her own.</u>
+      <u xml:id="q-86805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">And Susan her
+				husband died so she is left with two children.</u>
+      <u xml:id="q-87805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">“But at least I
+				have had a good life and still have my memories with me”….</u>
+    </body>
+  </text>
+</TEI>

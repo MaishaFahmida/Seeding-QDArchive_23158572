@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 38</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-8dd59208-5525-4df9-b4dd-9e8138831c0b</idno>
+        <idno type="qudexdocument">q-51a9a307-8a5a-4a14-9f07-b6d7d386a1d4</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-167e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-177e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">One Sunday
+				afternoon whilst lazing around the Garden in my deck chair saw myself. Way back over
+				50 years I was going to work, my life was exactly the opposite of what I wanted. I
+				had a job that wasn’t worth a spit in eye, and I’ve never had car since I’ve been
+				married. Which is 48 years I have 2 sons 3 daughters and 6 grandchildren, When I was
+				30 I was made foreman and the hours went down and wages went to £80. My job by the
+				way is at Keresley paper mill shift work, I met my wife whilst sitting in the pub
+				and after a while we got engaged and about three years later we got married. I lost
+				one of my best mates in a car crash when we were drunk, I was 43 we brought our
+				house a bungalow in Leysdown and we’ve lived there ever since that day. But the day
+				came when I started to feel old and. My racing pigeons got more <sic>envolved</sic><corr>involved</corr>, Right
+				until the Mill shut down. I got made redundant and collected £14,000 redundancy
+				money plus my pension, we are ending our lives happily as best we can. But when I
+				look back it wasn’t as bad as I thought after all, I had a wife a house and money in
+				my pocket.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Memo on Reaction to New Censorship Regulations - 10 days ending April 10 1943</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-9bded0d2-f035-4aae-8ca8-400c611a1dc4</idno>
+				<idno type="qudexdocument">q-3d340100-5c6f-42b0-963a-80d9148e5ac2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-ef4b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-f04b7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">OFFICE OF THE CHEIF BASE CENSOR BASE CENSORSHIP DETACHMENT No.3</note>
+				<note xml:id="q-f14b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">APO 512, U. S. ARMY</note>
+				<note xml:id="q-f24b7fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="4">(Memo on reaction to new censorship regulations.) 10 Days Ending April 10, 1943</note>
+				<note xml:id="q-f34b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">1. Check on references to censorship inspired by the new regulations shows that these reactions can be classified as follows:</note>
+				<note xml:id="q-f44b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">a. Reaction-Decidedly unfavorable ; % of References - 25</note>
+				<note xml:id="q-f54b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">b. Reaction-Calling attention to restrictions,; difficulty of writing, etc, unfavorable in tone but not abusive; % of References - 57</note>
+				<note xml:id="q-f64b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">c. Reaction-Neutral, mentioning censorship without indicating favorable or unfavorable reaction; % of References - 15</note>
+				<note xml:id="q-f74b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">d. Reaction-Favorable ; % of References - 7</note>
+				<note xml:id="q-f84b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">These reactions are exemplified by quotations in the following para­graphs. hhh 2. DECIDEDLY UNFAVORABLE:</note>
+				<note xml:id="q-f94b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">" I can't send you any more pictures for the present anyway. Someone with nothing to do framed an order and got it published which will prohibit the such. If one takes pictures they can't be developed here but have to be sent to the States and then if the censor doesn't want any they will be sent to whoever directed. Am sure this ruling will not stay in effect long for the higher up will over rule it." Capt. Robert Cunningham, Hq.2621 Bn.</note>
+				<note xml:id="q-fa4b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">" A new set of censorship rules have been placed in service, and I am not sure but it appears that a definite attempt has been made to discourage letter writing. Oh well, I suppose these censorship blokes have to do some­thing with their time. At any rate the ultimate outcome will be a definite shortening of the letters proper with a lengthening of the time interval between letters." Capt. W. S. Woodford, Force Hq.</note>
+				<note xml:id="q-fb4b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">"The other day I studied the new censorship regulations. As near as I can tell I can only mention that I am feeling fine--Period! You will notice the new address on the envelope. No one knows wily it was changed. Sometimes I think certain people spend all their time just trying to think up confusing immaterial things to confuse everyone but the enemy." Capt. J. W. Caldwell, Force Hq. G-3.</note>
+				<note xml:id="q-fc4b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">"We are not permitted to tell whom we are fighting (or that we are) or which side we are on, so you will just have to guess what I am doing in deleted and make your own assumption. Damn silly, I calls it." Brig. Gen. Leroy Irwin, Hq. 9th Div. Arty.</note>
+				<note xml:id="q-fd4b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">"The censor has us so badly scared now I haven't dared write for ten days." Lt. G. 0. Roasch, Hq. NAAF, A-2. "We have had a strict censorship put on us and if these letters from now on don't make sense it isn't my fault." Capt. J. T. Killip (unit not given).</note>
+				<note xml:id="q-fe4b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">"You in America may write what you please, but with us it is altogether different. I don't feel like writing anything because they'll cut it out anyway. You will have to accept what I have written, but don't believe all of it." Cpl. L. A. Desmarais, Co. A, 1st Med. Bn.</note>
+				<note xml:id="q-ff4b7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">"Since writing you last the censorship is even more prohibitive so letter writing is becoming a chore for me." Civilian L. D. Brooke, American Red Cross. hhh 3. MILDLY ADVERSE AND NEUTRAL:</note>
+				<note xml:id="q-004c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">"Can't mention any officer above the rank of Lt. Col. now. . . I don't make the rules and all I have to do is try and interpret them correctly and abide by them. Sounds simple, but sometimes you wonder just what is desired." Capt. J. J. Dalton, Hq. 5th Wing (U.S.).</note>
+				<note xml:id="q-014c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">"I have just been reading the censorship regulations and find myself thoroughly intimidated by the list of things that are unsuitable for top­ical use." Civilian W. B. Kahn, Civil Affairs Sect., AFHQ.</note>
+				<note xml:id="q-024c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">"There is nothing to write about from here that is permissible except that it is Spring and the flowers and foliage are very diversified and beautiful." Col. F. P. Allen, Civil Affairs Sect., AFHQ.</note>
+				<note xml:id="q-034c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">(On fold of letter so as to catch the eye when opening): "Hello, Censor. What is there to write about now a days?" Capt. J. J. Dent, Jr., 380 B. Sq., 310 B. Gr.</note>
+				<note xml:id="q-044c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">"Writing letters is difficult because one yearns to describe the place, the people, everything, yet the censorship forbids all this. We may not mention raids and the results of them nor anything which might be construed as derogatory of the local populace which is very picturesque. So if my letters appear banal--it is not entirely my fault." Civilian Emilie, Lady Coote, American Red Cross.</note>
+				<note xml:id="q-054c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">"All is about the same and even if it were not I should hesitate to write for fear the censor would not be pleased." Cat. J. R. Rohrer, Spec. Serv. Com.</note>
+				<note xml:id="q-064c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">"Honey our C.O. passed around a circular today describing the Censor­ship of letters. . .and by it, I have been violating regulations every letter. It looks like about 2 my past discussions may be censored. . .I guess all they intend for us to do is say hello and goodbye." Lt. B.C. Carter, 12th Weather Sqdn.</note>
+				<note xml:id="q-074c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">"I cannot send home local papers--this would disclose my location, which is of course a secret." Lt. Mitterholzer, QM Dept No. 1.</note>
+				<note xml:id="q-084c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">"Incidentally my address is no longer 'Allied Force Headquarters' but just 'Force Headquarters.' They changed it for some reason or other." Capt. J. M. Wortsman, Jr., Sig. Sect., F. Hq.</note>
+				<note xml:id="q-094c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">"As for pictures, the censor has now forbidden the developing of pictures here so they can be no more photos." Lt. W. W. Smart, Jr., 78 Cml. Co.</note>
+				<note xml:id="q-0a4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">"Gosh, Ma, I honestly don't know what to write about. It seems every­thing is on the forbidden list, even last week's weather. Also out are any disparaging remarks about anyone back home, and I could make some choice remarks." Civilian J. J. Kelleher, F. Hq.</note>
+				<note xml:id="q-0b4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">"Will send some accounts back to Times which will get through censor­ship because they are news, whereas I can't say as much in a letter." Civ­ilian Rita Hume, American Red Cross. (Elsewhere writer also suggests that her personal activities can be followed in dispatches to the Seattle Times rather than in letters.)</note>
+				<note xml:id="q-0c4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">Mesage repeated on each of twelve postcards of Algiers: "Just send­ing you the last card of this kind that I will be allowed to send." PFC Joseph M. Arrizi, Force Hq.</note>
+				<note xml:id="q-0d4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">"We just got some new censorship regulations and we find that we can tell to a limited extent about the action that we have seen. Of course, we can't mention names of places or give dates but we can say that we have seen some bombings." Capt. R. L. Duncan, Btry "G", 68 CA (AA).</note>
+				<note xml:id="q-0e4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">"When one has as many censorship regulations as a soldier must comply with, he must write almost purely a personal letter." W/O C. W. Galloway, Hq. Btry, 3rd Bn., 68 CA.</note>
+				<note xml:id="q-0f4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">"Still with nothing to say, I mean nothing I am permitted to really do have lots to say." Lt. W. D. Stratton, Co. B, 2625 Sig. Serv. Regt.</note>
+				<note xml:id="q-104c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">"They have changed the censorship rules somewhat and they have become more stringent." Lt. C. J. Stauffer, Hq. Btry, 2nd Bn, 62 CA (AA).</note>
+				<note xml:id="q-114c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">"Yesterday they issued a twenty page memo on the don'ts and restrict­ions and believe me, there is very little left to say." Lt. D. G. Smith, 78 Chem. Co. (SG). --Comments similar to the last four are frequent and so repetitious that it serves no useful purpose to quote all. hhh 4. FAVORABLE:</note>
+				<note xml:id="q-124c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">"They have just posted the latest censorship regulations--for which I'm glad--and it says that we can now head our correspondence 'Somewhere in North Africa'. . ." Civilan P. Von Kunits.</note>
+				<note xml:id="q-134c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">"The new censorship rules have just come out and clarified a lot of things for us." Same writer, in a different letter.</note>
+				<note xml:id="q-144c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">"Please don't say I don't write enough information--because I do what is right." Lt. N. J. Shaw, Petrol, Sect., F.Hq. (These are the only mentions found that can be construed as favorable).</note>
+				<note xml:id="q-154c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">5. Because of inadequate personnel, we have checked little unit censored mail since Circular 39 was distributed and we therefore have been unable to obtain any worthwhile idea of the reaction of enlisted men. This report is therefore not representative of the most important morale effect of censorship, for reasons entirely beyond our control.</note>
+				<note xml:id="q-164c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">In summary, of the comments checked, chiefly in officers' mail, 77% indicated a favorable or unfavorable reaction and of these 83 were explicitly or generally unfavorable.</note>
+				<note xml:id="q-174c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">CHAS. T. HEREFORD</note>
+				<note xml:id="q-184c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">Captain, Infantry</note>
+				<note xml:id="q-194c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">Assistant Chief Base Censor</note>
+			</div>
+		</body>
+	</text>
+</TEI>

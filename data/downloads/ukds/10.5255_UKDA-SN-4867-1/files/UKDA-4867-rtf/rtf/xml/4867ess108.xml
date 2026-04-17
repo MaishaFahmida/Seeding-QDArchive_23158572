@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 108</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-34fb6bbc-39fc-4eba-8f63-65106b8a20c7</idno>
+        <idno type="qudexdocument">q-7a59176b-def2-4113-bdba-c1500364a053</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-f47f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Looking at my Past Years</note>
+      <u xml:id="q-f57f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">The years seem to
+				have gone by so quickly it only seems like yesterday that I got my first job.</u>
+      <u xml:id="q-f67f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I’m sixty now and
+				it’s the year 2028. I got my first job after I’d taken a trainee course as a cook in
+				1980. I had decided to do this after I had received the results of my exams. That
+				was August 1978. I was so excited the day my results popped through the letterbox.
+				All my hopes had come true I had obtained the grades I had wished. It was September
+				1978 that I started the trainee course. I was looking forward to being a cook. But
+				there was one problem I had to have lodgings off the island because there was no
+				sort of work that I wanted to do.</u>
+      <u xml:id="q-f77f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After some
+				thought I decided to train at hospital in Maidstone. I enjoyed the training period
+				very much so much in fact that I wanted to make a career of being an assistant cook
+				and hopefully moving up to head cook. After two years as a trainee there as
+				assistant I eventually had my dream come true in 1984 I became head cook.</u>
+      <u xml:id="q-f87f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">It was while I
+				was working that I met my future husband David. We met in 1985 at a Christmas dance
+				that was being held at his works. David was a marine engineer, he had obtained very
+				good qualifications at school so he was to try for the job he wanted straight after
+				he’d left school.</u>
+      <u xml:id="q-f97f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Soon after the
+				party we got engaged, I think it was Boxing Day. Then in 1987 we were married. It
+				was 5th August, a day before my birthday, I’ll never forget it. I had a beautiful
+				white dress and veil. I’ve still got it. There were 200 guests at the reception,
+				most were David’s relations as I haven’t got many.</u>
+      <u xml:id="q-fa7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">In 1992 we had
+				the first of our two children, it was a very wet night in January, it had been
+				training all day non-stop. Peter was born 10 o’clock in the evening. It wasn’t a
+				difficult birth though I was sad because I wanted twins, everyone thought I
+				would.</u>
+      <u xml:id="q-fb7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">In 1994 I had are
+				second child Rachel, she was born in May</u>
+      <u xml:id="q-fc7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">We celebrated the
+				turn of the century by having a party. We invited our relations and friends, there
+				was dancing, eating and merriment. The party went well into the morning. We thought
+				the year was going to be a good year for us but it wasn’t. We had financial trouble.
+				We had to sell <sic>our</sic><corr>out</corr> and buy a smaller one. We also sold our car, we missed having
+				that. We were glad when the year was over and we had managed to pull through. Every
+				thing went well for the next five years until 2007. That year my mother died. Two
+				years later my father followed her.</u>
+    </body>
+  </text>
+</TEI>

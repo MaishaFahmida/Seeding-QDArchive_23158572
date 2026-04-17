@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 39</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-f81af2ce-37d2-400c-89f8-f8102dae52c8</idno>
+        <idno type="qudexdocument">q-7e144337-ce67-4cc9-8657-16d2c4fe3a59</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-187e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-197e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school in
+				May 1978 at the age of 16. I had a few C.S.E which were average then. I tried a test
+				for a job which I passed. I now began a job at London, which I got £35 a week but
+				most of it went. I had to pay my mum £10 a week plus £15 on train fares. After about
+				six months I began to get fed up out of £35 a week I was left with £10. I began to
+				think about getting a flat in London as this would save money. Finally I got a flat
+				for £10 per week. After a few years life began to get boring I was living alone in a
+				flat in London. I met this girl and six months later we got married we brought a
+				house in Middlesex and about five years later I had enough money to buy a car I
+				brought a <sic>chrysler</sic><corr>Chrysler</corr> Alpine which would last the rest of our lives. Altogether we had
+				3 children 2 girls and 1 boy we saw them grow up. I still had the same job until I
+				retired. The money was not so good but I enjoyed the work. Looking back it was not
+				so bad even though some times we did struggle <sic>financisally</sic><corr>financially</corr> but I got a good pension
+				I now have six grandchildren and I am happily retired.</u>
+    </body>
+  </text>
+</TEI>

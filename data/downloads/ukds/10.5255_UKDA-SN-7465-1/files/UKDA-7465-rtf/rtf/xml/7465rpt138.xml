@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report for the week of Feb. 28 - Mar. 6 1943</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-a77f24b9-78ab-4c0d-83b1-85cfb571083c</idno>
+				<idno type="qudexdocument">q-9ec71ce5-ad0e-4cd8-8b48-b7a6151315d3</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-7a567fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">MORALE REPORT FOR THE WEEK OF Feb. 28 - Mar. 6, 1943</note>
+				<note xml:id="q-7b567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">Office of Field Base Censor No. 2 hhh 1. HEALTH</note>
+				<note xml:id="q-7c567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">Favorable comments 5O%; unfavorable comments 5O%. The favorable comments reflect a gain in weight, while the two unfavorable comments state that malaria caused two people to be hospitalized. Concerning the latter, a let Lieutenant (File No. 59) states: "I was in hospital about nine or ten was sick with malaria and its better now, of course." (Co. 8 - 82nd ARM. RCN. Bn.) hhh 2. MAIL</note>
+				<note xml:id="q-7d567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">Favorable comments 4O%; unfavorable comments 6O%. An average delay in the receipt of mail from the United States was found to be 17 days, though in isolated cases less time elapsed. The concensus of opinion is that V-Mail should be used in communications from te state as the elapsed time was less than with regular or Air Lail. The favorable comments can be summarized as one Staff Sergeant (File No. 54) says:-</note>
+				<note xml:id="q-7e567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">" The mail has been coming through fine." (Btry C-436th CA Bn) The unfavorable comment in some instances concerned a delay because of change in station. hhh 3. TRAINING 4. EQUIPMENT</note>
+				<note xml:id="q-7f567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">No statements concerning either of the above items were made. hhh 5. FOOD</note>
+				<note xml:id="q-80567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Favorable comments 66; unfavorable 34%. Favorable comments are exceedingly thorough and even run to the giving of entire menus for the day, while some compare the food with that given previously. The food seems to be improving as time goes on. Canned rations found favorable comment, some ex­plaining that they preferred these to garrison rations. hhh 6. ENTERTAINMENT</note>
+				<note xml:id="q-81567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Favorable 9O%; unfavorable 1O%. Movies, shows, portable radios and recordings; library facilities, etc., are the facilities available for entertain­ment, and the concensus seams to be as one Staff Sergeant, (File No. 51) says; "I'm having loads of fun, I like it here" (64th Ord. Co. AM) hhh 7. SPORTS</note>
+				<note xml:id="q-82567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Favorable comments 1O0%. Baseball, basketball, volleyball, horse­back riding, and other sports after dinner and before darkness are available to the men and there is keen competition in these sports. Everyone commends the ample supply of equipment. No comments favorable or unfavorable were found in the mail. hhh 9. QUARTERS</note>
+				<note xml:id="q-83567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Favorable comments 75%; unfavorable comments 25%. It was found that the usual American inenuity was used in order to obtain many comforts in field .,quarters. With the scanty supplies at hand, floors were improvised in tents, straw was obtained to cushion the hard ground and frames were built for tents. There was a distinct luxurious feeling when the men were moved to larger tents as accomodations were better. A 2nd Lt. (File No. 1O4) states;"Quartered in tents, eat "C" rations, ....retty good." (21st Bn.)</note>
+				<note xml:id="q-84567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">The unfavorable comments dealt with the hardships because of the rainy and cold weather, and a Private commented (File No. 55) as follows: " We are sleeping on this cold damp ground with just a little straw under us and a pup tent over our heads, when it rains we can hardly keep from get- ting wet." (Co. H, 46th Reg't) hhh 10. POLITICS</note>
+				<note xml:id="q-85567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">No comments were made. hhh 11. NEWS AND PROPOGANDA</note>
+				<note xml:id="q-86567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">No comments were made. hhh 12. CHURCH AND RELIGION 13. HO AFFAIRS</note>
+				<note xml:id="q-87567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">No comments were made under the above categories. hhh 14. RELATIONS WITH CIVILIAN POPULATION</note>
+				<note xml:id="q-88567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Favorable comments 50% unfavorable 50%. Economic inflation since the arrival of the Americans was a common complaint, being tersely put by many as "the people here are taking us over". Letters from civilians to men in the service express thanks and gratitude that the Americans are here. hhh 15. RELATIONS WITH ALLIED TROOPS</note>
+				<note xml:id="q-89567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">No comments. hhh 16. CENSORSHIP</note>
+				<note xml:id="q-8a567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Favorable comment 100%. The only comment relating to this subject warrants excerpt from the communication, which was written by a nurse (File No. 90) and is as follows:-</note>
+				<note xml:id="q-8b567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">"We are told what we c n write and can't so if at times in the past or future that I have been Brief, know that at the time it was impossible to say more- for my own safety." (6th Gen. Hosp.)</note>
+			</div>
+		</body>
+	</text>
+</TEI>

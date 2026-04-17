@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Moral Reports, 10 May 45</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-75aee382-071c-490b-90dc-77bba5a7e0bc</idno>
+				<idno type="qudexdocument">q-907d6bfd-3bcf-47d9-899a-1d70f8cccaa9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-d8507fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject: Morale Reports.</note>
+				<note xml:id="q-d9507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">Ref: AO/23</note>
+				<note xml:id="q-da507fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="3">10 May 45.</note>
+				<note xml:id="q-db507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">To: HQ</note>
+				<note xml:id="q-dc507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">LFA</note>
+				<note xml:id="q-dd507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">From: OC</note>
+				<note xml:id="q-de507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">2 Cdo Ede Trg Wing.</note>
+				<note xml:id="q-df507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Ref your LFA/44/A dated 7 May 45 herewith report requested.</note>
+				<note xml:id="q-e0507fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="9">Sec I.</note>
+				<note xml:id="q-e1507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Morale in General - Excellent.</note>
+				<note xml:id="q-e2507fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="11">Sec II. hhh 1. Discipline -</note>
+				<note xml:id="q-e3507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Excellent hhh 2. Confidence</note>
+				<note xml:id="q-e4507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(a) Not applicable</note>
+				<note xml:id="q-e5507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(b) Excellent</note>
+				<note xml:id="q-e6507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">(c) Excellent hhh 3. Mail.</note>
+				<note xml:id="q-e7507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Still unsatisfactory, mail is still delayed mostly through letters for the Trg Wing going via Bde. hhh 4. Welfare.</note>
+				<note xml:id="q-e8507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(a) Good</note>
+				<note xml:id="q-e9507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">(b) Great enthusiasm at local football matches, Mobile Cinema once weekly greatly appreciated. Canteen and Library provided and well attended. hhh 5. Not applicable hhh 6. Excellent hhh 7. Excellent hhh 8. Excellent hhh 9. Great interest !! Many volunteers for Far East.</note>
+				<note xml:id="q-ea507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Lt Col.</note>
+				<note xml:id="q-eb507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">OC 2 Cdo Bde Trg Wing.</note>
+				<note xml:id="q-ec507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">C.M.F.</note>
+				<note xml:id="q-ed507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">RPM/RFD.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

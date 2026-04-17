@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 5</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-320b1db3-e53a-436a-9d80-f050aad74db5</idno>
+        <idno type="qudexdocument">q-a8754b06-46fe-40eb-be2f-b57ef8e6ded2</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-6b7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-6c7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">After taking my
+				Os I went on to stay in the sixth form where I took A <sic>leavle</sic><corr>level</corr> maths, physics and
+				history I <sic>narowly</sic><corr>narrowly</corr> scraped passes and by some <sic>miracel</sic><corr>miracle</corr> gained entrance to a university
+				so far in my life this had been the more prolonged stay away from home but I wasn’t
+				to disturbed at university I tended only to associated with a few people who I had a
+				lot in common with this is how my friendships have been for most of my life but I
+				would blame that on being an only child. <sic>Scince</sic><corr>Since</corr> a very early age I had been
+				<sic>fasenated</sic><corr>fascinated</corr> with the past and <sic>scince</sic><corr>since</corr> the age of fourteen I had regularly <sic>atended</sic><corr>attended</corr><sic>archaeolical</sic><corr>archaeological</corr> digs and so it followed that I got a job as <sic>asistent</sic><corr>assistant</corr> site manager the
+				pay wasn’t much but I was <sic>realy</sic><corr>really</corr> happy the odd girlfriend came and went but as I
+				spent a great deal of time in a tent or <sic>diging</sic><corr>digging</corr> holes I <sic>didnt</sic><corr>didn't</corr> get too attached but
+				one day I made the mistake and decided to settle and have a home so I tried to get a
+				post somewhere where I could continue poking in things that have <sic>hapend</sic><corr>happened</corr> but there
+				were no opening I then I felt I had wasted my education on learning something I
+				liked when I should have <sic>lernt</sic><corr>learnt</corr><sic>somthing</sic><corr>something</corr> to make money so I had to decided to live as
+				a probably <sic>batcheler</sic><corr>bachelor</corr> doing what I liked or as a someone doing a <sic>meanial</sic><corr>menial</corr> task but
+				with <sic>securety</sic><corr>security</corr> and a <sic>permanate</sic><corr>permanent</corr> home on one side was the trap of <sic>depesion</sic><corr>depression</corr> and <sic>povetty</sic><corr>poverty</corr>
+				and on the other a high chance of not having a family I chose to stay as I was a
+				hoop and if the <sic>opertunity</sic><corr>opportunity</corr> came to have a job I liked where I could still go out and
+				dig but still have a <sic>permenate</sic><corr>permanent</corr> base I would take it and so when my chance came to
+				take a job in a <sic>museam</sic><corr>museum</corr> came I <sic>lept</sic><corr>leapt</corr> at it and apart for changing <sic>museams</sic><corr>museums</corr> once or
+				twice I stayed that way till I retired last month. I did get married to someone who
+				I met on a <sic>archaeolical</sic><corr>archaeological</corr> site who been in a similar kind of position we had very
+				similar tastes in most things and we both shared nearly the same views of life.</u>
+    </body>
+  </text>
+</TEI>

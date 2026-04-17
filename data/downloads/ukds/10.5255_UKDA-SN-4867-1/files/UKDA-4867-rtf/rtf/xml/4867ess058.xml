@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 59</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-5bca0605-a46f-42d0-a47d-32808cf19390</idno>
+        <idno type="qudexdocument">q-1f694018-edc6-431e-9b22-bb4102790896</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-7d7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-7e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">After leaving
+				school I was very nervous about getting a job as my exam results were not very good
+				and finding a job was hard. I was <sic>luckey</sic><corr>lucky</corr> as my father owns a haulage firm so I had
+				got a job with a fitter. I took my <sic>drivin</sic><corr>driving</corr> test at 17 and passed 2nd time. Which was
+				about the only thing I did pass. I stayed a fitter until I was 21 and, then I work
+				for my father’s haulage firm after taking HGV Class I from then on I worked both in
+				England and on the <sic>contint</sic><corr>content</corr>.</u>
+      <u xml:id="q-7f7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">The next big step
+				was when I was 24 I got married and got a loan for a house at 27. We had got 2 boys
+				which was good.</u>
+      <u xml:id="q-807e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">The next few
+				years <sic>wernt</sic><corr>weren't</corr><sic>to</sic><corr>too</corr> bad there <sic>was’t</sic><corr>wasn't</corr> much there that I can <sic>rember</sic><corr>remember</corr> but, the wedding of
+				children but after that I was wandering about retirement then it happened my <sic>perents</sic><corr>parents</corr>
+				died and my brother and I had to sell the house and some of its contents. Well 10
+				years passed and <sic>retiement</sic><corr>retirement</corr> came along and that is <sic>were</sic><corr>where</corr> I am now.</u>
+    </body>
+  </text>
+</TEI>

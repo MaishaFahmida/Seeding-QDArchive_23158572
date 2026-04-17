@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 22</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-786e9bfc-1e64-49ee-b6bf-58e12ab642ac</idno>
+        <idno type="qudexdocument">q-5ebf00b6-aede-425f-b4fa-3e8e93df3324</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-d17d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">When I left
+				school, I got a job in an office, for the next forty years I did the same thing, I
+				got married at twenty one, and suffered a heart attack at fifty and spent five
+				months in hospital. Then I retired.</u>
+    </body>
+  </text>
+</TEI>

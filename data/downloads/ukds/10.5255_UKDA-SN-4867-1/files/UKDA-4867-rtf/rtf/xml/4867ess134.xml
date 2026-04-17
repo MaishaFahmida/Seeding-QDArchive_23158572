@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 136</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-1940d82b-2fe9-4601-b7f2-0ca832790296</idno>
+        <idno type="qudexdocument">q-8b79d57e-b89b-4afd-aec3-7a6d0343029b</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-d7805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-d8805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At thirteen I
+				started to think seriously about my career. I was taking O level exams in Biology,
+				English, French and maths, and C.S.E.s in Economics, Geography, Dance and English
+				Literature. I passed all of the ‘o’levels with a lot of help from teachers, and
+				attained grade two’s and three’s from the C.S.E.s</u>
+      <u xml:id="q-d9805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Up until I left
+				school I had thought about a career in a bank, so I had several interviews with the
+				careers officer to find out if there was anything going, not too far away. The
+				careers officer was very helpful, she found many places offering jobs to school
+				leavers with a training college to go to twice a week.</u>
+      <u xml:id="q-da805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I applied to five
+				banks, and got an appointment for an interview with four of them. Of course, the
+				interviews were very “nerve-racking”, but I got through them and was accepted at two
+				of the banks. One of the banks gave a good salary plus luncheon vouchers, and a good
+				training college which was not too far away. But the other bank had a training
+				centre which was further away and they gave a smaller salary, so I chose the first,
+				Barclays.</u>
+      <u xml:id="q-db805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I enjoyed the
+				work at the bank and after three years of college I worked full time at the bank.
+				But I would never have made it without the help of teachers and the careers
+				officer.</u>
+      <u xml:id="q-dc805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I soon got a
+				steady boyfriend and after two years we got engaged. We agreed that when we were
+				married I would give up my job at the bank, because we thought we could live well
+				enough on the money Phillip brought home as an Electrical fitter.</u>
+      <u xml:id="q-dd805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Phillip and I got
+				married after one and a half years and had a son Mark. We lived very well as a
+				family, now my husband is retired and my son is married with two children.</u>
+    </body>
+  </text>
+</TEI>

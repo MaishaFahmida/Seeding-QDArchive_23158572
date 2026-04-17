@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Correspondence between F.C. Bovenschen and E. Bamford, 28 May 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-c139ddbb-68b5-4c30-a403-9598c248d727</idno>
+				<idno type="qudexdocument">q-61b465c1-4bb3-4a1a-a195-1998cfbddc1d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-d0537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">MINISTRY OF INFORMATION,</note>
+				<note xml:id="q-d1537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">MALET ST, W.C.1.</note>
+				<note xml:id="q-d2537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">Ref. HI1013/3</note>
+				<note xml:id="q-d3537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="4">28th May, 1942</note>
+				<note xml:id="q-d4537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">Dear Bovenschen,</note>
+				<note xml:id="q-d5537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Thank you for your letter of the 22nd May about our monthly report to the War Cabinet.</note>
+				<note xml:id="q-d6537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">We should be grateful if any matter of home front interest could be passed on to us from the regular reports received by the Adjutant-General. We hope this definition will be treated as liberally as possible, e.g. it would assist us to have material on the attitude of the army to official communiques and to the B.B.C. Best of all, from our point of view, would be to let us receive the whole report and ourselves extract what interests us. You could rely on the reports being treated in strictest confidence. I must leave it to you to say if this is possible.</note>
+				<note xml:id="q-d7537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Yours sincerely,</note>
+				<note xml:id="q-d8537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">E. St.J. Bamford</note>
+				<note xml:id="q-d9537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Sir Frederick Bovenschen, K.B.E., C.B.,</note>
+				<note xml:id="q-da537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="11">War Office,</note>
+				<note xml:id="q-db537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="12">S.W.1</note>
+			</div>
+		</body>
+	</text>
+</TEI>

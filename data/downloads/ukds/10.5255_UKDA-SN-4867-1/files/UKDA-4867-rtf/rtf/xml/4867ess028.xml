@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 29</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-5e2de79c-9a92-4711-a153-d075d0af2be3</idno>
+        <idno type="qudexdocument">q-d0b26f4e-5dae-4e34-8937-b9cfb525b86c</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-f67d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">The Past</note>
+      <u xml:id="q-f77d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">It was a rainy
+				day and the weather was stopping me from gardening. I leant on the window sill and
+				gazed out of the window at the rain beating on the pavement. Instantly my memories
+				came back.</u>
+      <u xml:id="q-f87d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">At the age of
+				sixteen and a half I went into the Royal Navy. 6 months training to see if I liked
+				it. After doing this I signed on for <sic>tweelve</sic><corr>twelve</corr><sic>years</sic><corr>years'</corr> service. In which I travelled
+				around the world and visited many countries including America, Gibraltar and the
+				<sic>Paciffic</sic><corr>Pacific</corr> islands. After doing only <sic>tweelve</sic><corr>twelve</corr><sic>years</sic><corr>years'</corr> service I signed for another 6
+				years and travelled some more. When I thought I had served the navy long enough I
+				came out into Civi Street and got a job working in a factory as a machine Operator
+				earning almost £80 a week which I needed to keep my wife who I had met in the navy
+				as a WREN and also a couple of kids we now had.</u>
+      <u xml:id="q-f97d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">As I got towards
+				retirement the jobs became harder and more tiring and so the factory who employed me
+				gave me easier jobs until I was not able to work anymore because of <sic>rhumatism</sic><corr>rheumatism</corr>  and
+				other kinds of complaints.</u>
+      <u xml:id="q-fa7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">For the past few
+				years of my working life I was drawing money of social security. Until I drew my Old
+				Age Pension at 63.</u>
+      <u xml:id="q-fb7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">What an <sic>exiting</sic><corr>exciting</corr>
+				life it had been.</u>
+    </body>
+  </text>
+</TEI>

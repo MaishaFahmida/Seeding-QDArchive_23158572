@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 126</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-51c09529-cbef-45c1-b864-51e46a03e50d</idno>
+        <idno type="qudexdocument">q-833a6ac7-f4e6-4484-9e13-2b6fc3dde28d</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-93805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-94805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At nineteen I
+				left school after my exams were over in June.</u>
+      <u xml:id="q-95805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">In September of
+				1978 I started my first job as a mechanical fitter at a nearby garage.</u>
+      <u xml:id="q-96805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I was employed to
+				fix cars and in all aspects of the job I succeeded. At the age of twenty I finished
+				my four year apprenticeship and continued at the garage for another four years until
+				I saved up enough money to buy a small holding about ten miles from my first
+				house.</u>
+      <u xml:id="q-97805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I left the garage
+				that year and established my own garage after about six months hard work and
+				business started coming in quick.</u>
+      <u xml:id="q-98805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">By the age of
+				thirty I had built my own extension onto the garage and was now employing three full
+				time mechanics which included one driver for the rescue service and one for the
+				motorcycle shop on the premises.</u>
+      <u xml:id="q-99805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">That year I got
+				married and my wife was kept busy as a personal secretary, as well as a housekeeper.
+				We had a four bedroomed detached house at the back of the garage and two acres of
+				land as well. A year later my wife gave birth to twins, boys, and she then had her
+				hands full with housework.</u>
+      <u xml:id="q-9a805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">By that time I
+				had a few thousand stashed away even though we were living well.</u>
+      <u xml:id="q-9b805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">At the age of
+				forty even my two sons left school, one of them became an apprentice electrician at
+				the dockyard and the other worked as a bank clerk. Five years later I had earnt
+				enough money to sell up and retire. I bought myself a camper van and a little two
+				bedroom bungalow just down the road. I sold up the garage, complete with the house
+				and put it all into the bank, the money I earnt.</u>
+      <u xml:id="q-9c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">After selling up
+				the business my wife and I went on a world cruise then settled down to a quiet
+				retirement. My two sons got married at twenty and twenty one and went to live abroad
+				with their aunts.</u>
+      <u xml:id="q-9d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">My wife and I
+				went touring. In the summer and the rest of the time was spent in the garden, house
+				or at friend’s houses.</u>
+      <u xml:id="q-9e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">At sixty five my
+				wife died of cancer and now I live on my own, with my memories and my house and
+				home.</u>
+    </body>
+  </text>
+</TEI>

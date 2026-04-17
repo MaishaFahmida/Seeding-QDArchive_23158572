@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 41 and Notes on Currency Conversion - April 1949</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-38a0ccbc-ce97-41fa-9d91-70fbc5030a43</idno>
+				<idno type="qudexdocument">q-761beeac-2919-4892-abfa-299c02268d45</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-e94f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">Tel: 86 57 78</note>
+				<note xml:id="q-ea4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-eb4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Lancaster House, Room 1329</note>
+				<note xml:id="q-ec4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">HQ COG (BE)</note>
+				<note xml:id="q-ed4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">B.A.O.R.2</note>
+				<note xml:id="q-ee4f88b6-9e9d-e411-b1ae-00155df55c12" type="date" n="6">7 April 49</note>
+				<note xml:id="q-ef4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">To: Public Opinion Research Office</note>
+				<note xml:id="q-f04f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">Political Division</note>
+				<note xml:id="q-f14f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">229 HQ CCG</note>
+				<note xml:id="q-f24f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">Hannover</note>
+				<note xml:id="q-f34f88b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="11">Subject: Morale Report No. 41 and Notes on Currency Conversion.</note>
+				<note xml:id="q-f44f88b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="12">Enclosed herewith are reports on Berlin Morale and Currency Conversion for the second half of March.</note>
+				<note xml:id="q-f54f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="13">J.E. Dixon</note>
+				<note xml:id="q-f64f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="14">P.O.R.O.</note>
+				<note xml:id="q-f74f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">HQ CCG (BE)</note>
+				<note xml:id="q-f84f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">B.A.O.R.2</note>
+				<note xml:id="q-f94f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">CONFIDENTIAL</note>
+				<note xml:id="q-fa4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Public Opinion Research Office Lancaster House, Room 1329 CCG (BE), Berlin, B.A. O. R. 2</note>
+				<note xml:id="q-fb4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Report on Berlin Morale No. 41. (Second Half of March).</note>
+				<note xml:id="q-fc4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Note: Readers are asked to remember that although report is compiled as ob­jectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting. hhh 1. General Atmosphere and Mood</note>
+				<note xml:id="q-fd4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">The signing of the North Atlantic Pact, the new currency conversion and improving spring weather have changed the Berliners' mood and the majority inter­viewed seemed to have a brighter outlook on life towards the end of the month.</note>
+				<note xml:id="q-fe4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">For the Berliners, the most interesting point of the Atlantic Pact is Article 6, and they feel they are the most Eastern advance post of the defence area and stress this with extreme satisfaction.</note>
+				<note xml:id="q-ff4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">On the whole the introduction of the West Mark as sole tender is appreciated and welcomed as evidence of the Western Powers' intention to maintain their position in Berlin; although the many technical transition instructions are subject to severe criticism. (See appendix, notes on the new currency conversion).</note>
+				<note xml:id="q-005088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The majority of Berliners looked upon the visit to the U.S.A. by the Ober-buergermeister of Berlin, Dr. Reuter, with satisfaction and are hoping that speedy clarification of the present situation will be the outcome for the blockaded city.</note>
+				<note xml:id="q-015088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">The Press notice concerning the dismissal of the Soviet Marshal Bulganin has produced no real re-action amongst the Berliners. On the other hand the appointment of Marshal Sokolovsky as Deputy Minister of the Soviet Forces has caused a stir and many people fear that as a result the Soviet policy will become even more forceful.</note>
+				<note xml:id="q-025088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Although Berliners oppose the territorial claims in Western Germany and state that they are unjust, this problem is not of such great importance to them and stands far behind the acute events in Berlin. hhh 2. Food</note>
+				<note xml:id="q-035088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Now that the weather is improving the food and money problem has again taken precedence with many Berliners over the fuel problem.</note>
+				<note xml:id="q-045088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Complaints are being made about the potato shortage, absence of fresh vegetables, and the quality of many foodstuffs. The issue of chocolate and the announcement that pork would be issued was particularly welcome. Objections were raised, however, that for the chocolate the sugar coupons were being calculated at the rate of 1:1. Many mothers stated that this allocation will take almost the whole of the child's 10 day sugar ration. However much they wanted their child­ren to have the chocolate, it was extremely difficult to manage without this sugar.</note>
+				<note xml:id="q-055088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">Some complained that the issue of the sugar ration far March was several days late, - but did not stop the sale of sugar at black market prices. The people are repeatedly asking when the rice allocation, which was announced some time ago, will be issued. hhh 3. Domestic Fuel, Gas and Electricity</note>
+				<note xml:id="q-065088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">The warm weather has put an end to the heating worries of the Berliners. During the past days the black market price of coal has fallen to 7 DM per hundredweight. On the other hand, very few complained about the electricity and gas supplies. hhh 4. Housing Problems</note>
+				<note xml:id="q-075088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">For many people the new currency arrangement has turned the housing difficulty into a financial rather than space problem. Small flats continue to be in short supply but many large flats are being offered. Many people hunting for flats, and those wanting to move, continue to complain about the stipulations regarding removing from one Bezirk or Sector into another which, in their opinion, are too bureaucratic.</note>
+				<note xml:id="q-085088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">Although many tenants hope that during the coming months intensive repairs, which have been due for a long time, will be carried out to flats and houses, house-owners are of the opinion that the execution of repairs is a question of material and therefore extremely difficult. hhh 5. Clothes</note>
+				<note xml:id="q-095088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">In spite of ration cards, clothing is still d serious problem for many Berliners, the reason is the excessive price of textiles: Although some prices did drop after the new currency arrangement they are still claimed to be too high.</note>
+				<note xml:id="q-0a5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">For example:-</note>
+				<note xml:id="q-0b5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Men's suits of medium quality cost 100.00 - 160.00 DM</note>
+				<note xml:id="q-0c5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Women's dresses of medium quality cost 60.00 - 130.00 DM</note>
+				<note xml:id="q-0d5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">Shoes of medium quality cost 30.00 - 40.00 DM</note>
+				<note xml:id="q-0e5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">Stockings of medium quality cost 6.00 - 8.00 DM</note>
+				<note xml:id="q-0f5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">The STEG-System was welcomed by the Berliners although the goods are mostly in short supply and the people think that the prices are somewhat high, it will be possible for many to buy these goods once the currency position has become stable. The quality of the STEG-Textiles is praised all round. hhh 6. The Press and Broadcasting</note>
+				<note xml:id="q-105088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">The criticisms which were made a month ago about RIAS and its political cabaret programme have increased. Many of those interviewed are not interested in the programme "Varady funkt dazwischen", and say that these broadcasts should be taken off the air. The recent broadcast. "Der Insulaner" was appreciated by the majority. hhh 7. Denazification</note>
+				<note xml:id="q-115088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">A general stir was cause when the court dealing with the proceedings against the Nazi Film Director, Veit Harlan, was transferred from Homburg to Berlin and back. The Berliners could not understand why special aeroplanes were used for a matter which, in their opinion, was not urgent, whilst businessmen are often unable to make business trips on which the future of many workers depends.</note>
+				<note xml:id="q-125088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="42">J.E. Dixon</note>
+				<note xml:id="q-135088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="43">P.O.R.O.</note>
+				<note xml:id="q-145088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="44">HQ CCG (RE)</note>
+				<note xml:id="q-155088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="45">B.A.O.R.2</note>
+				<note xml:id="q-165088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="46">NF/6-4-49 hhh APPENDIX TO MORALE REPORT NO. 41. Notes on Currency Conversion. hhh 1. General</note>
+				<note xml:id="q-175088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">The great majority of Western Berliners interviewed welcomed the mone­tary reform and are glad that the currency confusion of the last 9 months is ended. There is, however, no lack of criticism of the implementation and interim instructions which have been issued.</note>
+				<note xml:id="q-185088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">There is unanimous agreement that the "per capita quota" is too small, particularly as the West Berlin press on the morning of the 20th March had announced that the per capita quota would be about 50 DM. This news had induced many West Berliners to rush to exchange their West marks for East marks.</note>
+				<note xml:id="q-195088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">(Readers are asked to note that the word "per capita quota" was used by the majority interviewed. P.O.R.O. has been informed by the British Military Government that there was no such thing as "per capita quota". The arrangement referred to was a transitional measure to enable 15 Eastern marks to be changed on a 1:1 basis for the purpose of the purchase of rationed food).</note>
+				<note xml:id="q-1a5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">The regulation whereby persons living and working in the Western Sector but drawing their rations in the Eastern Sector should in future receive only 10% Western marks had a mixed reception. While the majority of those interviewed consider this measure to be right and look upon it as a just punishment for the "renegades", other sections, especially all those who are themselves affected by this regulation, think it is unjust and undemo­cratic.</note>
+				<note xml:id="q-1b5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">Western Berliners who reside in the West Sectors and are registered with their ration cards in the West but who work in the Eastern Sector receive 60% in Western money whereas those who are working in the Eastern Sector and are registered there receive 30% West marks; this is regarded as an unfair hardship.</note>
+				<note xml:id="q-1c5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">The recipients of 60% Western money are of the opinion that they will be forced to register in the Eastern Sector for food etc., otherwise their Eastern money will be worthless. They state that the 60% Western money is only sufficient for rent, gas and electricity. On the other hand the recipients of 30% Western money, who need Western money for rent, gas and electricity and have had the advantages of registering in the Eastern Sector during this winter, are better off. In order to prevent this unfair hardship for recipients of 60% Western money it is expected by those concerned that the Magistrat will bring about a mitigation by special regulations.</note>
+				<note xml:id="q-1d5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">During the last few days there was a perceptible lack of small change in Western marks and an attempt is being made to meet this by using 1 pf stamps. hhh 2. Eastern Marks</note>
+				<note xml:id="q-1e5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">The Eastmark supply and demand was fairly balanced for the first few days after the currency conversion, the rate being 1:5 to 1:5.5.</note>
+				<note xml:id="q-1f5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">It was particularly in demand with business people to meet obligations still payable in</note>
+				<note xml:id="q-205088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">Eastern marks (February telephone fees, part of April rents etc.) People who wished to take advantage of the favourable rate to obtain Eastern marks cheaply in order to make purchases in the Eastern Sector also offered Western marks in the Exchange Bureaux. hhh 3. Labour Market</note>
+				<note xml:id="q-215088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">Many workers and employers reported that they considered that the introduction of the Western Mark would inevitably result in an increase in unemployment figures - at least in the transition period.</note>
+				<note xml:id="q-225088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">In particular, concerns which formerly had business relations only with the Eastern Sector or Zone and whose receipts were mainly in Eastern marks fear that in view of the present West mark obligations their enter­prises may be forced into liquidation.</note>
+				<note xml:id="q-235088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">Some persons employed in such firms reported that after the currency reform their employers gave them the choice between accepting only 50% Western money or dismissal.</note>
+				<note xml:id="q-245088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">Business proprietors, artisans, hairdressers, shoemakers, tailors, hotel owners, cinemas, theatres and restaurants report a considerable reduction in their clientele, the reason being, in their opinion, that many now go to the Eastern Sector.</note>
+				<note xml:id="q-255088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">It was reported that sales figures of the Western Press and the number of passengers in BVG vehicles have also fallen considerably and on the other hand that more people are using the S-Bahn (which continues to accept Eastern Marks). hhh 4. Supply of Goods and Prices</note>
+				<note xml:id="q-265088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">After the currency reform, efforts to obtain customers were intensified but although there was in some cases an increased supply of goods and many prices fell, the buying public continues to be wary.</note>
+				<note xml:id="q-275088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">The variety of foods and wide range of prices continues to be remarkable and the majority of business men state that recosting under the changed currency conditions will take some time and is principally dependent upon the possibilities of importing and exporting goods.</note>
+				<note xml:id="q-285088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">N7/7-4-49.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Extract from the Conclusions of a Meeting of the War Cabinet, held on Wednesday, 15 April, 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-cb9ae49c-a120-408d-928a-c402d3b47cd4</idno>
+				<idno type="qudexdocument">q-30efa924-bf06-4190-86e3-5da7dc67fabd</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-ee537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">SECRET.</note>
+				<note xml:id="q-ef537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">COPY NO. 13</note>
+				<note xml:id="q-f0537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">ARMY COUNCIL SECRETARIAT</note>
+				<note xml:id="q-f1537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">TO BE KEPT UNDER LOCK AND KEY</note>
+				<note xml:id="q-f2537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">It is requested that special care may be taken to ensure the secrecy of this document. Extract from the Conclusions of a Meeting of the War Cabinet, held on Wednesday, 15th April, 1942.</note>
+				<note xml:id="q-f3537fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="6">PROPAGANDA AT HOME. hhh. The War Cabinet had before them a Memorandum by the Minister of Information (W.P.(42)155) suggesting the following procedure with a view to formulating a propaganda policy:-</note>
+				<note xml:id="q-f4537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">(a) The Minister of Information should circulate to the War Cabinet once a month an appreciation of the state of public morale. This should take into account, in its preparation, the views of any other Departments primarily concerned with the Home front.</note>
+				<note xml:id="q-f5537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">(b) This appreciation would contain recommendations as to any general lines which publicity should take in the ensuing month.</note>
+				<note xml:id="q-f6537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">(c) The decisions of the War Cabinet would be taken as a Directive binding on all Departments until further notice. hhh Discussion showed general agreement with the Minister's proposals. The following were among the points made:-</note>
+				<note xml:id="q-f7537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">(1) The public ought to be told more about the positive achievements of the Nation's War effort.</note>
+				<note xml:id="q-f8537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">(2) The view was expressed that more could be done without impairing security to let the public know the achievements of the Fighting Services: the defence of Malta or the actions of H.M.S. PENELOPE and AURORA were cited as examples.</note>
+				<note xml:id="q-f9537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">(3) THE PRIME MINISTER thought that more could, perhaps, be done to encourage well-informed answers (not in the form of Government statements) in reply to misguided criticism of the conduct of affairs by the Government.</note>
+				<note xml:id="q-fa537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(4) It was suggested that comment should be separated from news items in the B.B.C. bulletins.</note>
+				<note xml:id="q-fb537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(5) THE HOME SECRETARY AND DEMISTER OF HOME SECURITY, while in agreement with the Minister's proposals, thought it was important, in view of the number of Departments concerned, that the matter should be considered on the widest possible basis. He attached particular importance to the measures to be adopted for ascertaining the views of other Departments concerned with the Home Front. The Minister of Information undertook to discuss this matter with the Home Secretary.</note>
+				<note xml:id="q-fc537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">(6) It was important that the appeal to the public should not be too materialistic. Thus, the improved state of feeling in the country in recent weeks probably owed something to the fact that the Government had adopted a number of measures which involved greater austerity.</note>
+				<note xml:id="q-fd537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">(7) The Report prepared by "Mass Observation", entitled "Inquiry into British War Production" was unfavourably cemented on. hhh The War Cabinet:-</note>
+				<note xml:id="q-fe537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(a) Approved the procedure proposed by the Minister of Information (as set out at "X" above), and took note that the Minister would discuss with the Home Secretary and Minister of Home Security the measures to be adopted for ascertaining the views of other Departments concerned with the Home front.</note>
+				<note xml:id="q-ff537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">(b) Approved the directions in paragraph 7 of the Memorandum as to the general lines which Government publicity should follow."</note>
+				<note xml:id="q-00547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Distributed on 16.4.42 to:-</note>
+				<note xml:id="q-01547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Copy No. 1 - U.S. of S.</note>
+				<note xml:id="q-02547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">2 - C.M.</note>
+				<note xml:id="q-03547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">3 - P.M.</note>
+				<note xml:id="q-04547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">4 - A.G.</note>
+				<note xml:id="q-05547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">5 - Q.M.G.</note>
+				<note xml:id="q-06547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">6 - D.G.A.R.</note>
+				<note xml:id="q-07547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">7 - P.U.S. (F).</note>
+				<note xml:id="q-08547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">8 - D.G.W. &amp; E.</note>
+				<note xml:id="q-09547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">9 - D.P.R.</note>
+				<note xml:id="q-0a547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">10 - A.U.S.</note>
+				<note xml:id="q-0b547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">11 - A.C.S./255.</note>
+				<note xml:id="q-0c547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">12 - Daily Folio.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

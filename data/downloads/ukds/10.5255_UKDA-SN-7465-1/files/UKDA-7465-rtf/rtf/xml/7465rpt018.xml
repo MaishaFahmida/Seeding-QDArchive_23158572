@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 36 - first half of January 1949</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-7d2d6933-017a-4a4c-b0fc-5a66240d387a</idno>
+				<idno type="qudexdocument">q-4a276380-6fb9-4acc-b90b-8c7959c78423</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-bd5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">Tel: 86 57 78</note>
+				<note xml:id="q-be5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-bf5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Political Division</note>
+				<note xml:id="q-c05088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Lancaster House</note>
+				<note xml:id="q-c15088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ CCG (BE)</note>
+				<note xml:id="q-c25088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">Berlin</note>
+				<note xml:id="q-c35088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">B.A.O.R.2</note>
+				<note xml:id="q-c45088b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">18 Jan 49</note>
+				<note xml:id="q-c55088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">To: Public Opinion Research Office</note>
+				<note xml:id="q-c65088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">Political Division</note>
+				<note xml:id="q-c75088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="11">229 HQ CCG</note>
+				<note xml:id="q-c85088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="12">Hannover</note>
+				<note xml:id="q-c95088b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="13">Subject: Morale Report No. 36.</note>
+				<note xml:id="q-ca5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Herewith Report on Berlin Morale No. 36 for the first half of January.</note>
+				<note xml:id="q-cb5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Readers are asked to remember that although this report is compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting.</note>
+				<note xml:id="q-cc5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">J.E. Dixon</note>
+				<note xml:id="q-cd5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">P.O.R.O.</note>
+				<note xml:id="q-ce5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="18">Pol.Liv.</note>
+				<note xml:id="q-cf5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="19">HQ CCG (BE)</note>
+				<note xml:id="q-d05088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="20">B.A.O.R.</note>
+				<note xml:id="q-d15088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">CONFIDENTIAL</note>
+				<note xml:id="q-d25088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="22">Public Opinion Research Office</note>
+				<note xml:id="q-d35088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="23">Political Division</note>
+				<note xml:id="q-d45088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="24">Lancaster House</note>
+				<note xml:id="q-d55088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="25">HQ CCG (BE)</note>
+				<note xml:id="q-d65088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="26">Berlin</note>
+				<note xml:id="q-d75088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="27">B.A.O.R.2</note>
+				<note xml:id="q-d85088b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="28">Berlin Morale Report No. 36. (First Half of January.) hhh 1. General Atmosphere and Morale</note>
+				<note xml:id="q-d95088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">The general outlook of the Berliners has changed little since the last report in December. The people have little hope that the Berlin question will be settled this year, they think that only a miracle would get them out of their present difficulties. Although many call 1949 the "year of decision", rumours of an "inevitable war in the spring" have died down con­siderably.</note>
+				<note xml:id="q-da5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">On the whole, Berliners show less interest in politics at present than they did a few weeks ago, most minds are fully occupied trying to solve the manifold and difficult problems of the winter. An opinion that is frequently voiced is: "First of all, we must get through this winter. Then we can concern ourselves with other matters."</note>
+				<note xml:id="q-db5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Secretary Marshall's resignation was regretted by the majority of Berliners, with whom he was very popular. Although they believe the future American foreign policy is not to be changed, many Berliners have their own ideas on the subject. One frequently hears opinions like "We Berliners knew what we had in Marshall, but what his successor will be like remains to be seen."</note>
+				<note xml:id="q-dc5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">The prisoner of war problem raised by the Western Powers at the turn of the year and the publication of figures and of the notes addressed to the Soviet Union aroused interest among the population of Berlin. The general opinion is that this step, and their attitude towards the prisoners of war in their hands during the past three years) have won the Western Powers much esteem in all sections of the German population. The Soviet reply to the prisoner of war problem is described as a distortion of facts, and particularly harsh words were spoken by the Berliners about the Soviet-licensed German newspapers and broadcasts. They said that any German should be ashamed of participating in the spreading of such reports.</note>
+				<note xml:id="q-dd5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Berliners are taking only a remote interest on the situation in Palestine, China and Indonesia. Some said: "Now the whole world will see that it is not only the Germans who start wars. Not even UNO will be able to guarantee world peace for an indefinite time." hhh 2. Domestic Fuel and Power</note>
+				<note xml:id="q-de5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Fuel is still the Berliners' greatest worry, and some Berliners' living at the Sector Borders say they have recently registered in the Soviet Sector to obtain coal, wood etc. offered there. They claimed the allocations granted by the Western Powers are by no means sufficient to meet their needs and their Westmark income is too small to allow them to purchase these commodities on the Black Market.</note>
+				<note xml:id="q-df5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Those Berliners interviewed who have registered in the Soviet Sector claim they did so out of dire need and not because of personal convictions.</note>
+				<note xml:id="q-e05088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Very few Berliners are making use of the offer to obtain coal in the Free Shops of the Soviet Zone at Potsdam and Babelsberg. This is probable because this offer is not known to the majority of Berliners, those who have made use of this say the Soviet Zone police allow coal bought in the Free Shops to be taken out without objection. It is said that the S-Bahn authorities limit the weight to 35 lbs. The price of coal sold in the Free Shops is 1 cwt. for 16.00 - 18.00 Eastmarks. hhh 3. Financial Worries</note>
+				<note xml:id="q-e15088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">Financial worries of Berliners caused by the co-existence of two currencies and the general shortage of Western money, have not improved in any way.</note>
+				<note xml:id="q-e25088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">The announcement by Western Berlin post offices that in future DM(West) will be demanded for certain charges (telephone rentals, postage fees for money transfers, registered mail and air mail to the Western Zones and parcel post), has met with indignant protests from the majority of Berliners. They say the Western Powers should put a stop to this at once, or introduce the DM (West) as sole currency.</note>
+				<note xml:id="q-e35088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">An opinion frequently voiced in Berlin concerning the Free Shops in the Soviet Sector and the Soviet Zone is that the SMA is attempting in this way to draw off a large part of the Eastern money from Western Berlin in order to bring down the rate of exchange (at present approx. 3.40 - 3.70 East for 1 DM (West). hhh 4. Food</note>
+				<note xml:id="q-e45088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">The majority of Berliners say that the food position has improved considerably during the last three months, but there is a widespread rumour that the ration increase granted on November 1st will be cancelled in February or March. Rations have everywhere been issued promptly.</note>
+				<note xml:id="q-e55088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">Many complaints continue to be made about the inadequate allocation of beverages, the bad quality of dried potatoes and monotonous supply of tinned beef. The possibility of buying honey on the January sugar coupons is welcomed by housewives.</note>
+				<note xml:id="q-e65088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">Requests were made to include milk powder in the adults' ration.</note>
+				<note xml:id="q-e75088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">The tobacco allocations in all three sectors are still considered to be too low and their distribution irregular; many Berliners blame the Magistrat for this, they say the distribution of those quantities which are available is unnecessarily delayed by bureaucratic and clumsy distri­bution machinery.</note>
+				<note xml:id="q-e85088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">From the French Sector came many complaints about the inadequate supply of soap and washing materials. hhh 5. Employment</note>
+				<note xml:id="q-e95088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">In addition to the general employment problems which are partly due to the blockade, a great number of Berliners particularly stressed the difficulties arising for those who have lost their employment in the Soviet Sector because of their political convictions, and who, under the present conditions, cannot find new employment in Western Berlin.</note>
+				<note xml:id="q-ea5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">Juveniles complained particularly of the shortage of training jobs and of other suitable training possibilities. It was stated, among others for example, that there is no training school for hairdressers in Western Berlin' and that hairdresser apprentices from Western Berlin had to go to the Soviet Sector where great difficulties were put in their way at the training schools.</note>
+				<note xml:id="q-eb5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">Complaints about irregular and slow payments of unemployment benefits remain unchanged. It was stated that on occasion the payments are 4 - 6 weeks in arrears and the unemployed claim they live in poverty as a result.</note>
+				<note xml:id="q-ec5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">Many employees asked that work books issued by the Nazis should be abolished. Some claim that when visiting the 'Russian Zone or Sector they were interrogated by police regarding their activities (e.g. employees of Military Government, Press, Radio etc.)</note>
+				<note xml:id="q-ed5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">The freedom of trade announced for the American Zone by the US Military Government has aroused much interest, particularly on the part of business men. Opinions on this often differ and may best be brought under the follow­ing two main denominators:</note>
+				<note xml:id="q-ee5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">1. One group hopes that freedom of the trade will diminish the existing bureaucratic methods and prepare the way for healthy free competition,</note>
+				<note xml:id="q-ef5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">2. The second group fears that freedom of the trade will cause the general standards of craftmanship to be lowered, and that only ruthless business men will benefit. hhh 6. Politics</note>
+				<note xml:id="q-f05088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">The average Berliner takes little interest in German Party politics and frequently does not understand the reasons for controversies, as for instance those existing between the SPD and the CDU. What matters to them is merely that the parties are anti-Communist, and in most cases this is where their interest in German politics ends. A great number of Berliners say that there is little point at the moment in concerning themselves with political feuds, as the parties "cannot do anything until the Occupation Powers have a clear-cut German policy".</note>
+				<note xml:id="q-f15088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">The decision taken by the Parliamentary Council at Bonn to recognise the representatives of Berlin as members with equal rights and votes has been received with great satisfaction by large circles of the Berlin popul­ation. hhh 7. Attitude towards the Occupation Powers</note>
+				<note xml:id="q-f25088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">The Russian attitude towards the prisoner-of-war problem, the tighten­ing of the Berlin blockade by the blocking of all imports from the Soviet Sector and the Soviet Zone and the strict controls and confiscations at the borders of the Western Sectors in connection with this step, have further increased the dislike of the Russians in Western Berlin.</note>
+				<note xml:id="q-f35088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">The British are criticised on account of the resumption of dismantlings in the British Zone. Whilst the French attitude to the Stolpe affair is still rankling, the Americans are frequently accused of putting profit motives above a real desire to help even in the air lift.</note>
+				<note xml:id="q-f45088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">One of the criticisms made is that it is not possible to send German mail or parcels from abroad by air, whilst CARE parcels, which are paid for in dollars, are transported in special planes. In the view of the Germans, similar considerations apply to the flights of German passengers between Berlin and Frankfurt by A.O.A. If Germans have dollars they may buy air tickets without difficulty, whereas people paying in D-Marks often have to wait weeks for an air passage.</note>
+				<note xml:id="q-f55088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">The Ruhr statute published in December is little discussed in Berlin. Berliners interested in the Ruhr question said that the British and Americans had been too lenient regarding the French claims, they say these claims have been mainly prompted by the desire to eliminate German competition. hhh 8. Housing</note>
+				<note xml:id="q-f65088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">A great number of houses and flats in Berlin are still not weatherproof and there is a particular shortage of window-glass.</note>
+				<note xml:id="q-f75088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">It is of interest that in recent weeks an increasing number of flats has been offered (usually furnished), which are advertised at prices vary­ing from five hundred to three thousand DM (West).</note>
+				<note xml:id="q-f85088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">There are many complaints from Berliners that they have great difficulties with the housing offices and that, in particular, the regulations governing removals from one sector to another have an obstructive effect. hhh 9. Clothing</note>
+				<note xml:id="q-f95088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">Although there is a great demand for warm outer clothing, underclothes, footwear and stockings, the Berliners make relatively little use of their valid textile coupons. The reason which is usually given, is that the goods offered are frequently of inferior quality and that the prices are far too high. hhh 10. Radio and Press</note>
+				<note xml:id="q-fa5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">The RIAS Broadcasting Station (in the American Sector) has for some time been severely criticised by the upper classes. They describe it as a typical military station which, in their opinion, displays an increasing lack of objectivity and impartiality.</note>
+				<note xml:id="q-fb5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">Many say that at the present stake of political intrigues the RIAS should inform Berliners on all current matters instead of- merely reproducing in an entirely biased manner, the standpoint of the American Military Govern­ment. The only good German broadcasting station, they say, is the NWDR which, thanks to the lifting of Military Government censorship, has developed a style of its own and is attracting more and more listeners.</note>
+				<note xml:id="q-fc5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">The same section of people also reject the boycott campaign against cultural institutions in the Eastern Sector (theatres, cinemas etc.) which has been conducted for some time by the US licensed TAGESSPIEGEL. The standard of the TAGESSPIEGEL is said to have deteriorated considerably through the use of such violent propaganda slogans as "Keep away from all theatres in the Eastern Sector".</note>
+				<note xml:id="q-fd5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="65">(It should again be pointed out, however, that the views given under 10 are not general, but originate mainly from the Intelligentsia.) hhh 11. Black Market</note>
+				<note xml:id="q-fe5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="66">A striking factor in the first weeks of January has been a diminishing of Black Market purchases. The reason is that most people have spent their available money at Christmas and the New Year.</note>
+				<note xml:id="q-ff5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="67">Offers of English chocolate and American cigarettes continue to be large. Candles are rather scarce and difficult to obtain.</note>
+				<note xml:id="q-005188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="68">The following are some of the present prices in Western currency:</note>
+				<note xml:id="q-015188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="69">125 g of English chocolate 7.50 - 9.00 DM</note>
+				<note xml:id="q-025188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="70">500 g cocoa 30.00</note>
+				<note xml:id="q-035188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="71">500 g coffee beans 23.00</note>
+				<note xml:id="q-045188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="72">500 g milk powder 14.00</note>
+				<note xml:id="q-055188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="73">500 g sugar 5.75 - 6.25</note>
+				<note xml:id="q-065188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="74">500 g butter 18.00 - 20.00</note>
+				<note xml:id="q-075188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="75">1500 g bread 3.00</note>
+				<note xml:id="q-085188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="76">500 g beef 14.00</note>
+				<note xml:id="q-095188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="77">500 g pork 17.00</note>
+				<note xml:id="q-0a5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="78">500 g lard 21.00</note>
+				<note xml:id="q-0b5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="79">1 kg wheat-flower 3.50</note>
+				<note xml:id="q-0c5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="80">1 cwt. potatoes 45.00</note>
+				<note xml:id="q-0d5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="81">1 cwt. coal 15.00 - 17.00</note>
+				<note xml:id="q-0e5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="82">1 candle 0.50</note>
+				<note xml:id="q-0f5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="83">1 American cigarette 0.35</note>
+				<note xml:id="q-105188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="84">J.E. Dixon</note>
+				<note xml:id="q-115188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="85">P.O.R.O.</note>
+				<note xml:id="q-125188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="86">Pol.Div.</note>
+				<note xml:id="q-135188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="87">HQ CCG (BE)</note>
+				<note xml:id="q-145188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="88">B.A.O.R.2</note>
+				<note xml:id="q-155188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="89">NF/18-1-49.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

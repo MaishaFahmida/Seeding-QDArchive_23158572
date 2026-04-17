@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 57</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-7d75dccd-41ac-4cd9-87c8-d32168c30d6c</idno>
+        <idno type="qudexdocument">q-16a816e2-eb01-4396-95e9-c910a71a50e3</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-727e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-737e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">It was in the
+				year 1978 that I left school. I was 16 years of age and had my job already lined up.
+				I was going in to the <sic>navey</sic><corr>navy</corr> as a junior <sic>seamon</sic><corr>seaman</corr> operator 2nd class. The training went
+				on in barrack until I was 16 ½ we had had six months training on land and now was
+				our chance to go to sea on the training ships for a further 1 ½ years.</u>
+      <u xml:id="q-747e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">It was after this
+				2 years that I was made a <sic>seamon</sic><corr>seaman</corr> operator 1st class. I had signed up for 12 years
+				and had ten left to serve. It was a good life and four years later I got my first
+				real promotion. I had in my four years <sic>traveled</sic><corr>travelled</corr> to a great number of places and was
+				about due to set off for a six month stay in America. When I <sic>recieved</sic><corr>received</corr> a distressing
+				letter from my mum.</u>
+      <u xml:id="q-757e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">She had written
+				to tell me that my younger brother mark had been knocked down by a bus and, was
+				lying in hospital in a coma. I went to my captain and asked his <sic>permition</sic><corr>permission</corr> for a time
+				off on leave. This was granted and the next day I was on the train home. My brother
+				took six days to come out of his <sic>come</sic><corr>coma</corr> and I had to fly out to America and pick up my
+				ship from there. The next few years went past quite <sic>uninterupted</sic><corr>uninterrupted</corr> and, I got another
+				promotion I had one year left to serve and decided there and then that I would sign
+				up for the next twelve and get my <sic>pention</sic><corr>pension</corr>.</u>
+      <u xml:id="q-767e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Between finishing
+				my first period at work and signing for my next I had two month <sic>of</sic><corr>off</corr>. In this time I
+				went around and visited all my old friends. One of <sic>whome</sic><corr>whom</corr> was called Stephen. During
+				this time we went fishing a great deal and, met some of our old girl friends. It was
+				while we were in a pub that we decided when I finished my next stint in the <sic>Navey</sic><corr>Navy</corr> we
+				would get together and buy ourselves a charter boat. There was to be no stopping
+				this plan, and while I was a way Stephen got every thing settled.</u>
+      <u xml:id="q-777e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Two years into my
+				stint I got married to a lass called Jill. We decided the best thing we could do was
+				get ourselves a house with a mortgage no that at least we would have a place of our
+				own. We did not find this too hard as over the years I had saved quite a today
+				sum.</u>
+      <u xml:id="q-787e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">This arrangement
+				went on very well for a good few years we had now got two children both boys with
+				only two years to go until I came out of the <sic>navey</sic><corr>navy</corr>. I heard from Stephen that he had
+				found the right <sic>boar</sic><corr>buyer</corr> and paid the down payment.</u>
+      <u xml:id="q-797e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">After this news
+				came to me my last two years seemed to fly past. Within no time atall I was out. I
+				had been given a <sic>pention</sic><corr>pension</corr> of thirty pounds a week and a lump sum of eight thousand to
+				get my self started on. It was hard work for the first could of years and this money
+				was needed.</u>
+      <u xml:id="q-7a7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">We had to make a
+				good name for ourselves as there was a lot of competition in this field. As we had
+				both been keen fishermen all of our lives we did not find this two hard and in our
+				firth year we had no difficulties at all in filling our <sic>timtables</sic><corr>timetables</corr>. This life was to
+				suit me for the next thirty years of my life and now at the age of sixty eight I
+				have retired still a fit man.</u>
+    </body>
+  </text>
+</TEI>

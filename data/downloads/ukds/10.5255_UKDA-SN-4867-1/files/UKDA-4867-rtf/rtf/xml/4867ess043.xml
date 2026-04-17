@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 44</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-fb874f93-acf4-41ca-8579-b4e25169a9b1</idno>
+        <idno type="qudexdocument">q-6145cd9e-4730-4cbd-bb27-d810dfee23a0</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-2f7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">The Past</note>
+      <u xml:id="q-307e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I can remember
+				well when I left school. My last day at school was a Friday and I had four last day
+				at home before I left to go into the Navy. I first went down to Plymouth and spent
+				six weeks at Torport <sic>Cadit</sic><corr>Cadet</corr> training centre. During that time I received my results
+				of my ‘o’ levels that I had taken the month before. I passed all of them except my
+				art exam. I then signed up with the Navy for 12 years. I think that was the biggest
+				<sic>descion</sic><corr>decision</corr> I had ever made in my whole life. And I settled down to spend a year a Naval
+				<sic>collage</sic><corr>college</corr>.</u>
+      <u xml:id="q-317e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I can remember
+				well the first motorbike I had, I brought it new on the HP on my 17th birthday. I
+				had a great time with that old bike. I have still got it out in the shed. But as we
+				haven’t been {illegible} to pay petrol for the last thirty years it has just been
+				rotting away. I spent a year at <sic>Naval</sic><corr>naval</corr><sic>collage</sic><corr>college</corr> and then I went to sea for a year. I
+				think that was one of the best years of my whole life. At first I was on HMS Neptune
+				a First class destroyer. There no such thing as destroyer now not since the world
+				council abolished all earth based <sic>navys</sic><corr>navies</corr>. On that destroyer I went to Hong Kong.
+				Fantastic place is <sic>HongKong</sic><corr>Hong Kong</corr> then we moved to Australia. I remember Sidney well they
+				was trying to break the world record distance for man powered flight. Our Capt. gave
+				us permission to form a team and have an attempt. I think our machine only ever got
+				of the ground for a couple of seconds. And only moved about ten yards.</u>
+      <u xml:id="q-327e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After that I came
+				back to Britain and was stationed at Scotland I think that is World council sector
+				90 today.</u>
+      <u xml:id="q-337e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I met the wife
+				there. I remember her as a really good looking girl who wouldn’t <sic>touche</sic><corr>touch</corr> me with a
+				bargepole. <sic>whats</sic><corr>What's</corr> a pole. Well it was a wooden stick about 15 metres long. But one
+				day some bloke had dropped her and I went over to try my lucky. We have never been
+				apart since. We were married a year later. Because I was married it put an end to my
+				<sic>traverling</sic><corr>traveling</corr> by ship. But I was posted to <sic>HongKong</sic><corr>Hong Kong</corr> after my training. And we lived
+				<sic>happerly</sic><corr>happily</corr> there for several years. I had had about 2 promotions at the time and I was
+				offered a commission. To be chief engineer of Rosath in Sector 90. Well as the
+				situation was getting a bit dodgey with the Chinese me and the wife decided that
+				move would be the best thing.</u>
+      <u xml:id="q-347e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">And then your Dad
+				came along your dad was a big baby. When your father was about 5 or 6 six I had to
+				decide <sic>wheather</sic><corr>whether</corr> to stay in the Navy for another 15 years or <sic>wheather</sic><corr>whether</corr> I was going to
+				going out into civy street.</u>
+      <u xml:id="q-357e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">At about that
+				time the world council was coming into being and the 2nd Jesus cult was reaching its
+				peak. I thought it was best if I looked for a job in civy street and as I had worked
+				with some of the best marine propulsion equipment going at the time a applied for a
+				job as chief engineer for a fleet of <sic>Mechant</sic><corr>merchant</corr> submarines. The pay was triple the
+				amount I was <sic>receiveing</sic><corr>receiving</corr> and my family was growing very fast I took the job and here
+				I am sitting on the board of director and money in the world bank.</u>
+    </body>
+  </text>
+</TEI>

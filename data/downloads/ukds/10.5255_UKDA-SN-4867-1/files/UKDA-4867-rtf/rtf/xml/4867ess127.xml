@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 129</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-294da730-7a30-4657-adcf-83e10a79a8b0</idno>
+        <idno type="qudexdocument">q-74fe39f4-4b58-4a26-a8ba-a16f7a281f18</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-ad805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">At 17 years old,
+				I am going into the 6th year at the school for one year then I hope to get engaged
+				to Shawn. At 18 I am going in the army for at least 10 years. I hope that at 20 that
+				I will get married and I hope to have at least 2 girls before I am 23. I hope at 23
+				to live in Germany. At 30 I hope to live in England again. I hope to have a large
+				house and 3 large sheep dogs. At 33 I would like to work at a office.</u>
+      <u xml:id="q-ae805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At 40 I hope to
+				have all my kids left me so that I can go to different places with Shawn.</u>
+      <u xml:id="q-af805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">At 45 I would
+				hope to own a farm, and have a lot of animals on it.</u>
+      <u xml:id="q-b0805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">At 50 I expect I
+				will be old but I would still like to own a farm.</u>
+      <u xml:id="q-b1805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">At 60 I would
+				like to have a farm still and a large house so that I can enjoy the last years of my
+				life.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 98</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-e42daf7f-c5c4-4750-bfd1-ea98e638ea74</idno>
+        <idno type="qudexdocument">q-84c9f659-3721-4ab3-972c-57c423ceded4</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-a47f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past Years</note>
+      <u xml:id="q-a57f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back onto
+				my life, I feel that I filled my time wisely. I like to think of the <sic>hapier</sic><corr>happier</corr> times I
+				had of the joy’s and pleasure of my younger days. I started my older days in 1976
+				when I left school, I then went on to do three years at college, after my school
+				type days were over I was fit for a career for what I had trained for.</u>
+      <u xml:id="q-a67f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I went off to
+				work in a large hotel in London looking after foods and wines, this was what I had
+				dreamed of and there I was doing my job.</u>
+      <u xml:id="q-a77f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Life seems to
+				come in stages, when I look over the past I feel I’ve now finally reached the
+				top.</u>
+      <u xml:id="q-a87f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I carried on work
+				for many years, earned enough to keep us going, as now I was married, we worked hard
+				to collect for a fine house and a few <sic>luxurys</sic><corr>luxuries</corr> that life needed.</u>
+      <u xml:id="q-a97f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">After four years
+				of marriage the first of the family arrived, I left my job and started to play the
+				part of housewife. Life seemed to be hard, and being a mother it was even harder.
+				After the second child was born it seemed to be a little more like home. As time
+				passed rapidly the family grew up the first boy had just left school and was now out
+				to work.</u>
+      <u xml:id="q-aa7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">As my family were
+				now a little older, I had decided to work again, I started my own little business at
+				home. I was making lovely cake for weddings birthdays etc. The family was young no
+				longer both children now at work it was sad to watch I was young once dreaming of
+				the years when I could go to work, have a home and a family and here I was age going
+				up getting on.</u>
+      <u xml:id="q-ab7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Not a lot
+				happened to me in my <sic>fourty’s</sic><corr>fourties</corr> but I could be happy and watch my family growing. The
+				time I started to feel older was when I was told the fine news that I was to be a
+				grandmother. It was lovely but I felt I was getting on. As my family had grown so <sic>to</sic><corr>too</corr>
+				did the grandchildren, as life has it good times there <sic>to</sic><corr>too</corr> was sadness, my husband is
+				now passed on and I can just sit back and recall all of the happy <sic>memorys</sic><corr>memories</corr> of my
+				life.</u>
+    </body>
+  </text>
+</TEI>

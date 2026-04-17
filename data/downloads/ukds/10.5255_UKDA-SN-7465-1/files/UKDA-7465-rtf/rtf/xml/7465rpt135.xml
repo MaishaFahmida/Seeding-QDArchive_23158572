@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Half Yearly Report, 26 Sept 47</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-4ac32f62-d4d3-4ab6-babe-54f26fc5a859</idno>
+				<idno type="qudexdocument">q-869bd061-3bb9-4cec-b933-5c00335a1b39</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-a7557fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject: Half Yearly Report.</note>
+				<note xml:id="q-a8557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">War Crimes Group/25/Details.</note>
+				<note xml:id="q-a9557fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="3">26 Sept 47.</note>
+				<note xml:id="q-aa557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">"A" Branch,</note>
+				<note xml:id="q-ab557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">31 Lor Inf Bde,</note>
+				<note xml:id="q-ac557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">BAOR.</note>
+				<note xml:id="q-ad557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Ref 7 Armd Div letter 211/1/22/A dated 19 Feb 47. Hereunder half yearly report in respect of this Unit. hhh 1. Morale.</note>
+				<note xml:id="q-ae557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Morale here in Germany is, on the whole, quite good, and the prospects of a cut in the Armed Forces announced in the Press and the news of a subsequent possibility of an increase in the speed of demobilisation is anxiously awaited. As stated in previous reports, the morale of this Unit is, I consider higher than that normally found in a unit in this theatre, especially amongst the officers and drivers, who are out on investigations for the majority of the time. All ranks, whether officers or other ranks, clerks or drivers, are actively employed, and little general duty fatigues are corned out by British personnel, and guards are on a remote basis. All these factors do, I feel, assist to raise the standard of morale.</note>
+				<note xml:id="q-af557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">The attitude of the troops towards the German inhabitants is two-fold: Those who fraternize with the women in order to satisfy their desires, and those who genuinely detest the German civilian. I am afraid that the latter are in the minority. Of course, it must be appreciated that Bad Oeynhausen, being a Garrison Town and within its own perimeter, normal contact with the average German is not so common as in towns where British troops and Germans mix freely.</note>
+				<note xml:id="q-b0557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Very little has been said concerning military leaders, but an interest is kept on what appears to be a deteriorating situation at home, and in consequence, remarks and comments concerning the possible inefficiency of some of our political leaders arise. Other more thoughtful individuals consider that at least some of the present crisis would have resulted, irrespective of the type of government in power. Many officers and other ranks are definitely worried as to their future on leaving the Army, especially in view of the economic crisis, and they do express concern in view of the fact that conditions in England are more serious than they were even during the darkest days of the war; and even now it has not yet reached its lowest ebb according to various Press reports which are published.</note>
+				<note xml:id="q-b1557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">The banning of currency for overseas travel came as a severe shock, and the opinion appears to be that partial recovery cannot occur for at least a year or so. Prospects of employment at home for released personnel, unless skilled tradesmen, appear to be not so good, and the thought of further direction is deplored by a majority. hhh 2. Discipline.</note>
+				<note xml:id="q-b2557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Discipline on the whole is quite good, although it has been observed throughout the Garrison that junior NCOs, and sometimes senior NCOs, often fail to appreciate their duties as an NCO. The average NCO in the Army in RRE work at the present time considers his stripes are solely for ability, not bearing in mind the importance of the disciplinary aspect.</note>
+				<note xml:id="q-b3557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Offences within the Unit relate, generally, to minor matters, e.g., dress, disobedience of orders, etc., and only three serious cases have resulted in the period covered by this report. hhh 3. Relations between all ranks.</note>
+				<note xml:id="q-b4557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Relations between all ranks is good, and esprit de corps is sound. Other ranks are never afraid to approach an officer on matters of either a personal or business nature, and in this Unit this is encouraged at all times; interviews being granted daily between set hours without prior arrangement. hhh 4. Leave</note>
+				<note xml:id="q-b5557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">The new leave regulations have not been too well received, although so far as home leave is concerned, there is no difference. The difference has arisen with regard to local leave, when it is now necessary to pay for travel on military trains, and further, whereas in the past men could spend a weekend at a leave center for a matter of a few shillings, it now costs a minimum of a Pound (for a private soldier practically a week's pay) for the same purpose. hhh 5. Living Conditions, including Accommodation, Messing and Canteens.</note>
+				<note xml:id="q-b6557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Living conditions are improving slowly, but a terrific amount of DCRE work is necessary before quarters can be called homely.</note>
+				<note xml:id="q-b7557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Messing on the whole is good, although complaints have been received concerning the lack of fresh green vegetables, the monotony of carrots and the poor quality of meat; and the reduction in the butter ration, which was the one bright feature of the ration scale, was not welcomed.</note>
+				<note xml:id="q-b8557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Canteen facilities in the Garrison are now excellent, and I think they meet all requirements. The Unit canteen has been taken over by NAAFI, who, with their availability of supplies, etc., are making quite a success. hhh 6. Recreation and Entertainment including News Services.</note>
+				<note xml:id="q-b9557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Welfare facilities in the Garrison are good. Entertainment is of a high order, but there are still comments on the high prices for entertainment at low class cinemas run by the AKC. Recreational facilities and news services are well provided for. hhh 7. Mail.</note>
+				<note xml:id="q-ba557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Losses appear to be few and far between, and time taken for delivery and receipt of letters is, on the whole, good. However, a slowing up is bound to occur as a result of the new regulations for methods of receipt and dispatch, i.e., postage rates, etc. hhh 8. Family Affairs.</note>
+				<note xml:id="q-bb557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Married families appear to be quite settled down in the Garrison. Other ranks are never afraid to come to an officer if something is wrong in their family affairs at home. Any cases which have come to notice have received sympathetic treatment and an investigation made into the true circumstances. hhh 9. Education</note>
+				<note xml:id="q-bc557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">The Army Education Scheme is a success, but only a small percentage take advantage of it. At no time has it been found necessary to preclude a man from attending a course on the grounds that he could not be spared, although to cover his job has often been quite difficult. hhh 10. Operation of Release and Resettlement Scheme.</note>
+				<note xml:id="q-bd557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">There are no comments on the above, although the night spent at Munster is considered by most as wasted. Personnel do not appreciate the reasons for this one night's delay. hhh 11. Health.</note>
+				<note xml:id="q-be557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Health, on the whole, is quite good, except VD, which is the main worry of any Unit Commander these days. Lectures have been given but still cases arise. No cases of disobedience of orders with regard to the use of PACs have been reported by the medical authorities. There appears to be no way in which this menace can be effectively stamped out, except by constant vigilance and examination of German women. hhh 12. Finance, Pay and Allowances.</note>
+				<note xml:id="q-bf557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Very few complaints have been heard concerning the present pay scheme, except for a possible injustice of certain sections of the star scheme in respect of junior other ranks, as very few are able to attain the 3-star grade. So far as officers are concerned and to a lesser extent ORs, any increase of pay given in the new pay code seems to be taken away by income tax, and, on the whole, no officer or OR is much better off. A few applications have been made for gratuities to be paid in BAOR, but have been turned down. Gratuities have now, on the whole, been credited to all entitled personnel. hhh 13. Miscellaneous, including suggestions.</note>
+				<note xml:id="q-c0557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">I do feel that morale could be raised in respect of troops of high age and service groups by giving them a definite date on which they can expect to be out of the Army, but such dates could always be speeded up should the political and international situation justify it.</note>
+				<note xml:id="q-c1557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">I do feel that every attention must be given to speed up DCRE work to improve men's billets, and to give them the general homely atmosphere. Also, that entertainment, leave centers and railway fares must all be within a man's reach, in order that he may take full advantage of the amenities offered him. It is no use having amenities if a soldier cannot afford to pay the prices asked, and therefore the question of train fares and AKC cinema prices should, in my opinion, be immediately reviewed. With the above, I am certain that morale in general would rise.</note>
+				<note xml:id="q-c2557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="28">Group Captain,</note>
+				<note xml:id="q-c3557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="29">Officer i/c,</note>
+				<note xml:id="q-c4557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="30">Crimes Group (NWE)</note>
+				<note xml:id="q-c5557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="31">(A.W. STONE.)</note>
+				<note xml:id="q-c6557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="32">Ext: 2246</note>
+				<note xml:id="q-c7557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="33">Adm. Section</note>
+				<note xml:id="q-c8557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="34">War Crimes Group (NWE)</note>
+				<note xml:id="q-c9557fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="35">HQ BAOR.</note>
+				<note xml:id="q-ca557fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">AWS/GCJ</note>
+			</div>
+		</body>
+	</text>
+</TEI>

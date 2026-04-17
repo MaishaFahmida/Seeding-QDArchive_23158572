@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, 4th December 1944</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-35748578-a8fd-424c-9f92-6ba0627cc4cc</idno>
+				<idno type="qudexdocument">q-37b04c3b-ad5c-49f0-b0e8-26c3a6a82eca</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-2e507fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject:- MORALE REPORT.</note>
+				<note xml:id="q-2f507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">CONFIDENTIAL</note>
+				<note xml:id="q-30507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Headquarters,</note>
+				<note xml:id="q-31507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Land Forces Adriatic Signals.</note>
+				<note xml:id="q-32507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">Ref:- LFA/750/X</note>
+				<note xml:id="q-33507fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="6">4th December 1944.</note>
+				<note xml:id="q-34507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">Headquarters,</note>
+				<note xml:id="q-35507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">Land Forces Adriatic,</note>
+				<note xml:id="q-36507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">C.M.F.</note>
+				<note xml:id="q-37507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Herewith MORALE REPORT as called for in LFA/44/AG dated 21 Nov 44. hhh 1. DISCIPLINE.</note>
+				<note xml:id="q-38507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Generally good. There has been no cases of theft, looting or desertion, only a few minor censorship evasion, traffic accident and minor offences. hhh 2. CONFIDENCE.</note>
+				<note xml:id="q-39507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">(a) In Army Leaders, and the War. There is general confidence in Army Leaders of all grades; it appears to be appreciated that they are doing their best in a difficult job.</note>
+				<note xml:id="q-3a507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(b) In Arms and Equipment. Wide appreciation that normally our arms and equipment is superior to the enemy's.</note>
+				<note xml:id="q-3b507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(c) In Efficiency. It seems to be taken as a matter of course that we are more efficient than other armies.</note>
+				<note xml:id="q-3c507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">(d) Relation with Civil Population. Fair, but too many local thefts do not assist promotion in such relation. hhh 3. MAIL.</note>
+				<note xml:id="q-3d507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">This has been speeded up between U.K. and is greatly appreciated. There are few complaints of individual delay. hhh 4. WELFARE AND ENTERTAINMENT.</note>
+				<note xml:id="q-3e507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(a) Living Conditions. Good.</note>
+				<note xml:id="q-3f507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">(b) Recreation and Amusement. Fair.</note>
+				<note xml:id="q-40507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">(c) General Welfare. Complaints (divorce applications etc.,) are dealt with quickly and this is appreciated. hhh 5. EDUCATION AND ABCA.</note>
+				<note xml:id="q-41507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Keenness displayed in education is reflected in the number of personnel taking Army Postal Courses. Beyond the distribution of ABCA Pamphlets to all ranks, little has been done as regards ABCA Lectures. The employment of personnel on Signal Office Shifts preventing even a reasonable attendance for such lectures.</note>
+				<note xml:id="q-42507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">The Post Hostilities Education Scheme has been explained but a pathetic suspicion towards the scheme is revealed by a large majority, chiefly owing to its "compulsory" nature.</note>
+				<note xml:id="q-43507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">No doubt the publication of further details will bring about a general appreciation of the utility of the scheme. hhh 6. RELATIONS BETWEEN OFFICERS AND MEN.</note>
+				<note xml:id="q-44507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">Excellent. hhh 7. RELATIONS WITH OTHER SERVICES.</note>
+				<note xml:id="q-45507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Generally good; the majority of men have been in the Army long enough to appreciate the scope of work done by most other services. hhh 8. RELATION WITH ALLIES.</note>
+				<note xml:id="q-46507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">With American, fair; it is realised they speak the same language but in other respects are "friendly foreigners".</note>
+				<note xml:id="q-47507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">With Jugoslavs, one time good, relations have slackened of late. The changing political Balkan picture, the less cordial attitude displayed by Jugoslavs when our troops are on Jugoslav soil, together with the increase in theft by Jugoslavs is rapidly reducing the Jugoslavs to the same level of Italians in the minds of most troops. hhh 9. HOME AFFAIRS.</note>
+				<note xml:id="q-48507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">The longer men are abroad the more they think of the purely domestic home affairs and less of political home affairs. Most men display a rather hazy idea of home affairs in general. Men seem satisfied with the plans being made for Post War Times, but some are concerned at the degree of control which would appear necessary to institute such plans.</note>
+				<note xml:id="q-49507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">All troops seem agreed that the proposed Release Plan is fair, but personnel with long service overseas insist that service abroad should be made an essential factor, rather than treat it by way of leave and money. hhh 10. FINANCE.</note>
+				<note xml:id="q-4a507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">Generally satisfactory except for isolated cases. The recent pay increases have been accepted as something long overdue to them and not in anyway as some offering or assistance by a grateful Government. hhh 11. MISCELLANEOUS.</note>
+				<note xml:id="q-4b507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(a) Overseas Service. Widespread general opinion is that it should be reduced. The various official reasons put forward for the impossibility of reduction are treated with some skepticism, particularly in less well informed quarters. The more Literate soldier consider that the repeated "No" of the Minister of War is the result of lack of Governmental foresight in the earlier days of the War, for which the Ministry of War is no whit less to blame, just because it is a new Minister who has to say "NO" and take responsibility.</note>
+				<note xml:id="q-4c507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Fingers are continually pointed to the R.A.F. and Royal Navy.</note>
+				<note xml:id="q-4d507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(b) Leave. The one month leave in U.K. was uniformly popular.</note>
+				<note xml:id="q-4e507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Now that soldiers have had some time to think about the scheme, the original surprise having worn off, feeling is mixed. Those who have applications for Compassionate Postings turned down by A.F.H.Q. are invariably grateful, since they see in this leave a chance to put matters right at home. The remainder considers that it would be vastly more satisfactory if the limit of overseas service were reduced. They consider and discuss figures and times, in the canteen and in billets, with 2000 men at home at one time, with the following batch being prepared and sailing home, and with the time taken for preceeding batch to return to units, the calculation is that there are 6000 men away from the theatre at any given time. With this figure admitted it is felt that overseas service could easily have been reduced, and replacements provided.</note>
+				<note xml:id="q-4f507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Unfortunately conclusions are reached which indicate that the sudden starting of this scheme had its origin in an apprehension by the Government against not allowing leave from France, and that the scheme is, in consequence, no more than a sop to other theatres, which is resented rather heatedly.</note>
+				<note xml:id="q-50507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">All soldiers, however, realise that normal channels of redress are sufficiently strong and that there is nothing outside this they can do without involving themselves in serious trouble. Therefore these matters remain subjects for discussion and thought and the circumstances are borne with cheerful resignation and a growing confidence that it will all be over soon.</note>
+				<note xml:id="q-51507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Local leave is seldom accepted except from VIS, but now that ROME is open for leave, all men are keen to go there.</note>
+				<note xml:id="q-52507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">Major R Signals.</note>
+				<note xml:id="q-53507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">Comd Land Forces Adriatic Signals.</note>
+				<note xml:id="q-54507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">Field.</note>
+				<note xml:id="q-55507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">RES.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

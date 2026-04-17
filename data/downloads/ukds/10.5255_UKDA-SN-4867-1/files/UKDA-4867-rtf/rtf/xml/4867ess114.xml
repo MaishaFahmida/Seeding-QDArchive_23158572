@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 114</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-894c7b9e-e1f4-4981-a577-745c2a06981d</idno>
+        <idno type="qudexdocument">q-45712cb4-1a7c-4b15-aaf6-b6d4650045d7</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-2b805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-2c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I now sit in my
+				old chair staring at the walls, but really I am staring into my past. I can <sic>remmeber</sic><corr>remember</corr>
+				the very first day I started work. I had to travel on my moped about thirty miles to
+				get there, very early in the morning. When I arrived I was shown into a large office
+				where all the <sic>desk</sic><corr>desks</corr> were <sic>layed</sic><corr>laid</corr> out in rows with piles of paper on. I was shown what I
+				had to do and left to get on with it.</u>
+      <u xml:id="q-2d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Two years later I
+				changed my job but remained in the same firm. I now began to enjoy my job, I became
+				able to work at my own speed and I had people to which I give orders. I stayed
+				working with <sic>computors</sic><corr>computers</corr> until I was twenty-two, by this I was married and starting a
+				family so I had no time for work.</u>
+      <u xml:id="q-2e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">As soon as my
+				family started going to school I was left to myself all day in the house so I began
+				to think about getting a job. But I didn’t want a computing job like my old one so I
+				decided on a <sic>compleatly</sic><corr>completely</corr> new <sic>carreer</sic><corr>career</corr>. I began training to become a teacher, but not
+				of ordinary children, because I had always wanted to teach blind children. It <sic>toke</sic><corr>took</corr>
+				three years to complete the teaching course, but it was worth it. I got a job
+				teaching blind children who were about six or seven. I got a lot of pleasure out of
+				this job and although I did not start teaching <sic>untill</sic><corr>until</corr> I was thirty-three I found the
+				job quiet easy and very rewarding.</u>
+      <u xml:id="q-2f805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I became more
+				aware of my society then and began to give up a few evenings a week to help out at
+				the children’s homes and play <sic>groupes</sic><corr>groups</corr>. The more I help these children the more I
+				felt I done something worthwhile with my life.</u>
+      <u xml:id="q-30805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">My family grew-up
+				very quickly and were soon making plans for their own <sic>lifes</sic><corr>lives</corr>. When they had left
+				home, the house seamed empty, so my husband and I decided to adopt a child. It was
+				not easy at first because of our ages. I was not forty and my husband was two years
+				older. But because we had brought up a family of our own and I worked with children,
+				we were accepted as a suitable couple to adopt children. We <sic>didnt</sic><corr>didn't</corr> want a small white
+				<sic>bady</sic><corr>baby</corr> because I <sic>throught</sic><corr>thought</corr><sic>to</sic><corr>too</corr> many <sic>badies</sic><corr>babies</corr> were adopted, when we went to the adoption
+				home, I saw a boy of seven who was all by himself, he was the one I choose. Some
+				people said I was a fool to adopt him because he was black. But that never mattered
+				to me.</u>
+      <u xml:id="q-31805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I think he was
+				given a good life, we treated as a son and grew to love him as much as if he was our
+				own. I still carried on with my work at the <sic>childrens</sic><corr>children's</corr> home and became more involved
+				in <sic>helpind</sic><corr>helping</corr>.</u>
+      <u xml:id="q-32805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I was fifty when
+				my husband died and that meant my whole life changed. I had to sell my house and
+				move into a small flat, along with the children I had adopted. I did not earn a lot
+				of money teaching, but I did get a small widows allowance which helped out. As the
+				boy was growing up and was not what is <sic>concidered</sic><corr>considered</corr> a young man. I was able to leave
+				him in the flat while I went out to work.</u>
+      <u xml:id="q-33805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">He left school at
+				the age of sixteen so he could work and bring home money, so that I would not have
+				needed to work so hard, instead of going onto collage. When he married he still sent
+				me money each week to help pay the bills.</u>
+      <u xml:id="q-34805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">At fifty-six I
+				remarried, more for companionship, than anything else. My new husband made me give
+				up work as he earned enough to support us both. I was then able to devote all my
+				time to helping children. At sixty I retired from helping at the blind school but
+				continued to help at the <sic>childrens</sic><corr>children's</corr> home. When my husband died I was sixty-five, so
+				now I live alone, but I still visit the <sic>childrens</sic><corr>children's</corr> home twice a week.</u>
+    </body>
+  </text>
+</TEI>

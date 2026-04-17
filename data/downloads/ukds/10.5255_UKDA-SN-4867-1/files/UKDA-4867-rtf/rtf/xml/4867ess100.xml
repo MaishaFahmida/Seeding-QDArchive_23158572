@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 100</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-2abaf66d-0f13-43bc-8904-0f897ae824b2</idno>
+        <idno type="qudexdocument">q-13a87b27-1968-4db3-8730-9af3a48b4e3a</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-b27f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-b37f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">My grandchildren
+				were playing in the garden I looked out the windows, they were playing games I once
+				had played. I sat in the chair and thought my last day at school. I left May 26th
+				1978 at 16. I joined Toyota GB LtD as a junior office clerk on Tuesday 30th May I
+				can remember sitting at home scared stiff up at half past 6 so not to overlay (did
+				not start till nine, with a five minute walk). In 1980 had been promoted to an
+				clerk, doing wages etc. That year I also met Jim at the works party (Christmas).</u>
+      <u xml:id="q-b47f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Enjoyed the work
+				more and more, now girls had joined us, I had to take them under my wing I knew how
+				they felt.</u>
+      <u xml:id="q-b57f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">1981 Brother
+				married I was chief bridesmaid I also got engaged. I applied for office secretary
+				but turned down.</u>
+      <u xml:id="q-b67f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">1982 my 21st had
+				a large party and cried when my mum gave me a silver watch from her and dad, I cried
+				again (with happiness when Jim proposed I accepted.</u>
+      <u xml:id="q-b77f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">The first few
+				months of married life were hard, our social life was virtually nil, as we saved as
+				much as we <sic>good</sic><corr>could</corr>. The day of the wedding was 14 May 1982. We stayed on the Island at
+				Rushenden but Jim changed his job. 1984 I was a mother I can remember my mums face
+				when I told her she was going to be a nanny. It was spoilt by her and dad a lot.</u>
+      <u xml:id="q-b87f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">1986 I was a
+				mother again I had left work for the first child but never gone back, told I could
+				go if I wanted to.</u>
+      <u xml:id="q-b97f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I waited till the
+				children started school. Jamie the first child cried he didn’t want to leave, so
+				when it was Claire’s turn I was prepared, only she didn’t and went off happily.</u>
+      <u xml:id="q-ba7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">1984 Also was mum
+				and dads 25th wedding anniversary, sister-in-law and I had prepared a huge tea for
+				them and a <sic>presant</sic><corr>present</corr>.</u>
+      <u xml:id="q-bb7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">1986 started back
+				to work to fit in times with the children.</u>
+      <u xml:id="q-bc7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">The children
+				grew up quickly and I can remember their first words still.</u>
+      <u xml:id="q-bd7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">1990 it was our
+				<sic>eigth</sic><corr>eighth</corr> anniversary and the children brought us breakfast in bed cold coffee and bread
+				and marmalade (I smile as I sit I my chair) that first Christmas was hectic.</u>
+      <u xml:id="q-be7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">The year 2000
+				dad died of a heart attack it broke my heart and mums, she came to live with us but
+				a few years later she died as she was to lonely on her own and couldn’t live without
+				him (As I remember this tears come into my eyes but the children come in and put my
+				mind at rest).</u>
+    </body>
+  </text>
+</TEI>

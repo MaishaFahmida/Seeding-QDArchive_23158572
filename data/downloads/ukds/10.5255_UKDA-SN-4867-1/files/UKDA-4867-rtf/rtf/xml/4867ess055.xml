@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 56</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-cd5fc863-cebe-4bc3-b0a8-da84d59e424e</idno>
+        <idno type="qudexdocument">q-c0438390-5b21-461c-bf03-ef7d0347291f</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-6b7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-6c7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Ah, yes; I
+				remember in my days when we had to leave school at the age of sixteen. I left school
+				in June after completing my O levels I had no time for fun and games revision
+				revision that’s was it for every single night, not even television. I worked part
+				time for 2 months over Bowaters. After that I had to work for this other firm I had
+				an apprenticeship it was a good one too. Not like these days where apprenticeship
+				lasting for only <sic>tow</sic><corr>two</corr> years I stayed at this firm for four years then my
+				apprenticeship was completed.</u>
+      <u xml:id="q-6d7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I know went
+				looking for jobs not like nowadays where this is one job <sic>fore</sic><corr>for</corr> every 150 persons. I
+				played Table tennis for my hobby I even won the Kent championships. I found a job in
+				Italy when I went for my holidays. It was very hot so I only stayed on two years
+				with this garage. Then I went back to Britain looking for a job I spent four months
+				on the doll. My age was twenty seven and I wasn’t even married. I got a good job
+				over in Chatham. I enjoyed it so I stayed on. I met this girl her age was
+				twenty-four and she was nice ah yes she was a beauty. We got married two months
+				later. We had to live with our parents then I brought myself a car. I went back and
+				forth every day to Chatham. When we found a house it was a semi-detached in
+				Sittingbourne. I wanted to live in Italy but that was asking for <sic>to</sic><corr>too</corr> much. We went to
+				Italy for our holiday every year. I grew <sic>to</sic><corr>too</corr> old for table tennis so I decided to get
+				a new hobby Kung fu. I had my first very own baby it was a boy I called him after my
+				dad’s name Michael.</u>
+      <u xml:id="q-6e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I was promoted
+				now I was a training officer my job was to teach other boys of 16 everything that I
+				had learned the hardest part was getting the right boy in one year. I had to
+				interview over one hundred and fifty boys.</u>
+      <u xml:id="q-6f7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I had a big
+				responsibility. But I worked hard for the promotion.</u>
+      <u xml:id="q-707e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Two years later I
+				had two more babies after that I worked for <sic>an other</sic><corr>another</corr> thirty five years.</u>
+      <u xml:id="q-717e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Boy was my life a
+				bore I <sic>waisted</sic><corr>wasted</corr> so much that I regret it. But I got three wonderful children.</u>
+    </body>
+  </text>
+</TEI>

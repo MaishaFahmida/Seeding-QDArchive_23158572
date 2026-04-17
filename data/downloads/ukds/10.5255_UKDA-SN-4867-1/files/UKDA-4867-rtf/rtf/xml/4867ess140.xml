@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 142</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-02ec6b91-6cff-4330-91dd-f85c4d9bbb97</idno>
+        <idno type="qudexdocument">q-eb667233-d3a9-4a21-af62-19c8ba6b7cc1</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-07815d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflection</note>
+      <u xml:id="q-08815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Reflecting back
+				on my life to me the best time was that when I was at school. I now wish I had
+				studied harder than I did. I stayed on for a year <sic>ay</sic><corr>at</corr> my last school and left at the
+				age of 17. Sometimes I wonder why I took that extra year, look at the job I ended up
+				with, a shop assistant in Woolworths. I worked there for about twenty years going
+				through the near on same routine day in and day out except for the odd exceptional
+				days when there was the Christmas rush. At first I was poorly <sic>payed</sic><corr>paid</corr>, I earned £18 a
+				week. But slowly the wage in my pay packet went up and the most I ever earned there
+				was £38. I left the job once because of having the children but kindly a place was
+				kept for me.</u>
+      <u xml:id="q-09815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I married at 23
+				and have two children, <sic>we</sic><corr>who</corr> are now grown up and have children of their own. When I
+				was younger I used to hate the idea of becoming old and becoming a grandmother but
+				to look at my grandchildren now it seems all <sic>worth while</sic><corr>worthwile</corr>.</u>
+      <u xml:id="q-0a815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">At 38 I left
+				Woolworths for good to be a housewife and to look after my second child. There are
+				ten years between my first and second child. At the age of 50 I got a part time job
+				of working in a small shop which I worked in full time 2 years later. The job <sic>payed</sic><corr>paid</corr>
+				fair. I found this job more boring than the first, there were less customers, but
+				those who did come to shop there I got to know fairly well, unlike the job at
+				Woolworths where you hardly got to know anyone, but you hardly had the time to
+				usually.</u>
+      <u xml:id="q-0b815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">At 60 I retired.
+				Old age seemed to be quiet and things that needed to be done were done with time to
+				spare. I always wonder why I moaned about school because I had longer holiday time
+				then and more time to enjoy myself.</u>
+    </body>
+  </text>
+</TEI>

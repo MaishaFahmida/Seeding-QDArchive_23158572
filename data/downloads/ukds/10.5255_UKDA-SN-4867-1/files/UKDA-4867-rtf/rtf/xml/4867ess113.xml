@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 113</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-20eb0ca9-d8bc-4557-b8a4-85f2cfa2a769</idno>
+        <idno type="qudexdocument">q-b15d3428-af4f-417d-a3a8-6e56eab66c07</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-28805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-29805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school in
+				the summer of 1979 to work in an office as a secretary it was a big place is London
+				and I didn’t know many people, after I didn’t know many people, after about a year
+				and a half I left to work for a bigger and better company where I could earn more
+				money as I was planning to marry within the next year or two and we had planned to
+				save to buy our own house near his parents. After about 6 months the engagement
+				broke up and I didn’t get over it for ages. I thought I would change my job, I would
+				go in for nursing, I would learn a profession and find other interests. In the next
+				five years I had gained A husband, a family and a house of our own is a nice part of
+				London. When my two children started school I started nursing again at a hospital
+				again at a hospital nearby. But it got too tiring with the children as well. So I
+				decided to pack it in. When I was in my late twenties my husband was offered a job
+				is Saudi Arabia. He went on his own, and sent money back for me and the kids. The
+				kids grew rapidly and hardly saw their daddy. When my husband eventually come home
+				the children were leaving school and going out to work. They were twin girl and boy.
+				The girl worked in a Bank and the boy joined the navy. My mother was really good to
+				me while my husband was away so we bought a holiday of a lifetime on a cruise around
+				the <sic>meditteranean</sic><corr>Mediterranean</corr>. But on her return we sadly lost her it took me two years to get
+				over that. But when I went back to nursing. We moved house down to a little cottage
+				in Kent nearer home. It was a lovely place and we never left it for long because
+				everything in it belonged to us and we had worked hard for it. When I was 55 a
+				grandmother to 5 my husband passed away through a serious operation.</u>
+      <u xml:id="q-2a805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I still had our
+				family though and my grandchildren were lovely 2 girls and three boys. I family
+				emigrated to Australia and the others lived nearby. They asked me if I wanted to go
+				but I said that I was nearly at the age of retirement and the travelling would be
+				too much for me. Many other things happened in my life but these were the most
+				important to me. I suffer from <sic>Arthuritus</sic><corr>arthritis</corr> now very badly but <sic>its</sic><corr>it's</corr><sic>too</sic><corr>to</corr> be expected
+				when you get old.</u>
+    </body>
+  </text>
+</TEI>

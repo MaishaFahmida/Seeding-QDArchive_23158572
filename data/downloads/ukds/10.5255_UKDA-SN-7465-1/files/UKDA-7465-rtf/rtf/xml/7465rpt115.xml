@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report for Quarter ending 30th November, 1944</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-19eeb1d1-c27b-4d85-b400-4467736d68cc</idno>
+				<idno type="qudexdocument">q-bb875350-0f06-4f9e-b47d-1b7c630b34d9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-c3527fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">MORALE REPORT for quarter ending 30th November, 1944. hhh 1. OFFENCES AGAINST THE ARMY ACT.</note>
+				<note xml:id="q-c4527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">(a) Absence. Nil.</note>
+				<note xml:id="q-c5527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">(b) Other Offences. Nil.</note>
+				<note xml:id="q-c6527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">(c) Minor Offences. There have been one or two isolated cases under Sec 40. These were purely individual, and of no general importance whatsoever. hhh 2. CONFIDENCE. (a)</note>
+				<note xml:id="q-c7527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">Confidence in the Army's cause end in its leaders, and in the progress of the War.</note>
+				<note xml:id="q-c8527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Belief in the Cause is extremely strong. Confidence in the will and ability of the leaders of the army has never been higher. Such names as ALEXANDER and MONTGOMERY command the utmost respect and admiration.</note>
+				<note xml:id="q-c9527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">No marked disappointment is shown, that the high hopes of last summer, with regard to the end of the European War this year, have not yet materialised. There is a tendency for statements made concerning the end of the War to be treated with reserve and caution. There has always been a belief in the Unit that the war would be brought to a successful conclusion not before next Spring, and optimism that this will be so remains high. (b)</note>
+				<note xml:id="q-ca527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Confidence in Arms and equipment.</note>
+				<note xml:id="q-cb527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Recent experience in Ground Artillery work has given the Unit much broader confidence, always high, in its equipment than had before been possible. Personnel generally take exceptional pride in their equipment and its maintenance, as an end in itself. hhh 3. CONTENTMENT.</note>
+				<note xml:id="q-cc527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">General - During the period under review, the Regiment has been employed in a Ground role, except for two weeks at the end in which it has been given the opportunity to rest.</note>
+				<note xml:id="q-cd527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Although during this time, Tps have been widely scattered over the Dalmatian Islands and at DUBROVNIK conditions prevailing have been very similar. There has been no time for normal recreational facilities, and living conditions have been harder than ever before. Frequently men have suffered from lack of sleep and continuous rain-fall, together with hostile shellfire.</note>
+				<note xml:id="q-ce527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Despite this, or perhaps because of this, it is certainly true to say that satisfaction and contentment have never been higher. The reasons for this are:</note>
+				<note xml:id="q-cf527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(i) Almost for the first time during its tour Overseas, the Regiment has felt in its new role that it is personally taking an aggressive part in the battle against the enemy.</note>
+				<note xml:id="q-d0527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(ii) It has been given the opportunity to use its offen­sive spirit for the first time.</note>
+				<note xml:id="q-d1527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">(iii) All ranks realise how extremely fortunate they are, to be in a Regiment selected for this special role - ­particularly having in mind the lack of opportunity provided by A.A. generally.</note>
+				<note xml:id="q-d2527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">This feeling still remains in spite of the fact that at the beginning this time the Regiment suffered its first battle casualties.</note>
+				<note xml:id="q-d3527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(a) Interest in Training and operations.</note>
+				<note xml:id="q-d4527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">The Regiment has been actively engaged - principally in…- Battery work - to support, under Command L.F.A., .Partisan operations against the Dalmatian Mainland. This is the first time that the Unit has been called upon to operate in this role and tremendous enthusiasm and interest was shown by all ranks, including those whose duties confined them to HQ Offices. The maximum personal effort was put in by everyone to secure the greatest efficiency in this new sphere.</note>
+				<note xml:id="q-d5527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Training in A.A., which has recommenced, now has to be nursed care­fully by those responsible in order to provoke the keenness necessary to overcome disappointment that perhaps the Unit may be reverting to its original role of Anti-Aircraft defence.</note>
+				<note xml:id="q-d6527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">(b) Living Conditions.</note>
+				<note xml:id="q-d7527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">(i) Quarters - During the greater part of the period tps have been under canvas, and the weather has been cold and wet. A considerable amount of movement aggravated this hardship. Upon return to No.1 Fwd Base, the majority of the Unit are now billeted either in houses or in huts.</note>
+				<note xml:id="q-d8527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">(ii) Messing - Messing on the whole has been good, even in spite of the periodic issues of biscuits necessary for operational reasons. Compo Rations in particular, which have been provided occasionally, are looked forward to as being a specially-enjoyable diet. Generally, when conditions permit, more fresh vegetables and fruit would be appreciated.</note>
+				<note xml:id="q-d9527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">(iii) NAAFI - Generally satisfactory, although more frequent visits from well-stocked Mobile Canteens would be welcomed. It is also felt that, for Christmas time, the extra Christmas fare made available by the NAAFI should be free.</note>
+				<note xml:id="q-da527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">(iv) Recreation and Amusement- Since the Regiment has been buck at No.1 Fwd Base Football, as usual, has been extr­emely popular - and produced even fresh heights of enthusiasm and good competitive spirit.</note>
+				<note xml:id="q-db527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Competitions have been organised, and have proved to be very much liked, in Football, Darts, Table Tennis, etc., and the Cinema, which provides a weekly change of Programme, is also a great attraction and very popular.</note>
+				<note xml:id="q-dc527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">(v) Leave- seven days leave on the Italian Mainland is pro­vided for as many troops as operational requirements permit, and is very much appreciated. In addition, the recent announcement concerning Leave in U.K. for personnel with over two years' service Overseas has been received with satisfaction.</note>
+				<note xml:id="q-dd527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">(vi) Mail - This is generally satisfactory, and few criticisms are now made.</note>
+				<note xml:id="q-de527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">(c) Finance - pay, allowances and expenses. The most recent pay increases appear to have disarmed all criticism, and generally extreme satisfaction is felt on this score.</note>
+				<note xml:id="q-df527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">(d) Conditions affecting families. These are good generally. One or two instances have occurred where infidelity in a soldier's home has not been accepted as a basis for compassionate reversion to the U.K. It is felt that perhaps insufficient weight is placed by the reviewing authority on the mental disturbance caused to the soldier in these cases.</note>
+				<note xml:id="q-e0527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(e) Relations between Offrs, NCOs, and men. Very good.</note>
+				<note xml:id="q-e1527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">(f) Relations with other- services, etc.</note>
+				<note xml:id="q-e2527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(i) Relations with R.A.F. Good.</note>
+				<note xml:id="q-e3527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">(ii) Relations with A.T.S. Nil.</note>
+				<note xml:id="q-e4527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">(iii) Relations with Dominion and USA Troops. Very Good.</note>
+				<note xml:id="q-e5527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">(iv) Relations with tps of other nationalities. Good. hhh 4. EDUCATION and ABCA.</note>
+				<note xml:id="q-e6527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">There has been a very big response to the new Army Educational Scheme. In one Battery alone over one third of its personnel have applied for Correspondence Courses. There is much interest in Current Affairs and ABCA discussions. Great confidence and exceptional popularity has been enjoyed by the Education Officer attached to No.1 Fwd Base. hhh 5. EFFICIENCY.</note>
+				<note xml:id="q-e7527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">(a) Physical Fitness. Very good. In spite of the fact that the average age in the Regi­ment is no longer particularly youthful, the sickness record of the Unit is an extremely good one. It is particularly noticeable that after the recent period of exposure suffered by nearly every man in the Unit, there was practically no sickness. The Unit M.O. has constantly commented on the good health of the Regiment in comparison with others administered by him from time to time.</note>
+				<note xml:id="q-e8527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">(b) Discipline. Excellent. hhh 6. MISCELLANEOUS.</note>
+				<note xml:id="q-e9527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">(a) It is felt that in the prosecution of the War the existing Govern­ment has done in the past, and is still doing, very well indeed.</note>
+				<note xml:id="q-ea527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">(b) Its proposals in regard to Demobilisation, on the whole, have been received almost without criticism.</note>
+				<note xml:id="q-eb527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">(c) The scheme for providing Home Leave for Overseas units has given a great fillip to the Regiment, which will qualify for consideration next April.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

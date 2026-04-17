@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale and Efficiency of the German Police - July 1947</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-013ff58c-1bed-4155-a438-e4ff1771fd33</idno>
+				<idno type="qudexdocument">q-b2a78a7f-5989-4ace-9957-7d63d81c781a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-af4e88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">Tel 34 10 00</note>
+				<note xml:id="q-b04e88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Ext 6500</note>
+				<note xml:id="q-b14e88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">.../PS/S/9/23</note>
+				<note xml:id="q-b24e88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Public Safety</note>
+				<note xml:id="q-b34e88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ Hansestadt HAMBURG</note>
+				<note xml:id="q-b44e88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">609 HQ OCG</note>
+				<note xml:id="q-b54e88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">BAOR</note>
+				<note xml:id="q-b64e88b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">2 July 1947</note>
+				<note xml:id="q-b74e88b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="9">Subject:- Morale and Efficiency of the German Police</note>
+				<note xml:id="q-b84e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">1. It is quite safe to admit that the morale and efficiency of the German Police over recent months leaves much to be desired. Not only is the de­tection and prevention of crime not up to the required standard but the individual cases of corruption, theft, etc., which come to light are, to say the least, disquieting. One can also notice in mixing among the men at the lowest levels that many have not the intelligent interest in their work which is so necessary.</note>
+				<note xml:id="q-b94e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">2. Through the responsible Public Safety officers. Military Government has done much to provide scientific equipment, transport, wireless, cloth­ing and other equipment for the Police but since in Police work, more than in any other profession, the question of morale is closely tied up with efficiency, it is felt that unless some steps are taken quickly to improve morale, all the work in technical directions will not bear fruit. The basis of all good police work is the efficiency of the man on the ground and if he is not content and happy, the whole structure suffers thereby. hhh 3. RATIONS</note>
+				<note xml:id="q-ba4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">There is no doubt that one of the greatest blows to Police morale was the reduction in rations when they were removed from the very heavy workers category into the heavy workers category. Its effect was im­mediately apparent and has since been steadily growing in evidence, by their obvious loss of energy and increasing apathy towards their duty. It is not fully realised by people who have not had experience, just how arduous a policeman's duties are both physically and mentally and unless he is properly fed, it is a physical impossibility for a policeman to show that zeal and regard for his duty which is rightly expected of him. The effect of food upon their general morale was greatly in evidence last winter when many of them were almost completely exhausted by ex­tremely long and arduous actions against coal looters. About that time, an extra midday meal was granted to them locally and the way the men responded to this encouragement had to be seen to be believed and there is no doubt that the receipt of that midday meal locally did much to achieve the results which were obtained against the coal stealing here last winter. hhh 4. HOUSING</note>
+				<note xml:id="q-bb4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Large numbers of the Police are still living under conditions of extreme discomfort, as are many other citizens within this area. Prior to the handing over of executive authority to the Germans, good progress was being made by this Branch in conjunction with Manpower (Housing) in a gradual improvement of all the worst cases but it is regretted that efforts now made in this direction appear to receive little or no satis­faction from the Wohnungsamt. It needs no stressing that a policeman who is on night duty cannot get adequate sleep during the day if he is housed with a family of three or four in one single room or cellar. It is also felt that the quarters of single men who are lodged at Police Stations need brightening up as the rooms contain only the barest essentials. The Police are unable to obtain any priority in the pur­chase of furniture to adequately equip such quarters. hhh 5. FUEL</note>
+				<note xml:id="q-bc4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">With the coming of the winter months, fuel is already well in the minds of everyone and it is to be hoped that Hamburg Police do not have the conditions of last winter repeated. As already stated, most of them spent many hours combating coal thieves, often getting their clothing completely satura­ted and working alongside Railway Police who received a priority coal ration. They, themselves, had to return to homes which were without fire and without convenience to dry their clothes. Thousands of tons of coal were recovered from coal looters by the Police last winter and. while the method may not appear sound in itself, I think it would give greater impetus to preventive measures and. nroduce a more contented Force if a proportion of the coal so seized were legitimately handed to the Police Authorities for issue to the members of the Force. hhh 6. CIVILIAN CLOTHING</note>
+				<note xml:id="q-bd4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">A large proportion of the Uniformed Police now performing duty in Hamburg have no clothing other than the uniform issued to them for service purposes, which means whether on or off duty the man has to appear in the streets in uniform. The average citizen it is feared does not know what this means, that is, when he is in the streets, whether on or off duty, he is looked upon as being on duty and has therefore to carry out the duties of a Police Officer. It is felt that reasonable facilities for the purchase of civilian clothing for men to wear off duty would have a beneficial effect. hhh 7. PAY AND CONDITIONS OP SERVICE</note>
+				<note xml:id="q-be4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">All the above points raised are for improving the morale at once but the whole question on a long term basis depends also on making the Service an at­tractive career so that well-educated young men of the right type will enter the Police as a career and not simply for the purpose of obtaining employment as it is felt many do, to-day. It is quite obvious that in wry Service where the personnel are looking upon that Service as a career for life, the instances of corruption, etc., which will arise will be much fewer than in a Service where the personnel concerned are only looking forward to temporary employment. hhh RECOMMENDED</note>
+				<note xml:id="q-bf4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">1. That the Police be again placed on the 'Very Heavy Workers" ration scale.</note>
+				<note xml:id="q-c04e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">2. That the Wohnungsamt be instructed to give priority to cases where Police are living under bad conditions.</note>
+				<note xml:id="q-c14e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">3. That the Police be given a priority issue of fuel for the coming winter.</note>
+				<note xml:id="q-c24e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">4. That the Landeswirtschaftsamt be instructed to give priority to policemen who are without civilian clothes.</note>
+				<note xml:id="q-c34e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">5. That the question of Police pay; allowances, pens ions and conditions of service, etc., be speedily examined with a view to making the Police Service a profession worthy of the best type. hhh APPENDIX "A"</note>
+				<note xml:id="q-c44e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">POLICE MORALE AND EFFICIENCY</note>
+				<note xml:id="q-c54e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">The following additional particulars regarding the above subject are submitted in so far as the Police of Hamburg are concerned:-</note>
+				<note xml:id="q-c64e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Number of married men separated from their families who are living in other parts of Germany, and for whom no quarters are available in Hamburg 738</note>
+				<note xml:id="q-c74e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Number of married men living in cellars with their families 837</note>
+				<note xml:id="q-c84e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Number of cases of bad housing brought to the notice of the Housing Department with little success 811</note>
+				<note xml:id="q-c94e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Number of young men with relatives in East Gernany many with little or no news of them 913</note>
+				<note xml:id="q-ca4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Number of men without civilian clothing or boots 1,360</note>
+				<note xml:id="q-cb4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">Number of men who have resigned at their own request since 1st January, 1946 765</note>
+				<note xml:id="q-cc4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">Number dismissed from the Police for dishonesty since 1st January, 1946 324</note>
+				<note xml:id="q-cd4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Number of men suffering from Tuberculosis (still serving in the Force) 548</note>
+				<note xml:id="q-ce4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">Of this number 33 are Active Cases and 515 are Inactive.</note>
+				<note xml:id="q-cf4e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Number of men examined by Police Surgeons during past 3 months. 6,000</note>
+				<note xml:id="q-d04e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">2.5% found to be suffering from undernourishment, and 90% from general exhaustion.</note>
+				<note xml:id="q-d14e88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Of the present strength 50% are recruits Who have joined the Force since May, 1945.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

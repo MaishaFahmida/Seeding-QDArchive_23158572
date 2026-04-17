@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 143</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-dea17703-0e7f-4d33-ad1b-a0abc01b7628</idno>
+        <idno type="qudexdocument">q-945d8316-7c8c-4f30-a524-d01b03865a6c</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-0c815d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-0d815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back over
+				my life, all seventeen years of it. The most important years being when I was in the
+				5th and 4th year at the Sheppey comprehensive. Because it was what I had achieved
+				during these two years that made the difference of getting the career I wanted or
+				not getting it. It only seems like yesterday that I was sitting down taking my C.S.E
+				Maths exam, I can remember doing boring K.M.P which gets you nowhere, and the
+				teachers didn’t care if you did your lessons or not, there was just no disciplining.
+				You could just walk out of school when you liked, and if you were stopped by a
+				teacher you could just say you were going to the Doctors, they wouldn’t need a
+				note.</u>
+    </body>
+  </text>
+</TEI>

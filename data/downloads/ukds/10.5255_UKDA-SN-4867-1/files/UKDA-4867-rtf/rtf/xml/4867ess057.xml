@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 58</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-9f55ee94-0ff9-46b1-b592-6494d2f4b015</idno>
+        <idno type="qudexdocument">q-cdb394b0-7336-49fe-adcc-6dabc71a7ccc</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-7b7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-7c7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I look back on
+				my past. Really I think I have had quite a good life. In the beginning, when I left
+				school at the age of sixteen, I remember this year quite well, because it was the
+				year in which I had to do my exams, which were C.S.E.s Also I got the grades of 1’s
+				to 3’s. When I left school I went straight into an <sic>electricans</sic><corr>electrician's</corr> job as an apprentice
+				electrician for five years. After I finished my <sic>apprentisp</sic><corr>apprenticeship</corr> as an electrician. I got
+				a job as an electronic engineer on televisions, because the money was quite good.
+				This was when I was about twenty years old. When I was about 29-30 I got married, to
+				a girl who was a secretary for a big company on the island. Then we had a child
+				about two or three years later. It was a boy. About ten years later, when I am about
+				forty odd I am made chief technician, of the components which is now a big
+				electronic firm. When I was about 45 years old I start my own company up on
+				electrics. For wiring up houses (new). After the first couple of years I do this on
+				my own, but then I <sic>dicide</sic><corr>decided</corr> to take on an apprentice, so I got my son to work with me.
+				Then or now I have retired, my son is still working for me but really he runs it, so
+				really the company is his now. But I have had a good life.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 1</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-cb1688f8-3984-4a1c-8a07-9173891630e8</idno>
+        <idno type="qudexdocument">q-c2299f89-eee4-4202-8bae-f141e6d13bc5</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-427d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-437d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I left
+				school at the age of 18 I had just taken my ‘A’ levels. I past them all with grade
+				C’s and I was quite pleased with myself. I got accepted at Bradford University on an
+				electronics engineering course. I enjoyed the time I spent at university although I
+				didn’t like being away from home for so long at first. I used to go home every so
+				often though. After getting the necessary qualifications I left to find a job. That
+				was much easier than it is now even though the unemployment was higher then. I think
+				finding a job was one of the most pleasing moments of my life. I hadn’t enjoyed
+				learning much at all but putting it into practice was much better. I was twenty two
+				by this time and I felt great having a job when unemployment was up to an all time
+				high. It was about this time that I met Anne my wife. She was two years younger than
+				me and worked for the same company as I did. I had met girls at university but my
+				relationships with them weren’t anything serious. I’d never none anyone I’d really
+				liked before and it seemed a natural step to get married. It was only a quite affair
+				in a registry office as I didn’t particularly want a church wedding and Anne’s
+				family weren’t very religious. We just invited a few of her friends and a few of
+				mine. It was long before we had found a house thanks to a friend of Anne’s father.
+				It was a pretty large mortgage but I liked the thought of having a house of our own,
+				instead of living at Anne’s parent’s house. We were quite happy together aside from
+				the usual rows which go with <sic>marrige</sic><corr>marriage</corr>.</u>
+      <u xml:id="q-447d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">It wasn’t long
+				before our eldest son Mark was born and we had two others John and Karen, they were
+				all three years apart. After we had had children I think we grew closer together.
+				Mark is now married and he works in Administration. John is very happily married and
+				he has done well in the plastics industry. Karen was also married but divorced and
+				remarried- she is now a housewife and they have two children.</u>
+      <u xml:id="q-457d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">It was a great
+				experience for me to see my children growing up. I had often wondered what it would
+				be like when I was young. When they had all left and gone their separate ways it
+				felt very empty and it was so quite I think Anne missed them more than me even
+				though she had had a hard time bringing them up, she seemed at a loose end.</u>
+      <u xml:id="q-467d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I retired not
+				long ago after forty years with the same company. Life is very tedious now and I
+				spend most of my time just sitting around thinking of the past.</u>
+    </body>
+  </text>
+</TEI>

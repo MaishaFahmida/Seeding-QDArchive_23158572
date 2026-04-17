@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 141</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-e5ad5ed8-a49f-46d3-aa57-be004a2bd12f</idno>
+        <idno type="qudexdocument">q-8da61bf6-01e7-46de-917f-919ca82f999b</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-00815d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflection</note>
+      <u xml:id="q-01815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">It will soon be
+				my seventy fifth birthday, three quarters of a century I’ve lived. I’ll be gone
+				soon, and all that will be left of me will be a gravestone and memories. Memories. I
+				can remember when I left school. Seventeen I was, I thought I was getting on then,
+				now look at me. Still we had a good life I must admit, I’ve enjoyed myself.</u>
+      <u xml:id="q-02815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">When I left
+				school I had the idea that I would walk straight into a good job with good money and
+				then, in a couple of years, get married looking at the world through rose coloured
+				glasses.</u>
+      <u xml:id="q-03815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">For the first six
+				months I couldn’t get a job anywhere then i got one as a typist in a typing pool in
+				an office somewhere in London the pay wasn’t very good, but it was enough.</u>
+      <u xml:id="q-04815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">After a while I
+				was fed up with that and decided to move on. The next job I had I had moved up in
+				the world. I was a secretary in large office block just outside Kensington it was a
+				nice job, nice pay, nice area but I was bored with it all, I wanted excitement I
+				stuck that job for a year and a half and then after an argument with the boss I was
+				made redundant, oh well <sic>cant</sic><corr>can't</corr> win them all.</u>
+      <u xml:id="q-05815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">During my period
+				of redundancy I met Robert, he liked me, I liked him so we got married, I’m still
+				with him now. Just after I was married I got another job as a personal secretary to
+				the head man of some big firm or other. I didn’t look back. It was wonderful job
+				full of excitement and travelling about, just what I had wanted and it had good pay.
+				Then I got pregnant and had two years off to look after the baby. When I asked my
+				boss for my job back, he gave it to me gladly he said that he hadn’t managed to get
+				anyone as good as me since I had left. I stayed with that firm for the rest of my
+				working days, and when I retired I <sic>recieved</sic><corr>received</corr> a good pension from them. <sic>Its</sic><corr>It's</corr> wonderful
+				what you can achieve if you work for it, but you have to work very hard.</u>
+      <u xml:id="q-06815d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Oh well I’ve had
+				my trip down memory lane now. I suppose I’ve bored you all but its nice to look
+				back, and think of all the wonderful times I had.</u>
+    </body>
+  </text>
+</TEI>

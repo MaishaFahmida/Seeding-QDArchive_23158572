@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Correspondence between E. Bamford and F.C. Bovenschen,30 June 42</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-3468aba9-0b5b-4d6a-b738-c1dfa9ebf14c</idno>
+				<idno type="qudexdocument">q-fa0316e5-e724-4b5d-af9e-797ff6a86560</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-db17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="1">PUS/128/42.</note>
+				<note xml:id="q-dc17e013-1390-e311-a968-000bdb5cc6d5" type="date" n="2">30th June, 1942.</note>
+				<note xml:id="q-dd17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="3">Dear Bamford,</note>
+				<note xml:id="q-de17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="4">With reference to previous correspondence about morale on the home font, we have found from our first experience that the reports from Army Commanders really give us very little except from the point of view of the soldier's own morale. There are, however, two home front points which are reflected in the reports:-</note>
+				<note xml:id="q-df17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="5">(1) The alleged disparity between what civilian workmen receive and what soldiers receive is stated to cause discontent especially among soldiers' dependents rather than among the soldiers themselves.</note>
+				<note xml:id="q-e017e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="6">(2) It is suggested that there is a lack of the proper spirit of sacrifice and patriotism among sole sections of the women in this country which urges them to keep back their men from dangerous duty and it is suggested that reluctance to go overseas is often due to the influence of soldiers' families.</note>
+				<note xml:id="q-e117e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="7">You asked in your letter that we would let you know that the attitude of the Army was to official communiques and to the B.B.C. On that the reports suggest that there is dissatisfaction at the way in which war news is given out by the B.B.C. It is suggested that the Army prefers facts to "chat" and does not wish unpalatable facts to be sweetened or disguised.</note>
+				<note xml:id="q-e217e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="8">Yours sincerely,</note>
+				<note xml:id="q-e317e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="9">E. St.J. Bamford, Esq.,</note>
+				<note xml:id="q-e417e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="10">C.B., C.M.G.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

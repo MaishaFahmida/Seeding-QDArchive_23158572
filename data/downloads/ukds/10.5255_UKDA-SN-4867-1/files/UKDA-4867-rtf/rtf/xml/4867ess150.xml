@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 152</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-8ea0f90b-d55b-431f-9255-1b00c16b2006</idno>
+				<idno type="qudexdocument">q-d6665979-8b67-4fa6-a0b2-977b6364d4af</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-df65e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflections</note>
+			<u xml:id="q-e065e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">I remember walking down
+				this road when going to school I enjoyed those days, especially the summer time. I
+				had taken the secretarial course in the sixth form. I remember I decided this course
+				just a few days before one term started.</u>
+			<u xml:id="q-e165e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">We were sent out on
+				work practice for experience in office work. this led to the start of my working life my first <sic>interveiw</sic><corr>interview</corr> was nerve wracking. It
+				was for a job in some council offices, there were many students applying and I
+				didn’t think I stood a chance, but after a few days I was asked to go back for
+				another <sic>interveiw</sic><corr>interview</corr> as I had been picked out with about six other people.</u>
+			<u xml:id="q-e265e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">They informed me within
+				a week that I had been accepted for the position of shorthand typist. The first day
+				arrived and I went along trying to look confident. the girls were quite friendly towards
+				me and after trial day I was positive I was going to enjoy working there. the work
+				was reasonably well organised so that every girl had an equal amount to do.</u>
+			<u xml:id="q-e365e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="5">I remember receiving my
+				first wage packet. I spent the money on the skirt and shirt I had been saving for. I
+				then opened a bank account and arranged for the rest of my wages to be paid through
+				the bank.</u>
+			<u xml:id="q-e465e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="6">I spent about 2 years
+				working in those offices, and they were quite enjoyable, but the work was not varied
+				and it became boring. I saw a job advertised in a magazine for a
+				receptionist/shorthand typist, I thought that this work might be more varied and
+				that meeting other people would be interesting. they accepted me and I began working
+				there and stayed there for the rest of my working career. I travelled to America
+				twice with the firm after working my way up to personal secretary.</u>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 156</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-4554c8f1-b02e-4dec-b8ec-cb448877cdf9</idno>
+				<idno type="qudexdocument">q-d8e78bc2-b410-49b8-8f8c-f9fc17282885</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-fd65e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflections</note>
+			<u xml:id="q-fe65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">At the age of 67 I look
+				back to see what I have <sic>adchieved</sic><corr>achieved</corr> over 50 years up
+				until I was 17.</u>
+			<u xml:id="q-ff65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">At the time of leaving
+				school I lived the life or as close to what I wanted to live my own way and not what
+				other people wanted to do.</u>
+			<u xml:id="q-0066e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">My first job was the
+				first big break, I was out on my own I paced through that job, starting from a
+				<sic>jounior</sic><corr>junior</corr> on the business world working up the promotion line, gaining more and more
+				confidence.</u>
+			<u xml:id="q-0166e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="5">After the first 20
+				years saving money was appreciated for the first time by actually being able to
+				<sic>aford</sic><corr>afford</corr> to live away from home by myself.</u>
+			<u xml:id="q-0266e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="6">Marriage then took its
+				course. A family wasn’t thought of until 5 years of marriage. We lived in Chatham
+				and settled down there too.</u>
+			<u xml:id="q-0366e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="7">Leaving a job was hard.
+				After 15 years of bringing up two children work was just another thing to fall back
+				on. I had one <sic>stedy</sic><corr>steady</corr> job up until the age of retiring. This job was very <sic>simular</sic><corr>similar</corr> to
+				what I start off in and being experienced in the business world it wasn’t hard to
+				catch on to.</u>
+		</body>
+	</text>
+</TEI>

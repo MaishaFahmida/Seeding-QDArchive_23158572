@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 30 - first half of October 1948</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-13e2c5bd-3c7b-42e1-903c-52660951f8de</idno>
+				<idno type="qudexdocument">q-afdb5834-238f-426b-941e-65dba43e1b57</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-fd5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-fe5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-ff5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Political Division</note>
+				<note xml:id="q-005488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">York House</note>
+				<note xml:id="q-015488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ CCG (BE)</note>
+				<note xml:id="q-025488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">Berlin</note>
+				<note xml:id="q-035488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">B.A.O.R. 2</note>
+				<note xml:id="q-045488b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">14 October 48</note>
+				<note xml:id="q-055488b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="9">REPORT ON BERLIN MORALE N0.30 (1st half of October)</note>
+				<note xml:id="q-065488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">SPECIAL REPORT NO.718</note>
+				<note xml:id="q-075488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">SPECIAL REPORT NO.719</note>
+				<note xml:id="q-085488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Readers are asked to remember that although these reports are compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting. hhh Contents: page:</note>
+				<note xml:id="q-095488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Report on Berlin Morale No.30 2</note>
+				<note xml:id="q-0a5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Special Report No.718 5</note>
+				<note xml:id="q-0b5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Question 1: What do you think of the decision of the Western Powers to submit the Berlin question to the Security Council of UNO? 5</note>
+				<note xml:id="q-0c5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Question 2: Are you in agreement? 6</note>
+				<note xml:id="q-0d5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Question 3: If Yes - what do you think will be the result? 7</note>
+				<note xml:id="q-0e5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Special Report NO.719 8</note>
+				<note xml:id="q-0f5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Question 1: What are your greatest cares and difficulties? 8</note>
+				<note xml:id="q-105488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Question 2: What are your greatest pleasures? 9</note>
+				<note xml:id="q-115488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Question 3: What is your greatest hope for the future? 10</note>
+				<note xml:id="q-125488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">Question 4: What is your greatest anxiety for the future? 11</note>
+				<note xml:id="q-135488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">Question 5: Would you like to work for Mil.Gov. and why? 12</note>
+				<note xml:id="q-145488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Question 6: A. Which of the four Occupation Powers is working hardest for the political and economic reconstruction of Germany? 13</note>
+				<note xml:id="q-155488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">13 B. Which of the four Occupying Powers is doing the least for the political and economic reconstruction of Germany? 13</note>
+				<note xml:id="q-165488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Note: Religion of respondents is shown as follows:-</note>
+				<note xml:id="q-175488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">cv= Evangelical</note>
+				<note xml:id="q-185488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">cath = Catholic</note>
+				<note xml:id="q-195488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="29">J.E.Dixon</note>
+				<note xml:id="q-1a5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="30">P.O.R.O.</note>
+				<note xml:id="q-1b5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="31">Pol.Div. HQ CCG (BE)</note>
+				<note xml:id="q-1c5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="32">Berlin</note>
+				<note xml:id="q-1d5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">CONFIDENTIAL</note>
+				<note xml:id="q-1e5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="34">B.A.O.R.2</note>
+				<note xml:id="q-1f5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="35">Public Opinion Research Office</note>
+				<note xml:id="q-205488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="36">Political Division</note>
+				<note xml:id="q-215488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="37">York House</note>
+				<note xml:id="q-225488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="38">HQ CCG (BE)</note>
+				<note xml:id="q-235488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="39">Berlin</note>
+				<note xml:id="q-245488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="40">B.A.O.R. 2</note>
+				<note xml:id="q-255488b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="41">Report on Berlin Morale No.30</note>
+				<note xml:id="q-265488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">lst half of October 1948 hhh 1. General Atmosphere and Morale</note>
+				<note xml:id="q-275488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">The breakdown in the Moscow Negotiations caused little surprise. The submission of the Berlin question to the World Security Council has aroused few hopes and a clear decision is 'not expected. The general opinion is that these endless negotiations are merely an excuse to gain time.' This applies to both, the Western and Eastern Powers, although a considerable section of the population expects the Russians to yield when they see that the whole world is really against them.</note>
+				<note xml:id="q-285488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">The blockade is not expected to be lifted for months to come and many Berliners are leaving for the Western Zone.</note>
+				<note xml:id="q-295488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">The pessimists have proved to be right in their prediction that the Berlin blockade would last for months. In general, the attitude of the people to the problems confronting them is one of bewilderment and many do not expect the air-lift to function perfectly during the winter. The fact that the Western Powers have emphasised before the world that they intend to stay in Berlin has inspired the people and they are determined mined to hold out at all costs. Though the strain of the blockade has lowered moral to some extent, it is often pointed out that the demands of the Berliner must be assured the minimum, necessary for existence. Many think a further fall in the Standard of living would lead to the bolshevisation of Berlin. hhh 2. Political Worries</note>
+				<note xml:id="q-2a5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">The aims of the SPD in educational reform, the distribution system and, in financial and economic problems do not appear to have the full support of the people.</note>
+				<note xml:id="q-2b5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">There is discontent with the economic policy of the SPD which is against a free economy: Many maintain that a controlled economy in­creases prices unnecessarily, adds to the Magistrat machinery and en­courages corruption.</note>
+				<note xml:id="q-2c5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">The people were filled with indignation at the raids made by the Russians controlled police into the Western Sectors and the serious interference with personal liberty.</note>
+				<note xml:id="q-2d5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">Churchill's speech on 9-10-48 in North Wales was well received by people interested in politics and met with their complete approval. They particularly welcomed the suggestion that the Russians should retire behind the Curzon Line. hhh 3. Food</note>
+				<note xml:id="q-2e5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">Everywhere in West Berlin food rations were delivered on time and were available in adequate quantities. The high quality of the cereals (in contrast to those allocated in the Eastern Sector) is appreciated. Complaints are frequently heard about bad bread; the public are not very enthusiastic about the "whole meal flour" issued instead of potatoes.</note>
+				<note xml:id="q-2f5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">The promised increase in rations was welcomed but in some cases doubt was expressed as to whether it would be honoured. hhh 4. Household Fuel</note>
+				<note xml:id="q-305488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">The main worry of the Berliners is the coming winter, The order to fell trees in the streets and woods of Berlin has aroused bitterness: in the first place, the amount felled will not be sufficient to ensure a good supply of fire-wood; secondly, that places of recreation will be disfigured, and thirdly, it is brought home to them with renewed force that it is impossible for the air-lift to supply the Western Sectors with sufficient coal. hhh 5. Light and Gas</note>
+				<note xml:id="q-315488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">Complaints are still being made about the supply of electricity and gas. Though most people realise that no other solution is, possible at present, it is thought, however, that if a little effort is made, they could have at least two hours of light in the evening. The demand for candles and paraffin (which must be bought on the Black Market) is so great and prices so high that the poorer people cannot afford to buy.</note>
+				<note xml:id="q-325488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">As far as gas is concerned, those who live on the 3rd and 4th floors are comparatively satisfied as only on these floors is the pressure sufficient to cook a normal meal. hhh 6. Building and. Housing Anxieties</note>
+				<note xml:id="q-335488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">Larger flats are being offered for exchange against smaller Ones as people can no longer afford the rents. The provision of window-panes for dwelling-houses even for households with large families is alleged to be neglected in favour of supplies to business premises.</note>
+				<note xml:id="q-345488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">In addition people are complaining that no progress whatsoever is being made in the repair of dwelling-houses and that no material is available for those wishing to repair their houses themselves. They say that if the Magistrat can give permission for the building of entertainment establishments it should also be possible to repair houses and flats.</note>
+				<note xml:id="q-355488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">Berliners are amazed that even after the currency reform more shops are being extended or opened. In this respect the people are resigned and merely shake their heads when instead of roof-repairs being carried out, a new cafe appears. They fail to understand how a 3 storey fashion salon on the Kurfuerstendamm could be completed in 6 months. hhh 7. Monetary Worries</note>
+				<note xml:id="q-365488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">The position of pensioners is becoming increasingly intolerable because of the irregular pension payments. For weeks many of those concerned have not been able to draw on their pensions clue to the short­age of Eastern money in the Western Sectors. Even the 10% Western money, which seldom exceeds 5 DM(West), offers no relief.</note>
+				<note xml:id="q-375488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">On the other hand the' financial position of some occupational groups has considerably improved owing to the authorisation of 50% payment in Western money. It is expected' that the DM (West) will soon be introduced as sole legal tender in the Western Sectors. hhh 8. Employment Anxieties</note>
+				<note xml:id="q-385488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">There is said to be a steady increase in unemployment, and it is feared that it will increase still further during the coming winter months due to insufficient light, coal, and money. hhh 9. Entertainments</note>
+				<note xml:id="q-395488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">The large cinemas and theatres are well patronised but by no means overcrowded. Tickets can still be bought shortly before each performance unless some special item is being shown. The smaller cinemas which are subject to electricity cuts are often empty and the owners are fighting hard for existence.</note>
+				<note xml:id="q-3a5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">Dance halls, bars and night clubs are deserted unless they are in the special focal points of the town e.g. Kurfuerstendamm or Hauptstrasse Schoeneberg. hhh 10. Dismantling</note>
+				<note xml:id="q-3b5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">The refusal of Great Britain and France to stop dismantling in Western Germany has caused much antagonism. The dismantling of the Borsig works in Berlin by the French is regarded as a political gaffe. In view of the present tension, the population cannot understand why the French are dismantling these works. They fail to see why valuable scrap should simply be thrown into the lake. hhh 11. Attitude to the Nazis</note>
+				<note xml:id="q-3c5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">Although for a long time after the collapse of the Thousand Year Reich there was much discussion on the pros and cons of the Nazi ideology, this has given way to a feeling of indifference, possibly due to the restriction of the freedoms of the individual and the new crimes against humanity committed by Bolshevism. hhh 12. Denazification</note>
+				<note xml:id="q-3d5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="65">Schacht's acquittal, the grading of Thyssen as a lesser culprit, the pardon granted to Ilse Koch, the hint given by the Americans that the sen­tences passed on concentration camp guards are to be revided and numerous other cases have had the result that nobody - whether ex-party member or high official - feels guilty in any sense at all. They all think: how can I be guilty of this misery when the real culprits are acquitted. hhh 13. Rumours</note>
+				<note xml:id="q-3e5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="66">a) The Soviet plans to set up a Communist German Government are thought to be ready.</note>
+				<note xml:id="q-3f5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="67">b) In this event Eastern Berlin will be included in the Eastern Zone, while Berlin will be made untenable for the Western Powers by stirring up the people of Western Powers against them.</note>
+				<note xml:id="q-405488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="68">c) In addition, they are counting on dissatisfaction among the population of Berlin during the winter months, then, with the help of the Soviet Occupation Power, including the SED, the Western Sectors will be forcibly taken under, their protection. hhh 14. Black Market</note>
+				<note xml:id="q-415488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="69">The Black Market is flourishing. Almost anything can be bought if one knows the right sources. In almost every sphere the supply exceeds the demand. The lack of money is becoming apparent in all sections of the population.</note>
+				<note xml:id="q-425488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="70">In addition, the numerous DPs who have returned to Berlin: from the Western Zones by the air lift have organised two now Black Market centres and are swelling the ranks of the Black Marketeers.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

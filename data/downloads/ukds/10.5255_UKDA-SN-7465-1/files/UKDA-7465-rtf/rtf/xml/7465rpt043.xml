@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Summary of points from home Intelligence Weekly Report No. 87 - June 4, 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-4fb4fc13-ce7a-4028-8c73-7ab129b8d8e4</idno>
+				<idno type="qudexdocument">q-5b844fc0-4dc1-4b1c-a19c-2bcb1419b3f1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-5c5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">SECRET.</note>
+				<note xml:id="q-5d5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">Reference</note>
+				<note xml:id="q-5e5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">Summary of points from home</note>
+				<note xml:id="q-5f5888b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="4">Intelligence Weekly Report No. 87</note>
+				<note xml:id="q-605888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="5">June 4, 1942.</note>
+				<note xml:id="q-615888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">1. Feeling is such as might be expected. Events have combined to produce a state of jubilant optimism.</note>
+				<note xml:id="q-625888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">2. There is a growing and widespread feeling that the war will be over this year.</note>
+				<note xml:id="q-635888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">3. This is associated with an increased interest in post-war reconstruction.</note>
+				<note xml:id="q-645888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">4. The public as a whole is satisfied to leave the question of the time for opening a second front to the Government. The Communists' advocacy of an immediate front has done much to discredit them.</note>
+				<note xml:id="q-655888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">5. There is considerable scepticism about Russian figures of German casualties and air losses; there is, however, still more scepticism about German figures.</note>
+				<note xml:id="q-665888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">6. Lack of interest in the Far East continues.</note>
+				<note xml:id="q-675888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">7. Dissatisfaction with party politics grows. The Labour Party Conference aroused no general enthusiasm, while some regret at the Prime Minister's leadership of the Conservative Party continues to be expressed.</note>
+				<note xml:id="q-685888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">8. As usual, when news is good, criticism of news presentation is almost entirely absent.</note>
+				<note xml:id="q-695888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">9. Criticism of industrial matters continues to be slight.</note>
+				<note xml:id="q-6a5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">10. The only matter causing widespread concern is the coal situation. While the miners' strikes are regretted, their case is thought to be good. National control is regarded as the best answer. Some form of coal rationing is regarded as inevitable. There is still general opposition to rationing involving more ration books and meter reading.</note>
+				<note xml:id="q-6b5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">11. The high goods in short supply (e. g: furniture and green vegetables) continues to be a sore point.</note>
+				<note xml:id="q-6c5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(239) Wt44423/1864</note>
+				<note xml:id="q-6d5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">2,000,000 1/42 JC&amp;SLtd</note>
+				<note xml:id="q-6e5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Gp736/208</note>
+				<note xml:id="q-6f5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">(REGIMEAN)</note>
+				<note xml:id="q-705888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Code 5-33-0</note>
+			</div>
+		</body>
+	</text>
+</TEI>

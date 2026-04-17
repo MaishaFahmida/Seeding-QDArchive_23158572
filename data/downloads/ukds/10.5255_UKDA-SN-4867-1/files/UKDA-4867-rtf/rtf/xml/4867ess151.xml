@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 153</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-b87cc8e9-1bfc-49c6-9f5f-0556b1e4ad1f</idno>
+				<idno type="qudexdocument">q-23406a6e-1cc0-4225-a3cb-5dc029ae8222</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-e565e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflections</note>
+			<u xml:id="q-e665e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">It was fifty years to
+				the day when I first left school. I remember my first interview that was a
+				frightening experience. It was for a firm called “Abbots” I remember it well. I
+				never got the job but my next interview at Medway Ports Authority was successful. I
+				got the job as a audio-typist which was fairly new at that time. My first wage
+				packet contained £40 which in those days was very reasonable. I <sic>remand</sic><corr>remained</corr> there for
+				several years.</u>
+			<u xml:id="q-e765e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">Last week it was my
+				wedding anniversary 42 years of marriage it was a big <sic>occassion</sic><corr>occasion</corr>. all the relations
+				from New Zealand came over and there was a big reception afterwards. we went to
+				Greece for a week then on to the Island of Mauritius to stop with a friend of
+				mine.</u>
+			<u xml:id="q-e865e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">When we returned I
+				carried on my career as a n audio-typist to a new firm where I was living now. All
+				the relations from New Zealand came over and there was a big reception afterwards.
+				We went to Greece for a week then on to the Island of Mauritius to stop with a
+				friend of mine.</u>
+			<u xml:id="q-e965e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="5">When we returned I
+				carried on my career as a n audio-typist to a new firm where I was living now.</u>
+		</body>
+	</text>
+</TEI>

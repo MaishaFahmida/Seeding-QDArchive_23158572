@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 99</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-c01faa62-185b-4d3d-ba54-4a0316a90507</idno>
+        <idno type="qudexdocument">q-f46121bc-83b8-407b-8091-e9788781aa73</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-ac7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">“Reflections of the Years”</note>
+      <u xml:id="q-ad7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">The only past
+				time that I find pleasure in doing, is looking back at the past years of my life.
+				Sometimes I find joy in my thoughts but of course there is always a tear to
+				<sic>shread</sic><corr>share</corr>.</u>
+      <u xml:id="q-ae7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Yes I left school
+				about 1978 when I was 16. Yes I had my whole life in front of me, knowing that it
+				was only then that I was really going to live. All I wanted to do then was to be
+				considered as a “woman”, and I soon was.</u>
+      <u xml:id="q-af7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I got the job of
+				working in the local supermarket, it only paid £26 a week, but I enjoyed that I was
+				doing, and it was better <sic>then</sic><corr>than</corr> being at school or on the <sic>dolle</sic><corr>dole</corr>. I made lots of <sic>knew</sic><corr>new</corr>
+				friends (girls and boys) and that was where I met my late husband Steve, we courted
+				for two years and soon become married. We could only afford a flat at the time, and
+				we was lucky to get that on the little island we decided to stay on the Island being
+				as we both had our families here, and anyway there wasn’t anywhere we could afford
+				to go, and Steve had a steady job as a labourer. I kept my job for about three years
+				after we were married, that is until I fell for our first child, Paul. He was a fine
+				little baby and we loved him dearly, but when there was three mouths to feed life
+				became a little harder, the money didn’t go far and we missed the money that I used
+				to bring in, but we got over the little crisis, Steve soon got another job and the
+				baby grew up to be a healthy boy. I found it hard being with a wife and a mother and
+				it seemed if the harsh realities of life was play a great part in our life. When
+				Paul started school, more problems {illegible?} being as he hated school and was
+				rebelling by <sic>causeing</sic><corr>causing</corr> trouble, and I can understand him <sic>hateing</sic><corr>hating</corr> school because when
+				I was young school was my <sic>worse</sic><corr>worst</corr> enemy too. It <sic>begain</sic><corr>began</corr> to feel that our <sic>lifes</sic><corr>lives</corr> were
+				drifting apart, Steve would go out nearly every night and left me in, this went on
+				for nearly two years, and so I decided that it was best for us to separate but when
+				Steve found out my intensions, he tried to {rejoin?} himself to being the perfect
+				<sic>husbound</sic><corr>husband</corr>, so we stayed together until the day he died. As the years passed on we
+				become the perfect family, and we soon passed our own home after fifteen years of
+				married life. When Paul became nineteen he decided it was time for him to leave
+				home, it was a bit shock to Steve and I, but we respected his wish and so he left
+				and went up London. And we was alone once more, but we was happy enough. As the
+				years passed on we <sic>begain</sic><corr>began</corr> to feel our ages, Steve especially and he couldn’t take
+				becoming old and he turned to drink once more, and it was this that finally killed,
+				well not drink itself, he was in a car accident and was killed instantly. The police
+				report said “Death while under the influence of drink”</u>
+      <u xml:id="q-b07f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">After <sic>Steves</sic><corr>Steve's</corr>
+				death my life just seemed to come to a <sic>hault</sic><corr>halt</corr>, and I seriously considered killing
+				myself, but I just didn’t have the gut to end my life in a few minutes, so I decided
+				to wait until the good lord calls me himself to join my lost ones.</u>
+      <u xml:id="q-b17f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">My son visits me
+				once every year with the girl who lives with, or you could say there married accept
+				for a ring and an official certificate, but even that is just a duty visit on the
+				poor old lady, he feels he owes me something, well I just smile and his good will,
+				but nobody gives you that anymore without something in return. Yes that just my
+				hobby looking back over the years while I’m waiting for the call of the Lord, and to
+				be reunited with with the lost one’s which I earnt want to see. I’m not afraid of
+				death just afraid of living on in the world today, just to be another statistic as
+				far as the world is concerned.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, 4th March 1945</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-19541446-78e5-4e54-afc1-afb6d9540942</idno>
+				<idno type="qudexdocument">q-efd49a6c-35ca-4d57-9cff-c12364bc0eaa</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-7c507fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject: MORALE REPORT.</note>
+				<note xml:id="q-7d507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">CONFIDENTIAL</note>
+				<note xml:id="q-7e507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Medical Section.</note>
+				<note xml:id="q-7f507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">37 Beach Group. Ref.37/3.</note>
+				<note xml:id="q-80507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">4th March 1945.</note>
+				<note xml:id="q-81507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">O. C.</note>
+				<note xml:id="q-82507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">Headquarters.</note>
+				<note xml:id="q-83507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">Land Forces Adriatic.</note>
+				<note xml:id="q-84507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Herewith quarterly report on the morale of this Section.</note>
+				<note xml:id="q-85507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">W.E. I Officer. 25 O.Rs.</note>
+				<note xml:id="q-86507fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="11">Section I. Morale in general.</note>
+				<note xml:id="q-87507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Morale in this Section is very good considering that it has never carried out the roll for which it was formed and trained.</note>
+				<note xml:id="q-88507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">There has been long periods of inactivity and doubt as to future roll, but when engaged in full time work of any kind personnel work together in excellent sprit and co-operation.</note>
+				<note xml:id="q-89507fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="14">Section II. Factors affecting Morale. hhh I. Discipline.</note>
+				<note xml:id="q-8a507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Good which is shown by the absence of crime during the quarter. hhh II. Confidence.</note>
+				<note xml:id="q-8b507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Every confidence is held in all Leaders, Arms, Equipment and General efficiency. hhh III. Mail.</note>
+				<note xml:id="q-8c507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">No complaints received regarding mail apart from irregularities of receipt of such during recent operations in Yugo slavia which were unavoidable. hhh IV. Welfare.</note>
+				<note xml:id="q-8d507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Living conditions excellent during all the quarter. Recreation and amusements were satisfactory in view of the difficulties of location during quarter. i.e. Yugo Slavia. hhh V. Education and ABCA.</note>
+				<note xml:id="q-8e507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Little attention has been given to the matter of Education and ABCA in this Section previously. This is having immediate attention. hhh VI. Relations between Officers and men.</note>
+				<note xml:id="q-8f507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Quite satisfactory. hhh VII. Relations with other Services.</note>
+				<note xml:id="q-90507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Excellent. hhh VIII. Relations with Allies.</note>
+				<note xml:id="q-91507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">Attitude towards the Allies is towards friendliness and to avoid unpleasant incidents. The only exception that has come to my notice has been shown towards the Yugoslavia (Partisans) Which was brought about by the heavy restrictions imposed against fraternization. hhh IX. Home affairs.</note>
+				<note xml:id="q-92507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">To little is understood of these matters, due to:- (see para Five.) hhh X. Finance.</note>
+				<note xml:id="q-93507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The personnel of this Section are clear of all debts. hhh XI. Miscellaneous.</note>
+				<note xml:id="q-94507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Leave was very much overdue, but in February majority of the section had leave to Rome or local leave. By the middle of March all desiring leave will have had same.</note>
+				<note xml:id="q-95507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">LIAP. Two O.Rs are at present on leave in U.K. The first one was chosen by ballet, he had 2 yrs 1mth. The 2nd was selected from the ADMS L.F.A.pool , service 2 yrs5 mths. It is the opinion of the men following my talk to them, that 02E should do the selecting of personnel.</note>
+				<note xml:id="q-96507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">There is no doubt that whatever the method of sellecting there will always be a slight feeling of un­rest and dissatisfaction which I think is unavoidable</note>
+				<note xml:id="q-97507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Relations with civilians. This feeling quite good but not encouraged.</note>
+				<note xml:id="q-98507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">(E.T.Shennan) Capt. R.A.M.C.</note>
+				<note xml:id="q-99507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">O.C. Medical Section 37 Beach Group. L.F.A.</note>
+				<note xml:id="q-9a507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">DMG</note>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 96</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-010bab2e-a038-4add-9106-f3abc0277d8e</idno>
+        <idno type="qudexdocument">q-7a9b36cf-7e31-4437-8026-311d32a1eebd</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-937f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-947f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I now look
+				back to the days of when I first left school I think about my mates who I used to
+				work in the shirt factory on the isle of Sheppey with and what times we use to have
+				going out with our boyfriends to disco and youth clubs just like youngsters do
+				nowadays. It was a great experience for me to go and collect my wage packet, my
+				first ever wage packet from the <sic>bosses</sic><corr>boss's</corr> office, I use to make up wonderful dreams on
+				how I would go off to Canada and marry a rich millionaire and we would live happy
+				ever after, just like it was said in story books but instead I met Robert. Robert
+				was a year younger than myself but we used to have fun going out together, motorbike
+				racing, to discos, swimming, and his age didn’t seem to matter to me at all. I can
+				always remember how he proposed to me, he fell down a flight of stairs and landed in
+				my arms and said “Darling will you marry me”, and of course that was it.</u>
+      <u xml:id="q-957f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">We had moved from
+				Sheppey up into Ascon just outside Doncaster and that where our four little girls
+				grew up and got married. Robert was a motorbike racer up <sic>their</sic><corr>there</corr> and I got a job as a
+				bar assistant. It was quite pleasant really because you met different kinds of
+				people.</u>
+      <u xml:id="q-967f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Although I didn’t
+				mind Robert going racing, I was always sure some kind of accident would happen and
+				it did, his bike crashed and he was taken to hospital with a broken back, legs, his
+				pelvis and he lost the sight in his left eye. When he came out from hospital he was
+				confined to a wheelchair, so I had to leave my job as a bar assistant and stay at
+				home with Robert to look after him.</u>
+      <u xml:id="q-977f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">That’s now it is
+				{rocky?} my Robert in a chair and my four daughters grown up with children of their
+				own, but to me it was all I ever really wanted.</u>
+    </body>
+  </text>
+</TEI>

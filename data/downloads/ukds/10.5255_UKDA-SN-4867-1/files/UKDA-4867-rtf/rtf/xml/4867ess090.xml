@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 90</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-160371cb-d937-460d-815c-77b4e521feb1</idno>
+        <idno type="qudexdocument">q-d4072c93-fac3-4f1c-a9bc-a469c15a6ec8</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-5d7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-5e7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				17 years of age and started work in Abbotts Laboratories as laboratory assistant. I
+				liked my work I enjoyed going out in the evenings with Paul. By then I’d already
+				been going steady with him for a year. When I was 20 I got married to Paul. It was a
+				<sic>lovley</sic><corr>lovely</corr> wedding then sun was <sic>shinning</sic><corr>shining</corr> and everyone enjoyed themselves.</u>
+      <u xml:id="q-5f7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I stayed at work
+				until my first baby was born I was 22 then. She was <sic>lovley</sic><corr>lovely</corr>; she had Auburn hair and
+				lots of it. We called her Hiedi. Three years later I had another baby a boy this
+				time he was really cute. We called him Danny. He turned out to be a right little
+				monkey. Hiedi started school when she was 5 and Danny started 2 years later. I went
+				back to work. The children grew up and the four of us had a marvellous time,
+				especially on our Annual Holidays. We were doing alright financially, Paul had a
+				good job so at 38 I left work and became an ordinary housewife. The next year mum
+				died, it took a long time to get over that as we were very close. Dad moved into our
+				road so that we could keep an eye on him. That year seemed full of deaths. <sic>Pauls</sic><corr>Paul's</corr> Dad
+				died three months afterwards I think it was the shock of his dad dying that caused
+				it. Although the doctors said it was heart trouble I was glad to see that year out.
+				Heidi got married when she was 18 she looked lovely all in white. Danny got married
+				at 20, in the same year Hiedi had her one and only child, Samantha. She had a
+				difficult birth and decided not to have any more. Danny had 3 children the first
+				came two years after his marriage it was a girl called Jayne. The other two came
+				both together, twins, a boy called Simon and a girl called Veronica. I spent nearly
+				all of my spare time with my grandchildren right up until now. I love them dearly
+				and so does Paul, he gets on especially well with Simon, I think it’s because he’s
+				the only boy. He’s a comedian, just like his dad used to be. Every weekend all 10 of
+				us get together at our house. We’re one big happy family who get on just fine. When
+				Paul had a spell in Hospital two months ago all four <sic>grandchild</sic><corr>grandchildren</corr> came to stay with
+				me, they were good company and cheered me up no end. Anyway Paul’s alright now and
+				we’re all back together again, I hope we will stay like that for a long time, for as
+				long as I live anyway.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report on FloydForce, 8 Dec 44</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-96959217-1950-4bc0-a542-3832dd921a90</idno>
+				<idno type="qudexdocument">q-31e9d30a-bec6-4afd-b4d8-23e16f59d6f3</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-8a17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-8b17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="2">ADV HQ FLOYDFORCE,</note>
+				<note xml:id="q-8c17e013-1390-e311-a968-000bdb5cc6d5" type="date" n="3">8 Dec 44</note>
+				<note xml:id="q-8d17e013-1390-e311-a968-000bdb5cc6d5" type="subject" n="4">SUBJECT: Morale Report on FLOYDFORCE</note>
+				<note xml:id="q-8e17e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="5">TO:- HQ LFA</note>
+				<note xml:id="q-8f17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="6">Ref your letter LFA/44/AG 21 Nov herewith Morale Report.</note>
+				<note xml:id="q-9017e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="7">PARA 1.</note>
+				<note xml:id="q-9117e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="8">Units under comd FLOYDFORCE are :-</note>
+				<note xml:id="q-9217e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="9">NOIC Med Sec 37 Beach Gp</note>
+				<note xml:id="q-9317e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="10">43 RM Cdo 3 PSU RAMC</note>
+				<note xml:id="q-9417e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="11">111 Fd Regt RA 'A' Comp Sec 1556 Arty</note>
+				<note xml:id="q-9517e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="12">Tp 'E' Bty RSR PI RASC</note>
+				<note xml:id="q-9617e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="13">180/64 HAA Bty RA Det 150 Pnr Coy</note>
+				<note xml:id="q-9717e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="14">Tp 101/31 LAA Bty RA 37 mil Mission</note>
+				<note xml:id="q-9817e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="15">579 A Fd Coy RE ALO</note>
+				<note xml:id="q-9917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="16">Mov &amp; Tn 2825 Fd Sqn RAP Regt</note>
+				<note xml:id="q-9a17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="17">Det 2 SS Bde Sigs 514 Coy RASC</note>
+				<note xml:id="q-9b17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="18">Bet 54 Med W/T Sec R Sigs PWB</note>
+				<note xml:id="q-9c17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="19">Air O P Party RAF NIKSIC</note>
+				<note xml:id="q-9d17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="20">Total Strength -</note>
+				<note xml:id="q-9e17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="21">144 Offrs and 2330 ORs.</note>
+				<note xml:id="q-9f17e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="22">PARA 2 GENERAL</note>
+				<note xml:id="q-a017e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="23">(1) General Morale of all units is of a high standard, and the more active conditions are the more it improves.</note>
+				<note xml:id="q-a117e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="24">(2) The only noticeable grumble about conditions was due to delays in the forwarding of mail from Italy. It is hoped this matter is now adjusted.</note>
+				<note xml:id="q-a217e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="25">(3) The opening of the leave scheme LIAP has provided a topic of conversation, though mathematicians are not wanting who point out that a rate of approx 10% per annum is rather a "lucky" dip. It has undoubtedly cheered up all ranks who feel it is a good beginning and will be improved upon.</note>
+				<note xml:id="q-a317e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="26">(4) The main difficulty with the FORCE has been the impact upon them of the governmental methods of the Partisan authorities. All units had experience of the JANL in VIS and had a great admiration for them and their discipline, cleanliness, and honesty. Conditions in the Yugoslavia mainland have definitely shocked them, and indeed been at times most irksome. This is especially true in DUBROVNIK and TREBINJE, the only large towns in which troops have had to be stationed. The lack of freedom to express an opinion or to speak to civilians: the harsh treatment of GERMAN prisoners: the summary executions of Yugoslavs who have been Chetniks, or are suspected of Chetnik, i. e. non-Partisan, sympathies: have all tended to make the situation tense.</note>
+				<note xml:id="q-a417e013-1390-e311-a968-000bdb5cc6d5" type="date" n="27">1 Dec 1944</note>
+				<note xml:id="q-a517e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="28">Lectures and explanations have been given, and orders have been issued on these matters explaining that the country is both fighting the GERMANS and running an internal revolution at the same time.</note>
+				<note xml:id="q-a617e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="29">(5) The troops have, on the whole, behaved very well and have understood the necessity for restraint. Nevertheless they have acquired a deep-rooted dislike for the TITO system, and the general tone is that "it’s not that sort of thing we're fighting for".</note>
+				<note xml:id="q-a717e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="30">(6) Morale would rapidly deteriorate were troops not afforded the opportunity of action, in which they bear up with great spirit under arduous and very uncomfortable conditions.</note>
+				<note xml:id="q-a817e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="31">PARA 3. AMENITIES</note>
+				<note xml:id="q-a917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="32">a) Union Jack newspapers do not come through with rations. If these could be arranged an issue of more than the normal 10% would be 'necessary owing to the large area over which the force is spread.</note>
+				<note xml:id="q-aa17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="33">(b) Pew Wireless Sets are at present held within this FORCE and it is considered that at the present stage of the war that men are greatly interested in the news. A supply of Wireless Sets in addition to, or in lieu of, newspapers would be beneficial to morale.</note>
+				<note xml:id="q-ab17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="34">Brig</note>
+				<note xml:id="q-ac17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="35">Comd FLOYDFORCE</note>
+				<note xml:id="q-ad17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="36">CMF.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

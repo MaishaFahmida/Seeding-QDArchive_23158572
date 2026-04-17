@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 40</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-489fac1a-a752-44d3-a870-876be3c7bb35</idno>
+        <idno type="qudexdocument">q-b841d4b0-356a-4a39-8b4d-35e47d41cbaf</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-1a7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-1b7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school
+				when I was sixteen and then I worked at Chatham Dockyard as an apprentice Electrical
+				fitter and I turned out to be a good job and I ended up getting a lot out of it,
+				when I was eighteen I got a brand new ford escort popular, this was a nice car, I
+				end up changing my car 3 times, I got married to Chris carter, she was twenty three
+				when I got married and she was a really nice woman. We bought a house in <sic>crawley</sic><corr>Crowley</corr> and
+				lived happy there for many years, we had children when I was 27 and we had twins.
+				Every Christmas, and bank holidays we visited mum and dad, I suppose mum and dad
+				missed me. We went on holiday about 4 times. During my married life, I made a lot of
+				new friends at the dockyard and eventually got to be foreman there getting over a
+				hundred pounds a week, now I am in retirement, now my two sons are forty, one is a
+				worker at sheerness steel and the other is in <sic>iran</sic><corr>Iran</corr> working for British aerospace. My
+				life has had its good and bad times but altogether a good life, my mum lived to 88
+				and dad to 79 they both had good times. My sister is 58, married with 3
+				daughters.</u>
+    </body>
+  </text>
+</TEI>

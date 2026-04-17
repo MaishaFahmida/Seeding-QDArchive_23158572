@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 8</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-b4b0490d-0c4e-4653-b990-24e95a4da9a4</idno>
+        <idno type="qudexdocument">q-4b7918dc-c760-486b-8924-dffd38fda65e</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-777d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My past life</note>
+      <u xml:id="q-787d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At sixteen I took
+				seven O’levels and passed six of them. In the sixth form I took three A’levels in
+				geography, maths, and physics, of which maths and physics I passed. When I left
+				school at eighteen I joined an engineering firm as an <sic>apprentise</sic><corr>apprentice</corr>, and went on a
+				college course to take H.N.D. in engineering, while being paid by the firm. With my
+				H.N.D. I joined a union, and a body of professional engineers, and was earning seven
+				thousand pounds a year. At 23 I bought my first car and moved away from home to take
+				up residence in a flat nearer to the firm. I began thinking seriously about getting
+				married and started to take girls out but I was twenty five before I meet the right
+				girl. She was also intelligent and with both of us working we were earning one
+				hundred and fifty pounds a week between us. We courted for fourteen months and got
+				married in a large church. All the family was there and it was a bit “do”. We
+				settled down in our own house on a housing estate in West London. After being
+				married for two years we had our first child, a boy and we called him William. My
+				wife stopped working and became a full time housewife. Both my wife and I enjoyed an
+				active life and marriage was not going to stop that. We often went camping on the
+				moors and fishing on {illegible} beaches at night. We also went in rally driving
+				races, and we both had a private flying <sic>lisance</sic><corr>licence</corr>.</u>
+      <u xml:id="q-797d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Life at work is
+				not to bad and promotion is not to far away, so I am happy at work and not thinking
+				of changing any thing. At thirty two we have another child, this time a girl, and we
+				name her Sue. We are feeling more energetic than ever now and we sell the house and
+				move to a very large cottage in Devon and I get a new job as production engineer in
+				a large engineering works. This job is more interesting because you get out a lot
+				and your job covers larger ground. When I am forty seven my oldest son gets married
+				and we all travel up to London for the weekend. It was a nice week and we get to see
+				all the sights when we were first married. He marries a {illegible} young lady from
+				up North who has just left the W.R.A.F. They settle down in rather the same
+				conditions as we did, only William was a banker and was already in a high
+				position.</u>
+      <u xml:id="q-7a7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After a happy
+				working life I retire, reluctantly, to my cottage in Devon with my, still loving
+				wife. I settle down to a life of fishing in the local streams and digging the
+				garden. My wife continues to do the housework and we still enjoy each <sic>others</sic><corr>other's</corr>
+				company, even though we are fairly old. At sixty seven we go to a party, as one of
+				my school friends has died when his parachute did not open. He lived for much longer
+				than he expected and as promised left some money for a party on the sad day. Now all
+				my wife and I do is enjoy life until the end.</u>
+    </body>
+  </text>
+</TEI>

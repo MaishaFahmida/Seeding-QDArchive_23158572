@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 46</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-042871c2-14cc-4bae-99db-cc28ff7702a0</idno>
+        <idno type="qudexdocument">q-3b3a07dc-e59a-4a48-81a4-ade6e449cab5</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-387e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Long Ago</note>
+      <u xml:id="q-397e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">
+        <sic>Im</sic>
+        <corr>I'm</corr> now knocking
+				60, <sic>Im</sic><corr>I'm</corr> quite wealthy I haven’t had too many ups and downs and <sic>Ive</sic><corr>I've</corr> got quite a
+				healthy sum of money. I left school when I was 16 and went straight into a job quite
+				a good job in fact it was an apprentice motor mechanic, a recognised trade in that
+				day. My first wages was £25.00 in which I gave my mother £7.00 for board, with the
+				£18 I had left I put a deposit down for an electric Bass guitar, the guitar cost
+				£335.25 and it was an excellent bass for the money. My wages were coming in every
+				week and I had to make sacrifices such as going out and such like just to buy this
+				bass. After about a year I had paid up the money and had a 100 watt amplifier given
+				to me for Christmas. Time was going fast and I practised every single hour of my
+				spare time.</u>
+      <u xml:id="q-3a7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I was just coming
+				up to 20 when I finished my apprenticeship as a motor mechanic. I became quite good
+				on the bass and then was the first real breakthrough. I had decided to form a group
+				calling it Wreackage. I went around <sic>Nite</sic><corr>night</corr> clubs and working men’s clubs looking for
+				different talents on different instruments. I found a boy by the name of Kev
+				Harrison and asked him if he would join my group and he said yes. Me on the bass and
+				Kev on lead, a friend of Kevs tony played drums and had a good drum kit a Ludwig I
+				think. We auditioned a boy called Roger who played Rhythm Guitar and Tony on drums.
+				We instantly started to record songs and rehearse for rehearsals we used the old
+				dockyard church where I was inspired for my first song I wrote called Broken
+				down.</u>
+      <u xml:id="q-3b7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">We also had
+				<sic>learn’t</sic><corr>learnt</corr> some Queen, Quo, numbers and started off looking for booking. I got us two
+				bookings over the Queen Phillipa and Kev got is one over the V.C. The very first
+				nite over the Phillipa we had developed technical troubles with the P.A. system so
+				we had to sing through the amps. The place was packed and everybody wanted more they
+				cheered and cheered that night we got £50 to be shared out and with what we had left
+				we spent on new <sic>gadgits</sic><corr>gadgets</corr> to make us more <sic>amasing</sic><corr>amazing</corr>. We were popular all over Sheppey
+				and word got around {illegible} Kent and we were playing to huge crowds. One day
+				Wreakage had an argument and we just split just out of the blue split the end of
+				Wreakage the end of a cult. After the groups had split I had just forgot about
+				playing bass and just went on with my normal occupation as a motor mechanic quite a
+				nice job really.</u>
+    </body>
+  </text>
+</TEI>

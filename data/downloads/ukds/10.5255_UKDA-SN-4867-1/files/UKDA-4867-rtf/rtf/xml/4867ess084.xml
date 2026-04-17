@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 85</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-19d4bae4-719f-4477-9b2a-570148313f66</idno>
+        <idno type="qudexdocument">q-a5dba420-92d2-4f3e-84b1-5fb346729061</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-3a7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-3b7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back over the past 70 years I feel that I have been quite successful. When I was at school I stayed on for one year and improved my qualifications. I got a job in a bank as an accountant I found that this job interested me. My only complaint is about the examination system in my school, I think that everybody should do C.S.E.s and O levels. I think this because all the people that just doing O levels have nothing to fall back on, but if they did C.S.E.s as well they would have something to fall back on. My job in a bank was a steady one but I always wanted to play in a group as a lead guitarist. I always thought about playing in a group as another way of getting things of your system. There was 3 boys I was going to form a group with but it never happened. All the time I was working in a bank I lived with my mum and dad. I never got married because you I suppose I didn’t meet the right sort of person. As I got older I still listened to the same music I liked when I was 16, I liked The Damned, Sex Pistols, Jam Clash, Buzzcocks and Sham 68. I also used to listen to the Beatles because I liked them very much. When I got to about 50 I used to go and watch cricket a lot, Kent still remained my favourite team. The batsman I used to enjoy watching had retired he was Vir Richards. I don’t watch football as much as I used to because the game had got too defensive. When I retired at the age of 65 I bought a house in a quiet part of minster and I settled down to laze away the years I had left. When I was young I played football and cricket but now I’ve slowed the games down to snooker, cards and Darts, at which I am pub (highlanders) champion. I used to play dominoes but I gave it up.</u>
+    </body>
+  </text>
+</TEI>

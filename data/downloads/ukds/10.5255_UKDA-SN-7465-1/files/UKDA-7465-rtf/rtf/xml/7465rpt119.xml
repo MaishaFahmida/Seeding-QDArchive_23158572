@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report for Period Sept to Nov 1944</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-c7da1259-c0d7-46c5-b0fc-dd64e2768a15</idno>
+				<idno type="qudexdocument">q-49d204a1-d0c1-4f17-a15f-8c65ed7492b9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-55537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">LAND FORCES ADRIATIC</note>
+				<note xml:id="q-56537fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="2">MORALE REPORT FOR PERIOD SEPT TO NOV. 1944</note>
+				<note xml:id="q-57537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="3">I. MORALE IN GENERAL.</note>
+				<note xml:id="q-58537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">In a force which has hitherto been mounting independent operations of comparatively short duration, morale fluctuates in direct proportion to the scale of operational activity. When operations are imminent or actually in progress a salutary keenness is apparent in all ranks who are connected, however remotely, with their preparation and execution. This was particularly noticeable after the liberation of GREECE, when all units were proud of the part they were able to play.</note>
+				<note xml:id="q-59537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">In general the standard of morale is high; the disappointment which became apparent when it was appreciated that hopes of the European War ending this year would not be realised, has been largely overcome.</note>
+				<note xml:id="q-5a537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="6">II. FACTORS AFFECTING MORALE. hhh Discipline.</note>
+				<note xml:id="q-5b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">The monthly average of F.G.C.M. cases has been under 3, with a noticeable absence of grate offences; minor offences have been to a very large degree attributed to a situation which requires operational troops to live within easy reach of a large town. hhh Confidence.</note>
+				<note xml:id="q-5c537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">(a). In army Leaders and the War. Uniformly high; past experience and possibly the Prime Minister's restraint have induced considerable reluctance to accept forecasts of 'target dates'.</note>
+				<note xml:id="q-5d537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">(b). In Arms and Equipment. Very good; particularly in Specialist Units who have been able to select the most suitable equipment by trial and error.</note>
+				<note xml:id="q-5e537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">(c). Units' confidence in themselves increases with every operation. hhh Mail.</note>
+				<note xml:id="q-5f537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">There have been no complaints. Difficulty has been experienced in dealing satisfactorily with Task Forces made up of several sub units where no Army Postal Dot could be made available; a satisfactory solution has been reached. hhh Welfare and Entertainment.</note>
+				<note xml:id="q-60537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">(a). Living Conditions. All troops are billetted in covered accommodation when not on operation.</note>
+				<note xml:id="q-61537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(b). Recreation and General Amusement. Central facilities in Bart are good, and accessible to many; VIS has its own mobile cinema. More travelling ENSA shows would be appreciated by isolated units. Outdoor recreation is universally popular; shortage of equipment makes considerable improvisation necessary.</note>
+				<note xml:id="q-62537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(c). General. The eternal beer shortage is the only general complaint with NAAPI services, although it has been suggested that the extra Christmas fare should be a free issue. The demand for wireless sets, always great because of small detachments, is always greatly in excess of the supply. hhh Education with ABCA</note>
+				<note xml:id="q-63537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Operational commitments and the fact that several units were widely scattered have prevented a set programme being closely followed. ABCA discussion form part of training programmes when possible. The visit of the SO III (Edn) to VIS was most successful, and great enthusiasm was shown by all units. War Office Correspondence Courses have been well received. hhh Relations between officers and men.</note>
+				<note xml:id="q-64537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Always good.</note>
+				<note xml:id="q-65537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">All units have had practical experience of close cooperation with R.N. and R.A.F.; uniformly good relations are reported and confidence in the other services is high. hhh Relations with Allies.</note>
+				<note xml:id="q-66537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">The most important contact is with J.A.N.L. The universal admiration and respect for Yugoslavs which has been prevalent among units in VIS has not continued in those have recently been fighting on the mainland of Yugoslavia. Troops have been rudely shocked by conditions there, and, in spite of lectures, the British soldier finds it difficult to understand restrictions on relations with civilians, the harsh attitude adopted by J.A.N.L., towards every P.W. and their uncompromising treatment of all who are suspected of other political opinions. The feeling of mutual suspicion thus produced has had a considerable effect on morale. Relations with U.S.A. troops are potentially good and particularly so in a unit which has been working with Americans in enemy occupied territory. Different scales of pay and disciplinary standards remain a great bar to common understanding. hhh Home Affairs, Post War and Release.</note>
+				<note xml:id="q-67537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">The number of applications for compassionate posting to U.K. are increasing. It is difficult to make soldiers who are disturbed over family matters at home realise that the delay before their case is a decided is necessary in order to safeguard genuine cases, and there is a general feeling that marital infidelity should have a higher priority as a ground for home posting. Considerable interest is displayed in Post War planning - one of the more noticeable reactions being a doubt as to the many controls which will be imposed in order to implement the plans. The scheme for release form the army has been generally accepted. The suggestion that overseas service should be taken into account is a common one, but the almost insuperable difficulties of administration have been explained. The recent pay increases have disarmed criticism; it is, however, hard on those in receipt of War Service grants that there should be a corresponding decrease in their emoluments. Soldiers balance are notified now with much more despatch, although cynics insist that debit balances are notified much more quickly than credits. hhh Miscellaneous.</note>
+				<note xml:id="q-68537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">(a). Overseas Service. There is still, in spite of LIAP, a feeling that everything possible is not being done to reduce the necessary length of overseas service. Frequent changes in the reasons for its length, genuine though they may be, cannot but produce a measure of distrust.</note>
+				<note xml:id="q-69537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">(b). Leave LIAP has been a great blessing, and has given everyone new hope. It is unfortunate that by the time the allocation reaches a Regiment or Battalion the numbers appear ridiculously small. The manpower situation and other reasons for small drafts are well understood. Leave to ROME has at least been allowed for units of this Force, and is most welcome.</note>
+				<note xml:id="q-6a537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">(c). Relations with civil population.</note>
+				<note xml:id="q-6b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">(i). Yugoslavia is covered in section 8.</note>
+				<note xml:id="q-6c537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">(ii). It Italy no great fraternisation is reported. The expression 'correct aloofness' used by C.O. well sums up the general attitude.</note>
+				<note xml:id="q-6d537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">[signature]</note>
+				<note xml:id="q-6e537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="26">13 Dec. 44</note>
+				<note xml:id="q-6f537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Brig.,</note>
+				<note xml:id="q-70537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Comd. Land Forces Adriatic.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

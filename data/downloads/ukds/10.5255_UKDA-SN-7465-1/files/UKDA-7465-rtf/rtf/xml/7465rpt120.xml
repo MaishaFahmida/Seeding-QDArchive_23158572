@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, September - November 1944</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-b18fedd1-8789-4ee7-8970-92ac1619e2fd</idno>
+				<idno type="qudexdocument">q-578e69d8-3140-4a20-a801-ab2c1efcb71c</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-71537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="1">Subject: MORALE REPORT.</note>
+				<note xml:id="q-72537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">To/</note>
+				<note xml:id="q-73537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">HQ</note>
+				<note xml:id="q-74537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">LAND FORCES ADRIATIC.</note>
+				<note xml:id="q-75537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">Camp,</note>
+				<note xml:id="q-76537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">HQ</note>
+				<note xml:id="q-77537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">LAND FORCES ADRIATIC</note>
+				<note xml:id="q-78537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">C.M.F.</note>
+				<note xml:id="q-79537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Ref: LFA/CAMP/51/86.</note>
+				<note xml:id="q-7a537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Reference your LFA/44/AG. d. 21 Nov 44.</note>
+				<note xml:id="q-7b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Morale Report for the period September - November 1944 is attached.</note>
+				<note xml:id="q-7c537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Captain. R.A.</note>
+				<note xml:id="q-7d537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Camp Commandant L.F.A.</note>
+				<note xml:id="q-7e537fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="14">MORALE REPORT.</note>
+				<note xml:id="q-7f537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="15">Sect. I.</note>
+				<note xml:id="q-80537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Since the curtailment of Unit censorship, it is not possible to obtain so accurate a guide as to general feelings of troops, but in the main, one can say that Morale is still fairly high. The mood fluctuates according to newspaper reports on the date of the possible finish of the European War. Considerable damage was done by the optimistic "paper" talk of the end before Christmas, and the subsequent dampener by the Premier referring to overconfidence. The pay increases were very well received in the main, though a few skeptics called it an electioneering gadget; the same can be said of the month's leave to the U.K.-on first hearing the news, spirits soared, until men realised that it would affect very few really. In the main one can safely say, Morale is very steady, and all take an intelligent and keen interest in doing their respective jobs.</note>
+				<note xml:id="q-81537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="17">Sect. II. In arriving at the above report, the following factors were taken into consideration: hhh 1. Discipline.</note>
+				<note xml:id="q-82537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">The very fact of the Headquarters being situated in a very large town, which is used by many hundreds of troops on leave, tends to make discipline in general, and saluting in particular, a rather difficult problem. In billets, discipline is good, but the fact that so many of the personnel work a distance away makes control difficult. hhh 2. Confidence.</note>
+				<note xml:id="q-83537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">All ranks appear to have confidence in the Present Army Leaders, and have no doubt that they will see the war through to a successful conclusion.</note>
+				<note xml:id="q-84537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">(b) No criticisms have been heard regarding the arms and equipment, though many praise the German heavy automatic weapons; in particular the six barreled mortar, in com­parison with our arms.</note>
+				<note xml:id="q-85537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">(c) Confidence appears to be high in the way in which the war is being conducted, particularly on the Western Front. The feeling is that we have underestimated our opponents in the Italian Theatre. hhh 3. Mail.</note>
+				<note xml:id="q-86537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">There is nothing but praise for the smoothness with which air-mail is delivered, but comments are not favourable with regard to surface mail, particularly parcels, which take 6 - 8 weeks to arrive. It is considered the A.P.O. do a good job of work in tracing men who have changed their units frequently. hhh 4. Welfare.</note>
+				<note xml:id="q-87537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">Being situated in a large town, there is no lack of entertainment, but more live shows would be appreciated. Comforts come through regularly and are greatly appreciated. No complaints regarding living conditions, as all troops are living in one building, with beds and first rate food. hhh 5.</note>
+				<note xml:id="q-88537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Education. Very little has been done in the way of ABCA, in view of the late hours worked by the office and staff. The few lectures held have been very poorly attended, but now that the Unit Education Officer has returned, it is hoped to kindle some enthusiasm. A very poor response was received to the War Office Correspondence Course notice, only one name being submitted. hhh 6.</note>
+				<note xml:id="q-89537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Relations between Officers and Men. On the whole a very good spirit exists between officers and men. This has been shown up in the recent All Ranks dances, where quite a good get-together spirit existed. hhh 7.</note>
+				<note xml:id="q-8a537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Relations with other services. Very little opportunity exists for mixing with other services, excepting in the offices, where certain branches do have contact. All, however, realise the good work being done on the sea, and in the air. hhh 8.</note>
+				<note xml:id="q-8b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Relations with Allies. Relationships with Americans leave much to be desired, due in the main to what is read in the popular press coming from England. There is much light talk about getting home to "liberate" England, chaff on the surface, but really going much deeper. Very little contact has been made with French or Partisan Forces. hhh 9.</note>
+				<note xml:id="q-8c537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Home Affairs. There is, of course, much speculation as to what will happen in the Post War years, but the Demobilisation Scheme as published meets with general approval - excepting that men with service overseas do not have priority over those serving in the U.K. This is quite a strong bone of contention. hhh 10.</note>
+				<note xml:id="q-8d537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">Finance. Hardly any real complaints regarding rates of pay, except in the case of those men in receipt of War Service Grants - these feel it to be very mean that the amount of the Grant should be knocked down by the amount of the Pay increase. hhh 11. Miscellaneous.</note>
+				<note xml:id="q-8e537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(a) All Ranks feel that the length of overseas service should be cut down to conform with that of the RAF and RN. It is realised that shortage of manpower is a big factor, but many feel that too many have been kept in England who could help lower the period of overseas service.</note>
+				<note xml:id="q-8f537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">(b) Being in a Base Area, all men are fortunate in being able to get leave, and have somewhere to spend it. The whole of the HQ have had 7 days leave in the last 4 1/2 months - but leave would be enjoyed more if it were possible to spend it in Rome or Naples - the majority of men have been in fighting units, and have been un­fortunate enough to be wounded or downgraded - and feel that they are as much entitled to leave facilities in Rome as members of the fifth and Eighth Armies, of which they were lately part.</note>
+				<note xml:id="q-90537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(c) There is very little fraternizing with the local population - the majority have not forgotten how dirtily and cowardly the Italians fought.</note>
+				<note xml:id="q-91537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">All Ranks are aware of the magnitude of VD in the area, and very few cases have occurred in this HQ.</note>
+				<note xml:id="q-92537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Captain. R.A.</note>
+				<note xml:id="q-93537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Camp Commandant L.F.A.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

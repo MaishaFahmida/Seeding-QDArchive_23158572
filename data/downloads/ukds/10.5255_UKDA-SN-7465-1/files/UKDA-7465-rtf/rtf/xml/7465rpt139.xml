@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report for the Month of February, 1943</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-bc037d99-be37-4165-a3ae-f6c57efab75a</idno>
+				<idno type="qudexdocument">q-b0f0cc14-daa6-4a2e-aa4f-263fd2aee204</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-8c567fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">MORALE REPORT FOR THE MONTH OF</note>
+				<note xml:id="q-8d567fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="2">FEBRUARY, 1943FROM</note>
+				<note xml:id="q-8e567fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="3">OFFICE OF BAS CENSORSHIP</note>
+				<note xml:id="q-8f567fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="4">No. 2</note>
+				<note xml:id="q-90567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">This report covers mail received from the following A. P. O's:- 252, 522, 650, 668, 0 758, and 759, but only for the following dates, February 25, 26 and 27, during which time 2, 936 letters were examined.</note>
+				<note xml:id="q-91567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">The number after each category below represents the number of information slips referring to that specific subject, and the number set forth in a citation, where one is made, refers to the file Dumber of the information slip. hhh A. HEALTH (6)</note>
+				<note xml:id="q-92567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">"Gaining weight, feeling fine" seems to be the consensus of opinion of the writers and as one, a Lieutenant (11) states, "Personally, I am in the best of health. Another reports (41) "but I'm still alive and healthy and as happy as anyone could be."</note>
+				<note xml:id="q-93567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Contrary to the above statements, a Major (14) sets forth the following in a letter addressed to his wife:-</note>
+				<note xml:id="q-94567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">" There are a lot of mosquitoes here and consequently much malaria and much of it is the common type but there are many in- stances of the deadly falsi parum (SP?) type that kills and several soldiers in the vicinity already have died of it- - its the same deadly type that you read about being carried into S. America from Africa and I hope to God I don't get it. We are forced to wear headnets at night and sleep under mosquito bars. The writer of the above quoted letter is attached to the 700th Tank Bn... P. O. 668. hhh B. MAIL (8)</note>
+				<note xml:id="q-95567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Average delay in the receipt of mail from the United States is twenty days, though occasionally it is a longer period of time, or the mail is received in batches, all dated differently. All at times complain of the delay and are anxious to receive mail/</note>
+				<note xml:id="q-96567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">A Brigadier General (2) writes, "Three grand letters from you to-day and numerous ones almost every day recently, so I certainly am pleased with the mail service.</note>
+				<note xml:id="q-97567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">A Corporal (2O) comments, "Your last letter really made good time, two weeks on the nose!</note>
+				<note xml:id="q-98567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Others complimented the mail service by stating that they received Valentine cards within two weeks. hhh C. TRAINING No specific mention of training is made on the information slips examined, though a Lieutenant (45) complains " so far, no duty--the days seem endless--nothing to do--we are almost crazy. On the other hand, the same writer states, "We get tired of reading, playing cards and dinner dates." hhh D. FOOD (11)</note>
+				<note xml:id="q-99567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Examination of the information slips reveals 9 in favor of the food and 2 against the food. The following excerpts Lives cross section of the food situation.</note>
+				<note xml:id="q-9a567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">A private (35) in describing canned rations, "Its good food, but you get kinda fed up on it after a time."</note>
+				<note xml:id="q-9b567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">A Lieutenant (4) "Glad you asked about the food, darling, be­cause its pretty good! He further goes on to explain that he is getting 'tired of the same routine of hot dogs, lunch meat and dried powdered eggs."</note>
+				<note xml:id="q-9c567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">A Staff Sergeant (28) after complaining about the food, compliment­ing the facilities for religion, says, "Gee, I have been feeling like a million lately guess I'm fattening up for the kill."</note>
+				<note xml:id="q-9d567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Another comment, by a Captain (33) "The cooks set up their mobile kitchens and serve delicious meals."</note>
+				<note xml:id="q-9e567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Comments are made that the food is tasty and some uven give the menus in their letters home, one, a private (34) claims, "four fried eggs for breakfast and a half dozen oranges a day is a common occurence here."</note>
+				<note xml:id="q-9f567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">The unfavorable side of the picture is shown by the following excerpts, Captain (3) "Ration has gone up from $.60 to $.70 and this is the worst food I have ever tasted. Mostly corned beef, Spam and Vienna Sausage." Major (24) "die eat hash until we can't look it in he face."</note>
+				<note xml:id="q-a0567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Of these two latter comments, the Captain has as his A.P.O. 252 and the Major has A.P.O. 668. hhh E. ENTERTAINMENT (2)</note>
+				<note xml:id="q-a1567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">There are only two specific mentions of this category, and a general examination showed the following entertainment facilities available, Red Cross Shows, phonographs and records, library, movies and card games.</note>
+				<note xml:id="q-a2567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">A corporal writes (47) "We also have a small library now We also got a phonograph, but we only have a few records."</note>
+				<note xml:id="q-a3567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">A private (29) "The only fault I find is complete lack of enter­tainment." F. SPORTS (5)</note>
+				<note xml:id="q-a4567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">"We have plenty of sports here at camp." This expression as obtained from one letter (46) aptly described the sport facilities. Mention is made of the following sports, volley ball, baseball, horseshoes, softball and boxing.</note>
+				<note xml:id="q-a5567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">A Lieutenant (12) "...boxing matches for Company. A men which every one enjoyed. Games are held between the French soldiers and the American soldiers, and a Staff Sergeant (15) explains, "We played basketball over at the French Garrison stayed and had supper with them and had a grand time. They had a regular banquet for us we really had a lot of fun." hhh G. EVE</note>
+				<note xml:id="q-a6567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">There are no comments made on this subject in any of the informa­tion slips examined. hhh H. QUARTERS</note>
+				<note xml:id="q-a7567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">(In the fiLLd )</note>
+				<note xml:id="q-a8567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">The only comments made concerns quarters in the field and the following excerpts are quoted in this category.</note>
+				<note xml:id="q-a9567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">"Every effort is made to give us as much comfort as possible in the field." This was obtained from a Lieutenant (31) and he seems to sum up the situation in those words, for there are no complaints concern­ing quarters. hhh I. CHURCH AND RELIGION (2)</note>
+				<note xml:id="q-aa567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Under the section "FOOD", set forth in D. above, the same Staff Sergeant (28) complimented church facilities in these words, " dent to Mass this morning. I went to Communion last Sunday, will go again next Sunday A private, (19) "We have a wonderful Chaplain with us, who helps us in every way." hhh J. RELATION WITH CIVILIANS (4)</note>
+				<note xml:id="q-ab567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">Writing in French, a private (8) says, "The great majority of the people in Morocco are happy that the Americans have come for the Germans took everything from them and the Americans brought them food stuffs." A Lieutenant (4O) writes about his visits with French families, "I am going to see a French Dr. and his family. There are fine French people here and it is a pleasure to converse with them."</note>
+				<note xml:id="q-ac567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Giving a different view of the picture, a corporal (1) writing in French states, "If all French people are like the ones here, I would treat them the same way. They think they know everything and no one can tell them beans. Sometimes I get mad at them and tell them how crazy they are." hhh K. CENSORSHIP (2) Two specific comments are made concerning censorship as written by the following,</note>
+				<note xml:id="q-ad567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">A corporal (38) "I can't understand why my letters are all cut to pieces I have my doubts about our .resent censor. Another corporal (5) appreciates censorship and writes as follows:- "Our censorship is very strict which is as it should be after reading the Bulletin Board today. The posted the slip-ups that were cut out of letters." hhh L. GENERAL COMPLAINTS</note>
+				<note xml:id="q-ae567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Though there was some griping which might be included under this heading, the gravamen of the complaints is set forth in the next category. hhh H. GENERAL</note>
+				<note xml:id="q-af567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">In general the morale seems to be exceptionally high, and from the information obtained, many of the writers are sending money orders back to the States. The following excerpts bear upon this point:-</note>
+				<note xml:id="q-b0567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">A private (9) says, "we do not want for anything here". He then requests that no money be sent to him.</note>
+				<note xml:id="q-b1567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">Another, with no mention made of either grade ornank, "Every pay day I will be able to send you about $70." His information slip is No. 36. A private tersely states, "We spend very little money here and I am buying bonds with my pay I also bought one $100 bond for cash.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

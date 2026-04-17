@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 103</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-ba2a0f0c-c9f3-4c3f-b880-7261aebcfd75</idno>
+        <idno type="qudexdocument">q-401b4691-501f-4cc2-81fe-42ae8deb676a</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-c97f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-ca7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I sat looking out
+				of my living room window and I could see young girls of about sixteen going past my
+				window, the fashion has really changed from when I was that age. I am now sixty.</u>
+      <u xml:id="q-cb7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">As I thought of
+				this I began to think back to the days when I was that age. I had just finished my
+				exams and I was looking around for a well paid secure job. I can remember keep going
+				into the job centre to see if any new jobs had been put out. One day I saw one that
+				I thought was the ideal job for me, it was well paid and it sounded quite
+				interesting, so I rung up the personal officer and <sic>a</sic><corr>the</corr> interview was arranged. I went
+				for the interview and I got the job.</u>
+      <u xml:id="q-cc7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Once I had
+				started the job I thought I’d be there for life. The next important thing that
+				happened in my life was that I passed my driving test and so that <sic>meat</sic><corr>meant</corr> I could start
+				looking for a new job in London or somewhere like that so that’s what I started to
+				do. I looked at all the advertisements for jobs and flats in London.</u>
+      <u xml:id="q-cd7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">In the end I
+				managed to get a good well paid job and a nice cosy little flat. I used to go out
+				about 3 or 4 nights a <sic>weeks</sic><corr>week</corr> with friends to a disco.</u>
+      <u xml:id="q-ce7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">When I was 24 I
+				got married and moved into a fairly big bungalow just outside London, but I still
+				carried on in my old job in London.</u>
+      <u xml:id="q-cf7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">After about 2
+				years left work to have a baby. I stayed at home to look after my child until she
+				was 8 years old then I went out and got a job.</u>
+      <u xml:id="q-d07f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">carried on
+				working all the time my daughter was growing up, then it was her turn to get
+				married. After that nothing much seemed to happen until about 2 years ago when my
+				daughter had a little daughter of her own. Now I have her running around the house a
+				lot and it reminds me of when my daughter was a baby.</u>
+    </body>
+  </text>
+</TEI>

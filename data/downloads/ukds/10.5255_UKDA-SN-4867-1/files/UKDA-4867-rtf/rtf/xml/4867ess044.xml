@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 45</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-5e20e4a7-2a3d-48a0-995b-9ef823143401</idno>
+        <idno type="qudexdocument">q-a0af79f7-e736-4067-a0c6-cf37ca10cdb7</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-367e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">I am 68 years old
+				and am sitting in my chair looking back over my life. I Remember leaving school in
+				May 1978 and at the time I played in a Rock band, I always thought we would make it
+				high with that band. I got myself a four year <sic>apprenticship</sic><corr>apprenticeship</corr> as an electrical fitter
+				but I never used it apart from around the home and doing odd jobs for friends. I
+				Remember passing my driving test at 17, that was the age you could drive then, and
+				really looking forward to my first driving lesson, after all I waited since I was
+				about 6 years old for that. The only think is though, I could never afford a car
+				till I was about 21. That’s when I got my HGV licence, dead chuffed about that I
+				was, I would bring my 35 ton lorry up our small <sic>culdisack</sic><corr>cul-de-sac</corr> and feel I were king. When
+				I had settled down in the lorry business I married, this must have been about 1986-7
+				<sic>perioud</sic><corr>period</corr>. We stayed with my mother for a <sic>coupld</sic><corr>couple</corr> of years and <sic>eventully</sic><corr>eventually</corr> moved into a
+				flat nearby. That period was pretty tough for me. I was used to going out with my
+				mates spending all my money and <sic>genrally</sic><corr>generally</corr> having a laugh. But all of a sudden I was
+				faced with rent problems. Gas electricity etc and found it difficult to adapt but I
+				soon as my wife started work things got a bit better. In August 1989 we had our
+				first child, a boy. that was probably the happiest moment of my life, I couldn’t get
+				over that there was another ‘West’ in the world and I was responsible. I was always
+				proud of the west’s and was heartbroken when I found I couldn’t keep the name in
+				‘Geordie Land’ where it <sic>origonnaly</sic><corr>originally</corr> came from. My wife had to stop work through the
+				child and things started to look bad again, it seemed that every penny I was
+				bringing in was going to bills, food and clothing. I had a lot of pleasure watching
+				my child grow up, and was always boasting about him, “Oh my little one is walking
+				now!” I would tell everyone. I was the proudest man in the world when it came to
+				him. When he grew up and started school my wife started work again and we put a
+				little money away each week when we <sic>decieded</sic><corr>decided</corr> to get right out of our worry’s and
+				surroundings and I booked the three of us for a fortnight in Spain. That was really
+				great, sunbathing and just getting away from all those troubles back home.</u>
+      <u xml:id="q-377e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When we returned,
+				I was sitting by the fire thinking of my schooldays, all the laughs we had, and I
+				thought about the group I played in, really made me laugh that did, and then I got
+				in touch with those long lost friends and we just had to get out the Guitars and
+				drums etc, and I always remember thinking, “<sic>blimy</sic><corr>blimey</corr> we were rubbish” as the years went
+				past and I got older I seemed to be drifting away from those happy years, my son was
+				16 by this time and I was nearly an old man. One thing I remember is when I was
+				about 55 I was talking the dog out for a walk and saw all the kids playing football
+				on the pitch I used to play on, and one of them said {‘whan ‘a’ Game mr P”} the joy
+				of that was unbelievable and I went into <sic>hasterics</sic><corr>hysterics</corr> of laughter and in the end I
+				played. It looked quite odd, this 55 year old man playing football with a bunch of
+				school kids, mind you. I enjoyed every minute of it. And when I had to retire from
+				thr Lorry’s which I was so attached to that really broke my heart. I got awarded
+				with a smart watch though and on my father’s advice I saved from the age of 30 for
+				my retirement as he had passed on I couldn’t thank him for his advice but I sure did
+				<sic>appricate</sic><corr>appreciate</corr> it. I brought my wife and I an old cottage up in the Newcastle area which
+				I worshipped since I was a young lad. The cottage was lovely and <sic>cozey</sic><corr>cosy</corr> with a chair
+				at the window where I once sat down and <sic>rethought</sic><corr>re-thought</corr> my whole life. That was about 2
+				hours ago.</u>
+    </body>
+  </text>
+</TEI>

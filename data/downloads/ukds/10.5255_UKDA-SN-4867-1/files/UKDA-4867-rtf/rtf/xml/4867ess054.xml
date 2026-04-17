@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 55</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-ff7cc6b4-ab5e-445d-81dc-16f83a66e4dc</idno>
+        <idno type="qudexdocument">q-1b0ea441-0c9d-4d99-973c-9387083a28e2</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-677e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting my past</note>
+      <u xml:id="q-687e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At the age of
+				fifteen I was worrying about my exams. But when they did finally come they went all
+				right in between time while they exams were coming up I would visit the <sic>carreers</sic><corr>careers</corr>
+				office to find out if there was any more application for apprentice engineers or
+				motor mechanic. The next thing was my interviews all of these went well and I think
+				I pleased every firm. Then my sixteen birthday came which was {fun?} a couple of
+				mates came round and we had a drink and played snooker a couple of days later I
+				<sic>recieved</sic><corr>received</corr> my results of my cse exams. They were maths 3, English 3, physical science
+				3, local studies, 2, Art 2, metal work 2, tech drawing 3, so overall I was pleased
+				then on the 30th of August I received a letter. I opened it and read through it. I
+				began to smile the letter said I had <sic>suceeded</sic><corr>succeeded</corr> in the interview at Bowaters and had
+				got the job as apprentice vehicle mechanic at the lorry yard and could I start my
+				course on the 2nd September 1978.</u>
+      <u xml:id="q-697e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">On the 2nd I went
+				to Sittingbourne at the Bowater lorry depot and me my boss and workmates then after
+				we had dinner we had a talk about weather I had any transport as the first year will
+				be off the job training. I told him I had more. So I took the train journey to
+				Maidstone so he could show me where to go when we got there he introduced me to some
+				lecturers and told me I would either travel each day or get lodging and I suggested
+				I might be able to stay at my sister and brother-in laws place. I got things sorted
+				out and the first year went <sic>realy</sic><corr>really</corr> quick and in the test at college I done <sic>realy</sic><corr>really</corr>
+				well. Then I started training at the yard itself. When my seventeenth birthday came
+				my mum and dad had brought me a second hand mini so this was my year to be but I
+				failed my first test but got through on the second go. The next three years went
+				quick and only 1 bad thing happened and that was when I was working on an engine and
+				I fell and twisted my ankle really badly which put me out for a couple of
+				months.</u>
+      <u xml:id="q-6a7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Then the day came
+				when I had served my full four years as an apprentice and I received my sitting
+				guilds and the certificate to say I had served my apprenticeship. Then I went onto
+				the workshop floor for the next day as a mechanic along with the other mechanics
+				that were already there. When I was twenty two I got married to Jenny and we moved
+				to Sittingbourne. The at 35 I was made assistant mechanic then I served Ten years as
+				that then at forty five I was made chief mechanic then I stayed as chief mechanic
+				until 65.</u>
+    </body>
+  </text>
+</TEI>

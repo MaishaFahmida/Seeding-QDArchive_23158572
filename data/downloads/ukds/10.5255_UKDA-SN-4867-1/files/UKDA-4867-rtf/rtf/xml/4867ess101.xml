@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 101</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-2312a4c0-7646-4645-83be-d36b158d3beb</idno>
+        <idno type="qudexdocument">q-719eb4c0-50ef-4454-8471-fffa3ae983b4</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-bf7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-c07f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking out of
+				the window at the children walking down the street makes me remember my past years
+				especially from leaving school. After spending two years on a <sic>cermercial</sic><corr>commercial</corr> course at
+				school I finally left 1980 it must have been yes. I was thrilled to bits one morning
+				to find they had accepted me in a firm a few yards down the road I was to be a
+				junior secretary/clerk I’ve never ran down the passage so fast. The first day was
+				the best getting to <sic>no</sic><corr>know</corr> all the different people and places to go. I’d always wanted
+				to work there and finally to my amazement after being there for two years I finally
+				got promotion to personal secretary/clerk to the general manager. That Christmas the
+				lads from the tool makers yard came to our party that’s where I met Keith my husband
+				he was so nice and kind. We went out together for about two years and then got
+				engaged. We were the happiest couple any one could imagine we started to put some
+				money away for when we got married then finally the big day came May 13th 1985 we
+				got married I was in a lovely white long dress with a headdress Minster Abbey at
+				3.00 we had professional photographs the bridesmaids (6 of them) they were a
+				beautiful shade of orange. 1986 I left my works to work at an estate agency personal
+				manager’s secretary it was a big estate agencies.</u>
+      <u xml:id="q-c17f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">About a year
+				after this my sister finally got engaged and within a year she was married. I’ll
+				always remember it because it was the middle of Autumn the colours were so <sic>preaty</sic><corr>pretty</corr>.
+				1990 we packed our jobs in and with the children Cheryl 1 year old Trisham 3 years
+				old we finally got the house of our dreams a big house with a big garden. Keith and
+				I went into our own <sic>bussness</sic><corr>business</corr> and it had prospered ever since we are both near to
+				retirement the children have left and got children but I’m happy for them. I’ve been
+				married thirty seven years and we are still the happiest people around. The children
+				grew up very quickly and know have children. Keith’s and mine grandchildren Paul and
+				Claire we are proud of them.</u>
+      <u xml:id="q-c27f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">There they go
+				down the street they look like Paul and Claire. “Oh well Keith make a cup of tea
+				love”</u>
+    </body>
+  </text>
+</TEI>

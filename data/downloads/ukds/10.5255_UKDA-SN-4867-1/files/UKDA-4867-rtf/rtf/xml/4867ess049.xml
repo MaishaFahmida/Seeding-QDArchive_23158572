@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 50</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-64452d80-aa2c-41a4-be69-3cceefac9af9</idno>
+        <idno type="qudexdocument">q-b91e3824-1e27-4aab-b3ec-1039ef6c2cd2</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-597e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">“Looking Back”</note>
+      <u xml:id="q-5a7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I can remember my
+				<sic>farther</sic><corr>father</corr> making me stay in for nights on end in order to make me revise for my exams.
+				I <sic>Gess</sic><corr>guess</corr> I was a bit lazy then if it wasn’t for him I would have never got through my
+				O’levels and C.S.E.s When I finally got the qualification I wanted for art collage,
+				I applied and got in. I then did a <sic>years</sic><corr>year's</corr> grounding course. I then specialised in
+				Graphics and went into the film industry.</u>
+      <u xml:id="q-5b7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">For <sic>along</sic><corr>a long</corr> time I
+				have had ideas of going into the film industry and it was hard. For <sic>along</sic><corr>a long</corr> time I
+				couldn’t get a job. So, disappointed and almost broke I borrowed some money from my
+				parents and went to America.</u>
+      <u xml:id="q-5c7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Here I found
+				plenty of work. I especially enjoyed doing the science fiction films. By thirty I
+				was top of my field.</u>
+      <u xml:id="q-5d7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">It was then that
+				I meet my future wife. We got married three months later in England.</u>
+      <u xml:id="q-5e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">At forty I joined
+				my <sic>farthers</sic><corr>father's</corr> business and with moderate success I retired to a villa in Cyprus.</u>
+    </body>
+  </text>
+</TEI>

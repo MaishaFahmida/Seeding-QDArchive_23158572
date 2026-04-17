@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Public Safety February 1948 Report on Morale and Public Opinion</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-e4b59002-3d02-494d-8085-1776c537c5e6</idno>
+				<idno type="qudexdocument">q-631d115b-79c7-45ce-9f34-09eda6c2f848</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-9a4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">Tel. Ext: 223</note>
+				<note xml:id="q-9b4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">09/GOV/377/9/S</note>
+				<note xml:id="q-9c4d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">SECRET</note>
+				<note xml:id="q-9d4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Governmental Group</note>
+				<note xml:id="q-9e4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ Hansestadt HAMBURG</note>
+				<note xml:id="q-9f4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">609 HQ CCG (BB)</note>
+				<note xml:id="q-a04d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">BAOR</note>
+				<note xml:id="q-a14d88b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">5 Mar 48</note>
+				<note xml:id="q-a24d88b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="9">Subject: Public Safety February 1940 Report on Moral and Public Opinion hhh Public Health</note>
+				<note xml:id="q-a34d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Paragraphs 26,27,23 and 29 of above mentioned Report are appended below for your information:</note>
+				<note xml:id="q-a44d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">26. Most Hamburgers consider themselves lucky to have come through the winter without an increase of diseases which medical authorities are not well enough equipped to cope with. The general impression is that the medical services in the Hansestadt have somehow managed to keep control of all new serious dangers to the public health, without being able to prevent the heavy toll on individual lives which a long period of malnutrition, privation and shortages have undoubtedly taken. A certain easing in the situation has taken place. Doctors in sufficient numbers are again available, and the supply of medical remedies of all kinds is flowing more freely than was the case a year ago. There are, however, many serious shortages with which hospitals and doctors have to contend. The number of hospital beds remains insufficient, and proper care of patients is still made difficult by the economy which has to be practiced, and the lack, or shortage, of many essentials. Bandages, instruments, thermometers, bed linen, crockery and cutlery, electric bulbs and cleaning materials, all remain scare, and in most hospital the work of doctors and attendants alike is a constant struggle against heavy odds.</note>
+				<note xml:id="q-a54d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">27. The population remains unconvinced that continued occupation of the Barmbeck Hospital by the British is unavoidable, and that no other solution could be found. It is also charged against the British authorities that much of its equipment has been removed and that part of its buildings are either deteriorating for lack of proper care, or are being used for purposes far removed from hospitalization.</note>
+				<note xml:id="q-a64d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">28. There has been such favourable comment since the re­opening of a number of public baths a few months ago, and the capacity use which is being made of these facilities testifies to the great demand for increased hygbnic services. The public bath in the vicinity of the Central Station, in particular, is very heavily frequented by the inhabitants of the nearby bunker.</note>
+				<note xml:id="q-a74d88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">29. In the field of public hygiene, it is often complained that a sufficient number of public lavatories, especially in the busy parts of the town, is not available, and that those in use are overcrowded so that sufficient care could not be taken to keep them reasonably clean. "</note>
+				<note xml:id="q-a84d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">Regional Governmental Officer</note>
+				<note xml:id="q-a94d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">Hansestadt HAMBURG</note>
+				<note xml:id="q-aa4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">BAOR</note>
+				<note xml:id="q-ab4d88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="18">MC/CJ</note>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 61</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-6dcd60ce-959f-42a4-aaec-f67cce6b9055</idno>
+        <idno type="qudexdocument">q-69b18aa2-1351-4bce-8114-63bb6a34f76e</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-8b7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-8c7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">The summer of
+				1978 I got a job with the building {Illegible}. My life was getting better and I
+				like the work that I was doing. In the weekend I was playing rugby and football for
+				the {Ireland}.</u>
+      <u xml:id="q-8d7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">In September 78 I
+				went to do <sic>collage</sic><corr>college</corr> at <sic>Caterbury</sic><corr>Canterbury</corr> to do a <sic>Appearship</sic><corr>apprenticehip</corr> for the Building industry for 3
+				year. But I came out of Collage when I was 20 with working on a building site I has
+				a accident when I fell of the building. Then I had {corncevions??} with 2 broken
+				legs and a {bouts warmer??} I was in <sic>hospitell</sic><corr>hospital</corr> for 6 month. After I came out of
+				<sic>hospitell</sic><corr>hospital</corr> I <sic>metter</sic><corr>met</corr> a girl name Dawn.</u>
+      <u xml:id="q-8e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After I year we
+				{decided? Spelt very strange} to get married and after 6 month we got married in the
+				Abbey at Minster.</u>
+      <u xml:id="q-8f7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">In 1983 I went to
+				West Germany for a course which <sic>take</sic><corr>took</corr> 2 years and 2 months.</u>
+      <u xml:id="q-907e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Then I set for
+				Dawn to come and live in Germany.</u>
+      <u xml:id="q-917e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">After 9 months
+				<sic>latter</sic><corr>later</corr> Dawn had a baby boy called Andrew John {omitted in anon version} after to 2
+				month it died with the {caran in youth??}. Then we {went?} to Australia and Dawn had
+				a baby girl who we called Jean Dawn Birmingham.</u>
+      <u xml:id="q-927e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Then when I was
+				35 my father died he was 71 and when I got the sack from by {late illegible}</u>
+      <u xml:id="q-937e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">When I was 50 my
+				mother died the age of 88.</u>
+      <u xml:id="q-947e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">When we got a
+				{illegible} when I was 65 I {illegible}</u>
+    </body>
+  </text>
+</TEI>

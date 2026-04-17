@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 89</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-9199f2d1-c439-4a40-a331-a79b3af40d42</idno>
+        <idno type="qudexdocument">q-6e8bb9b6-4287-4803-8b2b-809901516a1c</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-5a7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-5b7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At 15 I left
+				school. I was pleased now, because I was rid of Lorna Smith the {rotteness?}
+				division tutor at the school I had, had a job put by for me and as soon as I left
+				school. The next day I was working for the council hard the job was putting new
+				<sic>pathing</sic><corr>patching</corr> stones down.</u>
+      <u xml:id="q-5c7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Now and again
+				breaking the old ones hard that was than going round collecting the refuse bag for 6
+				weeks. Then the carpenters and then the bricklayers and then the Royal Airforce
+				drill that was horrible nether did like that.</u>
+    </body>
+  </text>
+</TEI>

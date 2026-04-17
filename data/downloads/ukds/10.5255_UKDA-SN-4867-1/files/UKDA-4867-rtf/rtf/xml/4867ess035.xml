@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 36</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-d43277f3-79ba-4622-92c7-2cc65faa297a</idno>
+        <idno type="qudexdocument">q-57dbc607-74d7-42c4-a0b8-362eeb6f7647</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-117e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">I wanted to get
+				an apprenticeship with a firm but I failed the interviews. I fortunately managed to
+				get a job as a landscaper with a firm whose manager was the brother of a woman down
+				the street I used to <sic>babby</sic><corr>baby</corr> sit for. It was quite skilled worked and I enjoyed it. It
+				didn’t offer security but I was paid quite well. Landscaping was an expensive job of
+				which more and more people done themselves. I got quite good at it and was promoted
+				to a higher <sic>possision</sic><corr>position</corr>. It was got fun working as a landscaper, you met people and
+				you travelled. In 1981 I managed to by an old car and a house. My car brought me a
+				<sic>lots</sic><corr>lot</corr> of advantages. I could get about much <sic>easilier</sic><corr>easier</corr> which was a big help. I worked
+				my way up to <sic>assiting</sic><corr>assisting</corr> manager which was a bit of a break. This offered a bit more
+				security and more money. I married in 1987 and settled down. It was a bit of a
+				struggle but we didn’t live badly. I fathered my first child in 1989 and second in
+				1991. I did not have any more children than this because every family was only
+				allowed two children because of the population problems. Because many people were
+				getting paid more they wanted landscaped gardens, and so we were getting more
+				business than ever which was very good.</u>
+      <u xml:id="q-127e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">My son and
+				daughter grow up very quickly and my son the eldest managed to get an <sic>apprentiship</sic><corr>apprenticeship</corr>
+				with a firm. The school leaving age was now eighteen and the year was 2007. when he
+				began his apprenticeship. I retired at 58 and lived on the savings and pension. I
+				went fishing most days and they were the most enjoyable days of my life.</u>
+      <u xml:id="q-137e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I am <sic>to</sic><corr>too</corr>old now
+				to go fishing and I just sit indoors waiting.</u>
+    </body>
+  </text>
+</TEI>

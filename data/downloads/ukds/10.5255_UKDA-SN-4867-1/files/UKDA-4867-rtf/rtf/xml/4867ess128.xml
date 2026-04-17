@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 130</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-67c282a4-9485-4909-90ef-1bf0093d0c0e</idno>
+        <idno type="qudexdocument">q-43bee4bd-ce78-4bb3-9781-aac0782eef50</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-b2805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-b3805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I was
+				fifteen I dreamed about being a good hairdresser so that it could lead on to better
+				things. I hated school but I didn’t really want to leave. Like a lot of us I was
+				scared but I knew I had to leave at some time so I left at the end of the 5th year.
+				I started work in a small hairdressing salon with a very low wage and doing all the
+				jobs no-one else wanted to do. I often thought of giving it up and working in a
+				factory but I know? Couldn’t do that. The thing I hated most was going to college
+				one every week. While I was at school I really dreaded doing the <sic>apprentaship</sic><corr>apprenticeship</corr> and
+				thought the time would drag by but it didn’t and soon I was a qualified hairdresser.
+				I was offered a job in a large salon and the pay was good.</u>
+      <u xml:id="q-b4805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I got married
+				when I was 23 to someone with a fair bit of money.</u>
+      <u xml:id="q-b5805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">We never had any
+				children and I continued working until I had enough money to open a salon of my
+				own.</u>
+      <u xml:id="q-b6805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">My aim was to
+				take as many juniors as I could because through my own experience I found it
+				difficult to get a job with a manager willing to train me. After we trained a lot of
+				apprentices I started taking on regular staff. I had a fantastic house with <sic>every thing</sic><corr>everything</corr> I’d ever wanted in it. This was partly the reason I never had any children, I
+				didn’t want everything messed up. Another was that I didn’t like them. My husband
+				and I lead our own lives and only occasionally went out together. We didn’t have
+				rows because we didn’t see that much of each other. He knew I only married him for
+				his money and accepted it. We mostly went around with our own groups of friends
+				meeting different people. We might as well not have got married really but we never
+				thought about it at the time.</u>
+      <u xml:id="q-b7805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">He died when he
+				was 45 and though we never behaved like we were married I missed him more than I
+				ever thought I would, but then I was always like that I never really wanted anything
+				until it was gone. Just like the salon after I retired and sold it I missed it but
+				still have the house which is my most treasured possession. I’m not <sic>affraid</sic><corr>afraid</corr> of dying
+				in fact a I’ve always looked forward to it and I do believe there’s something after
+				death otherwise living’s not worth it.</u>
+    </body>
+  </text>
+</TEI>

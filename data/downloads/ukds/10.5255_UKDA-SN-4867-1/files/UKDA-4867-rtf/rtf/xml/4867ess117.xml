@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 118</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-466e318c-98b7-4fdf-9b3b-efdf9abe8642</idno>
+        <idno type="qudexdocument">q-cb71d95a-4a74-45da-95e1-45b5e62fc684</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-50805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Looking back</note>
+      <u xml:id="q-51805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">In the summer of
+				1978, at the age of 16, I left school, I had been courting steady for nearly two
+				years, and had plans to get engaged in the near future. I was lucky enough to have a
+				summer job to go into, and if no job came up for me elsewhere, I had the <sic>oppertunity</sic><corr>opportunity</corr>
+				to stay on. At the <sic>begining</sic><corr>beginning</corr> the following year I became engaged, and was accepted in
+				another job, which liked a lot. My job went smoothly, and <sic>withen</sic><corr>within</corr> 3 years I was
+				promoted, by this time I was nearly 20 and very pleased at getting a higher position
+				with more responsibility. In the spring of 1982 I was married, and had gone in for
+				our own house. I now had more responsibility. Another year went by and I had had my
+				first of many children. At 25 I was the mother of a baby girl and had to give up my
+				job, to look after the baby. I stayed at home until the baby could go to playschool
+				and then got a part-time, <sic>withen</sic><corr>within</corr> another year I was expecting again, this time
+				twins! I was nearly 31 by this time and had just my house for a bigger one, once
+				again I gave up work and stayed at home. Once all 3 children were at school I began
+				a full time job again, and went on a holiday for the first time in years alone with
+				my husband, The eldest of the children was 14 when at 36 I went into hospital for an
+				operation on my arm, so she became the mother and had to cook and clean, she soon
+				began courting, and before I knew it, was married at the age of 19. At the age of
+				45; I became a Grandmother and started to take my grandson out for walks. I gave up
+				my job and again began a part time one, the twins were now making wedding plans and
+				had a double wedding. For the first time since I met my husband I felt lost, at the
+				age of 49, I had no children around me and wished I had had more when I was younger,
+				my husband was now all I had, and we were very happy together.</u>
+      <u xml:id="q-52805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I had 5
+				grandchildren at the age of 60, the eldest being 15, the youngest being 4. The only
+				enjoyment my husband had, now that he had retired was his grandchildren, and day
+				after day was spent just sitting playing and making children laugh. My eldest
+				grandchild is now making plans to get engaged, and I hope she has a happy 65 years
+				as I had. My husband died soon after he was 70, and I was in a home where I get
+				regular visits from my grandchildren.</u>
+    </body>
+  </text>
+</TEI>

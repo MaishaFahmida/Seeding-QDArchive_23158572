@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 32</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-07b253e7-3741-4d22-b9fe-1da9786bcad2</idno>
+        <idno type="qudexdocument">q-3712bbcc-bba7-42c1-9db3-30df5dfd6b06</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-027e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">School-Army-Police</u>
+      <u xml:id="q-037e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At nineteen I
+				will leave school and join the {junior?} Army which will last for two years. In the
+				army I will join the Intelligence corps, when I leave the {jounier?} army and join
+				the regular army in the Intelligence corps, this will be for three years. At the age
+				of <sic>twentyone</sic><corr>twenty-one</corr> I will leave the army and join the police force. I will start basic
+				training and have two years on the beat after this I will at twenty three I will
+				join the C.I.D. as a <sic>sargent</sic><corr>sergeant</corr> and by the time I am thirty, <sic>thirtyfive</sic><corr>thirty-five</corr> I will be an
+				police inspector by this time I would be married and got children and I will remain
+				in the police force until I retire at 65 year of age.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 51</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-987095fe-ec22-40c4-bf88-6e72b27dc679</idno>
+        <idno type="qudexdocument">q-03af6c27-ec75-49a7-9b75-cd7ce5a66f30</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-5f7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">When I like
+				{look} back to the pass I had such great time when I left school at the age of
+				sixteen I started work at a D.I.Y. shop learn the trade going out doing job then I
+				brought myself a piece of land with all the knowledge behind me. I could build my
+				own house to have <sic>somethink</sic><corr>something</corr> to have eversince I had left school what I had in mind
+				and that is what happen and once I had finish that house I would work myself up for
+				a foreman on a building site to <sic>desian</sic><corr>design</corr> new place in different town all across the
+				country make my firm very famous in what I had <sic>acheived</sic><corr>achieved</corr> since working at a shop.
+				Then when I got to the age of <sic>retiarment</sic><corr>retirement</corr> I would live in a little Bungalow and have
+				a Nice Long and wide garage full of working tools ready to make doors to sell to
+				{hom?} would like to use the {doors?}. and that is what happen it was such an
+				<sic>intresting</sic><corr>interesting</corr> life now all I do is sit in the armchair near the coal fire and just
+				relax I found that it was such a good life for all the <sic>gloryies</sic><corr>glories</corr> think which had
+				happen after I had left school. When I first start in a shop then built my own house
+				then went to a building firm made my name there the returned and start {?}
+				{carpeters?} work and just plodding along that is what happen in my pass now I am at
+				eighty five I just sit <sic>adn</sic><corr>and</corr> rest and I think that I deserve a nice long rest after
+				all those year of hard work. Also during those year of hard work I married a nice
+				young lady I had a house out at the countryside had three children and had my own
+				yard with all of the firm digger dump etc. And I use to do out there when I had a
+				{?} work like{?} and also {?} and keep them in a {?} working order so that we could
+				get more work done with good reliable machine work. We all use to help one another
+				out of trouble when we were not at work like repair our car etc and in my spear time
+				I like garden a lot growing think and all at repair my car of my own {?} I have had
+				the odd moments when we had trouble at work when there was a Strike <sic>everone</sic><corr>everyone</corr><sic>hat</sic><corr>had</corr> to
+				stop for a fortnight so we lost a lot of time because we was on contract work so
+				{within?} 3 month we made-up that time by doing overtime and then we was back on our
+				feet as normal I think that I had a good life with the good think and the back then
+				what happen I would love to have my life all over again what a <sic>intrest</sic><corr>interesting</corr> life I have
+				had.</u>
+    </body>
+  </text>
+</TEI>

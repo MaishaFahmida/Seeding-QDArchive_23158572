@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 49</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-b3d0b5d0-524f-45c6-8b99-7467eeccbf8c</idno>
+        <idno type="qudexdocument">q-024439a7-e9e1-4711-924c-e42ba0db0a2b</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-547e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">An old man walked
+				from his modern detached house, he didn’t bother to take his two year old family
+				saloon, as the sun was brilliant on this certain August day. He was on his way to
+				the corner shop, but as he stepped onto a zebra crossing a young learner
+				motorcyclist of about 16 years old unwittingly knocked him over. The doctor said he
+				was in a coma, but he was only dreaming of his life.</u>
+      <u xml:id="q-557e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">He’d passed all
+				six of his exams and was soon settled into a nice college at <sic>Chatam</sic><corr>Chatham</corr>, where he me a
+				nice girl from a neighbouring college.</u>
+      <u xml:id="q-567e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">At 18 he left
+				college with an O.N.D. in building and soon got a job in an Estate Agency at
+				Sheerness. He stayed at home for two years until he got a high position in the
+				Surveying profession when he took out a <sic>morgage</sic><corr>mortgage</corr> on a small, but modern semi-detached
+				house.</u>
+      <u xml:id="q-577e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">He then went to
+				live in this house with his girlfriend, future marriage partner.</u>
+      <u xml:id="q-587e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">With two wages
+				coming in this bank balance rose dramatically and the <sic>morgage</sic><corr>mortgage</corr> shrunk slowly but
+				steadily. At 23 they married and in that same year he left the Estate <sic>agence</sic><corr>agency</corr> and
+				joined an independent Chartered Surveyors firm which gave him an extra £30.00 a week
+				extra. Soon they settled into a typical married life with a couple of kids, a small
+				family car and a healthy bank balance. At 40 years old they moved to a detached
+				house and brought a bigger car and then another. Soon the kids left home and at 53
+				he realised his life long ambition, that is, to own a boat and take people out
+				fishing, for a price of course. In other words a charter boat. At 65 years old he
+				died after a collision with a young motorcyclist. His wife said he always wanted to
+				die suddenly without any pain or any prolonged suffering beforehand.</u>
+    </body>
+  </text>
+</TEI>

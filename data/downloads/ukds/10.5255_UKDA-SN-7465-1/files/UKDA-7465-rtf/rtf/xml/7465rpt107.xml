@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report for Period ending 20th August 1944</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-b587965f-f674-4289-892d-43b3b0236601</idno>
+				<idno type="qudexdocument">q-41e279af-d1bf-4680-a666-dd14bf475659</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-a9517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">SECRET.</note>
+				<note xml:id="q-aa517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">LAND FORCES ADRIATIC.</note>
+				<note xml:id="q-ab517fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="3">MORALE REPORT FOR PERIOD ENDING 20th AUGUST 1944. hhh 1. Offences against the Army Act.</note>
+				<note xml:id="q-ac517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">(a) Absence. So few as to be negligible.</note>
+				<note xml:id="q-ad517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">(b) Other Offences. No serious offences; the most frequent cases are CMP charges in connection with MT, and those caused by the effects of local Vino on newcomers to this theatre.</note>
+				<note xml:id="q-ae517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">(c) Minor Offences. Again, very few, with rather more than the average in Commando units owing to the high standard of discipline demanded. hhh 2. Confidence.</note>
+				<note xml:id="q-af517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">(a) Confidence in the Army's cause and in its leaders is at its highest - so high indeed as almost to amount to over-confidence. It is exemplified in a rapidly increasing interest in demobolisation and post war problems.</note>
+				<note xml:id="q-b0517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">(b) Confidence in arms and equipment is generally good, with possibly a slight tendency, among those in close contact with U.S.A. units, to imagine that anything American must ipso facto be better than our own equipment. Such feelings generally disappear as experience is gained. Shortage of equipment in certain cases causes a measure of despondency. hhh 3. Contentment.</note>
+				<note xml:id="q-b1517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">(a) Interest in training is generally very apparent and is especially so in training for specific operations. Units on VIS are naturally handicapped by the lack of facilities for mobile training. Great interest is always shown both in our own operations and in those in other theatres of war: morale fluctuates in proportion to the number and scale of operations. It is interesting to note the pride shown by support troops and services in having been chosen to operate with Special Service units.</note>
+				<note xml:id="q-b2517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">(b) Living Conditions.</note>
+				<note xml:id="q-b3517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">(i) Quarters.</note>
+				<note xml:id="q-b4517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">In VIS, living is of necessity rough, but there is no dis­content. For troops on the mainland who are resting, the main difficulty is the acute shortage of accommodation stores. The anomaly of units coming from the Middle East, leaving a plentiful supply there, only to find very little available here is frequently apparent.</note>
+				<note xml:id="q-b5517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(ii) Messing.</note>
+				<note xml:id="q-b6517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Generally messing is good, and always best in those units which have availed themselves of A.C.C. assistance. Dislike of de­hydrated foods, and certain unfavourable comparisons with USA rations are the most noticeable comments.</note>
+				<note xml:id="q-b7517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">(iii) NAAFI.</note>
+				<note xml:id="q-b8517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Beer, or the lack of it, is the touchstone on which the NAAFI is judged. Instances of high prices (3d for a cup of tea from a mobile van) have been quoted. There is a considerable interest in the use to which NAAFI's high profits are put, and occasionally a feeling that it combines the disadvantages of a subsidised monopoly and a competitive business with the advantages of neither. It is difficult for a soldier to take a pride in himself when polishes are almost unobtainable.</note>
+				<note xml:id="q-b9517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(iv) Recreation and amusement.</note>
+				<note xml:id="q-ba517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Organised games are always popular; equipment is, as ever, scarce, but the main complaint, and justifiably so, is that shoes canvas are no longer issued. P.T. and games in Boots G.S. are neither pleasant nor healthy. ENSA is well attended ­but it is unfortunate that concentration on box office names in populous areas has diverted attention from the small concert parties in isolated parts which should be ENSA's main concern.</note>
+				<note xml:id="q-bb517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">(v) Leave.</note>
+				<note xml:id="q-bc517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Local leave depends on operational commitments, but the maximum is obtained. There is on increased desire on the part of all ranks to get away from army organisations when on leave - but facilities are few. Home leave occupies a large part of the soldier's mind ­and some reassurance that it will be given before troops are sent to the Far East would be salutary.</note>
+				<note xml:id="q-bd517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">(vi) Mail.</note>
+				<note xml:id="q-be517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">There is general satisfaction at the service, offered. More Air Letters would be most welcome - it is difficult to understand why the aircraft which bring unlimited Air Letters from U. K. cannot take a similar number back. Sixpence seems too much for a soldier's wife to pay for the privilege of writing to him.</note>
+				<note xml:id="q-bf517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">(c) Finance.</note>
+				<note xml:id="q-c0517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The main grievance seems to be caused through comparisons between British soldiers' pay on the one hand, and the pay of Allied and USA troops or Munition Workers on the other. Recent increases in pay and allowances have helped, but there are still anomalies. It is universally felt that drivers should be paid more than the normal soldier - possibly a "non-accident bonus" might be considered. Delays in notification of soldiers' balances, albeit not now so frequently, still causes hardship.</note>
+				<note xml:id="q-c1517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">(d) Conditions affecting families.</note>
+				<note xml:id="q-c2517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">There is considerable anxiety over the ravages of the flying bomb and difficulties of speedy repatriation affect the morale not only of the men affected but of all his companions. It would help if repatriation statistics were published. Domestic, and particularly matrimonial, troubles increase alarmingly after a man has been abroad for over three years. Some concern is felt at the prospect of a high cost of living after the war - particularly at high prices for clothing - high rents.</note>
+				<note xml:id="q-c3517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">(e) Relations between Officers and Men.</note>
+				<note xml:id="q-c4517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Always excellent.</note>
+				<note xml:id="q-c5517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">(f) Relations with other Services.</note>
+				<note xml:id="q-c6517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(i) RAF. Relations are uniformly good - and most of the units concerned have had particular experience of RAF cooperation.</note>
+				<note xml:id="q-c7517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">(ii) ATS etc. Fairly good - but there is a feeling that they unduly favour officers with their smiles, and that the shortage of women gives them an exaggerated idea of their importance.</note>
+				<note xml:id="q-c8517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(iii) Dominion and USA Troops. Relations arc cordial but differences of pay and disciplinary standards are a stumbling block. Relations with other nationalities are good - particularly in the case of YUGOSLAVS - ­with the possible exception of Greeks and Italians. hhh 4. Education and ABCA.</note>
+				<note xml:id="q-c9517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">The soldier's desire is more for reliable information than for propaganda. This especially applies to information on what is going on at home. Demobilization and Postwar problems generally command the greatest interest. hhh 5. Efficiency.</note>
+				<note xml:id="q-ca517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">(a) Physical Fitness. A very high standard is universally maintained.</note>
+				<note xml:id="q-cb517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">(b) Discipline. Special Forces which tended at one time to think 'toughness' was their sole prerogative have recovered from this attitude, and discipline generally is good. hhh 6. Miscellaneous.</note>
+				<note xml:id="q-cc517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">(a) The indifferent and unpredictable stocks held by officers shops have provided several complaints.</note>
+				<note xml:id="q-cd517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">(b) Certain units report great difficulty in obtaining electoral registration forms.</note>
+				<note xml:id="q-ce517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">(c) In general morale is at its highest; units under command feel that they have had an unusual task allotted to them and are proud of it.</note>
+				<note xml:id="q-cf517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">Brig.</note>
+				<note xml:id="q-d0517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">Comd. Land Forces Adriatic.</note>
+				<note xml:id="q-d1517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">WAB/SG.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

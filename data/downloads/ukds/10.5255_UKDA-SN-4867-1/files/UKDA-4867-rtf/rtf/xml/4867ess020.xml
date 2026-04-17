@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 21</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-faeecf94-53d6-4275-995e-aaa68c8d1a15</idno>
+        <idno type="qudexdocument">q-8c1b5f35-55f5-4622-b299-dbc263cc25f2</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-ca7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">I left the school
+				when I was sixteen, the job I was after was a clerk at a paper mill in
+				Sittingbourne. But I did not get it as I was not qualified enough for the
+				position.</u>
+      <u xml:id="q-cb7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">All the other
+				jobs that came my way, I did not like, so I spent my first year on social security,
+				on this I was getting about ten pounds a week.</u>
+      <u xml:id="q-cc7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">After a year of
+				this I thought it about time I tried for a job. The job I finally got was a milkman.
+				The women on my round were not as I expected, as I expected them to be unsatisfied,
+				like what you hear about on television. But they weren’t at all.</u>
+      <u xml:id="q-cd7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I kept the job
+				until I was 31. Then I gave it up. The next job I took was a happy job for me as I
+				did not have to work very hard to earn some money. So this was alright.</u>
+      <u xml:id="q-ce7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">The biggest
+				thrill of my life was when Tottenham won the European cup. I travelled to see them
+				home and away all of their games, <sic>through out</sic><corr>throughout</corr> the season</u>
+      <u xml:id="q-cf7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">When I was 40 I
+				had an accident and had to have my legs amputated. This stopped me from working. So
+				I claimed social security for the rest of my life.</u>
+      <u xml:id="q-d07d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">So all the
+				pleasure I get out of life now is watching television, and going up the pub for a
+				drink now and again. I do not get many visitors so my life is a lonely one.</u>
+    </body>
+  </text>
+</TEI>

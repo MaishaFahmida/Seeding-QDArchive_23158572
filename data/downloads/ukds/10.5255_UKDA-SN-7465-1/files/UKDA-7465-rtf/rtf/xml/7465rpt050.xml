@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Public Feeling, Memorandum by the Minister of Information - June 10, 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-db383972-57e8-4c3d-925e-86dbcca3998c</idno>
+				<idno type="qudexdocument">q-ead39674-d6e9-4b84-a9e4-ecacccbce74d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-cb5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">THIS DOCUMENT IS THE PROPERTY OF HIS BRITANNIC MAJESTY'S GOVERNMENT</note>
+				<note xml:id="q-cc5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">SECRET</note>
+				<note xml:id="q-cd5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">W.P. (42) 250</note>
+				<note xml:id="q-ce5888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="4">June 10, 1942</note>
+				<note xml:id="q-cf5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">COPY NO.</note>
+				<note xml:id="q-d05888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">WAR CABIN</note>
+				<note xml:id="q-d15888b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="7">REPORT ON PUBLIC FEELING</note>
+				<note xml:id="q-d25888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Memorandum by the Minister of Information</note>
+				<note xml:id="q-d35888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">I am presenting this report in accordance with Minute 1. of the 49th Conclusions of the War Cabinet. Its purpose is to keep the War Cabinet informed of any major movements of public feeling in the country so Par as they can be related to questions of publicity on the home front.</note>
+				<note xml:id="q-d45888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">1. There is no question that there has been a big rise in optimistic feeling about the war. The confidence which was lacking at the time of ray previous memorandum (W.P. (42) 155) has been regained and the sense of frustration which was so noticeable a feature of the early months of the year has gone. One sign of returning confidence is the virtual disappearance of the complaints about defects in our production machinery which were so marked a feature of the early months. The reasons appear to be the obvious ones: lack of further Axis successes, absence of any German advances in the East, the return of summer and the reduced incidence of the black-out. The scale and success of the R.A.F. raids on Cologne and Essen had, of course, a profound effect in the stimulation of public confidence.</note>
+				<note xml:id="q-d55888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">2. One marked feature of this steadily mounting wave of optimism is a belief, reported from many quarters, that the war against Germany will be over this year. The emergence of a similar belief has been noted in the U.S.A. and the leaders in that country have been setting themselves to combat this feeling and to warn their public that there is still a long and hard task ahead of them before victory. It is a question whether similar action is called for from the Government of this country. It is true that a belief of this sort may lead to a slackening of effort or a melancholy reaction if some unexpected disaster occurs: but it is equally true that after the long winter of discontent a wave of optimism is a pleasant and heartening thing and it does people good to fool it. In the absence of my satisfactory evidence that it is slackening up the war effort I recommend that the Government does not take any action to counteract this influence which no doubt run its course and that members of the Government confine themselves to a prudent avoidance of public statements that are likely to give it definite reinforcement.</note>
+				<note xml:id="q-d65888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">3. I think that no small, part in the great public satisfaction at the recent raids was due to the consciousness that they were a blow struck directly by this country with its own material and its own forces. There is much fueling that the public have boom asked for too long to admire Russian resistance American production and Empire fighting qualities. Events and a very natural desire to pay tribute to the efforts of our friends and allies have brought this about but the result has been unfortunate, not merely at home but in America and elsewhere. I feel that now is the right moment decisively to correct this impression. This is all the more important because before long American participation, which will no doubt by accompanied by American publicity, will tend to restore the old unsatisfactory position. I recommend strongly, therefore, that it be maintained as a major publicity aim of the Government to bring forward and publicise every aspect which illustrates the magnitude of our own contribution to the war effort: in fighting, in resources, in personnel in production and in civil adjustment. But particularly in production.</note>
+				<note xml:id="q-d75888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">4. The current question relating to coal and fuel attracted very widespread attention in the country. The first crave of fooling reflected considerable discontent at the idea of one more rationing system being imposed en domestic economy and a sense of irritation with the Government that circumstances have made this necessary. A readiness to grumble about a new rationing system does not necessarily mean that rationing will not ultimately be preferred to any other method of limiting fuel consumption. It is too early to provide any assessment of public feeling with regard to the White Paper, which has still to be debated in Parliament, but it is to be noted that the White Paper has made it an inherent part or the Government's scheme that the next few months should be occupied by a sustained publicity campaign in favour of voluntary restrictions. It is necessary to point out that the next three or four months represent the most difficult period for any system of voluntary appeals to make much impact, since they are not periods when fuel consumption is an important matter of daily life. When, with colder weather and darker hours, the subject becomes an immediately practical one, voluntary appeals for sacrifices may not only be ineffective but positively harmful to morale. I should stress, therefore, that the proposed Government publicity campaign needs careful and considered handling and I propose as soon as possible to concert a joint scheme for this purpose with the new Minister of Fuel.</note>
+				<note xml:id="q-d85888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="14">10th June, 1942</note>
+				<note xml:id="q-d95888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">B.B.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

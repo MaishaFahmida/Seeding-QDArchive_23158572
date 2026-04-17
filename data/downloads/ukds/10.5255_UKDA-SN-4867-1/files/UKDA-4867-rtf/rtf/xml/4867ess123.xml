@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 125</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-1229b072-b19d-4d17-95b5-3715e4527b3b</idno>
+        <idno type="qudexdocument">q-ccd6cb44-6df6-42fd-8866-2af29bffa379</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-90805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-91805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				the age of sixteen in July 1978 and tried very hard to get a job and eventually I
+				got an apprenticeship at Sheppey Auto Garage, I was very pleased, the apprenticeship
+				lasted five years.</u>
+      <u xml:id="q-92805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">When I had
+				finished there I got a job at a small garage on the island with a man of about 42
+				dealing in second hand cars and motorcycles and also <sic>under going</sic><corr>undergoing</corr> major strip down
+				jobs and small repairs, I <sic>carryied</sic><corr>carried</corr> on working there until the man who owned died and
+				left all the money and business to me, I worked very hard and eventually had enough
+				money to employ an apprentice myself. I trained him well and then her left, decided
+				to buy myself a <sic>grasstrack</sic><corr>grass track</corr> bike and start to race it in local meetings on the
+				island, at first I lost every time and once came off and cut my head very <sic>badley</sic><corr>badly</corr>,
+				however I soon recovered, and found myself winning a few races and taking a few
+				trophies, I carried this on until I was 49 and then gave it up and sold my business,
+				I brought a small house with a large workshop and got myself a brand new motorcycle
+				which I had dreamed of doing ever since I was a kid, I then applied for a part-time
+				job in a local garage there I mainly washed cars and little repairs, at the age of
+				<sic>fiftey</sic><corr>fifty</corr> one I decided to retire, but I still done repairs in my own workshop for
+				people I knew I made quite a bit. I sold my motorcycle and brought myself a Honda
+				125 just to ride around for pleasure. I never gave up mucking around with
+				motorcycles and cars until I was fifty nine and I was out on my bike and pulled out
+				of a junction without looking and got run down by a large lorry, and I got
+				<sic>parralized</sic><corr>paralysed</corr> from the waist down and have been in a wheelchair ever since, I regularly
+				go to the local grass track meetings and will continue to until the end of my
+				days.</u>
+    </body>
+  </text>
+</TEI>

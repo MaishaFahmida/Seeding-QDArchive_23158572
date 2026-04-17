@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 30</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-37c95e01-bff5-4fa4-bd84-4d1bd7090b58</idno>
+        <idno type="qudexdocument">q-676e2031-7ae9-48c8-92f5-f5a6fc9881ef</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-fc7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-fd7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I was sitting in
+				front of the fire smoking my pipe, just thinking of the past. I was nearly seventeen
+				when I left school, I had an apprenticeship in the Tudor Glass, an electrical
+				apprenticeship lasting four years, I served my four years and got my diploma for an
+				electrical engineer. I was now twenty and courting a <sic>rearly</sic><corr>really</corr> lovely girl. I had to
+				work in London in my next job and came back home every weekend.</u>
+      <u xml:id="q-fe7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Jobs were scarce
+				so you had to take what you can get, I didn’t want to go to London, but money in
+				them days was everything. I was earning £78 but got taxed £25, so it didn’t really
+				pay off. My father “God rest his soul” was working abroad where there was good
+				money, managed to get me out there with him on a 2 year contract worth £17,000. I
+				knew I had to stick it out just for my future, My Girl and I split up because of
+				this. It was really gruelling work and my father died out there when I was in my
+				{1st?} month, my mother persuaded me to come back, it really broke my mother and <sic>my self</sic><corr>myself</corr>, I went on the dole for about seven months living on what I earnt. I invested
+				my money in the bank and drew £40 interest every week.</u>
+      <u xml:id="q-ff7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I still lived at
+				home with my mother other brother. I got a job down in a factory <sic>manuel</sic><corr>manual</corr> work
+				clearing £32 a week which was not too bad I still drew £40 a week from the bank. By
+				now I felt like settling down and when I was 32 I got married by now my wage packet
+				had gone up to £41 a week, but I had put down £15,000 of my money on a mortgage for
+				our house, we lived an ordinary life, we had two children and by the time I was 45,
+				a disaster hit the world, world war 3 had broken out between Russia and China
+				involving Europe and the U.N. I joyed up in the O.N army the neutral side trying to
+				calm the war down Russia depressed China but eventually a treaty was signed, I had
+				got shot out in Russia and was crippled and had to retire at the age of 47. I drew
+				out money from the government and compensation. Luckily both my boys did not have to
+				join up with the U.N army.</u>
+      <u xml:id="q-007e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I just lived on
+				ordinary life watching the world events going past. Up until today, where my wife
+				and I live in the same house as my children are now 19 and 21, one is married with
+				one grandson and the other is at <sic>colledge</sic><corr>college</corr>. I had reached the age of 60.</u>
+    </body>
+  </text>
+</TEI>

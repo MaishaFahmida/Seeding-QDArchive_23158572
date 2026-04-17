@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 148</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-afca89f3-2244-4f10-b9ef-a3adb50058c4</idno>
+				<idno type="qudexdocument">q-b34fd57c-5aca-419f-be1c-fb30d59554a6</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-cc65e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1">The
+				Past</note>
+			<u xml:id="q-cd65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">My job was the most
+				important thing to aim for. The beginning of my career, it was a hard struggle to
+				get a job exactly what I wanted. It was strange when I left I felt as though I was a new
+				person from another planet. When the time came it was upsetting, because of <sic>loosing</sic><corr>losing</corr>
+				contact with all the friends that you had made. I used to laugh at my parents when
+				they used to say “school are the best days of your life”, and they were certainly
+				<sic>write</sic><corr>right</corr>.</u>
+			<u xml:id="q-ce65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">I can remember I saved
+				and saved for my own car, and when I finally bought it I was so pleased, because it
+				was something I had done for myself.</u>
+			<u xml:id="q-cf65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">Getting promotion was
+				also important to me, and I made it.</u>
+			<u xml:id="q-d065e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="5">How the place has
+				changed, the styles, I always loved following the up to date fashions.</u>
+			<u xml:id="q-d165e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="6">I married at the age of
+				22 1983. At the age of 24 I had shared a family, <sic>there</sic><corr>they're</corr> grown up now, I have three
+				grandchildren.</u>
+			<u xml:id="q-d265e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="7">All I live for now is
+				my family, and my home. Twice a week I look up some of my old <sic>freinds</sic><corr>friends</corr> it’s nice to
+				talk about the old times.</u>
+			<u xml:id="q-d365e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="8">My best hobby is
+				cooking although there is only the two of us, I cook for an army.</u>
+			<u xml:id="q-d465e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="9">I can remember I
+				travelled to certain places abroad with my <sic>freinds</sic><corr>friends</corr>. Switzerland was the best place,
+				we all enjoyed it there. I could never just sit and do nothing all I do is my
+				<sic>intresting</sic><corr>interesting</corr> social life</u>
+		</body>
+	</text>
+</TEI>

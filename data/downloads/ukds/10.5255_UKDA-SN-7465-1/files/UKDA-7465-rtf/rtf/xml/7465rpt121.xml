@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: "Brief" for S. of S. to be taken on 15th April 1942: Propaganda at Home</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-73237386-fc22-4287-99d4-4547ccf0d06a</idno>
+				<idno type="qudexdocument">q-5d18b98f-a35b-45ba-b0d2-e5eca5baff4d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-94537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">COPY NO. 18</note>
+				<note xml:id="q-95537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">ARMY COUNCIL SECRETARIAT.</note>
+				<note xml:id="q-96537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">(Room 278, War Office.)</note>
+				<note xml:id="q-97537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">"Brief" for S. of S.</note>
+				<note xml:id="q-98537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">To be taken on 15th April, 1942.</note>
+				<note xml:id="q-99537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Prepared by D.P.R., D.G.W. and E. and the General Staff.</note>
+				<note xml:id="q-9a537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">SECRET.</note>
+				<note xml:id="q-9b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">A.C.S./B/125.</note>
+				<note xml:id="q-9c537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="9">15th April, 1942.</note>
+				<note xml:id="q-9d537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">WAR CABINET.</note>
+				<note xml:id="q-9e537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">PROPAGANDA AT HOME.</note>
+				<note xml:id="q-9f537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">(War Cabinet reference: W.P. (42)155.)</note>
+				<note xml:id="q-a0537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">The memorandum by the Minister of Information deals with the presentation of news to the public, and its effect on public morale. With a national Army, of which a large part is stationed in comparative inactivity in intimate contact with the civilian population, there can be no doubt that the morale of the Forces is to a large extent influenced by the very same factors as affect civilian morale, and that any sense of frustration or apathy among the civilian population rapidly communicates itself to the Forces. Therefore, any constructive efforts to sustain public morale are to be welcomed by the Army.</note>
+				<note xml:id="q-a1537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Conversely the Army, through its ties with nearly every home in the country, can make its own contribution to the maintenance of public morale. You are well aware of the steps which are being taken to sustain the morale of the Army, including such measures as those provided by A.B.C.A.</note>
+				<note xml:id="q-a2537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">The suggestion made by the Minister in paragraph 7 of his memorandum (the numbers below are his) to the effect that:-</note>
+				<note xml:id="q-a3537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">(ii) we must stop appealing to, or lecturing at, the public;</note>
+				<note xml:id="q-a4537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(iii) news must be candid and objective;</note>
+				<note xml:id="q-a5537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">(iv) rumours or complaints that have wide acceptance must be dealt with immediately and with care; are endorsed by the War Office.</note>
+				<note xml:id="q-a6537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">With reference to the Minister's suggestion in paragraph 7(i) that "there must be more explanation", the following comments by D.P.R. are reproduced verbatim.</note>
+				<note xml:id="q-a7537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">"If there be a widespread decrease of confidence and a sense that our national purpose (in contrast, it may be held, to that of the U.S.S.R.) lacks "constructive purpose", and the "genuine fervour" of a crusade, is the explanation not to be found in the absence so far of a very satisfactory and simple statement of what we are fighting for?</note>
+				<note xml:id="q-a8537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">It should not be impossible to frame this in terms which can be understood by the ordinary man.</note>
+				<note xml:id="q-a9537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">It is not enough to state what we are fighting against.</note>
+				<note xml:id="q-aa537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">But we are perhaps too apt to attribute the resolution of Japan, Germany and Russia to the fervour of a crusade. Those nations are the most disciplined in the world. We are perhaps the least, and the public ought to be educated to the need for discipline, which is a very different thing to the uncomplaining endurance of danger, discomfort and disaster at which we are supreme."</note>
+				<note xml:id="q-ab537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">This problem should also be approached from the angle that a positive crusade is required to create a personal animosity to the enemy throughout the nation.</note>
+				<note xml:id="q-ac537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">In paragraph 2 of his memorandum, the Minister asks that the actions of the Departments may generally be consistent with the War Cabinet's policy, in order to make the Government's publicity more effective. It is, therefore, for consideration whether the Army cannot make a positive contribution. For example, if the ceremony of beating retreat were held in public squares in our cities and towns, such as Parliament Square, instead of behind barrack walls; if there were more martial music in the streets; a greater public display of regimental colours and the national flags of the United Nations; and an extension of the ceremonial attaching to church parades in the churches of the country rather than in camp, there is no reason to suppose that there would not be an accompanying uplift in the spirits of the people. Such a policy would be particularly welcome at the end of a long and dreary winter and would act as a tonic on the eve of a momentous Spring.</note>
+				<note xml:id="q-ad537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">With regard to the suggestion in paragraph 6(a) of the Minister's memorandum, that he should circulate to the War Cabinet a monthly appreciation of the state of public morale, compiled in conjunction with the Departments primarily concerned with the Home front, you may care to suggest that the Army's morale reports are also available for this purpose.</note>
+				<note xml:id="q-ae537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">It is suggested that you can approve the measures suggested by the Minister of Information, as a first step in the right direction, subject only to the proviso that the Minister's regional enquirers should not pursue investigations amongst the troops to discover the state of their morale. This has been done in at least one case which has been brought to the notice of the D.P.R. and is highly undesirable.</note>
+				<note xml:id="q-af537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Distribution: List D.</note>
+				<note xml:id="q-b0537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">+ D.P.R.</note>
+				<note xml:id="q-b1537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">D.G.W. &amp; E.</note>
+				<note xml:id="q-b2537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">D.P.S.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

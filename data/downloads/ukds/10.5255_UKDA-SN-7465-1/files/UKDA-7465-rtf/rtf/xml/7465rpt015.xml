@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 39 - second half of February 1949</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-31bc5549-c3c9-42c9-aec3-eb0c9ae49832</idno>
+				<idno type="qudexdocument">q-b549013a-e218-4d06-8484-89529578ce91</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-595088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">CONFIDENTIAL Public Opinion Research Office</note>
+				<note xml:id="q-5a5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Lancaster House</note>
+				<note xml:id="q-5b5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">HQ CCG (BE)</note>
+				<note xml:id="q-5c5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Berlin</note>
+				<note xml:id="q-5d5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">B.A.O.R.2</note>
+				<note xml:id="q-5e5088b6-9e9d-e411-b1ae-00155df55c12" type="date" n="6">3 Mar 49</note>
+				<note xml:id="q-5f5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">To: P.O.R.O.</note>
+				<note xml:id="q-605088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">Pol.Div.</note>
+				<note xml:id="q-615088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">229 HQ CCG</note>
+				<note xml:id="q-625088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">Hannover</note>
+				<note xml:id="q-635088b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="11">Subject: Morale Report No. 39.</note>
+				<note xml:id="q-645088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Herewith Report on Berlin Morale No. 39 for the second half of February.</note>
+				<note xml:id="q-655088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Readers are asked to remember that although this report is compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting.</note>
+				<note xml:id="q-665088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="14">J.E. Dixon</note>
+				<note xml:id="q-675088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">P.O.R.O</note>
+				<note xml:id="q-685088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">HQ CCG (BE)</note>
+				<note xml:id="q-695088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">B.A.O.R.2</note>
+				<note xml:id="q-6a5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="18">Public Opinion Research Office</note>
+				<note xml:id="q-6b5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="19">Lancaster House</note>
+				<note xml:id="q-6c5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="20">HQ CCG (BE)</note>
+				<note xml:id="q-6d5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="21">Berlin, B.A.O.R. 2.</note>
+				<note xml:id="q-6e5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">CONFIDENTIAL</note>
+				<note xml:id="q-6f5088b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="23">Report on Berlin Morale No.39. (Second half of February). hhh 1. General Atmosphere and Morale</note>
+				<note xml:id="q-705088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The outlook of Berliners has shown considerable improvement during the second half of February and a rise in public morale was apparent in all sections of the population.</note>
+				<note xml:id="q-715088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">The exceptionally mild winter has given Berliners a new outlook on their present difficulties and although they do not anticipate any con­siderable alleviation of the blockade in the near future, it is neverthe­less hoped that the warmer season, with better flying conditions, and the absence of heating and lighting worries will result in an improvement of living conditions. During the third week of February, Berliners were greatly bewildered by the sensational drop in value of the Eastern Mark and this occurrence was for some days the chief topic of conversation.</note>
+				<note xml:id="q-725088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">The majority of Berliners were ignorant of the real causes which led to the temporary currency chaos. Many of those who lost money on exchange transactions during this period put the blame on the announcements made by RIAS, the "TELEGRAF" and "DIE WELT", which alleged that a new Eastern currency cut in the near future was being planned in the Eastern Zone. The necessity for a rapid and thorough clarification of the chaotic currency condition has again been discussed by many in the last few days.</note>
+				<note xml:id="q-735088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">It was not only the currency question which gave rise to animated debates. The denazification decree issued by the Allied Kommandatura was also a particularly lively subject. This decree, according to which denazification proceedings in the Western Sectors are to be terminated in June and the date for submitting appropriate applications has been fixed, has met with a mixed reception. The people who are not affected by it are adopting a generally neutral and disinterested attitude, whereas those who are affected can be divided into two groups: one group is pleased that a final date has at last been fixed and is obediently answering the summons to apply for denazification; the other group, however, is angry over what they consider to be the exorbitant denazification fee demanded and also the period of grace which is, in their opinion, far too short and will result in a long period of waiting before obtaining the necessary application forms.</note>
+				<note xml:id="q-745088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Young persons, (i.e. those born after 1918) complain that they must also apply for denazification, although a "youth amnesty" was granted some time ago for these age groups in all four Zones of Occupation.</note>
+				<note xml:id="q-755088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">Regarding the "Kurbel" cinema incidents when some Jews demonstrated against the presentation of the film "Oliver Twist" it has been found that the majority of those interviewed were disinterested and there were no signs of the former anti-semitic bias. Some Berliners thought it under­standable that the Jews should register a protest against the showing of a film which they regarded as being anti-semitic, but that this should have been done in an official manner.</note>
+				<note xml:id="q-765088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">The Civil Service Law issued for the Bizone by the Military Governors has not aroused much interest among Berliners.</note>
+				<note xml:id="q-775088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">The report submitted by Prof. Reuter on his return from London and Paris is generally regarded as containing little hope for the future as the Oberbuergermeister came back with promises but no material results.</note>
+				<note xml:id="q-785088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">Berliners are continuing to pay very little attention to world politics and the international situation is still described as confused and obscure. hhh 2. Employment Worries</note>
+				<note xml:id="q-795088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">The rising unemployment figures, the fear of further staff cuts and closing of works, together with the lack of training facilities, at present represent the Berliner's greatest worries to which, owing to the unusually mild February weather, the heating problem comes second. hhh 3. Fuel, Light, Transport</note>
+				<note xml:id="q-7a5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Although the problem of fuel has become less important to Berliners it still presents nevertheless a serious difficulty. The distribution of a further 40 lbs, of coal per household; as applied for and announced by the Berlin Magistrat is anxiously awaited by the population; although the predominant opinion is that even if this distribution is made it will be nothing more than the proverbial "drop in the ocean".</note>
+				<note xml:id="q-7b5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Electricity worries, which are so often described as "demoralising", have been somewhat relieved by the lengthening hours of daylight.</note>
+				<note xml:id="q-7c5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">In addition, the strained transport position in Berlin with over­crowded vehicles and a complete stoppage at 1800 hours is another worry. hhh 4. Food</note>
+				<note xml:id="q-7d5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">The Western Berlin food position remains unchanged. The number of complaints made regarding the unsatisfactory choice and quality of certain foodstuffs (particularly referred to are blancmange powder, dried beans, potato powder, "Ultra" sweetening and Bosco cigarettes) has recently in­creased. Many Berliners think that the Magistrat has not chosen the right people "for the job of purchasing food and has allowed things, which are not wanted in the Western Zones, to be "palmed off" on Berlin. The allocations of dried eggs, frozen, boneless meat and Aromax infant food. were particularly appreciated owing to their good nourishing qualities. The allocation of raisins against the cereal points was also welcome as it afforded a little variety in the food. There are still complaints about the insufficient allocation of beverages, viz: 75 grams pure, coffee for adults and 40 grams tea for children. The majority of mothers would prefer the childrens' ration to be cocoa instead of tea. The fact that an allocation of rice has not materialised has disappointed many. hhh 5. Clothing</note>
+				<note xml:id="q-7e5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">The Berlin clothing cards are still not very popular and the majority of the population consider that the quality of the clothes is out of all proportion to the prices asked; payment is in equal proportion of West and East Marks. In the experience of the public good quality clothes con­tinue to be offered without coupons - for payment of 100% in West Marks. The black market price for a textile coupon is at the moment 20 Westpfennig. hhh 6. Housing Anxieties</note>
+				<note xml:id="q-7f5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">Although the opinion is expressed that there is no apparent shortage of accommodation in Western Berlin, many people consider that they are inadequately housed. The reasons given were, for the most part, too high rent charges and bureaucratic obstacles in the way of removals. The majority interviewed want the restrictions governing change of residence within the Western Sectors to be abolished.</note>
+				<note xml:id="q-805088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">Because of the blockade it is alleged that there is little recon­struction in progress and that it is extremely difficult and expensive is obtain material for repairs: The landlords, in particular, complain that their rents are paid only in Eastern Marks while at least 25% of the cost of building materials and labourers' wages must be paid in Western Marks.</note>
+				<note xml:id="q-815088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">The Berliners are delighted to note that rubble removal is in full swing everywhere and that in many cases the appearance of the streets has been considerably improved. hhh 7. Radio</note>
+				<note xml:id="q-825088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">A large section of the population have been complaining for some time about the RIAS programmes; they are beginning to tire of the numerous political lectures and satirical cabarets (Varady, Sandmaennchen, etc.). Many of them, too, dislike American Jazz music. On the other hand, the NWDR programmes are becoming more and more popular in Berlin but many listeners regret that they cannot hear the NWDR in Berlin well because their sets are not suitable for reception of these programmes. hhh 8. Black Market</note>
+				<note xml:id="q-835088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">The black market position has hardly changed during the second half of February. The price for American cigarettes fell again slightly and is now quoted at 0.30 - 0.35 DM (West) per cigarette.</note>
+				<note xml:id="q-845088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="44">J.E. Dixon</note>
+				<note xml:id="q-855088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="45">P.O.R.O.</note>
+				<note xml:id="q-865088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="46">HQ CCG (BE)</note>
+				<note xml:id="q-875088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="47">B.A.O.R. 2</note>
+				<note xml:id="q-885088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="48">MS/3-3-49.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

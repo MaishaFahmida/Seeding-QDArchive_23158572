@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 35</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-e5882cd1-edd4-44ae-9055-1fe6a5ff6d52</idno>
+        <idno type="qudexdocument">q-46fa29b5-33c7-4039-9b19-f9f566590341</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-0c7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">When I left
+				school in 1978 I started my apprenticeship in plumbing and heating I served it for 4
+				years and enjoyed it for its duration I <sic>dicided</sic><corr>decided</corr> to leave the firm where I served the
+				apprenticeship and start afresh in a new place.</u>
+      <u xml:id="q-0d7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I married when I
+				was 22 and fathered 3 children we put down a deposit on a house straight away and
+				lived at that house for the first ten years of our marriage. We travelled a fair bit
+				going to places like France, Holland and Africa for holiday for the first years of
+				our marriage because of cost. I <sic>dicided</sic><corr>decided</corr> to start a business of my own when I was 35.
+				We bought a shop and it proved quite successful in the long run.</u>
+      <u xml:id="q-0e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I left school at
+				16 because I was lucky enough to get an apprenticeship. I would have stayed on
+				school otherwise. Then the job situation was bad 1 in 5 kids who left got a job, a
+				lot stayed on. I made a lot of friends at school but I sought of drifted away when I
+				left I made a lot of new friends at work and had a good time with my mates before I
+				got married.</u>
+      <u xml:id="q-0f7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I intend to
+				retire at 65 and go into partnership with my two sons in my business because I don’t
+				think I could manage on my own anyway it gives them a <sic>headstart</sic><corr>head start</corr> in life.</u>
+      <u xml:id="q-107e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Now my retirement
+				is only five years away I intend to take it easy because I think I worked hard
+				during my working life to get where I am now. If I had the chance to start all over
+				again I don’t think I would.</u>
+    </body>
+  </text>
+</TEI>

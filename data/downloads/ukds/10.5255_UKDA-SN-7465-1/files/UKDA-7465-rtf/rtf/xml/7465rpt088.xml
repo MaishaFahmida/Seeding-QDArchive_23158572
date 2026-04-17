@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Reports</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-28dd653f-67dd-4c47-b6ee-e24499163423</idno>
+				<idno type="qudexdocument">q-8660a8ae-1b5e-48a2-b1f3-a738951127ec</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-154f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL.</note>
+				<note xml:id="q-164f7fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="2">SUBJECT: Morale Reports.</note>
+				<note xml:id="q-174f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">HQ</note>
+				<note xml:id="q-184f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">LAND FORCES ADRIATIC</note>
+				<note xml:id="q-194f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">CMF</note>
+				<note xml:id="q-1a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Ref: LFA/44/AG</note>
+				<note xml:id="q-1b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="7">21 Nov. 44.</note>
+				<note xml:id="q-1c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">To: 1 Fwd Base.</note>
+				<note xml:id="q-1d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">FLOYDFORCE</note>
+				<note xml:id="q-1e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">Raiding Support Regiment.</note>
+				<note xml:id="q-1f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="11">2 SS Brigade.</note>
+				<note xml:id="q-204f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="12">L.F.A.Sigs.</note>
+				<note xml:id="q-214f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="13">Camp Commandant, L.F.A.</note>
+				<note xml:id="q-224f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="14">HQ L.R.D.G.</note>
+				<note xml:id="q-234f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">Special Boat Service.</note>
+				<note xml:id="q-244f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">1. This Headquarters is required to send quarterly reports upon morale in the theatre to the War Office.</note>
+				<note xml:id="q-254f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">2. Reports will be submitted by you as follows:-</note>
+				<note xml:id="q-264f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Period: September to November</note>
+				<note xml:id="q-274f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Report to reach this HQ by: 5 December 1944</note>
+				<note xml:id="q-284f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">HAW/EE</note>
+				<note xml:id="q-294f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Col.G.S.</note>
+				<note xml:id="q-2a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="22">APPENDIX ‘A’ TO DIRECTIVE ON MORALE REPORTS. hhh SUGGESTED HEADINGS FOR MORALE REPORT.</note>
+				<note xml:id="q-2b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">Sec I Morale in General.</note>
+				<note xml:id="q-2c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Sec II Factors affecting morale.</note>
+				<note xml:id="q-2d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">1. Discipline</note>
+				<note xml:id="q-2e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">2. Confidence.</note>
+				<note xml:id="q-2f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">(a). In Army Leaders and the War</note>
+				<note xml:id="q-304f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">(b). In arms and equipment.</note>
+				<note xml:id="q-314f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">(c). In efficiency.</note>
+				<note xml:id="q-324f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">3. Mail</note>
+				<note xml:id="q-334f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">2. Welfare and Entertainment</note>
+				<note xml:id="q-344f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(a). Living Conditions.</note>
+				<note xml:id="q-354f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">(b). Recreation and amusements.</note>
+				<note xml:id="q-364f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">(c). General.</note>
+				<note xml:id="q-374f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">5. Education and ABCA</note>
+				<note xml:id="q-384f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">6. Relations between officers and men.</note>
+				<note xml:id="q-394f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">7. Relations with other services.</note>
+				<note xml:id="q-3a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">8. Relations with Allies.</note>
+				<note xml:id="q-3b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">9. Home Affairs, Post War and Release.</note>
+				<note xml:id="q-3c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">10. Finance.</note>
+				<note xml:id="q-3d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">11. Miscellaneous.</note>
+				<note xml:id="q-3e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">(a). Overseas service</note>
+				<note xml:id="q-3f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">(b). Leave</note>
+				<note xml:id="q-404f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">(c). Relations with civil population.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

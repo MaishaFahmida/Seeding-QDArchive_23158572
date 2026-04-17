@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Committee</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-d6f64d8d-d447-402e-9a3d-15f615719abf</idno>
+				<idno type="qudexdocument">q-3143da3d-4cb5-4fdb-9f97-853801c83d52</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-414f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-424f7fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="2">SUBJECT: Morale Committee.</note>
+				<note xml:id="q-434f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">ALLIED FORCE HEADQUARTERS</note>
+				<note xml:id="q-444f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">CR/10002/G-1(Br)</note>
+				<note xml:id="q-454f7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="5">17 Nov. 44</note>
+				<note xml:id="q-464f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">HQ 3 District.</note>
+				<note xml:id="q-474f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">HQ 3 Corps.</note>
+				<note xml:id="q-484f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">HQ R.A.A.C.</note>
+				<note xml:id="q-494f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">HQ Land Forces Adriatic.</note>
+				<note xml:id="q-4a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">1. This Headquarters is required to send quarterly reports upon morale in the theatre to the War Office, and for this purpose a Morale Committee has been established in accordance with the terms of the directive attached.</note>
+				<note xml:id="q-4b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">2. Reports will be submitted by you as follows:-</note>
+				<note xml:id="q-4c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Period Date</note>
+				<note xml:id="q-4d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Sep to Nov by 10 Dec.</note>
+				<note xml:id="q-4e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Dec to Feb by 10 Mar.</note>
+				<note xml:id="q-4f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Feb to May by 10 Jun.</note>
+				<note xml:id="q-504f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">3. Reports should be submitted under the general headings of Appendix "A" which was to be regarded as a guide only. Any further matters which are relevant to morale or which may have bearing on the morale of the Army after hostilities have ceased should be included. Any matters upon which you do not wish to comment may be omitted.</note>
+				<note xml:id="q-514f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">Major General, D.A.G.</note>
+				<note xml:id="q-524f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="18">G-1 (B).</note>
+				<note xml:id="q-534f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="19">Copy to: HQ North Africa District.</note>
+				<note xml:id="q-544f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="20">(Ref our G1/B/27/P of 8 Jun.)</note>
+				<note xml:id="q-554f7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="21">20 Nov 1944</note>
+				<note xml:id="q-564f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">Confidential</note>
+				<note xml:id="q-574f7fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="23">DIRECTIVE - MORALE: COMMITTEE.</note>
+				<note xml:id="q-584f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">1. An AFHQ Morale Committee is to be established w.e.f. date of issue of this directive.</note>
+				<note xml:id="q-594f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">2. The terms of reference of this Committee are:-</note>
+				<note xml:id="q-5a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">(a) To study morale in its broadest aspect, including future problems when hostilities have ceased.</note>
+				<note xml:id="q-5b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">(b) To co-ordinate and prepare quarterly morale reports to the War Office. These reports to be based on those received from AAI and NAD.</note>
+				<note xml:id="q-5c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">3. The composition of the Committee will be: -</note>
+				<note xml:id="q-5d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">CAD</note>
+				<note xml:id="q-5e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">DAG</note>
+				<note xml:id="q-5f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">DQMG</note>
+				<note xml:id="q-604f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">ADAG(P)</note>
+				<note xml:id="q-614f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">D of WELFARE</note>
+				<note xml:id="q-624f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Secretary - AAG, G1/B/A3.</note>
+				<note xml:id="q-634f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">4. Procedure.</note>
+				<note xml:id="q-644f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">(a) Committee meetings will be held as decided by the CAO.</note>
+				<note xml:id="q-654f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">(b) The Agenda will be prepared under direction of the DAG.</note>
+				<note xml:id="q-664f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">(c) The Committee may call on officers from Branches and Services to present expert opinion or to submit papers on subjects as required by it.</note>
+				<note xml:id="q-674f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">(d) ADAG(P) will be responsible for collecting and collating relevant data for presentation to the Committee.</note>
+				<note xml:id="q-684f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">5. Heads of Branches and Services are asked to submit to ADAG(P), without request and at any time, any information or reports Which bear on any aspect of morale or welfare, and which may be derived from sources, such as tours and visit newspapers, personal experiences, conferences, etc.</note>
+				<note xml:id="q-694f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">6. Quarterly reports to War Office.</note>
+				<note xml:id="q-6a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">The periods covered in reports will be:</note>
+				<note xml:id="q-6b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">Date duo W.O.</note>
+				<note xml:id="q-6c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">(a) Dec - Feb end of March</note>
+				<note xml:id="q-6d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">(b) Mar - May " June</note>
+				<note xml:id="q-6e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">(c) June - Aug " Sept</note>
+				<note xml:id="q-6f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">(d) Sep - Nov " Dec.</note>
+				<note xml:id="q-704f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">The main headings of reports are given in Appx 'A'.</note>
+				<note xml:id="q-714f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">Encl.</note>
+				<note xml:id="q-724f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">A.F.H.Q.</note>
+				<note xml:id="q-734f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">C.D. MOORHEAD.</note>
+				<note xml:id="q-744f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">Major-General,</note>
+				<note xml:id="q-754f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">DAG. G-1 (B).</note>
+				<note xml:id="q-764f7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="54">June 44. hhh DISTRIBUTION</note>
+				<note xml:id="q-774f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">CAO Engineers Medical DJAG Claims &amp; Hirings Dep Mil Sec DD Works DOS D V R &amp; S G-1 (B) D Survey DME D Welfare G-2 D Tn D Lab Fd Arty PRO G-3 DMT PM (Br) A &amp; CD INC G-4 (B) CSO D Salvage Fire Svces Camp Comd G-5 DCG DDAPS FA SCF(RC) Q Maint DST DPIC DPSS Supervising Officer. Q (AE)</note>
+				<note xml:id="q-784f7fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="56">APPX 'A' to DIRECTIVE. hhh SUGESTED HEADINGS FOR MORALE REPORT.</note>
+				<note xml:id="q-794f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">Sec I. Morale in General</note>
+				<note xml:id="q-7a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">Sec II. Factors affecting morale</note>
+				<note xml:id="q-7b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">1. Discipline</note>
+				<note xml:id="q-7c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">2. Confidence</note>
+				<note xml:id="q-7d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">(a) In Army, leaders and the War</note>
+				<note xml:id="q-7e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">(b) In arms and equipment</note>
+				<note xml:id="q-7f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">(c) In efficiency</note>
+				<note xml:id="q-804f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">3. Mail.</note>
+				<note xml:id="q-814f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="65">4. Welfare and Entertainment</note>
+				<note xml:id="q-824f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="66">(a) Living conditions</note>
+				<note xml:id="q-834f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="67">(b) Recreation and amusement</note>
+				<note xml:id="q-844f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="68">(c) General</note>
+				<note xml:id="q-854f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="69">5. Education and ABCA</note>
+				<note xml:id="q-864f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="70">6. Relations with officers and men</note>
+				<note xml:id="q-874f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="71">7. Relations with other Services</note>
+				<note xml:id="q-884f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="72">8. Relations with Allies</note>
+				<note xml:id="q-894f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="73">9. Home Affairs, Post War and Release</note>
+				<note xml:id="q-8a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="74">10. Finance</note>
+				<note xml:id="q-8b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="75">11. Miscellaneous</note>
+				<note xml:id="q-8c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="76">(a) Overseas service</note>
+				<note xml:id="q-8d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="77">(b) Leave</note>
+				<note xml:id="q-8e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="78">(c) Relations with civil population</note>
+			</div>
+		</body>
+	</text>
+</TEI>

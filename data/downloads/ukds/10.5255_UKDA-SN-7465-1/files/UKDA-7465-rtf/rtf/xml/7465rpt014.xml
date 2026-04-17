@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 40 - March 1949</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-2038fad3-c148-4422-ad19-5b0d56c7a18b</idno>
+				<idno type="qudexdocument">q-e3d91387-61ad-47e3-8669-3dfe206c7cdf</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-295088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">CONFIDENTIAL Public Opinion Research Office</note>
+				<note xml:id="q-2a5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Lancaster House, Room 1329</note>
+				<note xml:id="q-2b5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">HQ CCG (BE)</note>
+				<note xml:id="q-2c5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Berlin</note>
+				<note xml:id="q-2d5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">B.A.O.R.2</note>
+				<note xml:id="q-2e5088b6-9e9d-e411-b1ae-00155df55c12" type="date" n="6">18 Mar 49</note>
+				<note xml:id="q-2f5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">To: Public Opinion Research Office</note>
+				<note xml:id="q-305088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">Political Division</note>
+				<note xml:id="q-315088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">229 HQ CCG</note>
+				<note xml:id="q-325088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">Hannover</note>
+				<note xml:id="q-335088b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="11">Subject: Morale Report No. 40.</note>
+				<note xml:id="q-345088b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="12">Herewith Report on Berlin Morale No. 40 for the first half of March,</note>
+				<note xml:id="q-355088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="13">J.E. Dixon</note>
+				<note xml:id="q-365088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="14">P.O.R.O.</note>
+				<note xml:id="q-375088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">Pol.Div, HQ</note>
+				<note xml:id="q-385088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">CCG (BE)</note>
+				<note xml:id="q-395088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">B.A.O.R.2</note>
+				<note xml:id="q-3a5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">CONFIDENTIAL</note>
+				<note xml:id="q-3b5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="19">Public Opinion Research Office</note>
+				<note xml:id="q-3c5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="20">Lancaster House</note>
+				<note xml:id="q-3d5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="21">HQ COG (BE)</note>
+				<note xml:id="q-3e5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="22">Berlin</note>
+				<note xml:id="q-3f5088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="23">B.A.O.R.2</note>
+				<note xml:id="q-405088b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="24">REPORT ON BERLIN MORAL E NO. 40. (First Half of March).</note>
+				<note xml:id="q-415088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Note: Readers are asked to remember that although this report is compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting. hhh 1. General Mood and Atmosphere</note>
+				<note xml:id="q-425088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">During the first two weeks of March the morale of the West Berliners sank considerably. The sudden and quite unexpected cold spell combined with lack of fuel reemphasised all the miseries and hardships of winter; thus for the people of Berlin, topical events retreated into the background and little else was thought of but present cares and difficulties.</note>
+				<note xml:id="q-435088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Apart from the cold, the chief topic of conversation was the removal from office of the Soviet Foreign Minister Molotov. Those interviewed were confused regarding the real motives behind this change, but the general opinion is that it means promotion rather than demotion. It is believed by many Berliners that a regrouping and concentration of forces is taking place in the Kremlin; the result of which will become apparent in the spring in the form of an intensified anti-Western campaign.</note>
+				<note xml:id="q-445088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Regarding political events in the United States, the Berliners see a shifting of power in the resignation of the Minister of Defence, Forrestal, and the Minister for Army Affairs, Royall, the recall of Ambassador Murphy from Berlin and General Clay's reported intention of resigning. The latter appeared to make little impression on the people interviewed.</note>
+				<note xml:id="q-455088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">The visit of Prime Minister Attlee was greeted with delight, and many regarded this visit as a sign of the British Government's genuine Interest in conditions under the blockade. Nevertheless, many expressed the feeling that it was impossible for Mr. Attlee to gain a realistic impression of their difficulties in one day.</note>
+				<note xml:id="q-465088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">The press and radio report that a high American official had stated that the Western Sectors of Berlin also belonged to the defence area of the Atlantic Pact aroused particular interest among the population.</note>
+				<note xml:id="q-475088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Berliners voiced their disappointment at the refusal of the Western Military Governors to recognise Berlin as the 12th Land of the West German Federation of States.</note>
+				<note xml:id="q-485088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">There is an increasing tendency among Berliners to believe that the blockade of the city will last indefinitely and thus the present world wide interest in the problem of Berlin will wane; so that, in spite of its significance in world politics, the city will progressively lose its status as an economic, cultural, and administrative metropolis. For these reasons a marked desire to "emigrate" to the Western Zones has been noted. hhh 2. Domestic Fuel</note>
+				<note xml:id="q-495088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Great indignation was aroused amongst Berliners by the refusal of the Allied Kommandatura to issue the coal allocation earmarked for the civilian population. Though many people realise that coal for industry is more important, and that an allocation of 40 pounds would be no solution to the problem of domestic fuel, nevertheless they consider the decision of the Commandants to be unintelligible and to disregard completely the winter sufferings of the population. hhh 3. Monetary Worries</note>
+				<note xml:id="q-4a5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">The Berlin currency situation with all its attendant hardships remains unchanged and during the last few days reports, partly contradictory, con­cerning the alleged date of introduction of the Western Mark as sole legal currency, and concerning an allegedly imminent withdrawal of the valid B-Mark notes, propagated by the Eastern licensed press, have added to the confusion.</note>
+				<note xml:id="q-4b5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Little surprise was caused by the statement issued from Allied quarters that the Western Mark would be the sole legal currency in the near future (many believe that the date will be the end of March); owing to statements made by Oberbuergermeister Reuter, Berliners have long expected this to take place. People who receive little or no Western money welcome without reservation the envisaged introduction of the Western Mark as sole currency, other sections (especially business people) are more sceptical and think that this is not the ideal solution to the Berlin currency problem as they consider that tine intro­duction of the Western Mark as sole currency will result in an increase in unemployment and a further drop in purchasing power.</note>
+				<note xml:id="q-4c5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Many Berliners through lack of money, particularly of Western Marks, were unable to buy the last allocation of American cigarettes (20 cigarettes per person, costing 4 Western Marks) and in many cases sold the cigarette coupons to friends. hhh 4. Food</note>
+				<note xml:id="q-4d5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">Many Berliners complain about lack of fresh food and vegetables. In spite of the fact that the beverage ration has been raised to 25 grams coffee and 25 grams tea there are still complaints about the inadequacy of the ration. hhh 5. Black Market</note>
+				<note xml:id="q-4e5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">With the exception of coal which at the beginning of the cold spell rose from 12 to 15 Westmarks per cwt, the Black Market prices have on an average fallen a little as a result of the general shortage of money and the low purchasing power. The prices quoted at the moment are approximately as follows: -</note>
+				<note xml:id="q-4f5088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">500 g butter 17.00-18.00 DM (W) 1500 g brown bread 2.50 DM(W)</note>
+				<note xml:id="q-505088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">500 g lard 18.00 " 1500 g white bread 3.00 "</note>
+				<note xml:id="q-515088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">500 g sugar 3.75- 4.25 " 450 g coffee (roasted) 24.00-25.00 "</note>
+				<note xml:id="q-525088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">500 g flour 1.60- 2.00 " 450 g coffee (raw) 21.00 "</note>
+				<note xml:id="q-535088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">1 egg 0.90 " 20 American cigarettes 6.00</note>
+				<note xml:id="q-545088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="44">J.E. Dixon</note>
+				<note xml:id="q-555088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="45">P.O.R.O.</note>
+				<note xml:id="q-565088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="46">HQ CCG (BE)</note>
+				<note xml:id="q-575088b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="47">B.A.O.R.2</note>
+				<note xml:id="q-585088b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">NF/18-3-49.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

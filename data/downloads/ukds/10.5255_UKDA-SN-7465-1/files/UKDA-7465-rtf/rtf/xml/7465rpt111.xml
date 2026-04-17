@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report -- 111 Field Regt RA., 28 Feb 45</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-11638d01-be39-48f7-9ff5-bdef653cd856</idno>
+				<idno type="qudexdocument">q-0e5f783d-8e0f-4aa4-83e0-ebc15a82b26d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-ae17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="1">CONFIDENTIAL'.</note>
+				<note xml:id="q-af17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="2">HQ/22/3.</note>
+				<note xml:id="q-b017e013-1390-e311-a968-000bdb5cc6d5" type="subject" n="3">Subject:- Morale Report.</note>
+				<note xml:id="q-b117e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="4">To:- HQ LFA.</note>
+				<note xml:id="q-b217e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="5">Ref your LFA/44/A dated 15 Feb 45.</note>
+				<note xml:id="q-b317e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="6">Herewith quarterly Morale Report as requested.</note>
+				<note xml:id="q-b417e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="7">WMD/jaw</note>
+				<note xml:id="q-b517e013-1390-e311-a968-000bdb5cc6d5" type="date" n="8">1 Mar 45</note>
+				<note xml:id="q-b617e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="9">Field</note>
+				<note xml:id="q-b717e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="10">Lt Col. RA.</note>
+				<note xml:id="q-b817e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="11">Comd III Fd Regt. RA.</note>
+				<note xml:id="q-b917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="12">CONFIDENTIAL.</note>
+				<note xml:id="q-ba17e013-1390-e311-a968-000bdb5cc6d5" type="theme" n="13">MORALE REPORT - 111 FIELD REGT RA.</note>
+				<note xml:id="q-bb17e013-1390-e311-a968-000bdb5cc6d5" type="date" n="14">28 FEB 45.</note>
+				<note xml:id="q-bc17e013-1390-e311-a968-000bdb5cc6d5" type="subject" n="15">SECTION I.</note>
+				<note xml:id="q-bd17e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="16">MORALE IN GENERAL.</note>
+				<note xml:id="q-be17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="17">Morale on the whole is good. Nobody has any doubt of the outcome of the war; a number think that the war in Europe is as good as over, and secretly believe that this regt will never fire another shot. This is apt to make it difficult to arouse much enthusiasm for training, and too prolonged a rest out of action, particularly at this stage of the war, is bound to have an adverse effect upon morale. This would be partially overcome if the regt's future role was known so that training could be directed towards a definite and immediate object. At the present time, however, the men feel proud of the achievements of the regt, and are happy and contented.</note>
+				<note xml:id="q-bf17e013-1390-e311-a968-000bdb5cc6d5" type="subject" n="18">SECTION II. FACTORS AFFACTING MORALE.</note>
+				<note xml:id="q-c017e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="19">1. Discipline is good, though perhaps the relations between NCOs and men are more easy-going than in some units. There has only been one serious offence in the past three months.</note>
+				<note xml:id="q-c117e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="20">2. Confidence.</note>
+				<note xml:id="q-c217e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="21">(a) Full confidence in Army leaders and the War - though it is doubtful if the average man thinks much about this.</note>
+				<note xml:id="q-c317e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="22">(b) Having always found our own weapons superior to the enemy's, no one thinks that this state of affairs will not continue indefinitely.</note>
+				<note xml:id="q-c417e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="23">(c) This regt has, if anything, too much confidence in its own efficiency. It has never taken part in an unsuccessful action, and moreover the minor operations of the past nine months succeeded at such small cost that there is danger of thinking that efficiency cannot be increased.</note>
+				<note xml:id="q-c517e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="24">3. Mail in Yugoslavia was often poor. Now it is entirely satisfactory.</note>
+				<note xml:id="q-c617e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="25">4. Welfare and entertainment.</note>
+				<note xml:id="q-c717e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="26">(a) Living conditions. Accommodation is good, if somewhat overcrowded. There is a shortage of certain RE services and barrack stores, but these are not serious.</note>
+				<note xml:id="q-c817e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="27">(b) Recreation and amusements. Men are offered a weekly trip into BARI but most do not want to go. Unit canteens are very successful. The mobile cinema comes once per week, and there are occasional civilian shows at SANTERAMO and GRAVINA. It is generally felt that the amusements provided in BARI are not adequate to the number of troops for whom it is the nearest centre.</note>
+				<note xml:id="q-c917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="28">(c) General. Shortage of sports kit, particularly football boots and gym shoes, severely curtails outdoor games. Most men have not even a pair of shorts, and these should form part of every man's kit.</note>
+				<note xml:id="q-ca17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="29">There is still a serious shortage of radio sets ­many men seldom hear the radio. NAAFI supplies are mainly good. There has recently been a shortage of soap, and the lack of any brown boot polish for several months is embarrassing for officers.</note>
+				<note xml:id="q-cb17e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="30">5. Education and ABCA.</note>
+				<note xml:id="q-cc17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="31">It has recently been possible to devote more time to this. The AEC staff are helpful and give a weekly lecture on current affairs. ABCA periods are held once or twice weekly and arouse average interest. ABCA pamphlets are somewhat slow in arriving.</note>
+				<note xml:id="q-cd17e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="32">6. Relations between officers and men - very good.</note>
+				<note xml:id="q-ce17e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="33">7. Relations with other services - there has been little contact with other services during the past three months.</note>
+				<note xml:id="q-cf17e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="34">8. Relations with Allies.</note>
+				<note xml:id="q-d017e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="35">The only allies really experienced are the Yugoslav partisans, with whom relations were strained due to their narrow minded attitude, and our first hand knowledge of the methods they use in waging War. This is in direct contrast to the mutual attitude up to October 1944. sss1 9. Home Affairs, Post war and release.</note>
+				<note xml:id="q-d117e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="36">There has been an increase of interest in this, but not to the extent apparently imagined in the press. The general attitude is one of waiting to see what will happen and hoping to get back to civilian life as soon as possible. The demobilization priorities scheme is regarded as fair and satisfactory, and it is generally appreciated that the Government is trying its best to put post war life on a sound and fair basis.</note>
+				<note xml:id="q-d217e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="37">It is felt that short compassionate home leave could do much to stop the tragic break-up of families due to the infidelity of wives.</note>
+				<note xml:id="q-d317e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="38">10. Finance.</note>
+				<note xml:id="q-d417e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="39">Present rates of pay are regarded as satisfactory, but not over-generous. Most men have healthy credit balances and saving is on the whole satisfactory.</note>
+				<note xml:id="q-d517e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="40">The anomaly that a Class lA gunner gets the same pay as a Gp D Class 111 tradesman still continues.</note>
+				<note xml:id="q-d617e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="41">11. Miscellaneous.</note>
+				<note xml:id="q-d717e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="42">(a) Overseas service. Everyone is resigned to it; it is certainly unpopular and most men would naturally like it shortened, but there is no serious complaint. The bulk of the men have been overseas nearly three years and feel that they should receive definite guarantee of home leave if they are to be posted to the Far East before they are released.</note>
+				<note xml:id="q-d817e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="43">(b) Leave. After complete stoppage for several months, this is now excellent and by the middle of March every man will have had 7 days leave since last November. The rail facilities for those going to ROME are capable of con­siderable improvement. LIAP is regarded as a very great privilege, though most men are resigned to the fact that their chances of going are extremely small.</note>
+				<note xml:id="q-d917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="44">(c) Relations with civilians - good.</note>
+				<note xml:id="q-da17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="45">(d) Health - good. The VD rate since returning to Italy has been gratifyingly low.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

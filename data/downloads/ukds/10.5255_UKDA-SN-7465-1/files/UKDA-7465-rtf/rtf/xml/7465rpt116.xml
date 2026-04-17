@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Reports, Long Range Desert Group, CMF, from 1 Aug 44 - 30 Nov 44</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-b01ac975-dbbb-4112-8ee7-2d94ffb8819a</idno>
+				<idno type="qudexdocument">q-6a50a13b-435b-4d7b-94ef-ff70ccb2f27d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-ec527fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject:- Morale Reports</note>
+				<note xml:id="q-ed527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">CONFIDENTIAL.</note>
+				<note xml:id="q-ee527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Group Headquarters,</note>
+				<note xml:id="q-ef527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Long Range Desert Group,</note>
+				<note xml:id="q-f0527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">C.M.F.</note>
+				<note xml:id="q-f1527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Ref:- LRDG/A/6/118</note>
+				<note xml:id="q-f2527fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="7">Date:- 4 December 44.</note>
+				<note xml:id="q-f3527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">To:- Headquarters,</note>
+				<note xml:id="q-f4527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Land Forces Adriatic,</note>
+				<note xml:id="q-f5527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">C.M.F</note>
+				<note xml:id="q-f6527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Reference your LFA/44/AG dated 21 Nov 44.</note>
+				<note xml:id="q-f7527fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="12">Morale reports for period September to November 44 is attached hereto.</note>
+				<note xml:id="q-f8527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(R B Banks)</note>
+				<note xml:id="q-f9527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="14">Lt.Col.</note>
+				<note xml:id="q-fa527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">Commanding, L.R.D.G</note>
+				<note xml:id="q-fb527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">RBB/AHP</note>
+				<note xml:id="q-fc527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Confidential.</note>
+				<note xml:id="q-fd527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="18">Group Headquarters,</note>
+				<note xml:id="q-fe527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="19">Long Range Desert Group,</note>
+				<note xml:id="q-ff527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="20">C.M.F</note>
+				<note xml:id="q-00537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="21">Morale Report. 1 Aug 44 - 30 Nov 44 hhh 1. Offences against Army Act.</note>
+				<note xml:id="q-01537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">a) Absence NIL.</note>
+				<note xml:id="q-02537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">b) Other Offences. 1 FGCM. A.A. Sec. 8 (2) Guilty. 28 days Field Punishment.</note>
+				<note xml:id="q-03537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">c) Minor offences. 11. hhh 2. Confidence.</note>
+				<note xml:id="q-04537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Confidence in the progress of the War and in Arms and Equipment is good. hhh 3. Contentment.</note>
+				<note xml:id="q-05537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">(a) Interest in Training and Operations. Excellent.</note>
+				<note xml:id="q-06537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">(b) Living conditions.</note>
+				<note xml:id="q-07537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">i) Quarters - Good.</note>
+				<note xml:id="q-08537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">ii) Messing - Satisfactory.</note>
+				<note xml:id="q-09537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">iii) NAAFI. - Improved supply. Satisfactory.</note>
+				<note xml:id="q-0a537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">iv) Recreation &amp; Amusement. - Fair, Football boots urgently required but not obtainable.</note>
+				<note xml:id="q-0b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">v) Leave - Satisfactory.</note>
+				<note xml:id="q-0c537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">vi) Mail - Satisfactory.</note>
+				<note xml:id="q-0d537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">c) Finance - pay, allowances and expenses. Considerable difficulty has been experienced in obtaining parachute pay. It is hoped that this matter is now in order.</note>
+				<note xml:id="q-0e537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">d) Conditions affecting families. There are some men who are experiencing matrimonial difficulties. SSAFA is helpful but there is a big delay in getting any decision on applications for postings on compassionate grounds.</note>
+				<note xml:id="q-0f537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">e) Relations between Officers, N.C.O's &amp; Men - Excellent.</note>
+				<note xml:id="q-10537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">f) Relations with other Services etc.</note>
+				<note xml:id="q-11537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">i) R.A.F. - Good.</note>
+				<note xml:id="q-12537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">ii) A.T.S. - Not Available.</note>
+				<note xml:id="q-13537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">iii) Dominion and USA Troops - Good. hhh 4. Education and A.B.C.A.</note>
+				<note xml:id="q-14537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">Satisfactory. Difficulty is experienced due to wide dispersion. hhh 5. Efficiency</note>
+				<note xml:id="q-15537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">(a) Physical Fitness - Excellent.</note>
+				<note xml:id="q-16537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">(b) Discipline - Excellent. hhh 6. Miscellaneous.</note>
+				<note xml:id="q-17537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">A number of the old members of L.R.D.G. have left under the Python Scheme and the Unit is also now participating in the scheme which enables men who have been overseas for some time to go home on a month's leave.</note>
+				<note xml:id="q-18537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">(Signature)</note>
+				<note xml:id="q-19537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">Lt.Col.</note>
+				<note xml:id="q-1a537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">Commanding L.R.D.G.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

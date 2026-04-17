@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 70</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-01774cbf-07cc-4cad-9f30-423c3012d03e</idno>
+        <idno type="qudexdocument">q-0f47c6d4-40af-4319-ac52-868daa7f3ae7</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-d37e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Life</note>
+      <u xml:id="q-d47e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At school we were
+				just starting are exams, I was <sic>hopping</sic><corr>hoping</corr> I would get my woodwork <sic>thery</sic><corr>theory</corr> and my woodwork
+				practical and if I <sic>triyd</sic><corr>tried</corr> hard my <sic>techehal</sic><corr>technical</corr><sic>Drowing</sic><corr>drawing</corr> and Art. The Job I had <sic>{riten?}</sic><corr>written</corr>
+				away for was <sic>a prentiship</sic><corr>apprenticeship</corr> with my brothers <sic>eletrishen’s</sic><corr>electricians</corr> for me. I was only 15 ½
+				years old, I <sic>wishet</sic><corr>wished</corr> I <sic>cold</sic><corr>could</corr> have a <sic>yamahar</sic><corr>Yamaha</corr> 100cc <sic>motorsical</sic><corr>motorcycle</corr> but I <sic>hat</sic><corr>had</corr> to be 17 years
+				old to have one. So I <sic>hat</sic><corr>had</corr> to <sic>wat</sic><corr>wait</corr><sic>too</sic><corr>two</corr> years, that <sic>semed</sic><corr>seemed</corr> a life time but it came along
+				the day had <sic>cume</sic><corr>come</corr> when I <sic>cold</sic><corr>could</corr> go down the <sic>motorsical</sic><corr>motorcycle</corr> shop and <sic>biy</sic><corr>buy</corr> my first <sic>motorsical</sic><corr>motorcycle</corr>
+				{illegible} my crash <sic>helmit</sic><corr>helmet</corr> so I <sic>cold</sic><corr>could</corr><sic>ried</sic><corr>ride</corr> it home. I {illegible} to the shop a
+				{illegible} where by and then there I was riding my <sic>owen</sic><corr>own</corr><sic>motorsical</sic><corr>motorcycle</corr> along the <sic>raid</sic><corr>road</corr>
+				on my way home to show my mum and dad my new toy. The next day a letter came for me
+				to <sic>asce</sic><corr>ask</corr> me to go for an {illegible} with my brothers <sic>furme</sic><corr>firm</corr>, I was <sic>thrild</sic><corr>thrilled</corr>. The day
+				came when I <sic>hat</sic><corr>had</corr> to go for the interview, I put on my best <sic>clows</sic><corr>clothes</corr> and <sic>tiy</sic><corr>tie</corr> and set <sic>of</sic><corr>off</corr> I
+				was so serves I got <sic>of</sic><corr>off</corr> the bus a stop <sic>to</sic><corr>too</corr><sic>sone</sic><corr>soon</corr> and <sic>hat</sic><corr>had</corr> to walk a <sic>mill</sic><corr>mile</corr>. <sic>Aventuley</sic><corr>Eventually</corr> I
+				got there and the <sic>secutery</sic><corr>security</corr><sic>sede</sic><corr>said</corr> “Go <sic>strat</sic><corr>straight</corr> in he’s <sic>wating</sic><corr>waiting</corr> for you” so all of a
+				tremble I went in, he stood up and shock my hand and I sat down we <sic>talct</sic><corr>talked</corr><sic>fo</sic><corr>for</corr> a <sic>wile</sic><corr>while</corr>
+				and then the <sic>manajer</sic><corr>manager</corr><sic>sede</sic><corr>said</corr> “that’s all Mr Marchant <sic>wer</sic><corr>we'll</corr> send you the <sic>anser</sic><corr>answer</corr> in the
+				post. When I got home my key was redey lick {yochel?}. <sic>Too</sic><corr>two</corr> weeks went by and I had
+				not <sic>hird</sic><corr>heard</corr> from the <sic>furme</sic><corr>firm</corr>. I <sic>thort</sic><corr>thought</corr> they <sic>dident</sic><corr>didn't</corr><sic>wont</sic><corr>want</corr> me and the next day a letter came
+				for me, it was the one it <sic>sede</sic><corr>said</corr> that I <sic>hade</sic><corr>had</corr> the job. Then the day came my first day
+				at work I got up at 6 O clock I was <sic>redey</sic><corr>ready</corr> a 6.30 I <sic>diden</sic><corr>didn't</corr> have to be at work to 7 O
+				clock. I got there on time the man I was <sic>ment</sic><corr>meant</corr> to work with met me at the <sic>gats</sic><corr>gates</corr>.</u>
+    </body>
+  </text>
+</TEI>

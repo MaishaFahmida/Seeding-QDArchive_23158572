@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 24</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-9a41dbd7-2508-4367-a7f7-c86129d70579</idno>
+        <idno type="qudexdocument">q-64598940-07d6-47bb-becd-c24aa96cb70d</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-d97d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">I left school at
+				the age of sixteen and went out to work for the first time three months after I left
+				school. I was in heavy engineering. But at first it was all training courses and
+				after about 3 years I went onto a lighter engineering and stayed there for about 12
+				years and then went into the fire service <sic>were</sic><corr>where</corr> I stayed. I got married and moved up
+				north were we lived for about 1 <sic>years</sic><corr>year</corr> after that time we had 2 children a boy and a
+				Girl aged 3 and 4. and then I was posted to fire chief and was moved to the south of
+				England near Cornwall.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 91</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-cabda39f-cf97-4acc-afcb-0db5e6372531</idno>
+        <idno type="qudexdocument">q-2609c471-9f20-4e0f-9c51-bb5ef253a919</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-607f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-617f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">After leaving
+				school at 17 I got a secretarial job in a Sheerness firm, twinlocks I think unless
+				that was later, anyway. I stayed <sic>their</sic><corr>there</corr><sic>till</sic><corr>until</corr> I was 19 then got a job in London in a
+				much bigger firm and better wages. I led quite a good life, had my own car and flat.
+				I</u>
+      <u xml:id="q-627f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">t was about 18
+				months later that I met my husband. And another year later I married him. For the
+				first 10 months of our marriage we lived in a one bedroomed flat I stayed on at
+				work. Then he changed jobs and we moved to a house nearer my parents.</u>
+      <u xml:id="q-637f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I left work to
+				sort the house out and get straight.</u>
+      <u xml:id="q-647f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">It was soon after
+				that I fell for our first baby. A girl Lisa, then three years later a boy Stephen.
+				As soon as they got older and Stephen started school I got another part time job
+				locally as a receptionist. But I only stayed 2 years then pack up work altogether.
+				But I didn’t laze around all day, bringing up two young children prevented me
+				anyway. I started at a an art school in the afternoons which I enjoyed.</u>
+      <u xml:id="q-657f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">The rest of my
+				years I enjoyed very much, having two lovely children (not always lovely!)
+				around.</u>
+      <u xml:id="q-667f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">We had a holiday
+				each year, always abroad then when the children left and married, we moved to
+				another, smaller house, locally. We were a very close family and our children
+				regularly visited us.</u>
+      <u xml:id="q-677f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">There was only
+				one bad, really unhappy time which was when my parent died, they both died of old
+				age, no illnesses, my father the first, and my mother broken hearted the following
+				year.</u>
+      <u xml:id="q-687f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Overall I think
+				my memories are all happy ones and I hope I live long enough to have many more,
+				especially watching my grandchildren grow up.</u>
+    </body>
+  </text>
+</TEI>

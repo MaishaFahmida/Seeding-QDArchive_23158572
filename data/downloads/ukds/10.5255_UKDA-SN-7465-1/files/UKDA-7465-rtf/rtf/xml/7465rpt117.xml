@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report for period Dec 1944 to Feb 1945</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-cf13abe7-0296-49b7-a790-2069d138cfe5</idno>
+				<idno type="qudexdocument">q-bdcecb25-653f-47a9-a6cb-2a2d20f210d7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-1b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">Secret.</note>
+				<note xml:id="q-1c537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">Land Forces Adriatic</note>
+				<note xml:id="q-1d537fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="3">Morale Report for Period Dec 1944 to Feb 1945</note>
+				<note xml:id="q-1e537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="4">Section I. Morale in General</note>
+				<note xml:id="q-1f537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">The reaction that set in after the realisation that the European War was not, after all, going to end last year, has now given place to a more balanced view. The men realise that even if the war with Germany does end in the near future, there will be no sudden cessation of hostilities as there was in 1918. Many of the troops have been engaged in operations against guerrilla forces and with the prospect of similar actions in Germany after organised resistance has ended, they know what to expect. Victory, both over Germany and Japan, is regarded as inevitable, and such an attitude is apt to make many inclined to relax their efforts. Great interest is shown in the battles now being fought on the Eastern and Western Fronts and the value of the Anglo-American land attacks in the West is now being appreciated. The might and intensity of Allied air attacks is probably not fully appreciated; the 1000-bomber raids are taken as a matter of course, so much that is 200 bombers take part in a raid people think something has gone wrong. There is a general wish to get back home as soon as possible.</note>
+				<note xml:id="q-20537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="6">Section II. Factors Affecting Morale. hhh 1. Discipline.</note>
+				<note xml:id="q-21537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">This has generally been good and is reflected in the bearing and dress of the men. There is an intense dislike of the Cap G.S. and the sooner this form of headwear is abolished the better. There is a general feeling that our troops cannot look so well turned out as the Americans, because the American clothes are so much smarter. This is a matter which it is felt should receive very careful consideration. Relations between NCO's and men are perhaps more easy-going than should be the case. hhh 2. Confidence</note>
+				<note xml:id="q-22537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">a) In Army Leaders and the War.</note>
+				<note xml:id="q-23537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Full confidence is felt in both these respects.</note>
+				<note xml:id="q-24537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">b) In Ammunition and Equipment.</note>
+				<note xml:id="q-25537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">There is nothing adverse to report in this, though comment is sometimes made that the scales allotted to the U.S. troops are more generous than our own.</note>
+				<note xml:id="q-26537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">c) In Efficiency.</note>
+				<note xml:id="q-27537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">There is no lack of confidence in efficiency, and the many roles in which sub-units in this formation have acted independently have increased confidence. hhh 3. Mail.</note>
+				<note xml:id="q-28537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Mail for units on the Italian Mainland has been very good, air letters taking on an average 5 - 6 days each way. Mail in Jugoslavia and the islands was generally irregular and unsatisfactory, even taking into account the difficulties of communication. Since this is such an important morale factor it is felt that delivering mail even to the extent of dropping it by parachute should be considered; there were occasions when this could have been done on the island of VIS although weather conditions prevented the landing of aircraft. Some complaints have been received that mail sent home and opened by the Base Censor sometimes takes upward of a fortnight to reach its destination. The release of unlimited air mail letter cards has been a source of general satisfaction. There have been several complaints of mail and parcels sent from MEF not arriving. hhh 4. Welfare and Entertainment.</note>
+				<note xml:id="q-29537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">a) Living conditions generally have been good, though certain units have been living hard owing to operations. Troops on VIS have complained of lack of fresh rations; this is being investigated.</note>
+				<note xml:id="q-2a537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">b) Recreation and Amusements. For troops away from the Italian Mainland, these are limited, though with the approach of the better weather, recreational facilities should improve. Amusements in BARI are of a high standard, though owing to the large number of troops, not entirely adequate.</note>
+				<note xml:id="q-2b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">c) General. Welfare goods continue to be in short supply and are often of indifferent quality. There is a very real lack of wireless sets, and, for officers, brown boot polish has been conspicuous by its absence.</note>
+				<note xml:id="q-2c537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">The restrictions on, and payment for, recreational transport are a source of adverse comment. hhh 5. Education and ABCA</note>
+				<note xml:id="q-2d537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">ABCA is popular and gives rise to lively debates, though sometimes the pamphlets are slow in arriving. The AEC are helpful and a number of men are taking army correspondence courses. hhh 6. Relations between Officers and Men.</note>
+				<note xml:id="q-2e537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Very satisfactory. hhh 7. Relations with Other Services.</note>
+				<note xml:id="q-2f537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Certain units have had a lot to do with the RN personnel and relations have always been good, the men showing great interest in ships and seamanship. The services do not appear to mix very much on the whole. hhh 8. Relations with Allies.</note>
+				<note xml:id="q-30537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">a) Americans. Not a great deal of contact on the whole but generally perfectly friendly. It must be admitted though, that the higher rates of pay and, apparently freer use of transport, enjoyed by the Americans, gives rise to a certain envy and prejudice.</note>
+				<note xml:id="q-31537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">b) Jugoslavs. Relations have deteriorated chiefly due to the present ill-mannered behaviour of the partisans, to the heavy restrictions placed on fraternisation with civilians, to first-hand knowledge of the methods they use in waging war and peace, and to their treatment of PW.</note>
+				<note xml:id="q-32537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">c) Greeks. Those troops who have been to Greece speak to enthusiastically of the country and of the people as a whole, but are bitter and angry with ELAS. This was markedly so in one unit recruited largely in Glasgow. hhh 9. Home Affairs, Post War and Release.</note>
+				<note xml:id="q-33537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">a) Home Affairs. hhh One unit reports several cases of infidelity and there seem to be strong grounds for the revision of the low priority given to applications of this type for reversion to UK; every effort should be made to prevent the break-up of family life.</note>
+				<note xml:id="q-34537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">b) Post War and Release hhh Post War Release is generally a topic of interest. There is a certain amount of scepticism as to the outcome of the big plans made. Generally there appears to be a "wait-and-see" attitude, also a short sighted idea that we should finish the war first and talk about what were are going to do later. The Post War Gratuity Scheme has come in for a lot of adverse comment, one of the main criticisms being that it should be based on service and not on rank. There is worry among certain age groups, especially those who had, owing to youth, no pre-war employment, as to what they are going to do for a job.</note>
+				<note xml:id="q-35537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">10. Finance. hhh Thanks to foresight many men have, through saving schemes and the use of AF 0 1727, got a useful balance at home. There appear to be little or no financial worries.</note>
+				<note xml:id="q-36537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">11. Miscellaneous.</note>
+				<note xml:id="q-37537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">h a) Overseas Service.</note>
+				<note xml:id="q-38537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">There is a definite and universal opinion that overseas service is too long. The average opinion is that three years is about right. Many men do not of course appreciate the manpower problem but draw a comparison between the 4 ½ years for the Army and the lesser periods for the Royal Navy, Royal Marines, and Royal Air Force.</note>
+				<note xml:id="q-39537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">b) Leave. Leave to Rome has been extremely popular and the amenities of 56 Rest Camp much appreciated. The leave allotment has been satisfactory though the temporary closing of 52 Rest Camp at BARI made certain difficulties especially as the means of getting men to ROME in limited; this is due to the shortage of transport and the smallness of the number of vacancies allotted on the "Bari Belle" train. LIAP is regarded as being a chance for the "lucky" individual. It gave a big fillip to morale at the outset, though it is a pity that the limitations of the scheme were not made more widely known at the start.</note>
+				<note xml:id="q-3a537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">c) Health. The general health is exceptionally good. There are the occasional relapses from malaria, and the incidence of jaundice has been very small. VD has averaged 6 cases per week for the whole force; this is higher than in the average field formation, but probably no higher than among units of other formations who may be stationed for periods in Italian inhabited areas. Most cases are probably contracted in Rome.</note>
+				<note xml:id="q-3b537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">d) Relations with Civil Population. There are generally few contacts. The general attitude of the troops towards Italians is one of condescension. The feeling towards the Jugoslavs is mixed but relations with both them and with the Italians are satisfactory.</note>
+				<note xml:id="q-3c537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Brigadier.</note>
+				<note xml:id="q-3d537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Commanding Land Forces Adriatic.</note>
+				<note xml:id="q-3e537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="36">8 Mar 45.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

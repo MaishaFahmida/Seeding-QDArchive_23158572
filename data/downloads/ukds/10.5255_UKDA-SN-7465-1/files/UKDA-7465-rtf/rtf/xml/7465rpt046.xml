@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Home Opinion, Memorandum by the Minister of Information - July 17, 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-c18b1242-a8ff-4c5c-9fa9-2b9b84219aa6</idno>
+				<idno type="qudexdocument">q-2b744b40-897a-4a3c-913d-3ecacd562506</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-915888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">THIS DOCUMENT IS THE PROPERTY OF HIS BRITANNIC MAJESTY'S GOVERNMENT SECRET</note>
+				<note xml:id="q-925888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">COPY NO 73</note>
+				<note xml:id="q-935888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">W.P. (42) 290</note>
+				<note xml:id="q-945888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="4">July 17, 1942</note>
+				<note xml:id="q-955888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">WAR CABINET</note>
+				<note xml:id="q-965888b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="6">REPORT ON HOME OPINION</note>
+				<note xml:id="q-975888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Memorandum by the Minister of Information</note>
+				<note xml:id="q-985888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">At the time of my last report, five weeks ago, I recorded a surge of optimism in the country, and a widespread belief in the probability of the war's ending this year. Events have lost no time in correcting this tendency. Confidence has fallen, and the war is now once more expected to be a long one.</note>
+				<note xml:id="q-995888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">1. The earlier over-confidence was brought to a head much more by the inauguration of our 1,000 bomber raids on Germany than by any other single factor. The Libyan campaign was watched with a good deal of reserve by the public, even when official assurances were taken to be encouraging. Reverses would probably not have caused the depth of feeling they did had they not been marked by the fall of Tobruk. The past record of Tobruk, the comparison which the public, without allowing for essential differences, drew between it and Sevastopol and. the rapidity of the surrender combined to produce a sense of indignation quite independently of any feelings aroused by the parliamentary debate. The debate itself did not substantially alleviate this indignation. Blame was freely distributed among a wide number of recipients, among which "the generals' and "our leadership' were certainly the commonest. Even when the survey shifted to questions of equipment and production, the emphasis was on the supposed failure of the 'authorities" to plan the right types of weapons. I stress this growing tendency to blame leaders or authorities for anything that goes wrong, for it is serious in its implications. The dissatisfaction is certainly not centred on particular individuals but seems to be directed at the whole range of Government or authority.</note>
+				<note xml:id="q-9a5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">2. A widespread rumour of recent weeks is to the effect that the fall of Tobruk was due to "fifth column" work on the part of the South Africans or their commanding officer. An authoritative account of the fall of Tobruk is badly needed.</note>
+				<note xml:id="q-9b5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">3. Naturally these events aroused a great deal of public dissatisfaction with the way that the news had been presented to them. I allow for the fact that criticism of news presentation invariably attends bad news; but the matter is too important for me to leave there. A careful review of the whole output of news over the period establishes that the official communiques from the field arc not to be blamed for misleading optimism. The general public, however, does not distinguish carefully between the various sources of news, and it regards as in some way official the great bulk of what it reads in the papers or hears on the air as coming from the theatre of war. Some of its criticisms are justified. In the result the distrust of "official' news has received further impetus. War correspondents on the spot are a necessary feature of a campaign fought by a democracy, but a war correspondent who gets bad official guidance does more harm than good. 'On the other hand a war correspondent without official guidance at all is only half as useful as he might be. I note the present dissatisfaction since it is a not unimportant element affecting the relations between Government and public in the country.</note>
+				<note xml:id="q-9c5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">4. The Anglo-Russian communique referring to the Second Front in Europe in 1942 seems to have been generally understood as containing a formal obligation on our side to open one. Nevertheless it is not a subject which has aroused a vivid interest yet, nor can it be said that there has been any noticeable public clamour for action. It seems to have fallen back for the time being to the place it occupied in the public mind before the joint declaration; it is treated as something desirable and inevitable but to be achieved only at the time and in the manner sanctioned by those with expert knowledge. The Libyan reverses and the Parliamentary debate contributed to a further damping down of enthusiasm for a second front; but whether this has been offset by the impact of recent events in Russia it is as yet too early to say.</note>
+				<note xml:id="q-9d5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">5. The Government's campaign for voluntary fuel economy is now under way and there is a widespread interest in the avoidance of waste, at any rate on the part of others. Fuel rationing itself does not seem to be regarded as a menace to be avoided by large numbers of domestic consumers, and there is no doubt that, if the voluntary appeal is to succeed in affecting the savings hoped for, a major and long-sustained effort is called for from the Government.</note>
+				<note xml:id="q-9e5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">6. The last matter of current public feeling to which I feel that I ought to draw attention is the difficulty over the provision of holiday travel. From many parts of the country complaints have come that, whereas the Government is appealing to the public to take holidays at home, facilities are still being made available for holiday travel to pleasure resorts at no great distance. I am not seeking to suggest any view as to whether there is substance or no substance in these complaints but they are certainly taken as evidence of a process which never fails to irritate the public; appeals from the Government for a course of action on the one hand and, on the other, maintenance of conditions that tend to defeat the purposes of the appeal.</note>
+				<note xml:id="q-9f5888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">17th July, 1942</note>
+				<note xml:id="q-a05888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">B.B.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

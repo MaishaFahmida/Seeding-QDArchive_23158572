@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: 64th (Northumbrian) H.A.A. Regiment, R.A. (T.A) Quarterly Morale Report</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-1a049879-dc6d-4d1d-951c-cf6f179b9220</idno>
+				<idno type="qudexdocument">q-17909cb7-fbb6-43ae-82e3-c8dbc73a5d7f</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-28527fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject: MORALE REPORTS.</note>
+				<note xml:id="q-29527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">H.Q., L.F.A.</note>
+				<note xml:id="q-2a527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">CONFIDENTIAL</note>
+				<note xml:id="q-2b527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">1. Reference your LFA/44/A. dated 15 Feb 45.</note>
+				<note xml:id="q-2c527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">2. Herewith Morale Report called for.</note>
+				<note xml:id="q-2d527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">In the Field.</note>
+				<note xml:id="q-2e527fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="7">26 Feb 45.</note>
+				<note xml:id="q-2f527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">JRB/SP.</note>
+				<note xml:id="q-30527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">(John R. BLAGDEN) Liet-Colonel, R.A.</note>
+				<note xml:id="q-31527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Commanding, 64th H.A.A. Regiment, R.A.</note>
+				<note xml:id="q-32527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">64th (Northumbrian) H.A.A. Regiment</note>
+				<note xml:id="q-33527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">R. A. (T.A) QUARTERLY MORALE REPORT.</note>
+				<note xml:id="q-34527fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="13">Sec. I. MORALE IN GENERAL</note>
+				<note xml:id="q-35527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Morale during the last quarter has been very high indeed. Special factors which have contributed to this are the active and extremely interesting Operations in which the Unit has been recently engaged, and the War Situation generally. Most men feel that this time cannot now long be delayed before the War comes to an end.</note>
+				<note xml:id="q-36527fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="15">Sec. II. FACTORS AFFECTING MORALE. hhh 1. Discipline:</note>
+				<note xml:id="q-37527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Discipline has been excellent throughout the period. Since August last there have been only two Orderly Room cases in the Regt - one case of drunkenness and one case of traffic rule infringement. hhh 2. Confidence:</note>
+				<note xml:id="q-38527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(a) In Army Leaders, and the War. Tps have every confidence in their cause, and in the ability of the Army Leaders to bring the War to a successful conclusion.</note>
+				<note xml:id="q-39527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">(b) In Arms and Eqpt: There is every confidence in arms and eqpt - with the possible exception of Fuze 199 when used in the ground role! This fuze is, of course, not meant to be a graze fuze, and it is felt that it is high time a substitute fuze, such as Fuze 223, is supplied in sufficient quantity to all HAA Regts.</note>
+				<note xml:id="q-3a527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">(c) In Efficiency: Tps have every confidence in the efficiency of their own Unit, and in that of the Army as a whole. hhh 3. Mail:</note>
+				<note xml:id="q-3b527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Mail to the Regt whilst deployed on VIS was not always very satisfactory. Even admitting the difficult conditions of tpt and communication, as mail is one of the principal factors affecting the morale of a Unit, it seems that it is not assessed at a higher priority in general Army policy. One has heard of supplies being dropped by parachute to tps in isolated places, but it is not often that mail is treated in the same way, yet there were occasions when this could have been done on VIS although weather conditions prevented the landing of aircraft. There were also a number of occasions when shipping and aircraft arrived at VIS without any mail on board, although it was known from the long mail-less period which had elapsed that there must have been a very considerable accumulation on the Mainland of ITALY.</note>
+				<note xml:id="q-3c527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Some complaints have been received that mail sent home is frequently opened by the Base Censor and that mail in such cases sometimes takes upwards of a fortnight to arrive home. hhh 4. Welfare and Entertainment;</note>
+				<note xml:id="q-3d527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">(a) Living Conditions. Living conditions have been somewhat "hard" over, part of the Quarter owing to operational requirements, but have always been adequate and are now very satisfactory.</note>
+				<note xml:id="q-3e527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">(b) Recreations and Amusements. As the cinema is extremely popular, it is felt that there are still too few Cinema Sections for small units. Apart from this general point, the Unit has been well served in the matter of wel­fare and entertainments wherever it has been, and I think a special word of gratitude is due to 20 Beach Gb and No.1 Fwd Base for the excellent organisation of games, sports, and recreational amenities generally on VIS.</note>
+				<note xml:id="q-3f527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">(c) General. There are two points of criticism:</note>
+				<note xml:id="q-40527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">(i) Welfare goods continue to be in very short supply, and are often of indifferent quality.</note>
+				<note xml:id="q-41527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">(ii) It seems unfortunate that recreational tpt is now again to be restricted, and in particular, paid for. hhh 5. Education and ABCA.</note>
+				<note xml:id="q-42527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">These have always proved popular, and arc now increasingly so. All men take a very great interest in Post-War Schemes and Problems. hhh 6. Relations between Offrs and Men.</note>
+				<note xml:id="q-43527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Excellent. hhh 7. Relations with other services.</note>
+				<note xml:id="q-44527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">The Unit has had a lot to do with R.N. personnel serving on small craft, and also with RAF Sta personnel on VIS, and relations have always been very good, and men have shown keen interest in the work of other services. hhh 8. Relations with Allies.</note>
+				<note xml:id="q-45527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(a) Americans: The Unit has had few relations with Americans during the last Quarter, but such relations have always been most cordial.</note>
+				<note xml:id="q-46527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">(b) Jugoslavs: Relations between our own tps and those of the JNAL have always been excellent, even at times when relationships on the higher levels have been somewhat strained. The Unit left VIS very firm friends with the XIII (ex-Bosnia) Bde, JNAL, whom they entertained on sites a few days before their departure. hhh 9. Home Affairs, Post War, and Release.</note>
+				<note xml:id="q-47527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(i) Home Affairs: Hone affairs are just beginning to cause some anxiety. There have been a number of cases of infidelity among wives causing great unhappiness to the personnel concerned. So far every single applicant for Reversion to the U. K. submitted by this Regt on such grounds has been refused. The result undoubtedly in a number of cases is the break-up of a family which might possibly have been averted. There seems to be a strong case for revision of the low priority given to applications of this type for reversion to the U.K. For a man who is faced with this problem, it is just as great a tragedy to lose his wife and children as it would be to lose the War.</note>
+				<note xml:id="q-48527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">(ii) Post-War and Release: Post-War questions are discussed with great interest by the men, who feel that real efforts are being made to overcome and provide for the numerous difficulties which will be encountered. The Release Plan is naturally con­troversially received, but on the whole there is general approval among the men. hhh 10. Finance.</note>
+				<note xml:id="q-49527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">The present rates of pay are very satisfactory. It is too early yet to say what the general feeling is about the gratuity proposals. Savings Schemes are in operation in all. Batteries, and one Bty's scheme in particular is proving particularly successful. Many men make use of A. F. 0.1727, and comparatively large sums are being sent home. Very few cases of financial hardship at home have been reported, and the Regt maintains a Trust Fund administered by a Soli­citor (a former Bty Comd in the Regt) to whom dependents of personnel of the Unit can make application if in need. hhh 11. Miscellaneous.</note>
+				<note xml:id="q-4a527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">(a) Overseas Service. The Unit has now served not quite two years Overseas. This must still be less than the average in the theatre, and no one therefore has any complaints. It is, however, generally felt that four and a half years is far too long for the PYTHON Scheme.</note>
+				<note xml:id="q-4b527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">(b) Leave. Leave has been satisfactory, and the Unit is "up-to-date", with the exception of one Tp who were deployed operationally over the Christmas period in JUGOSLAVIA and who are now being given special opportunity to catch up. It is felt that the facilities for visiting such cultural centres as ROME are still too limited: with due respect to the Township of BARI, few men are really interested in spending a week in this neighbourhood.</note>
+				<note xml:id="q-4c527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">(c) Population. Satisfactory.</note>
+				<note xml:id="q-4d527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">CONCLUSION.</note>
+				<note xml:id="q-4e527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">The morale and temper of the Unit have never been as high as they are now.</note>
+				<note xml:id="q-4f527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">The one burning problem is, however, the question of domestic troubles. Up till six months ago, these were very few indeed; now they are showing signs of alarming increase. Unfortunately it seems there is nothing one can do except write letters and be sympathetic- and sympathy has not so far shown itself as a very helpful commodity. I am most smugly of the opinion that a complete change in policy is essential in dealing with cases put forward for Compassionate Posting to the U. K. on the grounds of domestic infidelity.</note>
+				<note xml:id="q-50527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">I feel that if we were to summarise the Cause for which we fight other than by use of popular expressions such as "Democracy", "Liberty", etc. we would say that we were fighting for our families, for our right to have families, and for the privilege to bring up our families so that they are strong, healthy, and happy in a spiritual sense.</note>
+				<note xml:id="q-51527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">It is not too much to say that the Sanctity of the Family Life is the foundation of our Civilisation, and I urge in the strongest possible terms that this question of the solution of domestic problems be given the very highest priority.</note>
+				<note xml:id="q-52527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">(John R. BLAGDEN) Lieut. Colonel, R.A.</note>
+				<note xml:id="q-53527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">Commanding, 64th H.A.A. Regiment, R.A.</note>
+				<note xml:id="q-54527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">In the Field.</note>
+				<note xml:id="q-55527fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="46">25 Feb 45.</note>
+				<note xml:id="q-56527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">JRB/SP.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 79</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-2306186d-8439-4aef-8ead-92b7905e329b</idno>
+        <idno type="qudexdocument">q-fb586008-7c78-4612-aa5b-a48072e78e30</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-0e7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-0f7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back on
+				my life I see nothing particularly exciting or eventful in the past.</u>
+      <u xml:id="q-107f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I left school at
+				eighteen with, I thought adequate qualifications that would net me a ‘satisfactory’
+				job. However all the jobs I did have, <sic>inevitable</sic><corr>inevitably</corr> involved clerical work of one
+				description or another, which meant, though boredom mainly, that I didn’t hold them
+				down long. Perhaps eventually it was my fault that I got landed with those sorts of
+				jobs, after all I did decide to work at school, which when I look back now was
+				fortunate, for a manual job would have horrible, compared to a typically clerical
+				job, and those were at least tolerable.</u>
+      <u xml:id="q-117f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Money was whole
+				point of this ‘the Rat Race’ which started at school and hasn’t yet finished. The
+				whole idea you see, was that by working at school and gaining qualifications, you
+				didn’t have to work so much when it came to a job, be nice if things were like
+				that.</u>
+      <u xml:id="q-127f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">As for as making
+				money is concerned I was surprised <sic>acidemic</sic><corr>academic</corr> qualifications were in many cases. 1 an
+				old friend of mine when I met in my second job made his fortune by being a <sic>burgaler</sic><corr>burglar</corr>.
+				Obviously in that occupation, academic qualifications were <sic>unnessecarary</sic><corr>unnecessary</corr> which was
+				just as well for him since he had none. In the process of his criminal activities he
+				made use of a network of friends all of whom he could trust, and that’s why he never
+				caught.</u>
+      <u xml:id="q-137f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">One particular
+				thing I’ve learnt is that money is important, no matter what people say. True, just
+				because you have a lot of money doesn’t mean to say you’ll be happy, but it helps.
+				Money provides power, a useful thing to have.</u>
+      <u xml:id="q-147f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">If you ever have
+				to <sic>chose</sic><corr>choose</corr> between a friend say, and the state, when it comes to a clash of loyalties
+				always <sic>chose</sic><corr>choose</corr> the friend, because to the state, be you servant, informer or what and
+				how {irrelevant?} ever, you are still a statistic, a mark on a piece of paper to be
+				stored, accounted for and classified to a friend you are a person.</u>
+      <u xml:id="q-157f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">As for advice
+				what you do, do your self and don’t accept anything the government says, unless it
+				matches your opinion.</u>
+    </body>
+  </text>
+</TEI>

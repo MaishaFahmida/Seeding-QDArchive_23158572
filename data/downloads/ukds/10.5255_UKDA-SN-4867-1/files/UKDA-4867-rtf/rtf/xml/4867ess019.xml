@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 20</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-404aadbb-f35e-485f-8654-79b2e0bebe21</idno>
+        <idno type="qudexdocument">q-471aeb96-25c1-4132-8d04-6f86dee41c01</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-be7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-bf7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Although in some
+				places my life has been poor, the majority has been rather good to me.</u>
+      <u xml:id="q-c07d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Upon leaving
+				school in 1978 I obtained, much to my surprise, five ‘o’ level passes and with these
+				I managed to get an apprenticeship which gave me a good start in the world. Although
+				the pay was extremely low, I was getting the training that I required.</u>
+      <u xml:id="q-c17d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">When I was
+				seventeen, I <sic>bout</sic><corr>bought</corr> a car and my social life lifted somewhat and I enjoyed my self.
+				My apprenticeship was totally neglected until I met a girl who was understanding and
+				calmed me down and made me take interest again.</u>
+      <u xml:id="q-c27d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">By the age of 20
+				I had married and lived in a flat, which we <sic>barly</sic><corr>barely</corr> could afford, and at 21 my
+				apprenticeship was complete.</u>
+      <u xml:id="q-c37d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">The firm which
+				had trained me now offered me a job with them in tool-making, I <sic>decsided</sic><corr>decided</corr> that I
+				didn’t want this, having been there five years, and left.</u>
+      <u xml:id="q-c47d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Being skilled in
+				my work, I thought I could get a job any where, but I was rong and I was out of work
+				for about five <sic>mounths</sic><corr>months</corr><sic>befor</sic><corr>before</corr> I was offered a job with a small company which was
+				going places.</u>
+      <u xml:id="q-c57d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">The pay was the
+				best I had had and we got ourselves a new house. By this time I was the proud father
+				of a little girl, I wanted a boy- less trouble.</u>
+      <u xml:id="q-c67d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">With the pay I
+				was getting I got a nice large family car, which at the time was the pride of my
+				life. I also wanted more children to fill it but my wife rejected the idea, my
+				<sic>dauter</sic><corr>daughter</corr> was a difficult bird and she did not want to go through with it again.</u>
+      <u xml:id="q-c77d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">After about a
+				year we finally had a son, it was at this time we decided to move to Germany where
+				my work was expanding and I was given a promotion to manager of that part of the
+				company.</u>
+      <u xml:id="q-c87d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">I gave my new
+				family the best education I could afford and my wife was content in her new
+				surroundings. When working late one night with my secretary we got talking and when
+				we had finished we went out for a drink, or two. This was the <sic>evill</sic><corr>evil</corr> beginning of an
+				affair which some how my wife discovered.</u>
+      <u xml:id="q-c97d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">By the age of 30
+				my marriage was on the verge of destruction, but being what I was I was able to make
+				things up and it turned out to be stronger than it ever had been <sic>befor</sic><corr>before</corr>.</u>
+    </body>
+  </text>
+</TEI>

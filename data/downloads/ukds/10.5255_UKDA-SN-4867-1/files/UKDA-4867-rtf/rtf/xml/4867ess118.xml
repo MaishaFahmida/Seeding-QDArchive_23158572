@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 119</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-81f86132-2e19-4975-a44d-e4a8dc6d5dd2</idno>
+        <idno type="qudexdocument">q-c06f158c-40be-43c6-89a3-f86aa916bb77</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-53805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Looking Back</note>
+      <u xml:id="q-54805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">God it seems so
+				long ago when I left school. Actually it was May 26th 1978. The following day I
+				signed on the dole.</u>
+      <u xml:id="q-55805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I was waiting to
+				join up but of course I couldn’t do that until I was 17 ½ years old. I went for
+				interview after interview each one I was turned down, how I wish I had stayed on and
+				pressed for o’levels. But of course <sic>its</sic><corr>it's </corr> too late to start wishing now.</u>
+      <u xml:id="q-56805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Well I was <sic>buming</sic><corr>booming</corr>
+				of the government for a year and a half. And then after all that I was turned down
+				for not being good enough at Maths. This is the time I started to ask. What is life
+				for? Then after I had answered I started concentrating on getting a job.</u>
+      <u xml:id="q-57805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I ended up in a
+				local factory sewing seams together, then I fell in love, god when he walked in the
+				door, I knew he had to be mine. We were married six months later cos I was in the
+				club. I lost the baby and we were divorced 1 year later. He married again and now
+				had 6 kids (4 grandchild).</u>
+      <u xml:id="q-58805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I never
+				remarried. I worked in shop, after shop, factory after factory. Then I decided to go
+				away for a few weeks I had some cash in the bank and ended up in Portsmouth, staying
+				in 1 star hotel. The manager was a nice, single, man as I got to know him I found
+				his name was <sic>alan</sic><corr>Alan</corr> Murray, we got serious and we married 2 years later. Then someone
+				came up the road and opened a hotel that left us bankrupt and unhappy. We had 3
+				kids, Dave, Derek, Suzi.</u>
+      <u xml:id="q-59805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">We moved into a
+				small flat in Battersea and lived <sic>buming</sic><corr>booming</corr> of the dole, social security. I got a job
+				cleaning a block of offices that paid £32.50 per two weeks.</u>
+      <u xml:id="q-5a805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Then one day I
+				came home a bird of 18 in bed with Alan I did some screaming and shouting and she
+				left and so did alan with his clothes.</u>
+      <u xml:id="q-5b805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">We were divorced
+				two years later. Later I heard he was killed in a car crash. I didnt even bother to
+				mourn.</u>
+      <u xml:id="q-5c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Dave came home
+				saying he was getting married. We married and moved to Newcastle.</u>
+      <u xml:id="q-5d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">Derek was next
+				to marry and moved to New <sic>Zealnad</sic><corr>Zealand</corr>.</u>
+      <u xml:id="q-5e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">Suzi stayed at
+				home to look after her mum and soon became so attached to me that she didnt go out
+				anywhere.</u>
+      <u xml:id="q-5f805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">The years flew
+				past and at 60 I had a heart attack and was left bedridden. Suzi carried on looking
+				after me but was so ill she died.</u>
+      <u xml:id="q-60805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">I came here to
+				the Old Folks Home where my 5 grandchildren visit me every other month.</u>
+      <u xml:id="q-61805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">Still there will
+				come a day when they will have no one to visit.</u>
+    </body>
+  </text>
+</TEI>

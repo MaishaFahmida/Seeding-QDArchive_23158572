@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 88(a)</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-8fe48dab-7278-4fb8-9960-453b91ca90f8</idno>
+        <idno type="qudexdocument">q-95bac680-76e0-4316-8207-302240872547</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-4c7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-4d7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				15 more than 45 years ago. After having a few jobs for experience I started training
+				with a vet to become an animal nurse.</u>
+      <u xml:id="q-4e7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I was happy as an
+				animal nurse and was one for a year before I married my husband.</u>
+      <u xml:id="q-4f7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After we married
+				we brought a small flat in Cornwall and started saving hard for a cottage.</u>
+      <u xml:id="q-507f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">My husband was in
+				the army and so I didn’t see much of him, and lived alone in the flat. As I was
+				alone so much I started taking some animal (that were unwanted) home and soon it was
+				like a farm. After three years in the army (one year was spent in <sic>their</sic><corr>there</corr> before he
+				knew me).</u>
+      <u xml:id="q-517f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">My husband came
+				out and we brought the cottage we had been saving for.</u>
+      <u xml:id="q-527f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I left work soon
+				after that as I became pregnant, and my husband was earning a good wage.</u>
+      <u xml:id="q-537f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I had a baby boy,
+				then a girl then another boy. After they started school. I worked again at a home
+				for stray cats and dogs.</u>
+      <u xml:id="q-547f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">I stayed <sic>their</sic><corr>there</corr>
+				for ten years then the owners decided to move abroad so we <sic>brought</sic><corr>bought</corr> it off of
+				them.</u>
+      <u xml:id="q-557f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Now at the age of
+				60 my husband and I have made our youngest son who has helped out for years manager
+				he is in charge of it all, while my husband and I start relaxing a bit.</u>
+    </body>
+  </text>
+</TEI>

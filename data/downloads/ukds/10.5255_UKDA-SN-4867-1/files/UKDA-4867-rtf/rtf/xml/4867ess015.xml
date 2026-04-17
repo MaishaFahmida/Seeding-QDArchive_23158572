@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 16</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-f6c9959e-5a6b-461f-9cc6-25bc3e16d9f6</idno>
+        <idno type="qudexdocument">q-5f4ea817-81b0-4e10-8603-4de969fd46fa</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-997d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Looking Back</note>
+      <u xml:id="q-9a7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">You know I was
+				never very clever at school. Being that, people took the micky but I took <sic>know</sic><corr>no</corr>
+				notice of them. people, when we did a test <sic>laughft</sic><corr>laughed</corr> at me when I got near bottom
+				marks.</u>
+      <u xml:id="q-9b7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I remember like
+				it was yesterday, I went for an interview 3 <sic>mounth</sic><corr>month</corr> or, there <sic>about’s</sic><corr>about</corr> before I was
+				due to leave school This was for the merchant Navy but failed the entry test. it was
+				<sic>quit</sic><corr>quite</corr> a blow for me I felt rejected yet again.</u>
+      <u xml:id="q-9c7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">My dada <sic>recond</sic><corr>reckoned</corr>
+				that he could get me a job at blueits but there were no vacancies as yet.</u>
+      <u xml:id="q-9d7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I left school and
+				on to the dole with thousands of other people.</u>
+      <u xml:id="q-9e7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I <sic>didnt</sic><corr>didn't</corr> want to
+				but in our small town of <sic>Queenbough</sic><corr>Queenborough</corr> more of a village really people talk about me
+				and how I was on the dole they thought it was <sic>discraceful</sic><corr>disgraceful</corr> but what else could a
+				<sic>reaject</sic><corr>reject</corr> do as a result I spent a lot of time on the key side at sheerness watching
+				the <sic>trot</sic><corr>trout</corr> boat leave every hour to travel out to a large lash ship to see if there is
+				anything needed like beer or a sick person needing to be taken ashore the people all
+				knew me, and they I was on the dole but they didn’t mock me one morning one of the
+				men Joe said there was a <sic>vancancie</sic><corr>vacancy</corr> for this job and he would put in a good word for
+				me</u>
+      <u xml:id="q-9f7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I got the job not
+				a bad wage and I was happy at my work at 25 I had almost became a <sic>permenet</sic><corr>permanent</corr> fixture
+				<sic>sometime’s</sic><corr>sometimes</corr> I slept there.</u>
+      <u xml:id="q-a07d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I did trip after
+				trip after trip I brought back the sick people <sic>abroard</sic><corr>aboard</corr> the people who <sic>befor</sic><corr>before</corr><sic>laught</sic><corr>laughed</corr>
+				at me at the age of 35 I had moved in to the boat and was known as old Killer the
+				boat man I rescued people who <sic>almast</sic><corr>almost</corr> drowned and <sic>erned</sic><corr>earned</corr> quite a respect from other
+				people I put a bit by each week for my <sic>retiar mean’t</sic><corr>retirement</corr> and a boat of my own to live
+				on.</u>
+      <u xml:id="q-a17d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">I never got
+				married although with one girl I was <sic>prity</sic><corr>pretty</corr> serious but she died in an accident just
+				my luck in fact it was typical of my luck,</u>
+      <u xml:id="q-a27d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">2 years ago I
+				<sic>retiard</sic><corr>retired</corr> the firm instead of a gold watch gave me the old boat they said they were
+				getting a new one now <sic>hear</sic><corr>here</corr> in the <sic>thames</sic><corr>Thames</corr> I spend my time and from time to time am
+				asked to do trip’s in my boat to the lash when other people were ill. I am respected
+				by all. if the people who mocked me all those years ago could see me now My mother
+				and father died long ago I was <sic>sett</sic><corr>sent</corr> back <sic>along</sic><corr>a long</corr> way when they died I buried them at
+				sea with all the trimmings I was 41 then and Now <sic>Im</sic><corr>I'm</corr> 68 a <sic>gabbering</sic><corr>gibbering</corr> old man who is a
+				respected old pest.</u>
+    </body>
+  </text>
+</TEI>

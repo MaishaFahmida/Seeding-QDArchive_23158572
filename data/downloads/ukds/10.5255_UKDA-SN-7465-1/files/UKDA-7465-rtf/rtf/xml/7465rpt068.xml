@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Home Intelligence Weekly Report</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-585b8814-3d53-4156-a5ea-37acae3f546b</idno>
+				<idno type="qudexdocument">q-56759b85-d606-464c-b056-a031574ae62d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-025f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">SECRET Copy No. 234</note>
+				<note xml:id="q-035f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">MINISTRY OF INFORMATION</note>
+				<note xml:id="q-045f88b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="3">HOME INTELLIGENCE WEEKLY REPORT</note>
+				<note xml:id="q-055f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">The aim of this Report is to present an impartial assessment of public feeling about the war and the war effort. It is not a record of fact, except in so far as public opinion is itself a fact. The public is sometimes ill-informed, prejudiced, or inconsistent. The recording of such feelings without comment implies no endorsement of them.</note>
+				<note xml:id="q-065f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">The public is more prone to criticize than to praise. Good work or efficiency is usually taken for granted. An accurate record of expressed feeling will, therefore tend to be critical rather than laudatory.</note>
+				<note xml:id="q-075f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">The method of compiling the Report is such that the amount of space devoted to each subject, and the order in which subjects are placed, are roughly indicative of the amount of public interest each is arousing. The omission of a subject from the Report means that it is not a matter of widespread comment.</note>
+				<note xml:id="q-085f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">In assessing the state of public feeling there are no absolutes. Findings can only be comparative. Each issue of this Report must therefore be read as part of a continuous series. Unless the series is seen as a whole, the -significance of fluctuations in feeling cannot be appreciated.</note>
+				<note xml:id="q-095f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">The figures in brackets at the end of each section refer to sources of information, a list of which is given on the next page. The weekly reports from Regional Information Officers (R.I.O.) are compiled by the Regional Intelligence Officers from a large number of sources. Details of the methods of compilation and cross-checking are contained in a paper on "How the Home Intelligence Weekly Report is made". This will be supplied on request to the Home Intelligence Division of the Ministry of Information.</note>
+				<note xml:id="q-0a5f88b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="9">REFERENCES</note>
+				<note xml:id="q-0b5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">1. Northern Region (Newcastle)</note>
+				<note xml:id="q-0c5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">2. North Eastern Region (Leeds)</note>
+				<note xml:id="q-0d5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">3. North Midland Region (Nottingham)</note>
+				<note xml:id="q-0e5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">4. Eastern Region (Cambridge)</note>
+				<note xml:id="q-0f5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">5. London Region (London)</note>
+				<note xml:id="q-105f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">6. Southern Region (Reading)</note>
+				<note xml:id="q-115f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">7. South Western Region (Bristol)</note>
+				<note xml:id="q-125f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">8. Wales (Cardiff)</note>
+				<note xml:id="q-135f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">9. Midland (Birmingham)</note>
+				<note xml:id="q-145f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">10. North Western Region (Manchester)</note>
+				<note xml:id="q-155f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">11. Scotland (Edinburgh)</note>
+				<note xml:id="q-165f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">12. South Eastern Region (Tunbridge Wells)</note>
+				<note xml:id="q-175f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">13. Northern Ireland (Belfast)</note>
+				<note xml:id="q-185f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">14. Special Reports from R .O.s</note>
+				<note xml:id="q-195f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">15. Regions Adviser's Reports</note>
+				<note xml:id="q-1a5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">16. M.O.I . Speakers' Reports</note>
+				<note xml:id="q-1b5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">17. Local Information Committees! Reports</note>
+				<note xml:id="q-1c5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">18. Home Press Summaries</note>
+				<note xml:id="q-1d5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">19. Regional Press Summaries</note>
+				<note xml:id="q-1e5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">20. Hansard</note>
+				<note xml:id="q-1f5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">21. Postal Censorship</note>
+				<note xml:id="q-205f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">22. Police Duty Room Reports</note>
+				<note xml:id="q-215f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">23. Wartime Social Survey Reports</note>
+				<note xml:id="q-225f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">24. B.B.C. Listener Research Papers</note>
+				<note xml:id="q-235f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">25. B.B.C. Special Papers</note>
+				<note xml:id="q-245f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">26. Citizens' Advice Bureaux Reports</note>
+				<note xml:id="q-255f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">27. W.V.S. Reports</note>
+				<note xml:id="q-265f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">28. Scottish Unionist Whips' Reports</note>
+				<note xml:id="q-275f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">29. Liberal Party's Reports</note>
+				<note xml:id="q-285f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">30. Economic Leaguers Reports</note>
+				<note xml:id="q-295f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">31. War Office Post Bag Summaries</note>
+				<note xml:id="q-2a5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">32. Primary Sources</note>
+				<note xml:id="q-2b5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">1-13: Weekly Reports from R.I.O.s</note>
+				<note xml:id="q-2c5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">270</note>
+				<note xml:id="q-2d5f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">D78199- 1 5000 D/d 4570 9/42. PRP</note>
+			</div>
+		</body>
+	</text>
+</TEI>

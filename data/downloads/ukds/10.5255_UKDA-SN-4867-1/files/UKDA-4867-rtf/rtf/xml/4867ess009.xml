@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 9</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-517438cd-df64-4a4f-b1bc-687bbc21a6ca</idno>
+        <idno type="qudexdocument">q-62904c82-4a96-45c5-9984-cfaa51d8072b</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-7b7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past Life</note>
+      <u xml:id="q-7c7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I was just
+				eighteen when I finally left school and to me that was like being released from
+				prison for although I like school I just didn’t like all the work. Now I have only
+				two months before I get my ‘A’ level results but I am pretty confident in two of
+				them at least.</u>
+      <u xml:id="q-7d7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I remember those
+				two months went very quickly and I also <sic>rember</sic><corr>remember</corr> my great happiness and sense of
+				achievement when I discovered I had pasted all three ‘A’ levels. To celebrate I
+				<sic>rember</sic><corr>remember</corr> I got drunk but I seem to only recall the hangover in the morning.</u>
+      <u xml:id="q-7e7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Then with a
+				certain pride I went for my R.A.F. interview and exam and got in with little
+				difficult even though it was harder than I expected. I soon found that the R.A.F. to
+				be what I expected and I led an enjoyable and fulfilled time training as an
+				Electronic <sic>enginneer</sic><corr>engineer</corr> and also study for another A level, this time in <sic>chemestry</sic><corr>chemistry</corr>.</u>
+      <u xml:id="q-7f7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I had about six
+				months left in the R.A.F. when I met Julie and I thought I had found the girl of my
+				Dreams but I was to be proved wrong later on. With the final exam over and my new
+				found skill I went for an interview with Masonic Electronics LTD one of the biggest
+				electronic companies around at that time. At the interview I was very nervous but
+				who isn’t but I got over this once the interview was underway. But it seemed the
+				interviewer had a prejudice against R.A.F. trainees and he seemed to give me the
+				hardest questions he could find and I found myself fighting a losing battle. As I
+				realised I didn’t get the job but I wasn’t worried another would turn up. It did and
+				this time I got the job.</u>
+      <u xml:id="q-807d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">My new employers
+				were Grundig and I found the job satisfying and the pay was good. I had been
+				knocking around with Julie and I thought I loved her so I popped the question we
+				were married in June 1988 and I was 25. At first all things went well but gradually
+				we began to drift apart until we were arguing every other minute and the littlest
+				thing could set us of.</u>
+      <u xml:id="q-817d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">It was inevitable
+				that we would get divorced and sued her on the grounds of <sic>Adultary</sic><corr>adultery</corr> with 6 who I
+				thought to be hilarious at the time. Of all the people she had an affair with the
+				milkman.</u>
+      <u xml:id="q-827d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Mind you I was
+				{angel?} at the age of thirty-six I had become one of the {randiest?!} managers
+				going. I was on my sixth <sic>secartary</sic><corr>secretary</corr> when I found it to be more than just elongated
+				one night stand and she became my second wife. We had our honeymoon in Greece and a
+				couple of months later, well actually nine, we had our first child, a girl and what
+				a beauty she looked. Two years later we had twins and because my wife was getting on
+				we decided to have no more. My eldest grew up into a lovely beauty and now at the
+				age of nineteen she has a figure I would have whistled when I was younger. My two
+				boys grew up into fine lads but for some reason I never got in with the younger of
+				the two and he left home very home early and has a criminal record and at the moment
+				he is in a detention centre serving time. The elder one Marc is a fine lad and has
+				been offered a place at the Kent under 21’s cricket team and also he has been
+				{offered} a place at Tottenham but I do not which he shall take if any.</u>
+      <u xml:id="q-837d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Me I have had a
+				full life and and as I sit here and write this I feel contented and <sic>fullfilled</sic><corr>fulfilled</corr>.</u>
+    </body>
+  </text>
+</TEI>

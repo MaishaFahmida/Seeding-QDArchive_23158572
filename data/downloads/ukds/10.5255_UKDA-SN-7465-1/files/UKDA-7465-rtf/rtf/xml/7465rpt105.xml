@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, 17 July 44</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-0162c224-9194-4f75-b63f-c0024959d9af</idno>
+				<idno type="qudexdocument">q-18f90331-1b5c-4eac-b396-ac8ee771faea</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-34517fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject:- Morale Report.</note>
+				<note xml:id="q-35517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">CONFIDENTIAL.</note>
+				<note xml:id="q-36517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">A/RSR/A/59</note>
+				<note xml:id="q-37517fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Headquarters</note>
+				<note xml:id="q-38517fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">The Raiding Support Regiment</note>
+				<note xml:id="q-39517fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">C. M. F.</note>
+				<note xml:id="q-3a517fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="7">17 July 44.</note>
+				<note xml:id="q-3b517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">HQ Land Forces Adriatic CMF.</note>
+				<note xml:id="q-3c517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Reference your LFA/43/A of 15 July 44, Morale Report is as follows: hhh 1. Offences against the Army Act.</note>
+				<note xml:id="q-3d517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">a) Absence. These are very few indeed and only amount to a matter of hours at a time, seldom more.</note>
+				<note xml:id="q-3e517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">b) Other Offences: 2 Court Martials only since the Unit arrived in CMF. on 22 Apr.</note>
+				<note xml:id="q-3f517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">(1) An Officer who was found Not Guilty on a charge of improperly entering a dwelling house and allowing Other Ranks to remove therefrom certain articles. v(2) A Pte Soldier for Absence, Breaking barracks while under Close Arrest, Striking an NCO etc, in all 10 Charges, all as a result of a Drunk on local VINO.</note>
+				<note xml:id="q-40517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">c) Minor Offences, very few indeed. C.O's Orders does not average more than one or two a day and usually these are CMP charges of a very minor nature. hhh 2. Confidence.</note>
+				<note xml:id="q-41517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(a) If anything troops are too confident. They all think that the War will be over this Autumn and they will all go home. They have tremendous faith in the RUSSIANS and think that as the RUSSIANS will probably reach GERMAN soil first of the Allies, that the GERMANS will then pack in.</note>
+				<note xml:id="q-42517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">(b) (1) On the whole very good. Slight tendency to imagine that everything AMERICAN must be better than our own equipment, but they have not a very wide experience. (2)ORs have not very much confidence in the Sten Gun, with which they are all armed, owing to its short life; but as it is only carried as a personal weapon (defensive), for use in a tight corner in which support troops should not normally find themselves no notice need be taken on that account. (3)SOUTH AFRICAN barrels to 3" Mortar are known to be bad and we have already buckled two but ENGLISH barrels have so far been non-available. We cannot fire the increased charge with our Mortars thereby losing the valuable additional range which in our role is badly needed. (4)The apparent difficulty in obtaining weapons and equipment for both training and operations causes much despondency in the Regiment and has done so since its first formation in Oct'43. hhh 3. Contentment</note>
+				<note xml:id="q-43517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">General.</note>
+				<note xml:id="q-44517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(a) Interest in Training and Operations. The type of Training carried out by this Unit is varied and interesting and by reason of its novelty all ranks have been keenly interested during their training period, but having become trained soldiers it is essential to give them operations to keep their interests up. Those that have been on Ops are thoroughly interested and happy. One case of a man, who, having been on 4 raids in 3 weeks asked to be RTU as there was not enough excitement for him.</note>
+				<note xml:id="q-45517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">All Ranks of this Unit are volunteers and were told they had only a short time to learn their job and get into action as the unit was given a very early target date. Many of these men have not yet seen action and have been training for 8 ½ months. This especially applies to the volunteers from A.A. who have been sitting on Gun Sites all the war and joined us to get some action, and most of them being in the Hy MG/LAA Bty have found themselves in a static role on No. 1 Fwd Base. The Morale of these men after 5 months on the Island is now very nearly rock bottom in spite of every effort to keep their morale up. They must have operations or be relieved.</note>
+				<note xml:id="q-46517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">(b) Living Conditions.</note>
+				<note xml:id="q-47517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">(i) Quarters. On the mainland and on No. 1 Fwd Base the men are content. Water was the original difficulty but this has been overcome by getting a special tank fitted in a 3 Tonner and using it as a water Bowser which itself was unobtainable.</note>
+				<note xml:id="q-48517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">(ii) Messing. Very good indeed. Hardly ever a complaint and then usually due to some error such as, burnt sauce etc.</note>
+				<note xml:id="q-49517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">(iii) NAAFI No NAAFI Service available. Regiment runs its own Canteen on the mainland and buys and re-sells NAAFI stocks on No.1 Fwd Base. Since opening the canteen, Drunks and disorders have been reduced to a negligible amount and usually only occur to me away on leave in BARI. General demand for more beer. 1 ½ bottles per head since mid-April. This Regiment is operational for the most part although it operates from this area.</note>
+				<note xml:id="q-4a517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">(iv) Recreation and Amusement. Compulsory swimming every day. No recreational grounds available near here or mainland, but football on No. 1 Fwd Base. Cinema, and concerts 4 nights per week on mainland is ample. On No. 1 FWd Base, owing to the almost total absence of transport it is impossible to get the men in the centre to Baths, Bathing or concerts(if any).</note>
+				<note xml:id="q-4b517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">(v) Leave. Original target date made leave impossible, but now, all ranks on mainland have had 4 days leave and are now having a further 3 in rotation. Those on No.1 Fwd Base it will take a very long time to get them all through unless they can be relieved of their defensive role. They are very badly in need of leave facilities indeed having had none for almost a year. ORs who have been to the 8th Army Rest Camp speak very highly of it and its facilities.</note>
+				<note xml:id="q-4c517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">(vi) Mail. Very Good.</note>
+				<note xml:id="q-4d517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">(c) Finance, Pay, Allowances and Expenses. No complaints except rates of same.</note>
+				<note xml:id="q-4e517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">(d) Conditions affecting Families. 3% trouble. Domestic troubles rise sharply after a man has been 3 years abroad.</note>
+				<note xml:id="q-4f517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">(e) Relations between Officers, NCOs and Men. Good.</note>
+				<note xml:id="q-50517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">(f) Relations with other Services.</note>
+				<note xml:id="q-51517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(1) Parachute training and with the Navy on Ops. Very Good indeed.</note>
+				<note xml:id="q-52517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">(2) ATS. Complaints that they are class conscious and will only go out with Officers whereas in civil life they never attempt such airs.</note>
+				<note xml:id="q-53517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(3) Dominion Troops Good. USA, good in small doses. On Ops with latter so far so good but this is in small doses.</note>
+				<note xml:id="q-54517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">(g) Relations with troops of other nationalities. Greeks and Italians not cordial, but very good with the Yugoslavians. hhh 4. Education&amp; ABCA.</note>
+				<note xml:id="q-55517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">The intensive rate of the Regiments' training has not enabled us to make much effort in this direction but equally there has not been any demand when opportunity has occurred. Discussions are appreciated, but ABCA as such does not appeal to men of this type. Voluntary classes of English and French are being run unofficially but when text books were asked for they were not available.</note>
+				<note xml:id="q-56517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">There are very strong views on the demobilization question. It is suggested that a 2 District competition should be organised which would produce the ORs views on this matter. hhh 5. Efficiency.</note>
+				<note xml:id="q-57517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">(a) Physical Fitness. Above excellent.</note>
+				<note xml:id="q-58517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">(b) Discipline. Bad when the Regiment first formed owing to the type of man. Many thought they were "Thugs and Tough Guys" and tried to act accordingly, but now discipline is good and the men have learnt wisdom. Very few serious broaches of discipline and not many minor ones. hhh 6. Miscellaneous.</note>
+				<note xml:id="q-59517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">Men coming from the M.E. complain that there are very few facilities for them to get a good meal when they are on leave or pass. The NAAFI and YMCA in BARI have usually sold out of food by 8pm and everything closes down at a very early hour. Officers appear to be better catered for with their Clubs etc. hhh 7. Appendices. NIL.</note>
+				<note xml:id="q-5a517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">Lt Col,.</note>
+				<note xml:id="q-5b517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">Commanding The Raiding Support Regiment.</note>
+				<note xml:id="q-5c517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">JO.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

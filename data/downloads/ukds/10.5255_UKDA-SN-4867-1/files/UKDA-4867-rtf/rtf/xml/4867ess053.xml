@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 54</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-6af3532b-a769-447a-9a11-b85dae75af47</idno>
+        <idno type="qudexdocument">q-130eb214-9d62-421d-8bcf-0e20e29e0521</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-657e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-667e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">In 1978 I left
+				school, I was sixteen years old. I came straight out of school into an
+				apprenticeship heavy meter <sic>machanics</sic><corr>mechanics</corr>. I served my four year apprenticeship in a
+				garage for another year and the left and started my own garage. At the age of twenty
+				three I got married. The garage was doing well so I didn’t have Much <sic>prodlems</sic><corr>problems</corr>
+				setting up a home. One year After I had/been married my wife had her first child.
+				When I had some spare time I made up a car for rally cross racing but In the time I
+				was racing I only won a few. When I was twenty five our second child was born. Once
+				when rally driving I had a smash and was in hospital for five months when I was
+				twenty nine we had our third child. I would get up at six o clock and drive to the
+				garage and open it at Saturdays. On some Sundays when I wasn’t rally driving the
+				family would go horse riding or for a picnic whilst I went fishing. In the garage I
+				took an <sic>apprenticship</sic><corr>apprenticeship</corr> from people who had just left school. When I was thirty six we
+				had our fourth child. My first child would come and help in the garage at least when
+				he left school he would get a job. When I was forty I had an extension built on to
+				the garage. I also bought 4 acres of land and built a racetrack and made go-karts
+				for my second and third eldest sons when my last child was eight I brought her a
+				pony and taught her to ride. From when I was forty four My mother died and my father
+				had died when I was twenty nine.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 151</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-c62dc226-c27c-4530-a1c3-4fd6d73ac1f6</idno>
+				<idno type="qudexdocument">q-327f8781-e7e6-40b7-90c4-40f2f7238f5c</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-dc65e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflection</note>
+			<u xml:id="q-dd65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">While looking out of my
+				bedroom window I <sic>spoted</sic><corr>spotted</corr> a young girl walking her dog across the common. She was wearing
+				a pair leged trousers it brought to mind the times when I used to wear the kind of
+				clothes.</u>
+			<u xml:id="q-de65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">I remember well it was
+				just about time when I got a job as an office in a local insurance company within
+				four years I was secretary to the managing Director. At this time I was looking for
+				job along the line of manager.</u>
+		</body>
+	</text>
+</TEI>

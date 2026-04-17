@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 150</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-63ca9a00-34cb-416f-aad2-5575a49a2b53</idno>
+				<idno type="qudexdocument">q-13813b15-52c0-433c-821b-84c8e1b3077f</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-da65e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflections</note>
+			<u xml:id="q-db65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">As I look back over my
+				last 50 years, the vague memories/still with me. My first job was in an office as a
+				junior. I had to do <sic>alot</sic><corr>a lot</corr> of travelling but I quite enjoyed it. When I first decided
+				to get a flat nearer by job, the ex-pression on my parent's faces, they didn’t think
+				that I could manage on my own, but they soon got use to the idea. Then I got
+				another job in the firm <sic>abit</sic><corr>a bit</corr> higher up as a personal secretary, I had to attend
+				evening classes for more qualifications but it all seemed worth it. I stayed in this
+				employment for 3, and then the firm closed down. It was harder getting a job after
+				that, there was not so many vacancies open for secretary, and for a month I was
+				unemployed, I eventually got a job in a solicitor’s. I enjoyed the work, and it
+				wasn’t far from where I lived, so I didn’t have <sic>alot</sic><corr>a lot</corr> of travelling. I stayed in this
+				employment for 4 years, then I left to get married, I missed the work, but soon
+				after I had alot to occupy my mind, I had a baby boy Christopher, and 3 years later
+				I had a baby girl.</u>
+		</body>
+	</text>
+</TEI>

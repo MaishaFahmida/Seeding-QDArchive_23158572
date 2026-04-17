@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 71</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-a2aa4332-71b4-4b32-ad9e-e9a69aef411d</idno>
+        <idno type="qudexdocument">q-889d2d65-fd60-4944-8fdf-ae2bee1fdfec</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-d57e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">When I was 16 I
+				got my first job, a cleaner in a factory, bad job but I got good money £35 a
+				week.</u>
+      <u xml:id="q-d67e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I was
+				seventeen I got my motorbike, which I loved.</u>
+      <u xml:id="q-d77e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Come to 20 and I
+				got married we had 7 kids altogether. I now had a good job working down the
+				stillmill bringing about £110 home with me each week. The job was good pay but, the
+				job itself was pretty hard work and dangerous. By the time I was 33, I brought my
+				self a car because it was getting hard driving a motorbike, with <sic>severn</sic><corr>seven</corr> kids and a
+				wife.</u>
+      <u xml:id="q-d87e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">By the time I was
+				35 me, wife and kids moved to Scotland, I thought it would be better, than living in
+				a dump like Isle of Sheppey. Five years and I thought it was great, we had our own
+				farm, with ten cows and 5 sheep, 50 chickens, 3 horse and 2 goats.</u>
+      <u xml:id="q-d97e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">We earned quite a
+				bit of money, and with four of my boys helping me, of course getting <sic>payed</sic><corr>paid</corr>.</u>
+      <u xml:id="q-da7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I was now 44 and
+				my oldest boy was 24, a big lad my farm was now very large, and I told my sons that
+				when I was 60 they could take over, while retired from working and help the wife do
+				things.</u>
+      <u xml:id="q-db7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">My son brought a
+				new tractor as the old one a spade, was a bit tired. I was nearly sixty now and,
+				when I look back on my life I release what a hard fight it had been. Four of my sons
+				work on the farm the other 2 both in a office, and 2 daughters, are now
+				<sic>secretarys</sic><corr>secretaries</corr>.</u>
+    </body>
+  </text>
+</TEI>

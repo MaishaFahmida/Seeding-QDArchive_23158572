@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 111</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-df844db8-74e3-4bc5-a906-02ad177b601a</idno>
+        <idno type="qudexdocument">q-ff4b45f5-aff4-49fc-9f57-bc09333a97b3</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-11805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-12805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I got out the
+				family photo album to show my daughters children, a few school photo’s caught my
+				eye. They were of Zoe when she was 15. She looked just like me. Later when she had
+				gone these photos were still on my mind, I sat down and thought about my past all
+				the memories came flooding back. The good times, and the bad times, the tears and
+				the laughter.</u>
+      <u xml:id="q-13805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I remember the
+				terrible time I had going through my exams, I used to throw a fit when my dad said I
+				had to stay in and revise, and all my friends were going to the local disco. I tried
+				all sorts of tricks to get out of it. But after my exams were over I had all the
+				time in the world, and I was glad my dad made me stay in, because I know I <sic>tryed</sic><corr>tried</corr> my
+				best in all my exams.</u>
+      <u xml:id="q-14805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Then there was my
+				first interview, I made all sorts of excuses so I wouldn’t have to go. When I was at
+				school I loved the idea of leaving but now I was literally shaking all over. But I
+				got over it when I got there, and I quite enjoyed the interview, the man was very
+				friendly. I got the job. I worked in a children’s home just as I had always wanted.
+				I worked there for 3 years and then I changed to office work. Six months after I had
+				been working there I left to get married, what a lovely white wedding I had and a
+				lot of my school friends came; I was nearly 20years old when I got married. I worked
+				at the office for another year and a half then I left to have my very first child.
+				It was a girl called Jackie. In the next five year I had, had two more children.
+				After Jackie I had a boy named Alan, he was named after my grandfather and then
+				another girl named Zoe, Zoe was the youngest.</u>
+      <u xml:id="q-15805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">After having Zoe
+				we moved off of the Island and down to Dorset where we had a nice house. I had some
+				relations down there.</u>
+      <u xml:id="q-16805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">The children
+				hated moving at first and so did I, I’ve never really liked moving, but I’d always
+				liked the idea of moving down there, and now that my husband Mark had been offered
+				the job, I thought we should take it.</u>
+      <u xml:id="q-17805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I <sic>cryed</sic><corr>cried</corr> my eyes
+				out when we left as I was leaving all my old friends and old secret hiding places
+				behind, but when I got to Dorset I made new friends and I loved it.</u>
+      <u xml:id="q-18805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">When Jackie was
+				19 she got married to Paul who was also 19. They bought a house not far from us.</u>
+      <u xml:id="q-19805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Then a year later
+				Alan got married to Susan, he had known her since we first moved. They lived next
+				door to each other.</u>
+      <u xml:id="q-1a805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">The last one to
+				get married was Zoe, I never thought she would get married, she’d never seemed the
+				type.</u>
+      <u xml:id="q-1b805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">Jackie had two
+				children John and Donna.</u>
+      <u xml:id="q-1c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">Alan’s wife had
+				three children two boys (twins) Terry and Tony and one girl called Heidi.</u>
+      <u xml:id="q-1d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">Jackie had just
+				one little girl called Janey. She was 3 years old and was really beautiful.</u>
+      <u xml:id="q-1e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">As time went by
+				I just seemed to get older and greyer everyday. I just wished I was young again,
+				back at school having fun but instead, I just done the usual thing, collected
+				pension got the shopping and the <sic>usuall</sic><corr>usual</corr> every day things. I didn’t really go out
+				much.</u>
+      <u xml:id="q-1f805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">The only thing I
+				get enjoyment out of is having my children’s children round to play, to see them
+				grow up the way mine children did, and the way my mother saw me grow up. If only I
+				could start at the age of sixteen, be young again live my life having fun and
+				enjoyment like I used to. But as people day you only live your life once make the
+				most of it!</u>
+    </body>
+  </text>
+</TEI>

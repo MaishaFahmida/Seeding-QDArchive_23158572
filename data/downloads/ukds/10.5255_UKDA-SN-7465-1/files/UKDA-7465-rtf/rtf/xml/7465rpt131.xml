@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, 18 October 1947</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-c576330b-4f88-453a-a901-1cc8352bb695</idno>
+				<idno type="qudexdocument">q-23b5fa2b-313a-4728-8238-d0fc314c4259</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-cc547fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject- Morale Report</note>
+				<note xml:id="q-cd547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">Confidential</note>
+				<note xml:id="q-ce547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">293/A</note>
+				<note xml:id="q-cf547fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="4">18 Oct 47</note>
+				<note xml:id="q-d0547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">2944</note>
+				<note xml:id="q-d1547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">HQ Palestine 'A'</note>
+				<note xml:id="q-d2547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">1. The stt report, prepared by my staff is a fair condensation of subordinate formation and unit reports, under the standard headings. I have only a few points to add personally.</note>
+				<note xml:id="q-d3547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">2. National Service Intake. The greatest bulk of National Services Intake are in the Army only by compulsion, and regard their service as an aggravating but unavoidable interruption in their careers. The upsets to their upbringing and family life due to the war are well known. With this background to work on, I consider that the results achieved by Commending Officers are remarkably good. I believe too that they show that, handled the right way, the young intake have the right stuff in them to make good.</note>
+				<note xml:id="q-d4547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">3. The way in which realistic field training evokes instant enthusiasm has been most noticeable. Sport and communal self-entertainment, and self-help generally have done a lot to bring out inherent good qualities. Even though anxious to 'get back to civvy street' as soon as possible, these men have got down to their work very well, tackled it cheerfully, and in my opinion the result is credible.</note>
+				<note xml:id="q-d5547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">4. In my opinion this over-riding need is more generous leave from foreign stations, particularly from non-family stations. With the best will in the world, it is impossible to produce in PALESTINE (and in many other places) quarters where officers can both do their jobs in their units and lead a normal family life. Before World War II we had similar problems in many stations (such as WAZIRISTAN) and solved them by three months leave annually. Why not now? the numbers involved are not so very great, and the boost to morale would be enormous.</note>
+				<note xml:id="q-d6547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">5. It is a fact that many Lt-Cols and Majors have been married for six or seven years, have not lived with their wives more than a few months, and prospects of doing so abroad for some time are not good. In such circumstances civil firms offer for more generous terms than does the Army nowadays. I would suggest that in the Middle East the rule should be: regular personnel with over five years' service, three months leave a year from non-family stations, and two months from family stations. This would allow single officers to travel and broaden their minds, and give a general mental freshening up- most necessary when living month after month in wired-in camps.</note>
+				<note xml:id="q-d7547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">6. Junior leaders. The problems of achieving adequate standards of junior leadership have been steadily increasing. The dangers are on the one hand …. familiarity with the men, and on the other footlessness and ignorance. We are perilously near the blind leading the blind. The material is there, but needs time to develop.</note>
+				<note xml:id="q-d8547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">7. In my view the only way of tackling this problem is centrally and scientifically planned induction in the subject. Units can (and do) run junior NCOs cadres. Courses for potential Sgts and other courses for junior officers are beyond them and must be run centrally. This was the prime function of the Divisional school before it had to close down. It will remain an acute problem in non-Divisional units with no school on which to depend.</note>
+				<note xml:id="q-d9547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Maj-Gen.,</note>
+				<note xml:id="q-da547fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Comd.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

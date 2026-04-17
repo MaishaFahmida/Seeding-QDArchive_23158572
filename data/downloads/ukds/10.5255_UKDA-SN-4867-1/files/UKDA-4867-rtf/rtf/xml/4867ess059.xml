@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 60</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-cea0401e-25cf-40a6-84cd-0de2e23cd83e</idno>
+        <idno type="qudexdocument">q-41ae70fa-5da4-44d3-a8f0-fef2609611ae</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-817e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting, My Past</note>
+      <u xml:id="q-827e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">After leaving
+				school my first big step in life was to find a job, or make a career for myself. I
+				had no qualifications, but I passed an entry exam for the Royal Navy, as an
+				engineer. This was a wise first step. During this time I had a very nice girlfriend
+				which I love very much. The next move was to marry her which I done when I was
+				twenty, because at this I left the Royal Navy and found a job on civy-street this I
+				found very easy, because I had a good record and a fine trade.</u>
+      <u xml:id="q-837e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Then came the
+				buying of the house which was very hard because the mortgage was so high. A few
+				years went past and I had a baby boy whose name was Wayne. I am now twenty-three
+				with a nice house, and a beautiful family. I {know?} find <sic>leasure</sic><corr>pleasure</corr> playing rugby,
+				football, tabletennis and other sports.</u>
+      <u xml:id="q-847e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Rugby I am fairly
+				and at the age of twenty five (two years solid fitness training) I play for the
+				local first team, which means I am winning a few medals every year. By this time my
+				second child is on the way, I am <sic>hopeing</sic><corr>hoping</corr> for a girl.</u>
+      <u xml:id="q-857e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Three more
+				<sic>monthe’s</sic><corr>months</corr> go past and I have a baby girl, who we name Francheska.</u>
+      <u xml:id="q-867e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">My parents died
+				about ten years after which left me with no family on my side (I wasn’t close to
+				what family there was on my side).</u>
+      <u xml:id="q-877e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Wayne was now
+				really getting into his school work. Francheska wasn’t very far behind, they were
+				both going to be brainy kids.</u>
+      <u xml:id="q-887e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">After these
+				exam’s came the <sic>wedding’s</sic><corr>weddings</corr> of my two children, which were very beautiful, there
+				mother cried all the way through the church service.</u>
+      <u xml:id="q-897e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">We are now
+				getting to <sic>were</sic><corr>where</corr> we have three grandchildren.</u>
+      <u xml:id="q-8a7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">I wouldn’t have
+				changed my life in any way if I had it over again.</u>
+    </body>
+  </text>
+</TEI>

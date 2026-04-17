@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 97</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-7fcb5df6-9e1c-4664-bd38-e4bf014ed686</idno>
+        <idno type="qudexdocument">q-d7c8b623-75dd-4d4f-971e-2f5b4f774d31</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-987f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-997f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I reflect back
+				on my past, I think I feel contented that my life served its purpose well and was
+				not one of sheer tragic disaster.</u>
+      <u xml:id="q-9a7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I left school in
+				1979 with five CSE all of average grades and qualifications in commercial studies. I
+				found my first job as a copy typist in the local factory in a tiny office with old
+				tables as the desk. The pay wasn’t particularly good but it was the <sic>expiereance</sic><corr>experience</corr> that
+				I was after not the money.</u>
+      <u xml:id="q-9b7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">That job however
+				lasted 3 months and I found myself looking very hard for another which I feel was
+				the first real stop in my life. It was then that I realised that I had truly left
+				school and all its security and I was now to face the big outside world and take
+				life and its problems as a mature adult.</u>
+      <u xml:id="q-9c7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Another emotional
+				stage was the fact that I was engaged to my boyfriend whom I loved dearly. Although
+				some thought it a bit young, we had been going steady for two years and clearly knew
+				what we were doing and knew that we could never be apart. My fiance’s parents ran a
+				successful lorry business and after a short time I went to work as a secretary
+				there. At first I didn’t like the idea of working with family, but as it expanded I
+				was working for other directors while my future in-laws sat back and enjoyed the
+				money. This time in my life was spent saving every <sic>penney</sic><corr>penny</corr> going until we could
+				afford a deposit on a house. This I think I took a very childishly mainly due to the
+				excitement of getting married and I didn’t really understand the financial side of
+				the affair.</u>
+      <u xml:id="q-9d7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">We eventually
+				found a flat, which was very large and modern and I found great delight in
+				decorating it just how I wanted. It was then that I felt really an adult even though
+				I jumped about like a five yr old opening his Christmas presents.</u>
+      <u xml:id="q-9e7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">After a few
+				months we set about making wedding plans. My wedding was something special and with
+				the money my father-in-law gave us we had a wonderful two week honeymoon in Southern
+				Spain.</u>
+      <u xml:id="q-9f7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">When we returned
+				I settled at once into being the model housewife and after a year of <sic>marrige</sic><corr>marriage</corr> I
+				longed for a baby.</u>
+      <u xml:id="q-a07f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">By this time my
+				husband had gone into his father’s business as a director and money was coming in
+				quite fast. We had moved into a cosy house and so I fell for a baby. Giving birth to
+				my daughter was a very painful and emotional part of my life. When I held her for
+				the first time and saw how happy I had made my husband, I felt very proud and
+				content with my precious gift.</u>
+      <u xml:id="q-a17f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">The next few
+				years as I watched her grow up, got us past the ups and downs as our finances
+				increased and decreased.</u>
+      <u xml:id="q-a27f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">The business
+				fell so bad that I had to go back to work in an office in a solicitors to bring in
+				extra money.</u>
+      <u xml:id="q-a37f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">When things
+				finally shot up again I was able to have another child. This time I gave birth to a
+				bouncing boy who although a little devil grew up to be a “mummys boy” and a
+				proudness in his <sic>fathers</sic><corr>father's</corr> eye. My husband felt reluctant to let my daughter grow up
+				as he needed to mother her but when he saw her in her bridal gown he realised how
+				much life we had both seen together and we concentrated on living life for us and
+				when we watched our grandchildren grow up we both felt contented and continued to
+				grow old still as much in love as the day we got engaged, or as I feel when we left
+				school and grew up.</u>
+    </body>
+  </text>
+</TEI>

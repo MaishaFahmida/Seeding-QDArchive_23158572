@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 43</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-136a5313-610a-4ead-bce1-665eb476e892</idno>
+        <idno type="qudexdocument">q-43238666-8c65-4f80-838e-a88cc37b0c06</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-277e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">The Past</note>
+      <u xml:id="q-287e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">In the summer of
+				1978 I left school with only half the ‘O’levels I had hoped to get. But didn’t stop
+				my chances of getting into the army as an officer. I was nervous at first when I
+				joined but I soon got over it as I seemed to fit in so well. Those years in the army
+				were some of the best in my life, I met some real good mates and always seemed to
+				{illegible} a laugh, but the army had <sic>it’s</sic><corr>its</corr> disadvantages with Northern Ireland and
+				such places. The fives years in the army seemed more like a five weeks holiday, it
+				was in the last year that I met my wife at a party on leave. She was two years
+				younger than me and we got along fine. She made my days off something really to look
+				forward to. It was her that prompted me to leave the army since we had become
+				engaged.</u>
+      <u xml:id="q-297e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">When I left I
+				went into the timber trade early learning the pros and cons of running a business.
+				By the time I had learnt enough to move on to another firm as a representative, to
+				learn how to sell your product, I was married with a house in Sittingbourne and a
+				baby on the way. We had a lot of good times in that house and many memories of the
+				children growing for badies to children.</u>
+      <u xml:id="q-2a7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After eight years
+				as a representative I felt confident enough to go into business on my own. I brought
+				a small piece of land in Queenborough and moved back to the Island where I myself
+				had been brought up.</u>
+      <u xml:id="q-2b7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Money was short
+				in my first few years of business but it soon picked up and began to make instead of
+				lose. The children, 2 boys 1 girl, were now tall (the eldest bigger than me), and
+				Susan, my daughter was beginning to show signs of being a woman and demanding her
+				own way.</u>
+      <u xml:id="q-2c7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">The business
+				grew, and life went on. The children began one by one to leave home. Lynn, my wife,
+				and I were beginning to slow down and with <sic>bussiness</sic><corr>business</corr> booming and the children <sic>goon</sic><corr>gone</corr>
+				we decided to move to a new home. This was more luxurious but was never quite the
+				same as our last home.</u>
+      <u xml:id="q-2d7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I began to leave
+				work more and more <sic>untill</sic><corr>until</corr> it was merely a once a week visit, but I received the same
+				income. My wife and I saw less and less of other people but we had our children and
+				our grandchildren to keep us company.</u>
+      <u xml:id="q-2e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I was deeply
+				shocked when the communist party gained power and all <sic>bussiness</sic><corr>business</corr> taken away from
+				people who had work had to gain them. I lost my firm and was dismissed as a
+				director. I was forced sell my house and buy something smaller but I don’t really
+				mind I still have Lynn and our children. I now don’t care what happens as long as me
+				and Lynn can finish our days together.</u>
+    </body>
+  </text>
+</TEI>

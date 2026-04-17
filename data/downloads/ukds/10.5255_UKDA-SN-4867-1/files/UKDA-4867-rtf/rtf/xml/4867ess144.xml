@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 146</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-bdafe763-94b2-4421-935b-7af6017af1b2</idno>
+				<idno type="qudexdocument">q-334dac4f-1efe-46a9-b4e8-e6f657e6bc79</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-c265e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflections</note>
+			<u xml:id="q-c365e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">I am now sixty seven
+				years old, when I look back over my life three aspects of my life seem the most
+				important, first - I left school at seventeen to work as a costing clerk in a
+				factory. It was a good job with plenty of scope for promotion. My tasks were
+				interesting I met people from all walks of life, my work included typing shorthand
+				filing and other office duties. To me my job was all I wanted as a career, and the
+				people I met <sic>seamed</sic><corr>seemed</corr> to enjoy their work and life. I learnt to drive and my car was
+				the first thing I saved up for from my wages. When I had enough money to buy my car
+				it <sic>ment</sic><corr>meant</corr> <sic>alot</sic><corr>a lot</corr> to me, it was the <sic>simble</sic><corr>symbol</corr> of the money which I had earned during my
+				first two or three years of employment. The second most important thing in my life,
+				was getting married. I carried on working for a couple of years after getting
+				married, trying to save up enough money to put down on a mortgage for a house. This
+				was the most important thing I had ever saved for, which we could bring children up
+				in.</u>
+			<u xml:id="q-c465e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">The house was small but
+				modern, a typical town house was small but modern, a typical town house on a new
+				estate, it was home. After working for the money for a house we decided to start a
+				family. We had two children a boy and girl with two years difference between the
+				two. Now they have left home, they both have good jobs and families. Now we wonder
+				when we will become grandparents, to us this is very <sic>impertant</sic><corr>important</corr> it will make us feel
+				young again, just like when we had our own.</u>
+			<u xml:id="q-c565e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">The third most
+				important aspect of my life, was <sic>retireing</sic><corr>retiring</corr>. We had saved up enough money during the
+				years, to sell our town house and to buy a cottage in the country, (this is a dream
+				most people have). Here we are now living it is small but <sic>plesent</sic><corr>pleasant</corr> and we are both
+				quite happy. We still have hobbies I enjoy doing part-time typing for a small <sic>locial</sic><corr>local</corr>
+				firm, and my husband enjoys golf and fishing. We still go on holidays abroad and to
+				us they are very important. One day I hope to go on a world <sic>cruse</sic><corr>cruise</corr>, to see the sights
+				that I have always wanted to see during my life, and to live out the rest of my days
+				enjoying life and everything it has to offer.</u>
+		</body>
+	</text>
+</TEI>

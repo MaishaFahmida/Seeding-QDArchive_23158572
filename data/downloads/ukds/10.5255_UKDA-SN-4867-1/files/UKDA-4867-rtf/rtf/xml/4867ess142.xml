@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 144</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-26fa7363-73b4-45e6-8887-b51b7df241d8</idno>
+				<idno type="qudexdocument">q-b630607f-36d5-4235-818f-206b416b3cdf</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-b465e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflections</note>
+			<u xml:id="q-b565e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">67, what an age to be,
+				no work to do because you’ve been retired. The family’s up and left, and i'm all on
+				my own. There’s all these young people going past the window all day long without a
+				care in the world. Just think I used to be like that, before I got the job. Going
+				out whenever the weather permitted and staying in when it didn’t. Going out for the
+				whole days on the bikes, great bunches of us, and arriving home at night.</u>
+			<u xml:id="q-b665e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">But things all changed
+				when I got myself a job. My whole attitude to life changed I was more careful about
+				what I spent my money on and not just wasting it on silly things, I cared about the
+				way I looked in the eyes of other people, I made sure that I always wore smart
+				clothes to work, not jeans and T-shirts or jumpers all the time.</u>
+			<u xml:id="q-b765e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">Of course, I still used
+				to go out but I never stayed out quite as late as before, although my parents never
+				knew at what time I ever arrived home because I had a flat at that time which was
+				all my own. Well I didn’t ever fancy the thought of sharing with anyone.</u>
+			<u xml:id="q-b865e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="5">But of course things
+				all changed and I had reached the age of 26 I was engaged and had been for a few
+				years, this was because we were saving up for a for house and the houses when I was
+				that age were quite expensive for us, but when I look at the prices now and look
+				back to how much they were when we were saving, it makes me wonder how the young
+				people of today manage. I know that we did, although it did take some time. Then
+				when we did get the house I had to leave my job because I had him and the house to
+				look after, and i’ve looked after them up until the present day.</u>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 128</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-250bc4c8-7eb1-4755-b640-a1927dababff</idno>
+        <idno type="qudexdocument">q-cb392683-74af-4c34-8a07-8ec0a04057d8</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-a4805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Looking back through the years</note>
+      <u xml:id="q-a5805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">No body in the
+				world stays young, we all hope that we will, also I remember looking back through my
+				days when I was young, “No I am not young now, I am a long way from it.</u>
+      <u xml:id="q-a6805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I had my days. I
+				remember when I was 16 years old just doing my exams at the time. Yes it was heart
+				but I <sic>maniged</sic><corr>managed</corr> to get through them. The hardest time was when I tried looking for a
+				job. My friend came with me and I worked in the co-op.</u>
+      <u xml:id="q-a7805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">19 I went to
+				Spain with Alex that was my boyfriend.</u>
+      <u xml:id="q-a8805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">At 21 Alex wanted
+				to marry me, but I wanted to have a good first before I got <sic>marryed</sic><corr>married</corr> and have
+				children.</u>
+      <u xml:id="q-a9805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Well 35 I was and
+				I have a good time in my life. I didn’t marry Alex because I didn’t love him. Few
+				years went on and I had a good job and money so I went on <sic>hoilday</sic><corr>holiday</corr> with a friend,
+				while I was on <sic>hoilday</sic><corr>holiday</corr> I went out with a man, name John 30 and 2 <sic>mouth</sic><corr>month</corr> we were
+				<sic>marryed</sic><corr>married</corr>, year went on we had 2 boy and 2 girls and we lived in a big house in the
+				country.</u>
+      <u xml:id="q-aa805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Many year went on
+				and I was 50. All of my children had left home and had a family of <sic>there</sic><corr>their</corr> own.</u>
+      <u xml:id="q-ab805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Me and my husband
+				moved into a smaller house in town I was on <sic>a</sic><corr>an</corr> old aged we had a good time
+				in our life time.</u>
+      <u xml:id="q-ac805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">60 my legs and
+				other parts of my was not the same it was very hard to get around, years went past I
+				was 60 all my family came down and they gave me a big 60th birthday. It was so nice
+				of them I can remember blowing the <sic>candalls</sic><corr>candles</corr> out. Tiers rolling down my chin. That
+				was like one of the happiest days of my life.</u>
+    </body>
+  </text>
+</TEI>

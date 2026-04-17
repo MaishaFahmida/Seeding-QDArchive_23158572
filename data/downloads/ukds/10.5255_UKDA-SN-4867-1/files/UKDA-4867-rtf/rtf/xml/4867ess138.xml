@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 140</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-25852ced-93a8-4eee-b18c-6c8e3c91f6a2</idno>
+        <idno type="qudexdocument">q-f30ddb20-c69b-427c-acd5-6e88dcd0f43e</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-f9805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-fa805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I look back
+				over the years of my life, I think back when I was at school at the age of fourteen
+				when we had to make a <sic>disition</sic><corr>decision</corr> what we were going to do when we leave school. I can
+				remember what kind of <sic>disition</sic><corr>decision</corr> I made, it was at first I was going to stay on then I
+				decided that I would leave I wouldn’t often do this sort of thing, but in the end I
+				did make up my mind and it was, that I was going to leave.</u>
+      <u xml:id="q-fb805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">When the day same
+				when I was going to leave I was, quite worried because I hadn’t got a job in hand.
+				Well when I did leave I stayed at home and I can remember my mother telling me to go
+				out and get a job but I knew it wasn’t so easy to go out and just get on my mother
+				would go on all day and night she kept on because my father had not long died and I
+				had three brothers and two sisters and they were all younger than me, that’s why my
+				mother kept on because she was working only part time who wasn’t much money to keep
+				six children.</u>
+      <u xml:id="q-fc805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Soon I had got
+				myself a job working in a factory I didn’t like it much but it was something, I was
+				earning just a little but more than my mother and every penny that I had went to my
+				mother for keeping us all.</u>
+      <u xml:id="q-fd805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Later I became
+				married and it was a very happy marriage my husband earned a quite a bit and I still
+				{illegible?} the job I started with when I left school. Quite a bit later we had
+				children which was one girl and one boy.</u>
+      <u xml:id="q-fe805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">My life as a
+				child wasn’t all that good that’s why I had children, so that they could lead a
+				better life than I did.</u>
+      <u xml:id="q-ff805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Well over the
+				years my life was getting a little bit better until my husband died that wasn’t long
+				till I had to retire and looking over the years my life I don’t know why I ever
+				moaned in the first place.</u>
+    </body>
+  </text>
+</TEI>

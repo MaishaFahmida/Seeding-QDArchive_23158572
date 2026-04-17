@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 25</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-accfb878-f2aa-4d2a-99c2-35b7285b6114</idno>
+        <idno type="qudexdocument">q-e80a2807-0207-45a6-bb00-c565d1d0c8fd</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-da7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">The Past</note>
+      <u xml:id="q-db7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				seventeen after staying one year in the sixth form. I waited three months before I
+				got the job I wanted, which was in insurance. I stayed on the Isle of Sheppey living
+				with my parents until I was twenty one. At this particular time of my life I moved
+				to Maidstone nearer my company. I had to move because travelling became a problem,
+				and I had moved up the promotion ladder. So I had more responsibility.</u>
+      <u xml:id="q-dc7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">From about the
+				age of twenty one to about twenty six my life seemed quiet with nothing much
+				happening. When I was twenty eight I had planned to live abroad and work for a
+				company in Europe. I was turned down because I had not much experience of foreign
+				languages. I remember very well, being upset by this. I thought that past could well
+				of changed my whole life.</u>
+      <u xml:id="q-dd7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">At the age of
+				thirty I got married. At the age of thirty two we had our first child a boy. About
+				three months later I was promoted to sub manager.</u>
+      <u xml:id="q-de7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">With my job I was
+				meeting different people and going to special functions. This was different to when
+				I was at school because I was shy and quiet. When I was thirty four we had our
+				second child this was a girl. Two years later I decided to stand for the local
+				council, and to my surprise I got on by a majority of six hundred. I only stayed on
+				the council until I was forty two. I came off because it was interfering with my
+				family and work life. When I was in my middle fortys my wife and I were thinking of
+				emigrating but decided against it because it could interfere with the childrens
+				schooling.</u>
+      <u xml:id="q-df7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">When I was forty
+				eight I left the insurance company to work for a big industrial firm and join the
+				board of directors. They needed someone who had a experience in Insurance because a
+				lot of my work was to deal with the keeping of the companys head above water, keep
+				safe. At the age of fifty three my wife and I emigrated to Austria, because the
+				company wanted to expand in central Europe.</u>
+      <u xml:id="q-e07d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">When I retired
+				two years ago my wife and I decided to come back to England for the rest of our
+				lifes. We are at present living in Norfolk.</u>
+    </body>
+  </text>
+</TEI>

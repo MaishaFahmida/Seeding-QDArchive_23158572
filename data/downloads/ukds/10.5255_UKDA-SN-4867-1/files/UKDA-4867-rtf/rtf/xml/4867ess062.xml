@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 63</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-03e00e62-c314-4520-84ed-c7b39bb4cd93</idno>
+        <idno type="qudexdocument">q-15466b2e-95c0-4f71-8bcd-3b421b723cdc</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-a07e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-a17e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">After leaving
+				school, some 50 years ago, I got a job in a bakery. This was just moving bags of
+				flour and yeast around, and learning about baking bread. I was offered a place for
+				an <sic>apprenteship</sic><corr>apprenticeship</corr> at a college in baking but I turned this down, because in 2 <sic>months</sic><corr>months'</corr>
+				time (20th September) I was going to join the army.</u>
+      <u xml:id="q-a27e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I had worked at
+				Woods for about five weeks. I would have liked to work there for another two months
+				(until it was time to join the Army), but alas the bakery had to shut down. It had
+				run out of funds. First all the shops shut down. Then I was made ‘redundant’.</u>
+      <u xml:id="q-a37e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I could of sat
+				down all day, doing nothing, for two months, but I didn’t really like the idea.</u>
+      <u xml:id="q-a47e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Employment on
+				this ‘Island’ was very low, but according to the statistics there were plenty of
+				jobs. I didn’t know where though, I must have looked all day for two weeks, but
+				still couldn’t find a job.</u>
+      <u xml:id="q-a57e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">But then the firm
+				my dad worked for got a government grant for £350,000 to help them put a railway
+				line through their ‘yard’ as well as buying docking facilities etc…</u>
+      <u xml:id="q-a67e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Which was
+				estimated at the time to cost around £1 ½ million to develop. I thought this was
+				ridiculous as they were already £800,000 in the red!</u>
+      <u xml:id="q-a77e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">This scheme was
+				to create an extra 14 jobs. I got one of them. My Brother who had worked there
+				before also got a job. So did my friend who had just lost his job he too was going
+				into the Army with me.</u>
+      <u xml:id="q-a87e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">I worked with
+				{Flame cap?} until the 10th of September I stopped work because in 10 <sic>days</sic><corr>days'</corr> time I
+				was going to join the Army.</u>
+      <u xml:id="q-a97e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">The 19th of
+				September soon came. Colin (my friend who lives across the road) and me had our
+				cases packed and were ready to leave. We were both going into the same regiment
+				(REME) .</u>
+      <u xml:id="q-aa7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">Our first 18
+				weeks of basic training was spent at Brompton barracks. About two - three miles from
+				where our previous job had been. We got a 72 hour pass after weeks. My father picked
+				us up. Then we had a four day leave six weeks in Basic Training.</u>
+      <u xml:id="q-ab7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">Then we were
+				posted to Corsham barracks in Wiltshire we <sic>finneshed</sic><corr>finished</corr> our <sic>apprenticips</sic><corr>apprenticeships</corr>. I got a
+				degree in vehicle mechanics but Colin just failed.</u>
+      <u xml:id="q-ac7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">Colin signed on
+				for 3 years. But I signed on for 9 years. We visited many European countries
+				(Germany, Belgium etc…) and after 3 years Colin signed on for another six.</u>
+      <u xml:id="q-ad7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">When I was 21 I
+				went to Ulster. At first I was scared. But our unit was lucky. We didn’t get posted
+				to Belfast but to a border town. There was very little trouble here.</u>
+      <u xml:id="q-ae7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">The only
+				‘trouble’ we had when an I.R.A. <sic>excution</sic><corr>execution</corr> squad try to hide in the town. These were
+				not given accommodation, because earlier a type of this squad had hid up in the town
+				ad murdered about 10 young children when a car bomb went ‘off’ at a school
+				crossing.</u>
+      <u xml:id="q-af7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="16">Two of the squad
+				had been killed.</u>
+    </body>
+  </text>
+</TEI>

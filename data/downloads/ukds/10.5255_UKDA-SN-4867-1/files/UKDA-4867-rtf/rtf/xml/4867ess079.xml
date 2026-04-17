@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 80</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-66e7de51-9fc8-40a7-8a2a-8583f5790b4a</idno>
+        <idno type="qudexdocument">q-e7cb9867-18d5-4d5f-b87f-abc1b6c8cbff</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-167f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting 10.5.78</note>
+      <u xml:id="q-177f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I was
+				sixteen I left school with five O levels 2 cses and went to <sic>collage</sic><corr>college</corr> for four years
+				to study engineering I was taught well at school and at <sic>collage</sic><corr>college</corr> I didn’t like much
+				<sic>off</sic><corr>of</corr> my school years a lot of the time was wasted on pointless things, most of the
+				teachers were <sic>fareley</sic><corr>fairly</corr> good there were a few bad teachers. My best time was at
+				<sic>collage</sic><corr>college</corr> I enjoyed studies and when I was seventeen I got a car as I had to travel
+				twenty miles to get to the <sic>collage</sic><corr>college</corr>. Getting a car was the thing I most looked
+				forward to. I left <sic>collage</sic><corr>college</corr> at twenty and had been trained as engineer there were
+				plenty of jobs going, well paid, good holidays, not hard hours. I didn’t really want
+				a settled job like taxi driver, police or army to get more experience from life by
+				now I had {illegible} my car and got a motorbike.</u>
+      <u xml:id="q-187f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I got a job as a
+				delivery man which was well paid and then a salesman they were well paid jobs but
+				had no future so when I was twenty five I sold my bike and got a good car and got a
+				job working for <sic>a</sic><corr>an</corr> engineering firm, weekends off in twelve weeks a years holiday,
+				eleven thousand a year starting and retire a fifty five, retiring early is a good
+				idea because jobs will be left for younger people.</u>
+    </body>
+  </text>
+</TEI>

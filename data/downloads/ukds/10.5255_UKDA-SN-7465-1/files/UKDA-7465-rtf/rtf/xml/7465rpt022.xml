@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 32 - first half of November 1948</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-7cd5e636-8f08-4704-b663-8d7e49af6bf1</idno>
+				<idno type="qudexdocument">q-78d393f5-3478-469c-b450-c9078b1dea7e</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-e25188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-e35188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-e45188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Political Division</note>
+				<note xml:id="q-e55188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">York House</note>
+				<note xml:id="q-e65188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ CCG (BE)</note>
+				<note xml:id="q-e75188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">Berlin</note>
+				<note xml:id="q-e85188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">B.A.O.R.2</note>
+				<note xml:id="q-e95188b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">17 Nov 48</note>
+				<note xml:id="q-ea5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">To: Public Opinion Research Office</note>
+				<note xml:id="q-eb5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">Political Division</note>
+				<note xml:id="q-ec5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="11">229 HQ CCG</note>
+				<note xml:id="q-ed5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="12">Hannover</note>
+				<note xml:id="q-ee5188b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="13">Subject: Berlin Morale Report No.32.</note>
+				<note xml:id="q-ef5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Attached is a Report on Berlin Morale No.32 for the first half of November. Note: Readers are asked to remember that although 'dais report is com­piled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting,</note>
+				<note xml:id="q-f05188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">J.E. Dixon</note>
+				<note xml:id="q-f15188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">P.O.R.O.</note>
+				<note xml:id="q-f25188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">Pol.Div.</note>
+				<note xml:id="q-f35188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="18">HQ CCG (BE)</note>
+				<note xml:id="q-f45188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="19">B.A.O.R.2</note>
+				<note xml:id="q-f55188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">CONFIDENTIAL</note>
+				<note xml:id="q-f65188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="21">Public Opinion Research Office</note>
+				<note xml:id="q-f75188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="22">Political Division</note>
+				<note xml:id="q-f85188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="23">York House</note>
+				<note xml:id="q-f95188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="24">HQ CCG (BE)</note>
+				<note xml:id="q-fa5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="25">Berlin</note>
+				<note xml:id="q-fb5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="26">B.A.O.R.2</note>
+				<note xml:id="q-fc5188b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="27">Report on Berlin Morale No.32. (First Half of November)</note>
+				<note xml:id="q-fd5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">1. General Atmosphere and Morale</note>
+				<note xml:id="q-fe5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">The surprising victory of President Truman in the US elections caused disappointment among the population of Berlin. It had been hoped that a vic­tory for Mr. Dewey would have resulted in a stronger US Foreign Policy, especially in the Berlin question. It is feared that Mr. Truman's policy may lead to a compromise with Russia at the expense of the population of Western Berlin.</note>
+				<note xml:id="q-ff5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">The Berliners do not expect any of the great Powers to take decisive steps to solve the Berlin problem before the beginning of 1949, the problems of a blockade-winter, therefore, is the main preoccupation of the Berliners.</note>
+				<note xml:id="q-005288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">The events in France, China and Western Germany are of minor importance to Berliners. Many say they have enough on their plates without worrying themselves about other people. hhh 2. Coal, Gas and Electricity</note>
+				<note xml:id="q-015288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">The heating problem has assumed first place among the worries and difficulties of the population. Even though people say at they would rather starve and freeze for a time than fall victims to Communism, they await the winter with the gravest forebodings. Fuel forms the main topic of conversation in Berlin, and people fear a catastrophic winter.</note>
+				<note xml:id="q-025288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Though considerable coal allocations had not been expected via the Air Lift, the announcement that each household will, for the time being, receive no more than 12.5 kg of hard coal is considered "ridiculous, shameful and dis­gusting".</note>
+				<note xml:id="q-035288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">The majority say that the coal programme should have commenced earlier and on a much larger scale, and the recent measure of replacing 2-engined coal-planes by 4-engined ones should have been adopted months ago.</note>
+				<note xml:id="q-045288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">The timber felling programme which has started in the western Sector parks, streets and woods, is considered senseless. The results achieved are claimed to be out of proportion to the damage caused. The wood collecting trips (mostly by elderly women) have declined considerably as the "Peoples' Police" confiscate all such "Harvests" at the Sector Boundaries.</note>
+				<note xml:id="q-055288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Many still complain that the quotas of electricity and gas arc inade­quate. They say often the supply is not sufficient for the preparation of one warm meal per day, and most housewives complain that they are unable to carry on with their "essential housework".</note>
+				<note xml:id="q-065288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">The electricity cuts have resulted in an increased consumption of cand­les and paraffin, both articles can only be obtained on the Black Market for D-Marks West. The demand that candles and paraffin should be rationed and goods sold for East Marks is considerable. The Berlin Transport System is still bad. Fatal accidents have occurred as a result of overcrowding. hhh 3.Food</note>
+				<note xml:id="q-075288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">The food situation has considerably improved. The Berliners are very grateful for the ration increase. There are, however, those who criticise the way in which the additional rations are being issued. In the beginning of the month an additional card had been issued to all persons entitled to the ration increase (this aid did not include children between the ages of 1 and 6, much to the annoyance of many parents); these cards were handed out at the food offices. The fact that extra paper, personnel and time have been used for this issue of cards is criticised, and many Berliners think it would have been better to distribute the extra rations against certain sections of the ration cards, household cards, soap-cards etc. which have not been used. This method was recently adopted when textiles were distributed against coupons of the soap-card.</note>
+				<note xml:id="q-085288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">The American "chocolate pilots" who dropped parachutes with chocolates and so-called "shmooths" over Western Berlin were subject to severe criti­cism. Thousands of people (by no means only children) gathered in the squares, on roofs and among ruins and after the crews had dropped their gifts there were embittered and bloody disputes, especially on account of the "shmooths" which were bonuses for ten pounds of lard. It is believed that the result of this well meant operation is totally negative. Many say it would have been better to distribute the lard to all needy children rather than to the few fortunate (and usually strongest) ones.</note>
+				<note xml:id="q-095288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">Though most Berliners realise that it is impracticable to fly fresh potatoes to Berlin, the lack of these is keenly felt. The request is often expressed that the more easily handled and more appertising potato-powder be substituted for dried potato-slices.</note>
+				<note xml:id="q-0a5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">There is a general demand that so far as possible high quality foodstuffs, such as butter, cocoa etc. be flown to Berlin.</note>
+				<note xml:id="q-0b5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">The monthly allocation of 40 grams of tea is considered inadequate and it is suggested that coffee substitute should be additionally distributed. hhh 4. Clothing</note>
+				<note xml:id="q-0c5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">The cold season has brought the clothing problem back to many Berliners' minds; there is a particular shortage of warm outer clothing such as coats and pullovers, warm underwear, stockings and strong shoes. The introduction of the points card is welcomed, but bombed-out people, refugees, repatriates etc. demand additional vouchers, which will not be deducted from the points card.</note>
+				<note xml:id="q-0d5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">The supply of thin summer dresses continues to be good, but the prices asked are too high (textiles must be paid for half' in Western and half in Eastern marks). hhh 5. Housing Difficulties</note>
+				<note xml:id="q-0e5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">It is not only the shortage of coal which makes many Berliners dread the winter, but also the present state of houses, many of which are very badly in need of repairs. Repairs to damaged flats and houses made little progress last summer, and the number of draughty, windowless flats is con­siderable.</note>
+				<note xml:id="q-0f5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">Although many Berliners are still living in houses practically unfit for human occupation, there would appear to be no actual shortage of living space in Berlin, as instanced by the large number of rooms and flats offered, though the rents charged are very high. It is also difficult to obtain per­mission for moving from one district or Sector to another, since such permis­sion is usually granted only on a basis of replacement. hhh 6. Political Worries</note>
+				<note xml:id="q-105288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">The elections which will take place in Western Berlin on 5th December are coming more and more into the centre of interest. A clear victory of the SPD is expected, but many Berliners state that they will only vote for the SPD because they regard it as the strongest German force against Communism, and not because they support and agree with the party aims of the SPD in all points. It does not seem clear whether the SED will join the issue of the West Berlin elections, since the Soviet licensed press continues to repeat that the elections on 5th December are "split" elections, and that everyone who takes part in them supports the splitting-up of Berlin. hhh 7. Monetary Transactions and Currency Confusion</note>
+				<note xml:id="q-115288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">The varied ratio of payments in East and West Marks in the case of wages and salaries means considerable hardship for very many Berliners, as only a relatively small number actually receive the ratio of 25% West and 75% East Marks, as laid down by the Military Governments and the Magistrat. Those inhabitants of the Western Sectors who earn less than 25 in Western currency (the majority of the population) feel that they are being treated unjustly. They strongly criticise the currency policy of the Western Powers and demand the speediest possible clarification of the present conditions, since no Four Power agreement on the Berlin currency question is expected in the near future.</note>
+				<note xml:id="q-125288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">The situation whereby wages and salaries are paid in varying amounts in Western and Eastern money has lasted almost 5 months and bitterness against the lack of system is growing. To take one example: Although there is a regulation whereby house rents may be paid in Eastern money, many landlords demand that they be paid partly in Western money on the grounds that they, too, must pay a part of their current expenses, which include salaries and wages for their employees and workers, in Western money.</note>
+				<note xml:id="q-135288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">It is repeatedly expressed that there are only three ways of putting an end to this currency confusion: -</note>
+				<note xml:id="q-145288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">a) The Western Mark should become the main Means of payment in the Western Sectors and should be exclusive in the case of prices and wages,</note>
+				<note xml:id="q-155288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">b) The East Mark should be allowed to circulate only at the official daily rate of exchange,</note>
+				<note xml:id="q-165288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">c) The Western Powers should agree with the resolution taken by the City Parliament to introduce the DM (W) as 'sole currency in Western Berlin. hhh 8. Press and Radio In the opinion of very many Berliners, above roll of the poorer classes, it is high time that a Western licensed newspaper be sold for 10 pfennigs. The Berliners who have to look twice at every penny (and there are many of them) used to buy the Soviet licensed "Berliner Zeitung" a price of 10 pfennigs. Although this paper frequently did not reflect their political views, it was cheaper than the other papers.</note>
+				<note xml:id="q-175288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">A subject which is hardly mentioned now, but is doubtless not forgotten, is the problem of the Russian directed station Radio Berlin in the British Sector. Many Berliners think that after the total throttling-off of Western Berlin the position could hardly deteriorate much further, and that the British Military Government need not abstain from pursuing this matter further out consideration for the Berlin population. The British attitude in this matter is often described as lax, and it is said that a similar situation in the American or, in the opposite case, in the Russian Sector would have been cleared up long ago. hhh 9. Employment Worries</note>
+				<note xml:id="q-185288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">Owing to the shortage of transport, coal and materials, Berlin industry is almost at a standstill, an immediate result was a rise in the unemploy­ment figures. Some of the unemployed were directed into work on the three aerodromes of western Berlin, into rubble clearance and timber felling, but it is feared that when frost and bad weather set in, these possibilities of employment will be curtailed and the number of unemployed will increase. hhh 10. Black Market</note>
+				<note xml:id="q-195288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">Interrogators report that on the Kurfuerstendamm, Corner Schlueterstr., a disproportionately high number of D.P.s allegedly Jewish, are carrying on Black Market and currency transactions.</note>
+				<note xml:id="q-1a5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">The Black Market prices on the whole remain unchanged. The only factor worth mentioning seems to be that owing to the ration increases prices for fats and sugar are falling, while the prices for fresh potatoes, wood end coal are rising further as a result of stricter controls at the borders of the Western Sectors.</note>
+				<note xml:id="q-1b5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">There is a large supply of silk stockings originating from the Eastern Zone, which are sold according to quality, at 10-14 Westmarks.</note>
+				<note xml:id="q-1c5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">Latest Black Market prices:-</note>
+				<note xml:id="q-1d5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">500 g Margarine 14.00-16.00 DM(W)</note>
+				<note xml:id="q-1e5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">" Butter 18.00-23.00</note>
+				<note xml:id="q-1f5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">" Lard 18.00-25.00</note>
+				<note xml:id="q-205288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">" Bacon 22.00-24.00</note>
+				<note xml:id="q-215288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">" Sugar. 6.50-8.00</note>
+				<note xml:id="q-225288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="65">" Cocoa 27.00-30.00</note>
+				<note xml:id="q-235288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="66">100 g Chocolate 6.50- 8.00</note>
+				<note xml:id="q-245288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="67">1 tin American Coffee 23.00-27.00</note>
+				<note xml:id="q-255288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="68">500 g Tea 30.00</note>
+				<note xml:id="q-265288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="69">" Beef 13.00</note>
+				<note xml:id="q-275288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="70">" Pork 16.00</note>
+				<note xml:id="q-285288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="71">" Flour (German) 1.50- 2.50</note>
+				<note xml:id="q-295288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="72">" (Canadian) 2.00- 2.50</note>
+				<note xml:id="q-2a5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="73">1500g Bread (grey) 2.00- 3.00 DM(W)</note>
+				<note xml:id="q-2b5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="74">" " (white) 4.00- 5.00</note>
+				<note xml:id="q-2c5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="75">1 Egg 1.00- 1.50</note>
+				<note xml:id="q-2d5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="76">1 ltr.Olive Oil 25.00</note>
+				<note xml:id="q-2e5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="77">1 lb Engl, .Milkpowd. 9.00</note>
+				<note xml:id="q-2f5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="78">100Tabl.Saccharine 1.50</note>
+				<note xml:id="q-305288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="79">Engl.&amp;Americ.Cigar.0.45- 0.60</note>
+				<note xml:id="q-315288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="80">Russian Cigarettes 0.25- 0.30</note>
+				<note xml:id="q-325288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="81">Bulgarian " 0.25- 0.30</note>
+				<note xml:id="q-335288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="82">German " 0.15- 0.20</note>
+				<note xml:id="q-345288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="83">500g apples Pears 1.75</note>
+				<note xml:id="q-355288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="84">" Peas 1.50</note>
+				<note xml:id="q-365288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="85">" Cheese 7.00-16.00</note>
+				<note xml:id="q-375288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="86">1 Candle 0.45 DM(W)</note>
+				<note xml:id="q-385288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="87">1 cwt. Coal 12.00-14.00 DM(W)</note>
+				<note xml:id="q-395288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="88">1 ltr. Oil 3.00-4.50</note>
+				<note xml:id="q-3a5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="89">1 bundle of Firewood 7.00- 8.00</note>
+				<note xml:id="q-3b5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="90">1 BAFV 35.00-40.00 DM(W)</note>
+				<note xml:id="q-3c5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="91">1 script Dollar 15.00-20.00 DM(W)</note>
+				<note xml:id="q-3d5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="92">1 g Gold 585 ct. 13.00-15 00 DM(W)</note>
+				<note xml:id="q-3e5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="93">Dishes obtainable for West marks without coupons in restaurants:-</note>
+				<note xml:id="q-3f5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="94">Vegetable, Potatoes and Gravy 1.50-2.00 DM(W)</note>
+				<note xml:id="q-405288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="95">Fish and Potatoes. 2.50-3.00</note>
+				<note xml:id="q-415288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="96">Stew 0.90-1. 00</note>
+				<note xml:id="q-425288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="97">Rabbit, Vegetables and Potatoes 4.50-5.00</note>
+				<note xml:id="q-435288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="98">Meat salads 1.50</note>
+				<note xml:id="q-445288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="99">Omelettes 1.50</note>
+				<note xml:id="q-455288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="100">Doughnuts 1.00-1.20</note>
+				<note xml:id="q-465288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="101">Fruit Tart 1.00</note>
+				<note xml:id="q-475288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="102">Cream Tart 2.00-2.50</note>
+				<note xml:id="q-485288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="103">1 Cup of real Coffee 0.90-1.00</note>
+				<note xml:id="q-495288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="104">Cake 0.50-0.75</note>
+				<note xml:id="q-4a5288b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="105">16.11.4.8. N.F. hhh DISTRIBUTION.</note>
+				<note xml:id="q-4b5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="106">Director</note>
+				<note xml:id="q-4c5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="107">Public Opinion Research Office</note>
+				<note xml:id="q-4d5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="108">Political Division</note>
+				<note xml:id="q-4e5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="109">67 HQ CCG</note>
+				<note xml:id="q-4f5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="110">Bielefeld (2)</note>
+				<note xml:id="q-505288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="111">Director</note>
+				<note xml:id="q-515288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="112">Political Division</note>
+				<note xml:id="q-525288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="113">German Section</note>
+				<note xml:id="q-535288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="114">HQ CCG</note>
+				<note xml:id="q-545288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="115">Berlin (2)</note>
+				<note xml:id="q-555288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="116">Public Opinion Research Office</note>
+				<note xml:id="q-565288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="117">Political Division</note>
+				<note xml:id="q-575288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="118">714 HQ CCG</note>
+				<note xml:id="q-585288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="119">Duesseldorf (1)</note>
+				<note xml:id="q-595288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="120">Public Opinion Research Office</note>
+				<note xml:id="q-5a5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="121">Political Division</note>
+				<note xml:id="q-5b5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="122">63 HQ CCG</note>
+				<note xml:id="q-5c5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="123">Hamburg (1)</note>
+				<note xml:id="q-5d5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="124">Public Opinion Research Office</note>
+				<note xml:id="q-5e5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="125">Political Division</note>
+				<note xml:id="q-5f5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="126">229 HQ CCG</note>
+				<note xml:id="q-605288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="127">Hannover (1)</note>
+				<note xml:id="q-615288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="128">Head</note>
+				<note xml:id="q-625288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="129">BBC Liaison Office</note>
+				<note xml:id="q-635288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="130">ISC Branch</note>
+				<note xml:id="q-645288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="131">PRISC Group</note>
+				<note xml:id="q-655288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="132">CCG Berlin (2)</note>
+				<note xml:id="q-665288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="133">Head</note>
+				<note xml:id="q-675288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="134">Information Services Branch</note>
+				<note xml:id="q-685288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="135">HQ Mil. Gov.</note>
+				<note xml:id="q-695288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="136">Information Centre (2)</note>
+				<note xml:id="q-6a5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="137">Mrs. Berkowitz</note>
+				<note xml:id="q-6b5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="138">Opinion Surveys</note>
+				<note xml:id="q-6c5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="139">ICD OMGBS</note>
+				<note xml:id="q-6d5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="140">APO742 US Army (1)</note>
+				<note xml:id="q-6e5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="141">Head</note>
+				<note xml:id="q-6f5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="142">Broadcasting Control</note>
+				<note xml:id="q-705288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="143">ISD Branch</note>
+				<note xml:id="q-715288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="144">HQ Berlin (2)</note>
+				<note xml:id="q-725288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="145">Head</note>
+				<note xml:id="q-735288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="146">Broadcasting Control</note>
+				<note xml:id="q-745288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="147">ISC Branch</note>
+				<note xml:id="q-755288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="148">808 HQ CCG</note>
+				<note xml:id="q-765288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="149">Cologne (1)</note>
+				<note xml:id="q-775288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="150">Secretariat</note>
+				<note xml:id="q-785288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="151">Intelligence Division</note>
+				<note xml:id="q-795288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="152">HQ Berlin (1)</note>
+				<note xml:id="q-7a5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="153">Secretariat</note>
+				<note xml:id="q-7b5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="154">HQ Mil.Gov.</note>
+				<note xml:id="q-7c5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="155">Berlin (6)</note>
+				<note xml:id="q-7d5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="156">Governmental Structure Branch</note>
+				<note xml:id="q-7e5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="157">HQ Mil.Gov.</note>
+				<note xml:id="q-7f5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="158">Berlin (1)</note>
+				<note xml:id="q-805288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="159">Public Safety Branch</note>
+				<note xml:id="q-815288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="160">HQ Mil.Gov.</note>
+				<note xml:id="q-825288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="161">Berlin (2)</note>
+				<note xml:id="q-835288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="162">Central Secretariat</note>
+				<note xml:id="q-845288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="163">HQ CCG (1)</note>
+				<note xml:id="q-855288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="164">Sir Eric Coates</note>
+				<note xml:id="q-865288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="165">Financial Adviser</note>
+				<note xml:id="q-875288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="166">Finance Division</note>
+				<note xml:id="q-885288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="167">HQ COG Berlin (1)</note>
+				<note xml:id="q-895288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="168">Mr. H.W.R. Homfrey</note>
+				<note xml:id="q-8a5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="169">Special Assistant</note>
+				<note xml:id="q-8b5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="170">Office of Economic Adviser</note>
+				<note xml:id="q-8c5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="171">HQ, COG Berlin (1)</note>
+				<note xml:id="q-8d5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="172">Office of the Educational Adviser</note>
+				<note xml:id="q-8e5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="173">HQ CCG Berlin (1)</note>
+				<note xml:id="q-8f5288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="174">Head</note>
+				<note xml:id="q-905288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="175">Film Section</note>
+				<note xml:id="q-915288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="176">PRISC Branch</note>
+				<note xml:id="q-925288b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="177">HQ Berlin (1)</note>
+			</div>
+		</body>
+	</text>
+</TEI>

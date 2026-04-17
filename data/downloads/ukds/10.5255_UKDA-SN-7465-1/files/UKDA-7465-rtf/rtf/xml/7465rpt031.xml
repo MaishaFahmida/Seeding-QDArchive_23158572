@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Morale in Berlin during August 1947</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-51735210-9433-440d-a70e-89b7bad821f1</idno>
+				<idno type="qudexdocument">q-30916e08-ca9b-4bf4-ae32-e15f8e5240de</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-915488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">PRISC Branch</note>
+				<note xml:id="q-925488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">(Public Opinion Research Section)</note>
+				<note xml:id="q-935488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">HQ Military Government</note>
+				<note xml:id="q-945488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">British Troops, Berlin</note>
+				<note xml:id="q-955488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">B.A.O.R.</note>
+				<note xml:id="q-965488b6-9e9d-e411-b1ae-00155df55c12" type="date" n="6">5 September 47.</note>
+				<note xml:id="q-975488b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="7">REPORT ON MORALE IN BERLIN</note>
+				<note xml:id="q-985488b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="8">DURING AUGUST 1947 hhh 1. General</note>
+				<note xml:id="q-995488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">With the advent of autumn and the first cold days people have begun to consider fuel problems and general winter preparations, which in itself has led to an increased depression. This pessimism has been heightened by the uncertainty of the fuel situation generally, diffe­rent sectors receiving different treatment, and over-confident pre­dictions from German official quarters not being fulfilled) The population expresses grave disquiet over their ability to survive the winter in good health (21% answered that a worsening of the economic situation and the coming winter was their greatest anxiety for the future). Food distribution has been reasonably good but riot sufficiently im­proved to bring about any rise in morale. Introduction of electric current restrictions in some quarters of the city has been received as yet another sign that the coming winter will be as severe and full of privations as the last.</note>
+				<note xml:id="q-9a5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">see Para 3</note>
+				<note xml:id="q-9b5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">The war psychosis noticeable in July has lessened, but optimism shown in connection with the coming Peace Conference in London. Indeed the inability of the Allies to agree about Germany is a contri­buting cause of the prevailing despair and apathy. hhh 2. Food</note>
+				<note xml:id="q-9c5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">A slight improvement in distribution is recorded as against July. However distribution is still irregular differs from sector to sector and is the cause of continual and bitter complaint. In some parts of the city, for instance, fats, meat and cereals were delivered punctually on the first day of the August "Dekade" while potatoes and sugar arrived only on the last day of the action period. In the US and French sectors generally it is reported that fats, sugar and cereals were late.</note>
+				<note xml:id="q-9d5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Note: It should be explained that each of the Four Powers has to supply a quota of food corresponding to the population in its sector. These food stuffs are then handed over in bulk to varying points in the city where the German authorities undertake delivery.</note>
+				<note xml:id="q-9e5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Many shopkeepers, when their customers complain at unpunctual deliveries and shortages, blame the Allies. The shortage of wheat has also been blamed on the Western Allies, who are accused of having diverted Berlin's wheat quota to Greece.</note>
+				<note xml:id="q-9f5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">The shortage of cereals on the legal market and the quantities to be obtained on the Black Market is alleged to be the result of racketeering by the Magistrat.</note>
+				<note xml:id="q-a05488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">There is much dissatisfaction about the scarcity or absence of canned vegetable. An announcement was made that they would be reality obtainable but the public has yet to see them. The continued scarcity in the legal market of fresh fruit and vegetables has aroused cynical comment. hhh 3. Fuel</note>
+				<note xml:id="q-a15488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">As reported above the inadequate coal allocation, and in some eases actual non-delivery, has increased despondency. The promises made by some politicians that this winter would be better are regarded with derision. In the British sector an allocation of coal has been received by some households but from the US and French sectors come complaints that no coal has been delivered. hhh 4. Special Shortages</note>
+				<note xml:id="q-a25488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Aside from the overall shortage of consumer goods there is a growing shortage of packing paper, radio parts and bicycle spare parts. Some manufacturers are concerned over the steel and chromium shortage which may cause them to cease production if new supplies are not forth coming. hhh 5. Politics.</note>
+				<note xml:id="q-a35488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">The public's attitude to the Magistrat's handling of problems may be summed up as "Less words, more deeds". The housing and fuel situation as well as the Oberbuergermeister crisis (not yet solved) have brought the Magistrat into disrepute. The mushroom growth of bars and antique shots using precious materials while no serious attempt is made to repair roofs, windows etc. redounds equally to the Magistrat's discredit.</note>
+				<note xml:id="q-a45488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">The Allies are blamed for smothering the Magistrat in directives and instructions and thus obstructing efficient government instead of merely supervising proceedings.</note>
+				<note xml:id="q-a55488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">There is disillusion about democracy which finds outlet in remarks such as "It was better under the Nazis!" and talk about "Getting brown (i.e. The National Socialist SA wore brown shirts) in the sun of democracy The endless polemics of party politics have given, rise to remarks that the Magistrat should get on with the job end not pursue petty quarrels.</note>
+				<note xml:id="q-a65488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">General Clay's statement that political refugees from the Eastern Zones would not be rented refuge in the American Zone has been greeted with dismay.</note>
+				<note xml:id="q-a75488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">The Pence Conference is awaited with scepticism and there is little hope that positive agreement between the Allies will result. hhh 6. Black Market</note>
+				<note xml:id="q-a85488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">There are the usual complaints that those who make large profits by illegal Black Market operations escape taxation while the honest toilers are heavily hit by taxes - income tax being sometimes up to 50%</note>
+				<note xml:id="q-a95488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Black Market prices have on the whole maintained their level. After a sensational fall from RM 7 a cigarette to RM 4, American cigarettes have climbed again to RM 6-6.50. Jugoslav cigarettes of reasonable quality have lately flooded the market and are sold at RM 1.50-2 per piece.</note>
+				<note xml:id="q-aa5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">In general demands for all goods except tobacco, food and tex­tiles has fallen off. Most people have sold all objects of value they could sacrifice and have no money to spare. Prices of jewels and antiques have also fallen.</note>
+				<note xml:id="q-ab5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Some quotations:</note>
+				<note xml:id="q-ac5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Butter per 500gr - RM 180</note>
+				<note xml:id="q-ad5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">Sugar per 500gr - RM 80</note>
+				<note xml:id="q-ae5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">Coffee per 500gr - RM 300 - 350</note>
+				<note xml:id="q-af5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">American chocolate per bar RM 12-18</note>
+				<note xml:id="q-b05488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">Black bread per 1500gr RM 40-50 hhh 7. Mil.Gov and the Allies</note>
+				<note xml:id="q-b15488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">The Allies are accused of pursuing a policy of delay in Germany and voices are heard talking of Allied plans "To starve Germany out". Dismantlings are still one of the chief talking points. The dismantling of the Borsig works has caused indignation as it is pointed out that it is the only works capable of repairing the turbine at Klingenberg. If the one remaining turbine at Klingenberg goes out of order it is said that Berlin will have no electricity. There is tare of the further dismantling of-the railway lines in the Russian zone.</note>
+				<note xml:id="q-b25488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Although the British and Americans continue to be the most popular of the four Allies, they are gradually sinking in public estimation as the present situation continues without improvement. The US and Britain have also lost popularity because of their alleged­ly weak attitude towards Russia.</note>
+				<note xml:id="q-b35488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">The refusal of Mil.Gov. in the zone to permit Germans to organise a whale fishing fleet has aroused angry comment. The extra amount of fat and the supplies of whole meat resulting from such an operation are held up as obvious advantages of the scheme. British refusal is explained as either sheer bad will ("They want to starve us, out break our spirit etc") or typical British "bureaucracy". hhh 8. Denazification</note>
+				<note xml:id="q-b45488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">As usual nobody is satisfied. Stories circulate showing how influential Nazis have escaped scot-free, while little Pgs have lost everything. Artists and actors are alleged to have received "Special treatment". There is no significant return to Nazi ideology but the convinced Nazis maintain their opinion. In a recent survey people were asked if they thought National Socialism was "A good idea badly carried out or a bad idea":</note>
+				<note xml:id="q-b55488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">47% said a bad idea</note>
+				<note xml:id="q-b65488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">30% said a good idea badly carried out</note>
+				<note xml:id="q-b75488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">5% said a good idea well carried out</note>
+				<note xml:id="q-b85488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">Unhealthy nationalism and xenophobia seem to increase. An August survey asked people if they would like to work for Mil.Gov. 22% rejected the idea of working for Mil.Gov. either for nationa­listic or racial reasons ("British too arrogant" "I am a German" etc.). hhh 9. Rumours</note>
+				<note xml:id="q-b95488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">a) The US is recruiting former SS men for service in Greece.</note>
+				<note xml:id="q-ba5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">b) The Russians are training the "Free Germany Committee" as a fifth column for Germany. Agents of this organisation are sent to the Western Zones and receive RM 1000 per month from the Russians.</note>
+				<note xml:id="q-bb5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">(Note: A report on those lines appeared in "Tagesspiegel" on 28 August 47).</note>
+				<note xml:id="q-bc5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">c) In the neighbourhood of Kamenz (Polish Silesia) the Russians have ordered the evacuation of several farms because they are to be used as a training ground for troops.</note>
+				<note xml:id="q-bd5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">d) The greatest part of the sugar produced in the Tangermuende factory and all the jam from the Worder district are being sent to Russia.</note>
+				<note xml:id="q-be5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="46">J.E. Sheppard</note>
+				<note xml:id="q-bf5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="47">for G.E. Bell</note>
+				<note xml:id="q-c05488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="48">S.P.O.</note>
+				<note xml:id="q-c15488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="49">PRISC branch</note>
+				<note xml:id="q-c25488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="50">HQ Mil.Gov.</note>
+				<note xml:id="q-c35488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="51">B.T.B.</note>
+				<note xml:id="q-c45488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="52">B.A.O.R</note>
+			</div>
+		</body>
+	</text>
+</TEI>

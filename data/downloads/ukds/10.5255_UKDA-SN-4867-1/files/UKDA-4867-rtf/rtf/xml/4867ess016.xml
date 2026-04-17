@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 17</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-8c880be2-5ec1-4ea5-8329-832ccb67857b</idno>
+        <idno type="qudexdocument">q-60f75ca7-64d0-482d-a02f-9ee9b51305ac</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-a37d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-a47d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I like to watch
+				the kids play across the road in the park. It gives me a sense of satisfaction, not
+				that they realise it mind. There too locked up in their own fantasies to a dam
+				anyway, shut away in their private worlds of solitude, free from the arms of
+				reality. They <sic>dont</sic><corr>don't</corr> know how lucky they are. But <sic>lets</sic><corr>let's</corr> face it, they <sic>dont</sic><corr>don't</corr> care anyway,
+				well why the hell should they? It’s not their turn to suffer; not yet.</u>
+      <u xml:id="q-a57d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">They will
+				realise, as I did all those years ago, that time is not the illusion that they have
+				created within themselves, when it can free its self, it will burn them first, then
+				run away.</u>
+      <u xml:id="q-a67d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Maybe I was like
+				them once; not so free though, I think they have love, neighbours, perhaps a little
+				honesty. Me? Well I was alone, unafraid yes but alone, and it hated me and I it,
+				because like time it burned me. It still does.</u>
+      <u xml:id="q-a77d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I remember, now,
+				how I stood at a similar window, oh forty five years ago at least, on my last day at
+				school in fact. I watched the cars leak, on that particular day and I hid myself
+				away from the tears that those so much entangled with the place, shed as their last
+				friend {sieved?!} through the gate.</u>
+      <u xml:id="q-a87d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Mine had gone, <sic>to</sic><corr>too</corr>
+				soon I thought, but my inclination meant nothing, they were only whispers after all,
+				to quiet to burst into reality; and no-one heard them.</u>
+      <u xml:id="q-a97d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">The cold floor
+				made me shudder on that day. Funny how it hadn’t before. I was sixteen and faced
+				with nothing, only a hearse of a life that would eventually lead me to the cemetery
+				gates. I didn’t want to go, and I fought time in vain and I was shoved into the big
+				bad world that called me.</u>
+      <u xml:id="q-aa7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I had
+				contemplated suicide. It was away, as I had explained to a friend, she begged me to
+				reconsider, I did. I loved her.</u>
+      <u xml:id="q-ab7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">I still remember
+				her name. Simple, but <sic>meaningfull</sic><corr>meaningful</corr> if you know what I mean. God knows I didn’t think
+				I’d survive without her. But well, I managed didn’t I. She saved my life, I hadn’t
+				expected it at first, but her actions cheered me, I fought, I won. I thanked
+				her.</u>
+      <u xml:id="q-ac7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Then I was faced
+				with real life and it’s lust for my innocence. How I hated it, but I could not
+				conquer it. It urged me on. My first job was meaningless and obscure, but I
+				tolerated it’s meagreness for my own sake because it offered a hint of salvation
+				from the obscurity of my inner self.</u>
+      <u xml:id="q-ad7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">Packing crates,
+				that was it. Hundreds of them, day after day. Straw, cups, straw saucers and my
+				hands wept with the sweat of my labours and the offensiveness that surrounded them.
+				There was, again, no satisfaction, no streak of content, biting me, no memories able
+				to save me, and I sacrificed my last ounce of sanity for a measly 20 pounds a week.
+				Hell, I <sic>earnt</sic><corr>earned</corr> it. Those crates were so heavy, a burden, took two of us and a lot of
+				stress and strain to shift them, but we managed.</u>
+      <u xml:id="q-ae7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">Complication was
+				my shroud, my continual oppressor. Christ I tried to escape it, and, thus learn from
+				my mistakes, but it was hopeless. I was a fly caught in a wed of incrimination that
+				starved me of my right to be free, until I no longer expected it.</u>
+      <u xml:id="q-af7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">I tried again,
+				and my second job was better. A news reporter for a small local paper that paid me
+				only on delivery. It was hard, but strangely, rewarding. I ate myself and rested
+				within the concepts of my new found occupation and I worked damm bloody hard to get
+				to the top of the pole. I succeeded. Barely.</u>
+      <u xml:id="q-b07d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">When I was 20. I
+				moved on, totally unconvinced that small time obscurities could satisfy my appetite
+				for power. I joined a national paper and met my wife.</u>
+      <u xml:id="q-b17d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">Her father
+				worked for himself, well equipped to succeed in his line of work. Decorating.</u>
+      <u xml:id="q-b27d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="16">I thought I
+				loved her, maybe I did, I could only love once, I surmized with such a total honest
+				sincerity. Why? I don’t know. The answer would not aid me.</u>
+      <u xml:id="q-b37d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="17">We had three
+				kids, they’ve all left now, gone forever, to strive like I have. <sic>Shes</sic><corr>she's</corr> dead. Must be
+				ten years ago now. Motor accident that killed her. <sic>Shes</sic><corr>she's</corr> safe now though.</u>
+      <u xml:id="q-b47d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="18">The paper
+				carried me. Through my whole life I wanted something. I didn’t know what. I know I
+				haven’t found it.</u>
+      <u xml:id="q-b57d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="19">That it really.
+				Not much is it. Those kids playing now are <sic>tomorrows</sic><corr>tomorrow's</corr> losers, but they’ve time to
+				work things out, think and plan ahead. They have got a chance; it’s a <sic>dam</sic><corr>damn</corr> shame
+				really.</u>
+      <u xml:id="q-b67d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="20">Here am I,
+				locked away in my room, house, my home, and the clock of life is still ticking, but
+				it slowly wanes, and very soon, it will cease to <sic>exsist</sic><corr>exist</corr>; gone, <sic>forgotton</sic><corr>forgotten</corr>, with
+				no-one to care, and no-one to member. That clock is really me, its just a
+				reflection. This is, perhaps, my last message to the world, and, like before, no-one
+				has heard.</u>
+    </body>
+  </text>
+</TEI>

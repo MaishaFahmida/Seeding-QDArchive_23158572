@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale - December 1947</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-58419854-3789-4818-879e-b8d912bbd1f8</idno>
+				<idno type="qudexdocument">q-0f58a001-a6f2-4e7e-a3ec-08a86d985670</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-c55488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-c65488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-c75488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Governmental Sub-Commission</note>
+				<note xml:id="q-c85488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">PRISC Branch</note>
+				<note xml:id="q-c95488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ Military Government</note>
+				<note xml:id="q-ca5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">British Troops, Berlin</note>
+				<note xml:id="q-cb5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">B.A.O.R.</note>
+				<note xml:id="q-cc5488b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="8">REPORT ON BERLIN MORALE</note>
+				<note xml:id="q-cd5488b6-9e9d-e411-b1ae-00155df55c12" type="date" n="9">12 December 47</note>
+				<note xml:id="q-ce5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Note: Readers are asked to remember that although this resort is compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German po­pulation may often be hysterical and ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting. hhh 1. General</note>
+				<note xml:id="q-cf5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">The London Conference remains in the centre of public attention. Some are pleasantly surprised that the Conference has been conducted without much recrimination and seems likely to reach a compromise solution on some issues. However, the basic attitude to the Conference is one of distrust and scepti­cism coupled with a growing fear that as a consequence of a deadlock or fai­lure of the Conference Berlin will be evacuated by the Western Allies.</note>
+				<note xml:id="q-d05488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Christmas preparations occupy most people's thoughts and it is generally said that this will be a gloomer Christmas than either 1945 or 1946. The possibility of extra rations of food and drink for this season is much dis­cussed. In spite of all difficulties, in spite of lack of money, the high prices of goods and the shortage or absence of normal Christmas fare people are trying to arrange some sort of a celebration. hhh 2. Food</note>
+				<note xml:id="q-d15488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Distribution was in general punctual. There are complaints that many of the storage potatoes issued were rotten. Feuding snail children is an agoni­sing problem for mothers and the shortage of milk and milk products hits children particularly. From the French Sector come complaints that children over 1 year old receive no milk.</note>
+				<note xml:id="q-d25488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">The burning question now is: will Berliners receive special extra Christ­mas rations? Several people are buying their rations for the third decade so as to be able to prepare something for Christmas.</note>
+				<note xml:id="q-d35488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">The alleged destruction of corn and potatoes in the US and coffee in Brazil in order to maintain prices causes indignant comment. Some people ask why the Gorman public is not given these superfluous products as a special Christmas allocation. hhh 3. Fuel</note>
+				<note xml:id="q-d45488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Thanks to the comparatively mild weather the shortage of fuel has so far not caused severe hardship. The distribution of bundles of wood to househol­ders in the British Sector was welcomed as a sign that perhaps the official promises about fuel allocation will be honoured after all. In some boroughs in the US sector the promised fire wood allocation has not yet materialised. It is suggested that a single coal and wood allocation for the entire winter would prevent quantities of cool and wood from the dumps disappearing on the Black Market. hhh 4. Housing</note>
+				<note xml:id="q-d55488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">The heavy rain and damp of the past weeks have caused many householders to carry out minor repairs as best they can. The damp in ill repaired homes means that the occupants use more fuel than would have been the case if repairs had been carried out in good time. Slow pace of emergency house repairs continues to be criticised.</note>
+				<note xml:id="q-d65488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Asked in a November Survey if they thought living accommodation in Berlin was fairly distributed only 8% said 'yes", 74% "no". Most popular suggestions to improve matters were a more energetic house repair programme and the suspension of luxury building (33%) and fairer housing allocation system (32%) Supply of glass remains a talking point. People sarcastically ask why antique shops and fashion shops in the Kurfuerstendamm and West End can get glass for their windows and show cases when so little is available for houses. hhh 5. Business and Labour</note>
+				<note xml:id="q-d75488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Current cuts seriously affect factories and workshops which cannot fully employ their labour during these periods. Hours of enforced darkness during the evening when people would like to relax undoubtedly have a bad affect on morale. Candles are an expensive luxury. Raw material shortages in practically all branches of industry continue to be a major problem. hhh 6. Clothing</note>
+				<note xml:id="q-d85488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Field workers have reported visiting homes where children of school age were kept at home because another brother or sister was using the only sound pair of shoes to go to school. Field workers have frequently been shown worn and battered shoes in the course of interviews as evidence of people's desperate need for footwear. hhh 7. Politics</note>
+				<note xml:id="q-d95488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">The London Conference is the dominant factor in the political sphere. There can be little doubt that the public's sympathy is on the side of the Western Allies although some people have swung round to the conclusion that Russia favours German unity mere strongly than the other Allies.</note>
+				<note xml:id="q-da5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">The vast majority declare themselves interested in the proceedings of the Peace Conference but few have followed closely the press reports. It is parti­cularly regretted that no German representatives have been permitted to take part. The great anxiety which grips most Berliners is that the Western Allies will evacuate Berlin if the Peace Conference fails. Field workers, who are often thought by respondents to be in the confidence of Mil.Gov., are asked if it is true that the British plan to move out. It is reported that many people have already packed a few things together and taken themselves off to the West. The majority are pessimistic about the outcome of the Conference and yet fearful of the consequences of its failure. Newspaper reports that new currency for a West German state is already printed in the US, have been used to prove that the Conference will fail.</note>
+				<note xml:id="q-db5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">The People's Congress for Germany's Unity convened by the SED has been greeted with little enthusiasm. It is regarded as just another "spontaneous' demonstration with decisions being taken in "unanimity", indeed comparison has been drawn between the People's Congress and the former Nazi mass meetings at the Sportpalast, The LDP has lost popularity by participating in this Congress. hhh 8. Attitude towards the Allies</note>
+				<note xml:id="q-dc5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">No new developments. The press reports of destruction of potatoes in the US redound to the discredit of the Americans. Again the Western Allies are accused of "weakness" towards the Russians.</note>
+				<note xml:id="q-dd5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">In the French Sector the German authorities are alleged to take advantage of the Pgs, and claiming to be acting under French orders carry out requisitioning and house searches. Pgs who have attempted to ask protection of French authorities have, it is said, not been allowed to see the respon­sible French officer.</note>
+				<note xml:id="q-de5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">The alleged English "passivity" in political and economic affairs is hold by some to be good diplomacy, by others weakness. hhh 9. Black Market</note>
+				<note xml:id="q-df5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Prices tend on the whole to have risen - the Christmas rush is thought to be responsible. Cigarettes have increased in price: - the "Rasno" ciga­rettes, said to be of Russian origin, have also risen in prices with the closing of the special shops in the Russian Sector.</note>
+				<note xml:id="q-e05488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Evidence continually comes to band that the Black Market is now a nor­mal and accepted part of German life. A common question among acquaintances is "What do you trade in? What have you to sell?" American and Russian barter centres are taken as proving official approval of the Black Market. hhh 10. Jokes</note>
+				<note xml:id="q-e15488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">a)"Did you know that now version of "Die Racuber" by Schiller has been produced in Berlin? - No, who is the chief actor? - Wilhelm Pluck."</note>
+				<note xml:id="q-e25488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">b) The Russian Zone has been rechristened PIECKISTAN.</note>
+				<note xml:id="q-e35488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">c) The Allied attitude to German women: - The French seduce them. The Americans buy them. Thu Russians rape them. The British marry them.</note>
+				<note xml:id="q-e45488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="32">J.E. Sheppard</note>
+				<note xml:id="q-e55488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="33">P.O.R.O</note>
+				<note xml:id="q-e65488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="34">GOV SC</note>
+				<note xml:id="q-e75488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="35">PRISC Branch</note>
+				<note xml:id="q-e85488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="36">HQ Mil.Gov.</note>
+				<note xml:id="q-e95488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="37">B.T.B.</note>
+				<note xml:id="q-ea5488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="38">B.A.O.R. hhh DISTRIBUTION (Morale Report)</note>
+				<note xml:id="q-eb5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">COPY NS.</note>
+				<note xml:id="q-ec5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">Public Opinion Research Office, GOV SC, 67 HQ CCG, Bielefeld 1-8</note>
+				<note xml:id="q-ed5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">Public Opinion Res. arch Office, GOV SC, 609 HQ CCG, Hamburg 9</note>
+				<note xml:id="q-ee5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">Public Opinion Research Office, GOV SC, 714 HQ CCG, Duesseldorf 10</note>
+				<note xml:id="q-ef5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">Public Opinion Research Office, GOV SC, 229 HQ CCG, Hannover 11</note>
+				<note xml:id="q-f05488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">Public Opinion Research Office, GOV SC, 312 HQ CCG, Kiel 12</note>
+				<note xml:id="q-f15488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">No.12 Intelligence Staff Berlin, 250 HQ CCG BAOR 13</note>
+				<note xml:id="q-f25488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">Mr. A.A.K. Swannell, Dep.Controller (Press), ISC Branch, HQ CCG 14</note>
+				<note xml:id="q-f35488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">Mr. Huet Owen, BBC Liaison Officer, ISC Branch, HQ CCG BAOR 15 - 16</note>
+				<note xml:id="q-f45488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">Mr. Herz, ICD Branch, OMGUS, Opinion Surveys Unit 17</note>
+				<note xml:id="q-f55488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">Mr. Martin, Film Section, ISC Branch, HQ Mil.Gov., B.T.B., BAOR 18</note>
+				<note xml:id="q-f65488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">BCU Berlin, ISC Branch, HQ CCG BAOR 19</note>
+				<note xml:id="q-f75488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">BCU Cologne, ISC Branch, HQ CCG BAOR 20</note>
+				<note xml:id="q-f85488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">Counter Propaganda Section, ISC Branch, BAOR 21</note>
+				<note xml:id="q-f95488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">Intelligence Division, HQ CCG BAOR 22</note>
+				<note xml:id="q-fa5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">Industrial Relations, HQ CCG BAOR 23</note>
+				<note xml:id="q-fb5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">Educational Adviser, Commander-in-Chief, HQ CCG BAOR 24</note>
+				<note xml:id="q-fc5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">Secretariat, HQ Mil.Gov., B.T.B BAOR 25 + 34-38</note>
+				<note xml:id="q-fd5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">Internal 26</note>
+				<note xml:id="q-fe5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">File 27 Spares</note>
+				<note xml:id="q-ff5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">Spares 28-33</note>
+			</div>
+		</body>
+	</text>
+</TEI>

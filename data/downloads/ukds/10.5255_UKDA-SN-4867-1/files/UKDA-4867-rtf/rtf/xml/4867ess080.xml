@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 81</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-b0a0df75-a223-4f72-8a7d-3fd0053c6c6e</idno>
+        <idno type="qudexdocument">q-fff1179e-580b-4b25-b5a5-f60608e2e6d8</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-197f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-1a7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At 69 I have
+				often looked back over my career. I left school at 18 and went on to university. I
+				started my career at 21 with a degree. My career was geology. One of the reasons why
+				I chose geology was that I found it very interesting and it also included lots of
+				travel. The pay wasn’t bad too!</u>
+      <u xml:id="q-1b7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">At school,
+				especially the term before my ‘O’ levels it was very bored, but during this time I
+				went to see the careers <sic>officed</sic><corr>office</corr>. Our school, Sheppey Comprehensive, was very large
+				and I didn’t like going to school, because it was so big. When I went into the sixth
+				<sic>for</sic><corr>form</corr> to study ‘A’ levels things seemed to change. I enjoyed going to school. The
+				sixth form was a pleasant area, carpeted etc. I was a little sorry to leave it to go
+				to university.</u>
+      <u xml:id="q-1c7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">A university
+				student was a great life, with many opportunities to do what I liked. Holidays were
+				also great, and the friends were always good for a laugh.</u>
+      <u xml:id="q-1d7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">When I was 21 I
+				left university with my geology degree and I got a job with the civil service. I was
+				soon travelling all round the world studying these land formation and those land
+				formations. Some of the surveying was also in the seas as well. And I found my
+				career thoroughly enjoyable. I was very sorry to retire four years ago.</u>
+      <u xml:id="q-1e7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">At the age of
+				forty I settled down to study the rocks of my own local environment until I
+				retired.</u>
+      <u xml:id="q-1f7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">After first
+				reading about geology at school, when I was about 15, I became hooked on the
+				subject. It seemed to fascinate me but a year later I had gone off it, but I still
+				wanted to be a geologist.</u>
+      <u xml:id="q-207f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">It was nearly
+				hopeless when I tried the careers centre. They could give me some information of the
+				exams I would need and on further education (i.e. university) but they could not
+				really give me and leaflets on the actual subject of geology. The only real
+				information I obtained was from book from the library or from a few science lessons
+				from school. To become a geologist, I had to put in a lot of work for myself. Once I
+				had made it though I was laughing. The job with the civil service was great. Most of
+				it was a holiday not a job. I was often being sent away to the far reaches of the
+				earth, in, sometimes, the remotest places. I had to work in the <sic>extrimes</sic><corr>extreme</corr> of
+				<sic>tempreture</sic><corr>temperatures</corr> and in almost every country throughout the world.</u>
+      <u xml:id="q-217f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">It wasn’t all
+				plain sailing though sometimes I had to work under the great depths of the ocean, or
+				the high mountains. I even had to work near volcanoes, even the active ones. Where
+				there was an earthquake disaster I was sent there, especially those where a
+				seismograph station wasn’t very near.</u>
+      <u xml:id="q-227f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Other times I had
+				paper work to at seismograph station. I had to take sesmic readings of earth
+				tremours plot them on graphs and other various paper work, but this was only
+				fractional.</u>
+      <u xml:id="q-237f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">On the bright
+				side of my career though, I often visited exotic places, which people only dream
+				about. I also had long holidays and the pay was good, with an increase in yearly
+				salaries. With this money I was able to sometimes, really “live it up”. The great
+				attraction though was the travel, and my interest in the land.</u>
+      <u xml:id="q-247f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">During my spare
+				time, I was often on holidays, either camping/hiking, or on a cycle tour. These kind
+				of holidays were always the best for me. I always seemed to enjoy the most. I found
+				that these holidays always added to the good things in life.</u>
+      <u xml:id="q-257f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">At 28 I got
+				married to a French girl and she has also travelled with me, when I was at work, and
+				also on holidays.</u>
+      <u xml:id="q-267f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">Looking back to
+				the struggle of becoming a geologist, I think that if I had not made it I would have
+				tried to become a warden of a national park or perhaps something like that e.g. a
+				game keeper, <sic>forrestry</sic><corr>forestry</corr> warden, so long as it was something I could enjoy a great
+				deal.</u>
+      <u xml:id="q-277f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">Even now, in my
+				large farmhouse (but there isn’t a farm no more) on one of the <sic>hymalayan</sic><corr>Himalayan</corr> mountains.
+				I look back and thing to myself, what a fantastic life I’ve <sic>lead</sic><corr>had</corr>, and that I wish I
+				hadn’t retired from geology. I still study the various rock formations of the
+				<sic>Hymalayan</sic><corr>Himalayan</corr> range, here near Tibet.</u>
+    </body>
+  </text>
+</TEI>

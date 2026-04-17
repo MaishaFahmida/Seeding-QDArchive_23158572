@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 88(b)</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-c89bb525-d7ad-4a03-a37f-db89238f74b2</idno>
+        <idno type="qudexdocument">q-f262f677-1cec-4622-821a-640656e1930b</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-567f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-577f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back on
+				the years of my life which started at the age of 15 1978. I can remember it was a
+				nice year with the summer flowers just blooming. In the months to <sic>came</sic><corr>come</corr> I was
+				searching for a job which could <sic>satisfie</sic><corr>satisfy</corr> me this took some time and by then I had
+				made many friends. After many cold winters and job going well, I got married to a
+				person who I would call ideal.</u>
+      <u xml:id="q-587f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Then after being
+				married for several years money was coming in well but the years before had been bad
+				with many people being made redundant, my husband being one of those life became
+				more exciting and my husband and I had twins they were grand chaps James and mark
+				was their names. We had to buy a better place to live in as the place we were living
+				in was only two rooms. After looking around for some time we moved into this place a
+				grand old place was it then and <sic>quiet</sic><corr>quite</corr> modern. It was good in those days with all the
+				countryside around yah and the people that did live near where good friends of yours
+				to, but life went on and with the house and children to look after I couldn’t go out
+				to work.</u>
+      <u xml:id="q-597f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Years went by and
+				the twins grow up and I got old and by this time I couldn’t have any more children.
+				My husband who was a keen musician left his disco <sic>acwipment</sic><corr>equipment</corr> to <sic>are</sic><corr>our</corr> son James who
+				took after his father who by this time had retired and my husband and I decided that
+				we would go on a short holiday to get away from the house, a short while after me
+				son Mark got married and his with Kathy was expecting a child. Whilst my other son
+				James was not even thinking of getting married, my husband and I only talked about
+				the past and how grand it has been.</u>
+    </body>
+  </text>
+</TEI>

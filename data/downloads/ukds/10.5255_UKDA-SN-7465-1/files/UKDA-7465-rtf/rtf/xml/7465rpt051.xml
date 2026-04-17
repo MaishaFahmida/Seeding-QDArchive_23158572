@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Correspondence between Brendan Bracken and Jack Jones, 3rd October 1943</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-c1ee9995-0135-4d42-8805-1a4f5962035b</idno>
+				<idno type="qudexdocument">q-433aca38-702b-4b14-a3ea-2fa041182441</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-da5888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">Sarandai,</note>
+				<note xml:id="q-db5888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Heol Caerhys,</note>
+				<note xml:id="q-dc5888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Rhiwbina,</note>
+				<note xml:id="q-dd5888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">CARDIFF.</note>
+				<note xml:id="q-de5888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="5">3rd October, 1913.</note>
+				<note xml:id="q-df5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Dear Brendan Bracken,</note>
+				<note xml:id="q-e05888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">I was glad to read of your having spoken on the Press, for that informed me that you had recovered from the chill you caught on your way back from America. When privileged to lunch with you at the Ministry a couple of months ago I had hoped for a longer and more private talk with you, but you will remember you had to hurry away to keep an important appointment.</note>
+				<note xml:id="q-e15888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Since then there have been a number of unofficial strikes, which I feared then. You will know that I have, except for the nine months during which I was serving the Cause in the States and Canada, been working close to those employed in production along the Home Front. I think I may claim to know the mind of our workers, who are quite as loyal as the men and women of the Forces. Yet they strikes And at a time when it is more important than ever that they shouldn't. There may be even more disastrous stoppages of work through the coming winter, the fifth blacked-out winter of this war.</note>
+				<note xml:id="q-e25888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Time itself induces war-weariness and frays nerves, especially when what one is doing is unspectacular, out of the limelight and monotonous. There is also a degree of uncertainty about the future this increases with the certainty of victory now being predicted. All this causes a certain mental unrest) and a gnawing doubt is a sort of match ready to set aflame an undefined resentment against war conditions. So we have stoppages of work which not only injure us in production, but in other ways as well.</note>
+				<note xml:id="q-e35888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">What they want to steady them is a tonic. I remember, during the last war, the tonic effect on the South Wales miners of a visit and talk by L.G, and later the visit and talk of Gen. Smuts. But this war dwarfs the last, and Mr. Churchill has had much more on his plate than ever L. G. had. Mr. Churchill has had to bind the great nations which are the corner-stones of the world. His leadership has been and still is superhuman and inspiring to a degree almost incredible for one man. With my four sons in the Forces from the very beginning, one killed, one wounded and one we have not heard from for two weeks now my faith in Mr. Churchill's leadership is greater than ever.</note>
+				<note xml:id="q-e45888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">But I feel that now his capacity for inspiring others should, if it is humanly possible, be devoted to the steadying and inspiring of the splendid production line of our Home Front. They) the workers along this Front, have, even as you and I, admired him from afar for long periods when he has been upholding our Cause overseas. But they have never) the vast majority of them, seen him in the flesh. Yet they long to see him in all the big industrial centres of Britain, 4 and in the mining areas even more so.</note>
+				<note xml:id="q-e55888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">I have just listened to our mutual friends Gwilyn Lloyd George as he came over the radio for about 15 minutes. With all due rolv to him he was even less inspiring than when speaking in public.' is not the voices face or personality that will get that little bit extra out of the miner. He is solid, sound, a decent chap, but not at inspiration to anyone concerned. But Mr. Churchill is the greatest inspiring force this Britain has ever known, and the Home Front), more so than the battle fronts, needs all ha can give it in the way of inspiration just now. I know how very difficult it will be for him to find time to pay a weekly visit to one big industrial centre after the other, yet I feel it most urgent and important that he should. For he can do what no one else alive can) namely, inspire the mass of British workers for the mightier yet effort necessary for the achievement of complete Victory. Pardon my presumption in suggesting this. Please convey my sincere regards and best wishes to the Prime Minister, whose leadership during this war has been and still is firm foundation of our salvation I am hoping that he will fine possible to revitalise our Home front. Yours in the Cause.</note>
+				<note xml:id="q-e65888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">129 END</note>
+			</div>
+		</body>
+	</text>
+</TEI>

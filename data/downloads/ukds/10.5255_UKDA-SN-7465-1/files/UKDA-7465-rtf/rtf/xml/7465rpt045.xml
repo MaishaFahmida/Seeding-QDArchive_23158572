@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: The Assessment of Public Feeling at Home, Memorandum by the Minister of Information, November 15, 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-5a83a6cb-cbe0-4013-9ef2-11e5ce45f272</idno>
+				<idno type="qudexdocument">q-7b44df51-e391-4d8d-b218-ee5faca66d61</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-825888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">(THIS DOCUMENT IS THE PROPERTY OF HIS BRITANNIC MAJESTY'S GOVERNMENT)</note>
+				<note xml:id="q-835888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">COPY NO.</note>
+				<note xml:id="q-845888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">SECRET</note>
+				<note xml:id="q-855888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">W.P. (42) 548</note>
+				<note xml:id="q-865888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="5">25th November, 1942.</note>
+				<note xml:id="q-875888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">WAR CABINET</note>
+				<note xml:id="q-885888b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="7">THE ASSESSMENT OF PUBLIC FEELING AT HOME</note>
+				<note xml:id="q-895888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Memorandum by the Minister of Information</note>
+				<note xml:id="q-8a5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">1. At their meeting on 12th October the War Cabinet asked me to furnish a memorandum explaining the system adopted in the compilation of the periodical paper that I submit under the title of "Report on Home Opinion" (Item 4. 138th Conclusions). Their basis is the weekly Home Intelligence Reports which are drawn up by the Ministry of Information, and I must first explain therefore what is the genesis of these Reports.</note>
+				<note xml:id="q-8b5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">2. There is a Regional Information Officer in each of the Civil Defence Regions. On his staff are one or more regional intelligence officers whose job it is to make a weekly report to headquarters about public feeling in their area. They gather their material partly through their own observation and partly through "contacts", - that is someone who is supposed to be sensible and level headed and whose calling (e.g. doctor, woman social worker, publican, trade union official) brings him into daily contact with many people. An intelligence officer is expected to develop numerous contacts of this kind and he should get a minimum of 30 reports a week.</note>
+				<note xml:id="q-8c5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">3. In London the various regional reports are checked against each other and a lot of additional material is drawn up for cross checks. This material consists of Postal Censorship reports, Police reports from the Home Office, B.B.C. Listener Research reports and contributions from voluntary societies such as the W.V.S. and Citizens' Advice Bureau.</note>
+				<note xml:id="q-8d5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">4. Out of all this comes the Weekly Home Intelligence Report. So far as an honest attempt at objectivity can achieve it these reports are intended to reflect the main currents of thought and feeling revealed by a comparison of all the available material to which, certainly, a very great number of people have contributed.</note>
+				<note xml:id="q-8e5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">5. The periodical Report which I lay before the War Cabinet is best described as an essay based on a close study and comparison of the trends displayed in the weekly reports covering the period under review. We have made it our rule not to introduce on our own responsibility subjects which the reports do not deal with. The draft of the periodical report is submitted to me by the Director General after its form and contents have been agreed at meetings attended by senior officio s in the ministry. It is also discussed informally with the Public Relations Officers of some of the other Departments whose work keeps them specially in touch with the home public.</note>
+				<note xml:id="q-8f5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">B. B.</note>
+				<note xml:id="q-905888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="15">25th November, 1942.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 69</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-b8dc15dd-6c66-4559-b10f-bce510b1371e</idno>
+        <idno type="qudexdocument">q-02a39a75-3d88-476a-9440-ae63a636b9e0</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-c47e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">When I was
+				sixteen I left school and joined the merchant navy. After a year of training I
+				started my first voyage on my first boat to Australia.</u>
+      <u xml:id="q-c57e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">It took about two
+				months to reach Australia. When we did I took my four weeks leave and visited my
+				uncle and Aunt in Woonond new south Wales about 50 miles north of Sydney.</u>
+      <u xml:id="q-c67e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">In four weeks I
+				went back to my boat and we left for New Zealand. On my 25 birthday I got six weeks
+				leave and went home to Sheerness where I was met at Sheerness docks by my mum and
+				dad and girlfriend.</u>
+      <u xml:id="q-c77e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Six weeks later
+				just before I left I was engaged to my girlfriend before I left I was engaged to my
+				girlfriend before I left for New York on my boat. Seven months later my boat docked
+				in at Liverpool Docks and I caught a train for London.</u>
+      <u xml:id="q-c87e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">In about two
+				hours I reached London and caught a train for Gravesend.</u>
+      <u xml:id="q-c97e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">In half an hour I
+				changed trains for Sheerness In 16 minutes I arrived at Sheerness train station. My
+				family were not expecting me for another month. They were very pleased to see me. I
+				went round to my girlfriend’s house and four days later we were married. We went on
+				our honeymoon. I rented a flat in Sheerness three weeks later.</u>
+      <u xml:id="q-ca7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Another five
+				weeks and I left for Newcastle to catch another boat to Canada.</u>
+      <u xml:id="q-cb7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Two weeks out of
+				Newcastle I sent my wife some money in fact every two weeks I sent her £25 pound out
+				of my £50 wages. I wrote to my wife and parents constantly and they wrote back.</u>
+      <u xml:id="q-cc7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">In three months
+				later we reached Torento I spent my three weeks leave on the boat mainly apart front
+				a couple of days sightseeing and buying presents for my family and friends.</u>
+      <u xml:id="q-cd7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Four months
+				later I docked at London and returned home for my 3 months leave. In three <sic>months</sic><corr>months'</corr>
+				time it was my 29 birthday. I left for Australia in about a year I came out of the
+				Merchant Navy</u>
+      <u xml:id="q-ce7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">30-60</u>
+      <u xml:id="q-cf7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">The first thing
+				I did was buy a house for my wife and our two kids. The next day I got a job up the
+				steelworks in Sheerness taking home £65 a week and a part time job on the Sheerness
+				lifeboat. In three <sic>years</sic><corr>years'</corr> time I got a “call out” for the life boat where we had to
+				go out and rescue some people of a sinking <sic>yauht</sic><corr>yacht</corr>.</u>
+      <u xml:id="q-d07e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">We managed to
+				save everybody. In 2010. My two sons joined up in the merchant navy while my two
+				daughters got secretarial jobs in Sittingbourne.</u>
+      <u xml:id="q-d17e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">On my 50
+				birthday me and my wife went on holiday <sic>two</sic><corr>to</corr> Spain where we saw one of our sons in
+				Madrid his boat had just got in. In two years home I left the steel works and became
+				a security guard in the Sheerness docks. In 2022 my sons came out of the merchant
+				navy, And every Saturday and Sunday I visited my grandchildren and sons and
+				daughters.</u>
+      <u xml:id="q-d27e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">At the age of 60
+				which was last week I retired. And bought a cottage in the country for me and my
+				wife.</u>
+    </body>
+  </text>
+</TEI>

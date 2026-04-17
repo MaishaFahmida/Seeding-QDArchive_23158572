@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 26</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-745b23a6-5c6d-4308-820a-e2a6fac9a05e</idno>
+        <idno type="qudexdocument">q-d8ca3823-e6c5-4833-b138-03da79998256</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-e17d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">{Omitted plan of
+				his life which is crossed out but clear to read}</u>
+      <u xml:id="q-e27d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				the age of sixteen, in July of nineteen seventy eight. I had been offered an
+				apprenticeship in Chatom dockyard as a Naval Architect. I enjoyed my four years of
+				training, quite a lot. At first, from leaving school, I {mist?} the twelve weeks of
+				holiday we had compared to only three each year. During my apprenticeship I gained
+				O.N.C, H.N.C. and O.N.D certificates so I finished with quite good qualifications. I
+				stayed on at the dockyard for another three years and became a professional and
+				Technological officer grade two.</u>
+      <u xml:id="q-e37d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">During my best
+				year in the dock yard and had got married and had bought a house in Cornwall near
+				where I my next job was. It was a boat building firm and I was one of the
+				<sic>directers</sic><corr>directors</corr>.</u>
+      <u xml:id="q-e47d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">When I was thirty
+				we started a family and stayed in Cornwall because I had a very secure job, and I
+				kept it until I retired.</u>
+      <u xml:id="q-e57d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I had a very
+				active life, and I enjoyed it very much. When I was middle aged I sailed a great
+				deal in fast catamarans, but as I got older I could move fast enough for them, so I
+				got a cruiser in which I spend most of my free time now.</u>
+      <u xml:id="q-e67d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Looking back I am
+				glad that my life turned out to what it was. Now, I like to watch my family grow up
+				to meeting and facing problems as they go along and sorting them out. I hope that
+				they eventually look back on their life the same way as I do.</u>
+    </body>
+  </text>
+</TEI>

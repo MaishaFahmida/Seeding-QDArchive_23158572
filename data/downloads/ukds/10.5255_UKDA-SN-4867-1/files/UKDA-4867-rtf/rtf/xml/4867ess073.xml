@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 74</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-a2b5f28a-a0db-4ec1-b476-0af12245843e</idno>
+        <idno type="qudexdocument">q-bbf87c0c-11dd-440e-9120-4f1af974134a</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-f17e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Sixty</note>
+      <u xml:id="q-f27e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Here I am at the
+				age of sixteen finished my exams which are bad. So <sic>its</sic><corr>it's</corr> out into the open air,
+				looking for work. All vacancies taken so <sic>its</sic><corr>it's</corr> the dole queue for me.</u>
+      <u xml:id="q-f37e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Seventeen, nearly
+				eighteen still no work. Come up eighteen and I found a job not what I expected but
+				it will have to do. Twenty six quid and forty-three pence, and most of that goes on
+				tax and my keep.</u>
+      <u xml:id="q-f47e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Twenty now and
+				life’s hard but I will be getting married soon and I be bringing up my family. Worse
+				thing about getting married is the settling down. Wedding was ok, the honeymoon was
+				ok but now were home and its finding a house. The one thing I didn’t want to happen
+				was to stay with my family. Now <sic>its</sic><corr>it's</corr> arguments all the way. The only way I thought of
+				getting out of it was to get a proper job.</u>
+      <u xml:id="q-f57e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Twenty seven and
+				I got two boys three and one years of age. And I out in the cold hoping and looking
+				for a job with good pay.</u>
+      <u xml:id="q-f67e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Thirty and now I
+				get seventy five quid a week. We have a house now semi-detached also a little girl,
+				so now I pay to look after my wife three kids, a house and a saloon car.</u>
+      <u xml:id="q-f77e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Forty three and
+				the kids are finding troublesome now there out in the world and its seeing there
+				alright the eldest nineteen is married, so again I low on the money and it keeps
+				going down, the other boy sixteen is wanting to go to <sic>collage</sic><corr>college</corr> and the girl is
+				starting to get bad at school and is hardly there.</u>
+      <u xml:id="q-f87e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Fifty and the
+				parents are slowly finding away and its starting to hit the family our-selves for
+				instance we are working up and are starting to live our best now the kids <sic>of</sic><corr>have</corr> gone
+				away and we haven’t heard a word for a few years and we are now alone in a terrace
+				two-bedroomed house and soon it will be time for me to retire and then it will be
+				just the rest of our lives to live out as we are now sixty and it is not long now.
+				Looking back on my live over forty-six years I always wondered if it was worth
+				it.</u>
+    </body>
+  </text>
+</TEI>

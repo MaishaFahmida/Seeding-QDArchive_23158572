@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Correspondence between V. Bovenschen and E. Bamford, 7 May 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-67a81fe5-9c36-446e-9dc5-c3dbf39d800e</idno>
+				<idno type="qudexdocument">q-32b195a9-01e6-4d93-a073-b89460aac0f2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-e3537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">MINISTRY OF INFORMATION,</note>
+				<note xml:id="q-e4537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">MALET ST., W.C.1.</note>
+				<note xml:id="q-e5537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="3">7th May, 1942.</note>
+				<note xml:id="q-e6537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">Dear Bovenschen,</note>
+				<note xml:id="q-e7537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">Under the War Cabinet (42) 49th Conclusions of 15th April, 1942, my Minister is to submit to the War. Cabinet monthly an appreciation of the state of public morale, and to take into account in its preparation the views of other Departments primarily concerned with the home front. I should be grateful if you would send us any matter which you wish to be considered for this purpose.</note>
+				<note xml:id="q-e8537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">It may be that some regular report bearing on home front questions is already produced in your Department for domestic purposes and, if so, we should appreciate your placing us on its circulation list. We should, of course, undertake not to circulate it further in this Department without your permission and should use it solely for the preparation of our report to the War Cabinet. Any such report, if you can send it, and any views you wish to contribute should reach here not later than the 20th of each month. Will you please have them addressed to Sylvester Gates, who is the Controller of the Home side of this Ministry and responsible for the preparation of the report?</note>
+				<note xml:id="q-e9537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Yours sincerely,</note>
+				<note xml:id="q-ea537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">E.St.J.Bamford</note>
+				<note xml:id="q-eb537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Sir Frederick V. Bovenschen, KBE, CB,</note>
+				<note xml:id="q-ec537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">War Office,</note>
+				<note xml:id="q-ed537fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="11">Whitehall, S.W.l.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

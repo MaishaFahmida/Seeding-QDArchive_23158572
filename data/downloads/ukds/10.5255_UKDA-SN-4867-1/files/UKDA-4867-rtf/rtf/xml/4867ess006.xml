@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 6</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-06c6bc37-604d-431e-aa6a-c5e6953868d7</idno>
+        <idno type="qudexdocument">q-3d7257f6-7753-4503-887a-5fcf0f530b2c</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-6d7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-6e7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I look back
+				on life, I see why the older generation cannot tolerate the younger. Partly because
+				of changes in a person’s life which makes them different from others. I look out of
+				my {window?}, and see children going from school, some leaving, some staying on to
+				study.</u>
+      <u xml:id="q-6f7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I remember that
+				when I was sixteen and after passing my exams, I was excepted as an apprentice at a
+				motor trade company. I was on that trade for four years. A lot of things happened
+				during that time. At seventeen I joined a group. We played rock music, mainly on the
+				old Island where I once lived. We were well known but had to split up as three
+				members of the group had got married. After two years of the apprenticeship I got
+				engaged. I couldn’t get married until I was twenty because I didn’t finish the
+				apprenticeship until then. At nineteen, I passed the City and Guilds certificate.
+				This meant a rise in pay.</u>
+      <u xml:id="q-707d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">When I was
+				exactly twenty, I proposed to my girlfriend. Two months later we were married. It
+				was only a matter of a few months before my wife was pregnant. I was earning a lot
+				of money, so we decided to put a deposit down on a house. We had one in Basildon in
+				Essex. There a got a job as a mechanic working on Post office vans. Soon our first
+				child was born. We felt pleased with our-selves, and a year later we decided to have
+				another.</u>
+      <u xml:id="q-717d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">After our second
+				child was born I had an accident at work, I crawled out from under a van, and I was
+				run over by a car, not completely only my legs. Both of them were broken and I was
+				in hospital for the next few months. This was one of the worst times of my life. All
+				there was on the family was worry. The bills needed paying, the children feeding,
+				and mortgage had to be <sic>payed</sic><corr>paid</corr>. My sick pay and insurance helped, but it was not
+				enough. My wife hired a baby sitter and got a job.</u>
+      <u xml:id="q-727d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">When I got out of
+				the hospital, I found that my place as an engineer was taken as it could not have
+				been left without another had for so long. It was <sic>severn</sic><corr>seven</corr> weeks before I got another
+				job and I had to <sic>travell</sic><corr>travel</corr> twenty miles there and back six days a week. When I was
+				twenty nine, I changed jobs as the firm I worked for went bankrupt because there
+				electrical materials had been replaced by new methods of power and engineering. I
+				got a job in a steel mill at Norwich. It was a long way to travel and further
+				education was needed for use of new <sic>machinary</sic><corr>machinery</corr>, <sic>lazers</sic><corr>lasers</corr> and things like that. I stayed
+				at that job until I was thirty five. At thirty three, the first child was thirteen
+				and the second was eleven. I joined a group and we got known quickly. When I was
+				thirty five, we were offered a recording <sic>contrack</sic><corr>contract</corr> by CiF.I a new major record
+				company. I went along with the group a lot, in fact <sic>to</sic><corr>too</corr> much. I love music and my
+				wife and that was the problem. While I was travelling she stayed at home and we see
+				less of each other. After two years, she couldn’t take no more and our marriage
+				ended in the divorce courts. She had right to the children. This really broke me
+				down and I went on to taking drugs as a lot of musicians did at that time.</u>
+      <u xml:id="q-737d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I became a
+				nervous wreck after a year then I became religious. Something I never expected to
+				happen. This brought me out of drugs.</u>
+      <u xml:id="q-747d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I was religious
+				up until I was <sic>fourty</sic><corr>forty</corr> eight but I retired from the music seen at the age of forty
+				five.</u>
+      <u xml:id="q-757d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">I brought 1 house
+				in the countryside in England. There I was <sic>excepted</sic><corr>accepted</corr> as just another person, not like
+				some stars. I got so lonely in the house. When I was fifty two I moved to a flat
+				just outside Basildon. I felt like committing suicide but a visit, a surprise at
+				that was when my daughter and son turned up at my door. They had married and had two
+				sons and a daughter each. My ex wife had died. The eldest was a boy, who was eight.
+				At sixty, eight years later, he made a visit and asked me about what he should do
+				because he was old enough to leave school and get a good job. I couldn’t give him
+				any <sic>advise</sic><corr>advice</corr> because my life had been a <sic>failier</sic><corr>failure</corr>. I only warned him to take care and
+				think. When he left everything went <sic>quite</sic><corr>quiet</corr> and dark, and time stood still.</u>
+    </body>
+  </text>
+</TEI>

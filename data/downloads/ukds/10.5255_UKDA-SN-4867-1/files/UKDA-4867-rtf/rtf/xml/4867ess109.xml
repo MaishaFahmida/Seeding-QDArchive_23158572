@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 109</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-23b339f8-7733-4e80-9908-29104c278ecb</idno>
+        <idno type="qudexdocument">q-2cd20897-7249-4be0-9027-d9068bcc1d48</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-fd7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-fe7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I left
+				school I got myself a job as a groom, where I looked after horses and ponies I
+				exercised every horse each day, schooling them and jumping them. I was working as a
+				groom for three years until I went to Newmarket to train as a point-to-point
+				jockey.</u>
+      <u xml:id="q-ff7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I started racing
+				after two-three years training. I was racing for 7 years at places such as Choring,
+				Lingfield, Tweezledown, where I met a lot of very nice and pleasant people,
+				including my husband.</u>
+      <u xml:id="q-00805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I then got
+				married 3 years after I met him, but I didn’t give up horses altogether, because we
+				bought some of our own to look after and exercise.</u>
+      <u xml:id="q-01805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I had 2 children,
+				one who is now 25 and the other 21.</u>
+      <u xml:id="q-02805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">We moved into the
+				countryside and bought some land on which we built a riding school and I started
+				teaching children and adults to ride.</u>
+      <u xml:id="q-03805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I retired from
+				that at the age of 57 and I am still living in the same house. I died at the age of
+				65.</u>
+    </body>
+  </text>
+</TEI>

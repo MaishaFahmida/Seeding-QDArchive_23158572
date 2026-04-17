@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, 14 May 45</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-09350d5d-a72f-4f94-a7a4-66492c2bfdfb</idno>
+				<idno type="qudexdocument">q-48a05d59-b024-4c8c-8d57-f856f8863ed4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-ee507fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject;- Morale Report.</note>
+				<note xml:id="q-ef507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">To;- HQ.,</note>
+				<note xml:id="q-f0507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Land. Forces Adriatic,</note>
+				<note xml:id="q-f1507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">C.M.F.</note>
+				<note xml:id="q-f2507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">CONFIDENTIAL</note>
+				<note xml:id="q-f3507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">Adv. HQ.,</note>
+				<note xml:id="q-f4507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">Special Boat Service,</note>
+				<note xml:id="q-f5507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">L.F.A. C.M.F.</note>
+				<note xml:id="q-f6507fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="9">14 May 45.</note>
+				<note xml:id="q-f7507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Ref: ASBS/3/131</note>
+				<note xml:id="q-f8507fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="11">Sec. I. MORALE IN GENERAL.</note>
+				<note xml:id="q-f9507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">The morale of the Unit for the period under review has been high, in spite of operational setbacks. As a result of the end of the war in Europe morale is expected to remain at a high level. During this period we have been able to have all three Ss in the field, although in Jugoslavia it was only possible to operate one Sqn at a time: when permitted by our Jugoslav allies to show their worth these Sqns acquitted themselves well. Morale of the last Sqn to go there was not aided by the seemingly unwarranted house arrest of this Sqn, including the C.O. of the Unit.</note>
+				<note xml:id="q-fa507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Under these circumstances it was difficult for those in authority to stimulate interest in the men to devote their efforts whole-heartedly to prosecuting the war successfully in that theatre.</note>
+				<note xml:id="q-fb507fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="14">Sec. II. FACTORS EFFECTING MORALE. hhh 1. Discipline.</note>
+				<note xml:id="q-fc507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Discipline is bound to be extremely high in a Special Service Unit: indeed, it is the "be-all and end-all" of this type of unit in the field. hhh 2. Confidence.</note>
+				<note xml:id="q-fd507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">(a) In Army Leaders and the War. In this respect confidence has always been of a high order and this has shown itself to be fully justified.</note>
+				<note xml:id="q-fe507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(b) In Arms and Equipment. - As we have always been fortunate enough to have access to the best and latest types of arms and equipment, confidence in them is always high, knowing that better things will be produced if confidence wanes.</note>
+				<note xml:id="q-ff507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">(c) In Efficiency. - Without confidence in one's own efficiency it is difficult to see how one could operate at all hhh 3. Mail.</note>
+				<note xml:id="q-00517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Extremely good recently. hhh 4. Welfare and. Entertainments.</note>
+				<note xml:id="q-01517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">(a) Living Conditions. In our case living conditions are sound as we have taken over a camp which is well provided with necessaries. For the first time for two years the entire unit is together.</note>
+				<note xml:id="q-02517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">(b) Recreation and Amusements. The former now plays a most important part in keeping troops amused: the unit indulges in Soccer, Basketball, Swimming, Boxing etc. Amusements on the whole are good.</note>
+				<note xml:id="q-03517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">(c) General. The unit is well provided-for in Welfare and we are able to get a large amount of welfare stores. hhh 5. Education and ABCA.</note>
+				<note xml:id="q-04517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">Operational and training commitments have previously prevented much being done in this way, but now it is hoped to organise something in this connection. hhh 6. Relations between Officers and Men.</note>
+				<note xml:id="q-05517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Always very close in a unit of this sort, particularly when an officer may find himself alone with his patrol of ten men for weeks at a time. Any other arrangement would result in a decrease of efficiency. hhh 7. Relations Between other Services.</note>
+				<note xml:id="q-06517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">As we are always carried to the scene of our operations by R.N. or R.A.F., it is essential that our relations with these services are of a high order, as indeed they are. hhh 8 . Relations with Allies.</note>
+				<note xml:id="q-07517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Relationship with Allied Troops has always been sound with the exception of the Jugo-slavs. Their persistently unhelpful and obstructionist attitude when this unit was endeavoring to assist them in the common cause, culminating in the "imprisonment" of one Sqn can hardly be said to have improved relations with this extraordinary nation. hhh 9. Home Affairs, Post-war and Release.</note>
+				<note xml:id="q-08517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">The men show great interest in these matters and seem well content with arrangements for release and plans made for their absorption into civil life again. hhh 10. Finance.</note>
+				<note xml:id="q-09517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">On the whole the men are satisfied with their pay. The number of irregularities by Paymaster concerning Parachute Pay seems to be decreasing. hhh 11. Miscellaneous.</note>
+				<note xml:id="q-0a517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">(a) Overseas Service. - Most personnel have done well over three years' service overseas and are naturally pleased with the prospect of returning to U.K. in less than four-and-a-half years. Some forty all ranks are due for PYTHON within the next two or three months.</note>
+				<note xml:id="q-0b517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(b) Leave. - This unit does well as far as this is concerned and seems pleased with the leave facilities in C.M.F., particularly in Rome.</note>
+				<note xml:id="q-0c517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">(c) Relations with civil population. - Dealings with the civil population are avoided where possible.</note>
+				<note xml:id="q-0d517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">JTL/JSFM.</note>
+				<note xml:id="q-0e517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Lt.Col;</note>
+				<note xml:id="q-0f517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Commanding, Special Boat Service, C.M.F.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

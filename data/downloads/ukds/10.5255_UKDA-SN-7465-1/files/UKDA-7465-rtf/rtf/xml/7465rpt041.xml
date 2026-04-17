@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Correspondence between Sendall and others, October 1943</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-fd000802-5dc9-467a-9a3a-e288d46166c3</idno>
+				<idno type="qudexdocument">q-6dd84b27-67f6-40b3-a7e7-29daa762f243</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-295888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">Ministry of Fuel and Power,</note>
+				<note xml:id="q-2a5888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Dean Stanley Street,</note>
+				<note xml:id="q-2b5888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Millbank, S.W. 1.</note>
+				<note xml:id="q-2c5888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="4">18 October, 1943.</note>
+				<note xml:id="q-2d5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">Dear Sendall,</note>
+				<note xml:id="q-2e5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Thank you very much for your note of the 15th October with the report on the public reaction to my Minister's broadcast on the 3rd October.</note>
+				<note xml:id="q-2f5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Yours sincerely,</note>
+				<note xml:id="q-305888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">B.C. Sendall, Esq.,</note>
+				<note xml:id="q-315888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">Ministry of Information,</note>
+				<note xml:id="q-325888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">Malet Street,</note>
+				<note xml:id="q-335888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="11">W.C.1.</note>
+				<note xml:id="q-345888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="12">15th October, 1943</note>
+				<note xml:id="q-355888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Dear Serpell,</note>
+				<note xml:id="q-365888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">I am enclosing herewith a note I have received from the House Intelligence division here bearing on the public reaction to the recent broadcast by your Minister about fuel economy. I am sorry that this has been delayed so long.</note>
+				<note xml:id="q-375888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Yours sincerely,</note>
+				<note xml:id="q-385888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">D.R. Serpell, Esq.,</note>
+				<note xml:id="q-395888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">Ministry of Fuel and Power,</note>
+				<note xml:id="q-3a5888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="18">Dean Stanley Street,</note>
+				<note xml:id="q-3b5888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="19">S.W.1</note>
+			</div>
+		</body>
+	</text>
+</TEI>

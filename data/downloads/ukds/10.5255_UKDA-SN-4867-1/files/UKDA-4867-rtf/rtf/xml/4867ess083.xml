@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 84</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-c8287540-a9b0-4d6d-a423-eb211ae26ab3</idno>
+        <idno type="qudexdocument">q-98e54402-599a-45d3-ad7c-ff4558f809be</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-357f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-367f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">My career started
+				when I joined the army I decided that this was what I wanted to do when I was
+				fifteen so I went to the careers office to find out more about the tests I would
+				have to take they told me to apply after Christmas, when I told my parents this, my
+				mother said to me that seems very late, so she phoned up the army careers office at
+				Chatham and they told her that there were only two places left for testing of the
+				next day, so they invited me to go over and take the <sic>entrence</sic><corr>entrance</corr> test. After I passed
+				the test I was the invited to attend a selection center to find out which section of
+				the army I was best at, my first choice was to go into the Royal Corps of Transport
+				as a senior Driver.</u>
+      <u xml:id="q-377f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">The one thing
+				that let me down was my English result from my exams mind you that not <sic>supprising</sic><corr>surprising</corr>
+				when you teachers like Mr Haydon who can’t spell. But even because I had a bad
+				result it didn’t stop me <sic>geting</sic><corr>getting</corr> in.</u>
+      <u xml:id="q-387f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">This thing that
+				used to bug me was our ,
+				<sic>sergent</sic><corr>sergeant</corr> he really was a <sic>sqare</sic><corr>scare</corr> basher just like Mr Hutley.</u>
+      <u xml:id="q-397f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I always remember
+				what we used to say watch out! Watch out! Hutley’s about.</u>
+    </body>
+  </text>
+</TEI>

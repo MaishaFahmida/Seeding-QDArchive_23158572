@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 94</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-a39b821c-4cb9-481e-97ef-c4085fa549ad</idno>
+        <idno type="qudexdocument">q-ca1ec2ac-ec14-4525-be72-d051043c7748</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-7f7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-807f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at 16 years of age. My first job was a clerical assistant at the local council offices, I didn’t stay there very long as I became quite bored, with the routine. I left them, and went to work for a firm in London. I stayed with my aunt for six months and then rented a flat with a girl who worked in my office.</u>
+      <u xml:id="q-817f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">The flat was quite nice, but it was a bit too expensive to run, seeing that there were only two of us, and our wages weren’t very high.</u>
+      <u xml:id="q-827f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I was home sick, and missed my former boyfriend very much, so I handed in my notice and came home to live in Sheppey again.</u>
+      <u xml:id="q-837f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I continued courting with different boys and going out and generally enjoying life until I got engaged at the age of 21. I remember saying to my fiancé before I married I don’t want children for the first two years just in case it doesn’t work. I married at the age of 22 and became pregnant 5 months later!</u>
+      <u xml:id="q-847f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">It was a little girl. At the time I wondered how I was going to cope, but I did and loved every minute of it. By the age of 28 I had 3 lovely children 1 girl and 2 boys.</u>
+      <u xml:id="q-857f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I continued to work after my children started work and at this job I stayed 5 years.</u>
+      <u xml:id="q-867f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">We were comfortable, with a nice house, and we went out quite often of a night time. This kind of life went on until I reached the age of 41, and I became pregnant again for the fourth time. I was very pleased, as my eldest daughter was twenty years of age. I had another girl. Three years later my first grandchild was born and this is when you begin to feel old, my mother became a great-grandmother and myself a nanny as well.</u>
+      <u xml:id="q-877f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Unfortunately the following year my father died. This upset me very much and my mother suffered a great deal. I nursed her until she finally came to live with me. It wasn’t a strain as she was no bother.</u>
+      <u xml:id="q-887f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Now at the age of 68 I look back on my life, was it exciting? Had I fulfilled my expectations? The answer to these questions still remains unsolved, as I have a few more years to go yet and who know what might happen.</u>
+    </body>
+  </text>
+</TEI>

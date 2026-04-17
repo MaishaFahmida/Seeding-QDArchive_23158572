@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 68</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-0578ccef-49c7-4a8e-bbf5-7e900ef7d1a3</idno>
+        <idno type="qudexdocument">q-d5701625-942f-4584-9e70-722e487d30c3</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-c17e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Back in Age The Good Old Days</note>
+      <u xml:id="q-c37e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Back into sweet
+				sixteen, the age of legalness, whereby you come of age for sex, motorbikes, smoking,
+				pubs. A good age but the worst for trouble, I <sic>new</sic><corr>knew</corr> I was old enough for sex, driving,
+				and smoking so I started doing all of these which got me into trouble most of my
+				life. I got engaged at 16 and tied myself down for life. Between 17-18 I took
+				driving lessons and went for my test I failed 10 time but eventually I managed. I
+				got married and settled down at 20, <sic>payed</sic><corr>paid</corr> deposit on a house mortgage it wasn’t a
+				good house but we cleaned it up and done well, oh by the way you haven’t met my wife
+				this is Dawn. At the age of 22 I bought a bigger house, a better car and worked
+				hard, started off in <sic>factorys</sic><corr>factories</corr>, but got an apprenticeship, and passed at 22, I went
+				on into business on my own, it worked out pretty well I never became no fantastic
+				millionaire, but I was happy living on £90 a week. At the Age of 25 I took my HGV
+				license and started driving <sic>lorrys</sic><corr>lorries</corr>, I remember I first drove for bennetts at
+				queenborough on Sheppey transportings pascalls I work there for 5 years earning good
+				money. At the age of 30 half my life gone left behind but another half ahead of me.
+				I left driving and went back into business. As an electrician on my own. 32 it had
+				come, my mother died of cancer of the liver. She was 72, I let me dad come and live
+				with me, and because of this I saw my sister for the first time in ten years, anyway
+				I was pleased to see them and they still come now. 35 came up quick I went to Spain
+				for the first time in my life, just for a holiday but I came back with a brand new
+				car. At 40 I bought another new house, this time I fully furnished it and carpeted
+				it out. It cost a bomb, but then I always said you only live once. 43 my dad died
+				suddenly with heart failure at 82, ten years after me mother and my sister came and
+				lived with me and dawn for a year. 46 life was getting rough the standard of living
+				just kept on going up and up until I nearly went down to the ground bankrupt but my
+				sister bought me back up and its lasted well. So we moved house, as the kids had
+				moved and left home, dawn had kids when I was 25, now there the age I was and have
+				left home. We bought a small bungalow. 53 Dawn in hospital for check ups as we both
+				had suspected TB but it didn’t work out, we were both OK. At 60 we both retired
+				collecting <sic>pention</sic><corr>pension</corr> now with a good home and family, 4 nephews and 12 <sic>neises</sic><corr>nieces</corr>, by the
+				way I forgot to tell you we had two boys and a girl.</u>
+    </body>
+  </text>
+</TEI>

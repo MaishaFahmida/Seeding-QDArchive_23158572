@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale, 19 Aug 44</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-cb430137-06f9-490a-bff4-1962f5c5c0e6</idno>
+				<idno type="qudexdocument">q-6f23cd6b-3b1c-40af-95eb-da336454e946</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-5d517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">SECRET</note>
+				<note xml:id="q-5e517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">A/33</note>
+				<note xml:id="q-5f517fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="3">19 Aug 44</note>
+				<note xml:id="q-60517fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="4">SUBJECT :- Morale</note>
+				<note xml:id="q-61517fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">To :- Land Forces Adriatic</note>
+				<note xml:id="q-62517fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">From :- HQ VIS Bde</note>
+				<note xml:id="q-63517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Ref your two letters LFA/43/A of 15 July and LFA/44/A of 26 July, I submit morale report for the three months ending 20 Aug 44 for all units at 1 Fwd Base excl 2 SS Bde. hhh 1. Offences against the Army Act</note>
+				<note xml:id="q-64517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">(a) Absence</note>
+				<note xml:id="q-65517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Under one hour- 12 cases</note>
+				<note xml:id="q-66517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">24 hours - 5 cases</note>
+				<note xml:id="q-67517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Over 24 - 1 case.</note>
+				<note xml:id="q-68517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">(b) Other offences -</note>
+				<note xml:id="q-69517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Very few cases, incl 3 in connection with WD vehs, 3 of drunken­ness, 1 of insubordination and 1 of creating a disturbance.</note>
+				<note xml:id="q-6a517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(c) Minor offences</note>
+				<note xml:id="q-6b517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">About 25 cases in all. hhh 2. Confidence</note>
+				<note xml:id="q-6c517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">(a) In the Army's cause, its leaders, and in the progress of the war. At the present time confidence in the cause and the progress of the war runs high. In one unit disappointment is expressed that after 5 years they are still in uniform, but it is realized that the progress made since 1940 might have taken a good deal longer. This same unit finds it difficult to take a personal interest in the Japanese war, and feels that it is not "our affair". This is indeed a strange view.</note>
+				<note xml:id="q-6d517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Another unit feels that the defeat of the Japanese will take a long time, and that real progress against them cannot be made until the end of the war in Europe. There is general confidence in our leaders, though one unit feels they could do more to curtail length of overseas service.</note>
+				<note xml:id="q-6e517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">(b) In amn &amp; eqpt This is complete, and in fact amounts to a certain degree of pride. hhh 3. Contentment</note>
+				<note xml:id="q-6f517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">(a) Interest in trg &amp; ops This is considerable, though now that the end of the war appears close, it has been difficult to maintain interest in the more uninteresting and routine forms of trg.</note>
+				<note xml:id="q-70517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Trg is handicapped in that hardly any mob trg can be carried out on the island; this applies particularly to the Fd Regt RA.</note>
+				<note xml:id="q-71517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Trg for a particular op is far more popular than other trg.</note>
+				<note xml:id="q-72517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">All ranks are very interested in the ops that are mounted from this base, and are proud to have been selected for service under a Special Service Bde.</note>
+				<note xml:id="q-73517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">So far as AA units are concerned they have engaged more "live" targets since coming to this base than for some time previously.</note>
+				<note xml:id="q-74517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The AA gunners have shown keenness to be at an instant state of readiness for long periods in order that no opportunity of opening fire will be missed.</note>
+				<note xml:id="q-75517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">(a) Living conditions</note>
+				<note xml:id="q-76517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">(i) Quarters These are a bit rough, but quite sufficient for summer weather and there is no discontent with them.</note>
+				<note xml:id="q-77517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">(ii) Messing There is a universal dislike of dehydrated food, and more fresh fruit, meat, and vegetables are required.</note>
+				<note xml:id="q-78517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Two units find they do not get enough rations, and one unit considers the rations compare unfavourably with those on the mainland, and those issued to American tps.</note>
+				<note xml:id="q-79517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">One unit asks for more tea, sugar and milk.</note>
+				<note xml:id="q-7a517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">One unit considers they have a very high standard of messing, and it is interesting to note that this unit is the only one which mentions that visits from the catering adviser have always been encouraged.</note>
+				<note xml:id="q-7b517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">(iii) NAAFI</note>
+				<note xml:id="q-7c517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(a) General This has improved considerably lately, and the more liberal supply of cordials is very popular.</note>
+				<note xml:id="q-7d517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">There are two main complaints. One is the shortage of beer which never exceeds one bottle, and is often half a bottle, or even nil, per week.</note>
+				<note xml:id="q-7e517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">This complaint has weight added to it by the universal knowledge that RN personnel stationed at this base get a bottle a day.</note>
+				<note xml:id="q-7f517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">The other complaint is the high price of some commodities. For instance 3d for a cup of tea from the mob van, is too much.</note>
+				<note xml:id="q-80517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">One unit suggests that more of the NAAFI profits should go to reduction of overseas prices.</note>
+				<note xml:id="q-81517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">(b) Officers' Shop Officers complain that officers' shops are very poorly stocked. Shoes, stockings, badges of rank, handkerchiefs, etc are rarely obtainable.</note>
+				<note xml:id="q-82517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">(iv) Recreation &amp; amusements General satisfaction is expressed with the organized games and sports. Owing to the infrequency of moves, all units at the base have got to know each other and have developed a healthy rivalry.</note>
+				<note xml:id="q-83517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">One unit reports a shortage of footballs and wireless sets, and regrets that the issue of PT shoes has ceased. It does seem that there ought to be some form of official footwear other than GS boots for PT, sports, etc.</note>
+				<note xml:id="q-84517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">The regular cinema shows are appreciated, though better films are asked for. Educational films are not popular.</note>
+				<note xml:id="q-85517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">The two ENSA shows were well attended and enjoyed, but no unit speaks highly of them, and the general opinion seems to be that their subject matter is too "trivial".</note>
+				<note xml:id="q-86517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">(v) Leave More vacancies are required as the present rate of turnover is too slow. This is aggravated by the uncertainties of tpt to the mainland.</note>
+				<note xml:id="q-87517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">One unit does not like rest camps and would like to get away from the Army when on leave.</note>
+				<note xml:id="q-88517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">Two units consider they are entitled to home leave after the end of the war in Europe, and before being sent to the Far East. (vi) Mail Though there used to be considerable delays, most units are now well satisfied with the speed of delivery.</note>
+				<note xml:id="q-89517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">Two units ask for a larger distribution of Air Letters. One of them cannot understand why the aircraft which bring an unrestricted quantity of air letters from home, cannot take the same unrestricted quantity back to England.</note>
+				<note xml:id="q-8a517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">The shortage in the issue is particularly felt when there is trouble at home, and the soldier wishes to write to several people quickly.</note>
+				<note xml:id="q-8b517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">(c) Finance - pay, allowances &amp; expenses The men are mostly satisfied since the present pay increases. There are one or two complaints however, and instances are quoted where the increases have had the effect of making the pay of a junior offr or soldier about the same as that of a higher rank or tradesman, who, by virtue of his additional responsibilities, should get more.</note>
+				<note xml:id="q-8c517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">Instances are - A married offr with one child gets only 6d a day more as a capt than as a lieutenant, after income tax has been paid. A sgt and lance sgt get only 2d a day more than their next juniors, after payment of tax. A gunner class 1A gets the dame pay (5/- per day) as a Dvr Op Class III. The dvr op has to be an efficient signaller as well as dvr and should get more. Two units state that dissatisfaction has been caused by the delay in receiving notification of balances and changes in rates of pay, and also by inaccuracies in such notifications from Paymasters. One unit reports bitter feeling over the higher rates of pay of Allied Armies. One unit raises the old but pressing question of the underpayment of dvrs, when the value of the eqpt they are responsible for is taken into consideration. It is pointed out that if a dvr causes damage to his veh he is quickly enough mulcted in stoppages, but that there is no compensating payment or bonus if he preserves his veh from damage. A "non accident bonus" is suggested after a certified period of accident free driving.</note>
+				<note xml:id="q-8d517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">(d) Conditions affecting families</note>
+				<note xml:id="q-8e517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">General anxiety is reported over the flying bomb raids, partic­ularly as to the financial position when a mortgaged house is destroyed.</note>
+				<note xml:id="q-8f517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">Some men are worried at the high prices for necessities such as childrens' clothing now prevailing at home, and there is a fear that rents may be high after the war.</note>
+				<note xml:id="q-90517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">One unit reports several cases of marriages breaking up through long years of separation, and that the husbands felt that their marriages could have been saved had they been able to get home on a compassionate posting.</note>
+				<note xml:id="q-91517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">Another unit suggests that men who have applied for a compassionate posting home should be kept infm of the progress of the application. It is suggested that it would save them from worry, and that it would be a help to them, if the numbers sent home each month on compassionate postings could be published.</note>
+				<note xml:id="q-92517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">One unit reports that feeling against the Americans at home still runs high.</note>
+				<note xml:id="q-93517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">(e) Relations between offrs, NCOs &amp; men Without exception these are good.</note>
+				<note xml:id="q-94517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">(f) Relations with other services, etc</note>
+				<note xml:id="q-95517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">(i) RAF Those units who have had contact with the RAF report that their relations with them are good.</note>
+				<note xml:id="q-96517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">One unit, which sees a lot of the RAF, states that relations are "Better than they have ever been".</note>
+				<note xml:id="q-97517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">(ii) ATS There are none here.</note>
+				<note xml:id="q-98517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">(iii) Dominion &amp; USA tps</note>
+				<note xml:id="q-99517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">Those units who have met any report good relations, though one unit excepts the Americans.</note>
+				<note xml:id="q-9a517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">(iv) Yugoslav civilians &amp; National Army Relations are really excellent. hhh 4. Education and ABCA</note>
+				<note xml:id="q-9b517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">Recently there has been an increased interest in post-war problems.</note>
+				<note xml:id="q-9c517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">Otherwise not much interest is shown in education, apart from individuals who take voluntary language classes, etc.</note>
+				<note xml:id="q-9d517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="65">It is not always possible to run ABCA discussions, but where this is done, they are appreciated; more so if they are held during normal working hours.</note>
+				<note xml:id="q-9e517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="66">One unit suggests that "Current Affairs" is not successful, and that "World Press Review" is much better.</note>
+				<note xml:id="q-9f517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="67">One unit states that education has been more popular than ABCA. hhh 5. Efficiency</note>
+				<note xml:id="q-a0517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="68">(a) Physical fitness This is very good; there is plenty of sport on the island, and the swimming is very popular. The sickness rate is very low.</note>
+				<note xml:id="q-a1517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="69">(b) Discipline This is good, apart from a tendency lately to slackness in dress which is probably due to the hot weather. This is rapidly being put right. hhh 6. Miscellaneous</note>
+				<note xml:id="q-a2517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="70">Two units report considerable apathy in filling in the electoral registration forms.</note>
+				<note xml:id="q-a3517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="71">Two units report that their men were, and still are, proud and interested in their unusual role in the defence of this island. At the same time they anticipate that the interest is likely to be difficult to maintain for much longer, though the pride in their past share in the island def will remain.</note>
+				<note xml:id="q-a4517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="72">I feel that as long as the fighting units on the Island can always be planning and looking forward to some future operation their morale will remain at its present high pitch.</note>
+				<note xml:id="q-a5517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="73">Without exception every man that I talk to, going round the Island, always seems happy, fit, and in exceptionally good heart.</note>
+				<note xml:id="q-a6517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="74">Colonel</note>
+				<note xml:id="q-a7517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="75">Comd VIS Bde</note>
+				<note xml:id="q-a8517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="76">CMF</note>
+			</div>
+		</body>
+	</text>
+</TEI>

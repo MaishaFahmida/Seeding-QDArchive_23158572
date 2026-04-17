@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report for period Dec 44 to Feb 45</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-d3132c89-25c7-4a4e-8cb2-cdb78bd524e1</idno>
+				<idno type="qudexdocument">q-133caaea-da55-41dd-9b6f-9a79d3a96895</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-09507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-0a507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">HQ ADRIATIC BRIGADE</note>
+				<note xml:id="q-0b507fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="3">MORALE REPORT for period Dec 44 to Feb 45 hhh GENERAL</note>
+				<note xml:id="q-0c507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">1. The activities of the HQ during the period covered by this report were as follows:-</note>
+				<note xml:id="q-0d507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">Dec 1 - Dec 24 - Active ops inside Jugo-slavia</note>
+				<note xml:id="q-0e507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Dec 25 - Jan 30 - (a) Conc in GRUZ area for fresh ops (b) Trg, reorg, sport, entertainment followed by withdrawal to ITALY.</note>
+				<note xml:id="q-0f507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Jan 31 - Feb 28 - Trg, reorg, and leave for all ranks.</note>
+				<note xml:id="q-10507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">2. Morale generally over the period in question has been of a high standard, despite a certain sense of frustration experienced in Jugo-slavia where political influence prejudiced the free conduct of a successful campaign. This was definitely sensed by the men.</note>
+				<note xml:id="q-11507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">3. Morale was assisted by general release of Social Security Plans, Release Scheme and Gratuity Scales. hhh DISCIPLINE</note>
+				<note xml:id="q-12507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">4. Offences against the Army Act committed during the period were as follows:-</note>
+				<note xml:id="q-13507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">AA (Sec) No of Offences Award</note>
+				<note xml:id="q-14507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Sec 40 1 7 Days CB</note>
+				<note xml:id="q-15507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Sec 8(2) 1 14 Days Detention</note>
+				<note xml:id="q-16507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">5. A feeling of resentment was apparent towards a discipline drive begun on return from Jugo-slavia, particularly in the case of a HQ guard. This was probably contributed to by reaction after exacting ops, and the general "leave" atmosphere on return to ITALY. hhh CONFIDENCE</note>
+				<note xml:id="q-17507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">6. Confidence is evident in: -</note>
+				<note xml:id="q-18507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">(a) Army leaders and the outcome of the National War Effort.</note>
+				<note xml:id="q-19507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(b) British arms and eqpt.</note>
+				<note xml:id="q-1a507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">(c) General efficiency of all arms. hhh MAIL</note>
+				<note xml:id="q-1b507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">7. (a) The removal of the restriction on the issue of Air Letter Cards has been appreciated.</note>
+				<note xml:id="q-1c507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">(b) Arrival of mail in Jugo-Slavia was irregular during Dec and early Jan, but improved during the latter part of the period after representation had been made to higher authority. hhh WELFARE AND ENTERTAINMENT</note>
+				<note xml:id="q-1d507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">8. (a) Improved during the latter part of Jan with the fmn of a Garrison Canteen, and the arrival in Jugo-Slavia of a Mobile Cinema.</note>
+				<note xml:id="q-1e507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">(b) since return to ITALY and to the amenities of BARI, criticism has been made of the control of entertainments. Lack of proper adm results in endless queues for shows, and it is felt that this could be overcome by an allotment plan. Tps have asked for half-days on Weds, as Sats are hopeless from an entertainment point of view.</note>
+				<note xml:id="q-1f507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">(c) The lack of sports eqpt and the limited allowance of sports clothing is keenly felt. hhh EDUCATION AND ABCA</note>
+				<note xml:id="q-20507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">9. Has been difficult to org during active ops, but is being arranged during present period of trg.</note>
+				<note xml:id="q-21507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Tps welcome opportunities to discuss war situation and post-war plans. hhh RELATIONS BETWEEN OFFRS AND MEN</note>
+				<note xml:id="q-22507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">10. Normal relations have obtained during the period. hhh RELATIONS WITH ALLIES</note>
+				<note xml:id="q-23507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">11. Relations with JANL in Jugo-slavia were definitely strained owing to the restrictions imposed on Brit tps by the Partizans; e.g. Brit tps were NOT allowed to visit DUBROVNIK except during certain hrs, and were strongly discouraged from speaking to Jugo-slav civilians at all times.</note>
+				<note xml:id="q-24507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">The persecution by Partizans of local civilians in the DUBROVNIK area was strongly resented by our tps. hhh FINANCE</note>
+				<note xml:id="q-25507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">12. (a) Receipt of AF N 1483 showing tps credit balances is very slow.</note>
+				<note xml:id="q-26507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(b) The scale of post-war gratuities has been frequently criticized. The majority are apparently of the opinion that all ranks should receive equal recompense for war service irrespective of rank held. hhh LEAVE</note>
+				<note xml:id="q-27507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">13. (a) Leave to ROME has been extremely popular and the amenities of the ROME Rest Camp much appreciated.</note>
+				<note xml:id="q-28507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(b) The LIAP Scheme gave a big boost to morale on its introduction, although it now appears rather unfortunate that the limitations of the scheme were not made more widely known at the outset.</note>
+				<note xml:id="q-29507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Maj RM</note>
+				<note xml:id="q-2a507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">for Brig</note>
+				<note xml:id="q-2b507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Comd ADRIATIC Bde</note>
+				<note xml:id="q-2c507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">CMF</note>
+				<note xml:id="q-2d507fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="37">3 Mar 45</note>
+			</div>
+		</body>
+	</text>
+</TEI>

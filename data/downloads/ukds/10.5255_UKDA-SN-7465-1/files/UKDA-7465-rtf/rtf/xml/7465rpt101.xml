@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, 8 March 1945</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-941cd6d1-a0b5-4f0e-b6d0-b4e9febba025</idno>
+				<idno type="qudexdocument">q-cfdc02ab-8070-4e96-84f6-c8d8831ce47d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-b9507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">Subject: MORALE REPORT</note>
+				<note xml:id="q-ba507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">To: A.A.&amp;Q.M.G., Headquarters</note>
+				<note xml:id="q-bb507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">Forces Adriatic</note>
+				<note xml:id="q-bc507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">From: 202 Mobile Dental Unit,</note>
+				<note xml:id="q-bd507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">A.D.CROPS.</note>
+				<note xml:id="q-be507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Owning to a small numerical strength of this unit, plus to unanimity of the replies given to questions, the report is actually a list of questions and answers.</note>
+				<note xml:id="q-bf507fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="7">Sec. I. hhh MORALE IN GENERAL</note>
+				<note xml:id="q-c0507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">is good within the unit, the sole ambition of all personnel being a fairly general one. That of getting the job over. After two and a half years of overseas service, leave has been consistently refused, as any one member of the unit proceeding on leave would automatically incapacitate the entire unit. Releasing this, and the difficulty of obtaining personnel for temporary duty, as against the impossibility, to date, or the whole proceeding on leave, the problem has been solved by being forgotten. All personnel are happy with this state of affairs existing, as far as local leave is concerned. LIAP has raised hopes of a visit home however, but the chance of such a small unit being included in this scheme seems remote.</note>
+				<note xml:id="q-c1507fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="9">Sec. II. hhh DISCIPLINE.</note>
+				<note xml:id="q-c2507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">No trouble of- any kin has been experienced in this respect. hhh CONFIDENCE</note>
+				<note xml:id="q-c3507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">a) In Army Leaders and the war.</note>
+				<note xml:id="q-c4507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">b) In Arms and Equipment.</note>
+				<note xml:id="q-c5507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">c) In Efficiency.</note>
+				<note xml:id="q-c6507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Fairly high in all these respects. hhh MAIL</note>
+				<note xml:id="q-c7507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">No cause for complaint whatsoever. hhh WELFARE &amp; ENTERNTAINMENT</note>
+				<note xml:id="q-c8507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">a) Living Conditions. As good as can be expected and better than many.</note>
+				<note xml:id="q-c9507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">b) Recreation &amp; Amusements. Satisfactory and greatly improved latterly.</note>
+				<note xml:id="q-ca507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">c) General. Appreciative of greater attention paid to all round welfare of troops recently. hhh EDUCATION &amp; A.B.C.A.</note>
+				<note xml:id="q-cb507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Hardly practicable in this unit, but copies of publications in this respect are available for personnel to read and digest. hhh RELATIONS BETWEEN OFFICERS &amp; MEN</note>
+				<note xml:id="q-cc507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Proper. hhh RELATIONS WITH OTHER SERVICES</note>
+				<note xml:id="q-cd507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Rarely meet them. Existing relationship however is exactly as between ourselves. hhh RELATIONS WITH ALLIES</note>
+				<note xml:id="q-ce507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">Always nappy to have a chat with a member of the Forces. Find them quite friendly at most times. hhh HOME AFFAIRS? POST WAR AND RELEASE</note>
+				<note xml:id="q-cf507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">Wold prefer to answer Post War. Plans as published seen most fair. hhh FINANCE</note>
+				<note xml:id="q-d0507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">No comment. hhh MISCELLANEOUS</note>
+				<note xml:id="q-d1507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">a) Overseas Service. Philosophical about it.</note>
+				<note xml:id="q-d2507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">b) Leave. Not particularly interested.</note>
+				<note xml:id="q-d3507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">c) Relations with civil populations. More cordial in the ... Relationship rather Vagu.</note>
+				<note xml:id="q-d4507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="28">Captn A.D.CORPS.</note>
+				<note xml:id="q-d5507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="29">OC., 202 Mobile Dental Unit, A.D. CORPS.</note>
+				<note xml:id="q-d6507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">4.3.45</note>
+				<note xml:id="q-d7507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">O.M.F.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 48</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-626a53b5-81ff-48a7-a3ed-3d98e743f4fa</idno>
+        <idno type="qudexdocument">q-cf3ed735-b69e-4382-aaf5-f177ad7e3a2b</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-4b7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-4c7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At the age of
+				sixteen, a week away from my exams, life like hell, revising this and that, working
+				out which place went where, sorting out Charle’s law, and Boyles law. Life was not
+				as bad as it seemed because when my marks came through the post the results where
+				what I had expected. They were not good enough to get in my in to the job that I had
+				wanted for so long which was an Airframe/propulsion aircraft fitter in the Royal Air
+				Force but it did get me there in to my next most wanted job a direct entrant and to
+				specialise on one job only, that of airframes.</u>
+      <u xml:id="q-4d7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Getting the job
+				was hard enough but doing the job was a different matter all together. First of all
+				I had to go to the R.A.F. Swinderby for six weeks basic training and this was like
+				being at school again but learning different things such as drill, rifle drill, P.E.
+				Training, hiking across rough country and boy was it hard, and that drill sergeant
+				he was a right nasty piece of work who never stopped shouting from the minute we
+				walked on to the parade square, until the minute we walked off again.</u>
+      <u xml:id="q-4e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Still six weeks
+				went passed as fast as eny thing and then on to R.A.F. Haltonwhere I went to get
+				another school and learnt all about the airframe of an aircraft, still it was worth
+				it because no sooner than joining the class we were leaving it of to foreign parts,
+				I did not go far, in fact I stayed in Great Britain and went to R.A.F. Scampton in
+				Lincolnshire for nine years where I worked on Vulcans and Victors.</u>
+      <u xml:id="q-4f7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I left the
+				airforce at the age of 24, and went and worked for British Airways where I met a
+				nice girl and got to know her and sure enough two years later I got married. We
+				<sic>where</sic><corr>were</corr> quite happy where we lived in the country but it was too far for me to go each
+				day to work but this was not all that stopped me from going to work because at
+				British Airways a large strike was on I had no choice but stay away.</u>
+      <u xml:id="q-507e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">At the age of 40
+				I had left British airways and was working in a small office just outside of
+				Hampshire as this was my dream place where I had always wanted to live.</u>
+      <u xml:id="q-517e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I had been
+				married 14 years and have got three lovely children the oldest of which is 11 and
+				the youngest 6. I have the responsibility of making sure the insurance <sic>polecies</sic><corr>policies</corr>, of
+				all the major airports in Britain are <sic>keeped</sic><corr>kept</corr> up to date. I stayed with this job
+				until I was 64 when I retired, but ran a light aircraft in which I did most of my
+				travelling abroad and on a little sight seeing.</u>
+      <u xml:id="q-527e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">My three children
+				have all been married and are living in Manchester, Sheffield and Bristol.</u>
+      <u xml:id="q-537e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">I look down
+				towards the floor where two of my grandchildren are making plastic aircraft kits and
+				also reading some of my <sic>pamphletes</sic><corr>pamphlets</corr> I had as a boy and comparing then with to-days
+				more advanced ones which I do not even understand as a direct entrant as I had done
+				all those years ago, we will just have to wait and see.</u>
+    </body>
+  </text>
+</TEI>

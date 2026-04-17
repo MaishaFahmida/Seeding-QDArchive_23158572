@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Statistical Report, period 31 to 27 March 1943</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-34e5dc2a-1fee-4e6d-9f14-63803f7e17a7</idno>
+				<idno type="qudexdocument">q-1c889ec8-5459-4515-a0d4-d476d429934d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-5f567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-60567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">Equals British SECRET</note>
+				<note xml:id="q-61567fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">ALLIED FORCE HEADQUARTERS Censorship Branch (INC) A.P.O. 512 U.S.A.</note>
+				<note xml:id="q-62567fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Base Censorship Det. No. 2.</note>
+				<note xml:id="q-63567fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="5">5 April. 1943.</note>
+				<note xml:id="q-64567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">STATISTICAL REPORT. Period 21 to 27 Mar. 1943.</note>
+				<note xml:id="q-65567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">MORALE REPORT. Period, February, 1943</note>
+				<note xml:id="q-66567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">MORALE REPORT. Period 28 Feb. to 6 Mar. 1943.</note>
+				<note xml:id="q-67567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">MORALE REPORT. Period 7 Mar. to 13 mar. 191.3.</note>
+				<note xml:id="q-68567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">MORALE REPORT. Period 14 Mar. to 20 Mar. 1943.</note>
+				<note xml:id="q-69567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">MORALE REPORT. Period 21 Mar. to 27 Mar. 1943.</note>
+				<note xml:id="q-6a567fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="12">TO: G-1, A.F.H.Q. FOR CIRCULATION WITHIN ALLIED FORCE HEADQUARTERS AND FOR FTLTNG IN AG.</note>
+				<note xml:id="q-6b567fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="13">STATISTICAL REPORT</note>
+				<note xml:id="q-6c567fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="14">BASE CENSORSHIP DETACHMENT NO. 2</note>
+				<note xml:id="q-6d567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Period covered I March 21 through March 27th,1943</note>
+				<note xml:id="q-6e567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Total</note>
+				<note xml:id="q-6f567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Outgoing Incoming hhh BY ARMY BASE P.O.</note>
+				<note xml:id="q-70567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">1. Volume of Letters Received</note>
+				<note xml:id="q-71567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">364,000 120,0O0</note>
+				<note xml:id="q-72567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">2. Number of Cornea Sheets prepared 45</note>
+				<note xml:id="q-73567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">3. (Serial Numbers of Comment sheets</note>
+				<note xml:id="q-74567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">From 1 1 to 166</note>
+				<note xml:id="q-75567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">4. Number of Letters Condemned 16</note>
+				<note xml:id="q-76567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">5. Volume of Prints &amp; Parcels Received 3732 0</note>
+				<note xml:id="q-77567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">6. Number of Prints &amp; Parcels Condemned 0 hhh REMARKS</note>
+				<note xml:id="q-78567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">In addition, 252 post cards without return address or having Morrocan stamps on were condemned</note>
+				<note xml:id="q-79567fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">DATE MAIL RECEIVED DATE &amp; TIME RECEIVED DATE &amp; TIME RETURNED TO B.P.O. POSSESSION OF B.C. Mar. 21 11606 3/21 - O800-15O0 3/21 - 163O 7 to 24 3/22 - O8OO-1500 hours 1630 22 7103 3/22 - 0800-1500 3/22 - 1630 7 to 24 3/23 - 080O-1500 hours 1630 23 124.60 3/23 - 0800-1500 3/23 - 1630 7 to 24 3/24 - 0800-1500 hours 1630 24 13603 3/24 - 0800-1500 3/24 - 1630 7 to 24 3/25 - 0800-1500 hours 1630 25 10671 3/25 - O800-1500 3/25 - 1630 7 to 24 3/26 - O800-1500 hours 163O 26 16822 3/26 - O8OO-1500 3/26 - 1630 7 to 24 3/27 - 0800-15O0 hours 163O 27 12023 3/27 - O800-15O0 3/27 - 1630 7 to 24 3/28 - O8OO-15O0 hours 163O TOTAL 84288</note>
+			</div>
+		</body>
+	</text>
+</TEI>

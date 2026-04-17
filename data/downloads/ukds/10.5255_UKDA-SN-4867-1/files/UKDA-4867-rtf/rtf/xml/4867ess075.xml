@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 76</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-3319502b-c242-4e58-b9d2-3ead73c6fef0</idno>
+        <idno type="qudexdocument">q-1fb00e09-cd1d-4817-9db7-70779863c3d5</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-fc7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Looking back at 60</note>
+      <u xml:id="q-fd7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I started work at
+				16 ½ as an apprentice mechanic in a local garage. During this time I spent a lot of
+				time making money by repairing cars and selling them myself. I also got a car, it
+				had lots of room to move, <sic>espeacily</sic><corr>especially</corr> in the back. When I was nineteen after finishing
+				my apprenticeship I joined the merchant Navy as a Deckhand on my first ship, the
+				Dragon, I only went to France and Rotterdam. It was my 20th {illegible} before I got
+				very far. I went to America after a rough trip over. At 25 I left the Navy and
+				started to look for a job on land, but there was a shortage jobs so I signed on the
+				dole drawing 25 quid a week. Eventually I got another job in a garage again as head
+				mechanic. I also got myself a garage in which I could do repairs {illegible} jobs
+				etc. In the first year I sold about 20 cars and made around £5,000 I did this for
+				around 5 years and made between 30 and 40 grand then I bought a</u>
+    </body>
+  </text>
+</TEI>

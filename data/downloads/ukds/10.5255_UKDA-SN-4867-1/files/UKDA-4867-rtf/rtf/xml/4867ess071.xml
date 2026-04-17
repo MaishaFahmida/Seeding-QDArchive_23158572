@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 72</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-3075138e-9a6b-48f3-99e0-48ecf01fabda</idno>
+        <idno type="qudexdocument">q-65126112-d574-4dd4-ac23-a4eb12c78cc8</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-dc7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">I left school,
+				and had to look for a job, I <sic>throught</sic><corr>thought</corr> I found a job that I liked but it would mean
+				working nights which I did not fancy and the money we not very good. It was a <sic>chife</sic><corr>chef</corr>
+				at a hotel in London. As I could not find a job I wrote <sic>of</sic><corr>to</corr><sic>Thant</sic><corr>that</corr><sic>Collage</sic><corr>College</corr> for a <sic>Chife</sic><corr>Chef</corr>
+				course I was expect when I was 17 and stayed <sic>their</sic><corr>there</corr> for three years. When I come out
+				of <sic>Thant</sic><corr>that</corr><sic>Collage</sic><corr>College</corr> I had to wait for a few weeks to find a job, then I looked in a
+				newspaper, it said <sic>chife</sic><corr>chef</corr> wanted at London Hotel so I wrote to see if I could a
+				interview, they asked me if I would come up, so I did, they seemed friend the wages
+				were good, and you got hour of for lunch I did not to start until 9 am then when
+				went to lunch at 2 pm then back until 5 pm, so I took the job. I did not have to
+				work on Sundays that was good <sic>becaues</sic><corr>because</corr> I had a <sic>hobey</sic><corr>hobbey</corr> football. I played for the <sic>twon</sic><corr>town</corr>
+				local team, top of the league in two cup finals. I planned to get married when I was
+				26 years old.</u>
+      <u xml:id="q-dd7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I was 26 I
+				got married my job as a <sic>chiefe</sic><corr>chef</corr> was in rocks, as the hotel had been bunt, blady , but
+				I would not be out of a job, <sic>becaues</sic><corr>because</corr> I was offered a <sic>concert</sic><corr>contract</corr> with a <sic>formous</sic><corr>famous</corr><sic>footmall</sic><corr>football</corr>
+				team which I took, At 27 I played my debut against Liverpool which was a hard game
+				we just about won 5-4 that was <sic>they</sic><corr>the</corr> only game I played all season, so I would see
+				what would happen just year not much so I asked for a transfore. I got it when I was
+				31.</u>
+      <u xml:id="q-de7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I played in <sic>divison</sic><corr>division</corr> 4 with Reading I won a cup couple of <sic>medles</sic><corr>medals</corr> with the {Illegible} for the next 9 years
+				I was happy at Reading, my wife got her first baby a boy we called him Paul, he grow
+				up and followed his dad’s footsteps. When had another kid a few years later, my wife
+				was <sic>take</sic><corr>taken</corr>ill, she had to stay in <sic>hospite</sic><corr>hospital</corr> for a few weeks.</u>
+      <u xml:id="q-df7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">So the death of
+				my wife, so I had to look after the children, a boy and a girl, the boy just in the
+				most import time of his life, when he had to take his exam, if you passed any ‘o’
+				level he would ten pound, and for CSE five pound. I <sic>eneded</sic><corr>ended</corr> up paying 45 pounds for
+				the exam, five six CSE and two ‘o’ level my <sic>sone</sic><corr>son</corr> left us and went into the army.</u>
+      <u xml:id="q-e07e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I had to retire
+				from football but was offered a {illegible} has a <sic>manger</sic><corr>manager</corr>, which I took up we did not
+				do well in the first year coming six from bottom, but the next two years were good
+				fishing 5 and 7 and the year after that we won <sic>promiption</sic><corr>promotion</corr> to <sic>divison</sic><corr>division</corr> 3, I was on the
+				{illegible} of 60 I was only my now as my daughter left to go with her boyfriend, at
+				63 {could be 65?} I retired from football all together I still watched a bit I had
+				to <sic>retiler</sic><corr>retire</corr><sic>becaues</sic><corr>because</corr> I was in a road <sic>crush</sic><corr>crash</corr> and could not see out of one eye. A 70
+				years old I had to go to an old peoples home as the house become <sic>to</sic><corr>too</corr> big for me so i
+				sold it by I only last a few years there.</u>
+    </body>
+  </text>
+</TEI>

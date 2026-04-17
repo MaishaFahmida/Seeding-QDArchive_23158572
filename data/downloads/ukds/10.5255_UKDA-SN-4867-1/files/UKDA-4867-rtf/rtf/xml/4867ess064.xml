@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 65</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-a2f5f92d-ddce-411e-951c-d2c846d74f70</idno>
+        <idno type="qudexdocument">q-474cb984-077a-4be3-80ec-b4036dc200aa</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-b87e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting the Past</note>
+      <u xml:id="q-b97e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking {?} 16
+				years old.</u>
+      <u xml:id="q-ba7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I hope to get
+				<sic>maried</sic><corr>married</corr> and have two children. I would <sic>liketo</sic><corr>like to</corr> get a steady job some where where they
+				pay a nice wage from about £80 to about £120 a week. I would like to be a lorry
+				driver if not I would like to work with animals as a farmer or I don’t mind being a
+				I don’t <sic>relly</sic><corr>really</corr> know what I would like to do you’re a living for the next 45 years
+				it’s a long time.</u>
+      <u xml:id="q-bb7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Looking back from
+				68 years old. Well I made it to 68 I <sic>soppose</sic><corr>suppose</corr> I was one of the lucky ones I was
+				working in a factory when I was 16 years old. When I got to 23 years I took my HGV
+				<sic>Lisens</sic><corr>licence</corr> a <sic>parst</sic><corr>passed</corr> the 2nd time. I was driving for two years when I got married I had
+				two children thay married. Know I am a granddad. All them years of work. Is it worth
+				it for this life. Most of the people i know are dead know and there rest well now
+				know about the rest.</u>
+      <u xml:id="q-bc7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Looking back I
+				<sic>havend</sic><corr>haven't</corr> had <sic>to</sic><corr>too</corr> bad a life you know but I could have made it better but still its to
+				late in life now. And all you can do in think about it and <sic>fell</sic><corr>feel</corr> sorry for yourself.
+				I have a nice wife lovely grandchildren and a nice house it cost £5,600 and now they
+				are <sic>moveing</sic><corr>moving</corr> {us a} and <sic>knoking</sic><corr>knocking</corr> the old place down. A man <sic>workes</sic><corr>works</corr> all his life her
+				<sic>retiers</sic><corr>retires</corr> and they wont to get him in to an old peoples home and knock down his home.
+				<sic>Its</sic><corr>It's</corr> just not worth it. Life is it</u>
+    </body>
+  </text>
+</TEI>

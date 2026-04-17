@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, 4 Dec 44</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-a018daf3-698a-4092-88bf-762af25af804</idno>
+				<idno type="qudexdocument">q-f6b70564-0b7e-4c6e-9163-c31d68b7164e</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-56507fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject:- Morale Reports</note>
+				<note xml:id="q-57507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">CONFIDENTIAL &amp; URGENT</note>
+				<note xml:id="q-58507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">RSR/A/60/13</note>
+				<note xml:id="q-59507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">HQ Raiding Support Regt GMF</note>
+				<note xml:id="q-5a507fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="5">4 Dec 44</note>
+				<note xml:id="q-5b507fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">HQ LFA (2)</note>
+				<note xml:id="q-5c507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Ref your LFA/44/AG of 21 Nov 44, Morale Report for this unit is as follows:- hhh 1. Offences against the Army Act</note>
+				<note xml:id="q-5d507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">a) There have been a very few cases of minor absence during period under review i.e. Sep to Nov current, chiefly only of a few hours extent and chiefly due to excess of drink.</note>
+				<note xml:id="q-5e507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">b) There have been 4 FGCM cases, two for Striking (Civil Offences), one for Stealing Army Rations, and one for quitting his post during Operations.</note>
+				<note xml:id="q-5f507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">c) Minor Offences have not been above average. hhh 2. Confidence</note>
+				<note xml:id="q-60507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">a) This is very high, and in some cases perhaps over optimistic regarding the probable duration of the European War.</note>
+				<note xml:id="q-61507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">b) Excellent. hhh 3. Contentment</note>
+				<note xml:id="q-62507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">General</note>
+				<note xml:id="q-63507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">a) All tps who have just returned from prolonged Ops in Greece, Albania and Yugoslavia are very pleased with the results of their Operations, which in all cases were highly successful.</note>
+				<note xml:id="q-64507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">b) Living Conditions</note>
+				<note xml:id="q-65507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">i) All tps now have buildings to live in when not on Ops, and are highly satisfied with these conditions.</note>
+				<note xml:id="q-66507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">ii) There have been no complaints.</note>
+				<note xml:id="q-67507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">iii) NAAFI rations are proving adequate, except for the meagre beer ration. NAAFI supplies are being sent to all tps on Ops, or where this is not possible, supplies are being held pending their return.</note>
+				<note xml:id="q-68507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">iv) All ranks are very pleased with the idea of a month's leave to UK and</note>
+				<note xml:id="q-69507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">v) the promise of their return to this unit. Some, who have been in E.O.T. for several months, and for whom leave to Rome has not been possible, have been very disappointed, especially as this was promised to them. Recreational facilities consist of Football Pitch, Basket Ball and an excellent Inddor Canteen, complete with wet and dry bur, free barber, and a Band.</note>
+				<note xml:id="q-6a507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">vi) At the moment the Unit is enjoying a very quick and regular service. Some difficulty is being experienced in getting mail to tps on Ops. This is being looked into.</note>
+				<note xml:id="q-6b507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">c) There are no major worries. Officers' Accounts are a little astray owing to the unit recently being taken from MEF ceiling to CMF.</note>
+				<note xml:id="q-6c507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">d) Most cases of trouble in families occur where men have been away from 2 to 4 years. These cases are not inconsiderable. There are several cases of Divorce pending at the moment. The Welfare Officer has a very full-time job.</note>
+				<note xml:id="q-6d507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">e) Excellent.</note>
+				<note xml:id="q-6e507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">f)</note>
+				<note xml:id="q-6f507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">i) Very Good.</note>
+				<note xml:id="q-70507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">ii) Hardly any contact made.</note>
+				<note xml:id="q-71507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">iii) Many of this unit have been working with U.S.O.G. personnel in E.O.T. and have got on extremely well with them. Apart from this, little contact is made with Dominion and Allied Tps. Relations with Partisans, especially Yugoslavs with whom the unit works, is not all it might be owing to the fact that the Partisans themselves do not encourage friendly relations. To….. sheet 2 hhh 4. Education and ABCA</note>
+				<note xml:id="q-72507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">When on Ops, little opportunity. A Major has been appointed Unit Education Officer. hhh 5. Efficiency</note>
+				<note xml:id="q-73507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">a) Excellent, greatly assisted by a very efficient C.S.M.I.</note>
+				<note xml:id="q-74507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">b) Very Good. hhh 6. Miscellaneous</note>
+				<note xml:id="q-75507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">Nil. hhh 7. Appendices</note>
+				<note xml:id="q-76507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Nil.</note>
+				<note xml:id="q-77507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">The above Report is compiled in conformity with pro-forms issued as Appx 'A' to letter ref</note>
+				<note xml:id="q-78507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">LFA/43/A of 15 Jul 44.</note>
+				<note xml:id="q-79507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Lt-Col.,</note>
+				<note xml:id="q-7a507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">DSF/JE</note>
+				<note xml:id="q-7b507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">Comdg Raiding Support Regt.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

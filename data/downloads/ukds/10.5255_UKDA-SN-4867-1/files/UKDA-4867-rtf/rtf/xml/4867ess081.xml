@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 82</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-d9a19349-0e0f-4841-a85d-4c70fcaf1b0c</idno>
+        <idno type="qudexdocument">q-a77a7892-f19b-4a6a-bcdc-2af77771866f</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-287f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-297f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back over
+				my life I haven’t really fulfilled all of my hopes and ambitions.</u>
+      <u xml:id="q-2a7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">When I was
+				leaving school at the age of sixteen I was quite unprepared. In school the teachers
+				had filled my head with everything they thought I must know before leaving.</u>
+      <u xml:id="q-2b7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">They talked about
+				marriage, divorce and emphasised on starting a job. One lesson a week was spent
+				talking about these things, but most of the time, we were just ignorant of the fact
+				that it wasn’t long before we would be leaving.</u>
+      <u xml:id="q-2c7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">We were told
+				about how critical the job shortage was, and how we could overcome this fact. I had
+				one appointment for an interview at the careers office for <sic>advise</sic><corr>advice</corr> as did everybody.
+				I was told about all of the jobs available and which I could apply for. The chance
+				of me getting the job which I hoped for was almost nil, as there were many other
+				school leavers applying to the same firm.</u>
+      <u xml:id="q-2d7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I had filled in a
+				questionnaire about myself to help the interviewer. I was interviewed by a woman and
+				she was very helpful. It was quite a well organised careers centre, plus, which I
+				think was a very good idea the centre was on the school grounds. I think that all
+				schools should have a careers office or centre on their grounds.</u>
+      <u xml:id="q-2e7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I was given
+				plenty of forms to send of for jobs and more interviews. Really I think that schools
+				should make mock interviews for separate students to get them used to it. I was
+				given only one interview which lasted only twenty-five minutes. The interviewers
+				should also keep in touch with some of the students to see how they get on. I did
+				obtain an apprenticeship in what I wanted but there still seems to have been
+				something missing. Most of the things which I did were different to what the school
+				advised. I retired on a pension at sixty-five.</u>
+    </body>
+  </text>
+</TEI>

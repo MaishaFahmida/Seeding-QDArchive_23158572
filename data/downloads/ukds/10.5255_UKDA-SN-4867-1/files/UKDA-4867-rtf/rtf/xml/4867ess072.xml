@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 73</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-ff9a31d7-7256-47b2-8647-0e3b7df9a60c</idno>
+        <idno type="qudexdocument">q-c2dbe06a-a3f5-4445-b2d5-ea1208e35bc5</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-e17e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Survey</note>
+      <u xml:id="q-e27e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Going out with a
+				girl. Married four kids. Staying for exams. Comfortable living. Confusion over work.
+				41-69. Lived life to the full.</u>
+      <u xml:id="q-e37e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">At this
+				particular time I am going out with a nice girl. She and I are 16 we both wish that
+				when we are about 21 plus, we will be married.</u>
+      <u xml:id="q-e47e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">My parents are
+				not all that keen on my staying on at school. If I left at this particular time I do
+				not think I would <sic>sucseed</sic><corr>succeed</corr> at a job. But I want to stay on for two or three years to
+				get one or two Advanced subjects. With these you stand a much greater chance. The
+				reason for these “A” subject for me is that I wish to become a P.E. teacher. I know
+				the money is not that fantastic but is a good and interesting occupation.</u>
+      <u xml:id="q-e57e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">With this I could
+				bring a family up fairly well.</u>
+      <u xml:id="q-e67e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">My <sic>marage</sic><corr>marriage</corr> now is
+				in its third year. I am now 25. We have no children yet, because we are only just
+				getting the house habitable. I am a qualified Physical education teacher <sic>adn</sic><corr>and</corr> my wife
+				is a customs and excise officer. <sic>She</sic><corr>Her</corr> income is pretty good.</u>
+      <u xml:id="q-e77e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">30 now have two
+				children and my wife has given her job in. Kids are so demanding!</u>
+      <u xml:id="q-e87e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Now reaches the
+				ripe old age of 40 and we have 4 kids. One of them is 15, a 13 year old, 11 years
+				old and a 9 year old.</u>
+      <u xml:id="q-e97e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">The 15 year old
+				is studying for his exams. He wants to be a doctor. The other three have not yet
+				decided on what they would like to do.</u>
+      <u xml:id="q-ea7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">My occupation as
+				a p.e. teacher is not very good at 45. So now I am thinking of teaching a full time
+				subject.</u>
+      <u xml:id="q-eb7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">During the last
+				20 years I have been abroad and brought up a nice family. The sex side of life is
+				now declining but you just <sic>except</sic><corr>accept</corr> it.</u>
+      <u xml:id="q-ec7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">My children have
+				all left home now and my wife and I are both at the age of 65.</u>
+      <u xml:id="q-ed7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">My children are
+				all at good high paid jobs accept the youngest who can’t still get a job.</u>
+      <u xml:id="q-ee7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">I am now
+				wondering who will die first my lovely wife or my self. I would hate my wife to die
+				first because I would not want her life to be deprived. But on the other hand I
+				would not like to die first because it would <sic>leav</sic><corr>leave</corr> my wife alone and old.</u>
+      <u xml:id="q-ef7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">“Oh no my wife
+				has died”. Seeing this disturbed me so much that I died of a heart attack.</u>
+      <u xml:id="q-f07e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="16">I hope the kids
+				do not get <sic>to</sic><corr>too</corr> upset. But I expect them to <sic>mis</sic><corr>miss</corr> us.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 112</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-8c91a26e-f6ed-4d1a-9eb9-55f5505afbd9</idno>
+        <idno type="qudexdocument">q-f8c8c2f0-2399-4cc0-99a1-e80cc95f420b</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-20805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections (My Past)</note>
+      <u xml:id="q-21805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">The day after I
+				left school I had a job to go to. It was only a short while after I gave my
+				resignation in because I thought it was time to move on. To live somewhere <sic>were</sic><corr>where</corr>
+				there was more opportunities and more <sic>exitement</sic><corr>excitement</corr>.</u>
+      <u xml:id="q-22805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Four years later
+				I found myself engaged to be married. The whole prospect of a home and later on a
+				family looked good. But there was one problem my husband to be didn’t like the idea
+				of me working when we were married. Eventually we together solved the problem. We
+				compromised I was to work part-time.</u>
+      <u xml:id="q-23805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After being
+				married a year our first child was born, it was a girl. Two years later our second
+				was born. Then we waited another six years when our third child was born, this time
+				a boy, another two years later our <sic>forth</sic><corr>fourth</corr> and last child was born, another girl.</u>
+      <u xml:id="q-24805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">When the last
+				child started school I decided to go back to work, by this time I was 36. As the
+				years went by. I found my children gradually growing up and leaving me.</u>
+      <u xml:id="q-25805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">By the time I was
+				52 I had my first grandchildren, a girl. I was still working and all the family
+				visited my husband and I every so often. We had our own little house with a nice
+				back garden and garage for our car.</u>
+      <u xml:id="q-26805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">When I was 60, I
+				decided to retire all together we had a lot of money saved so there was no reason
+				why I had to go to work. Now I had four grandchildren three girls and one boy in the
+				order I had mine.</u>
+      <u xml:id="q-27805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">5 years later I
+				am 65 my time is just about up, my husband died two years ago. He was sixteen years
+				older than by myself so in all consideration he lived to quite an old age. I have
+				ten grandchildren, seven girls and three boys. The eldest is thirteen. All my
+				<sic>posesions</sic><corr>possessions</corr> will all go to my children and perhaps one day their children</u>
+    </body>
+  </text>
+</TEI>

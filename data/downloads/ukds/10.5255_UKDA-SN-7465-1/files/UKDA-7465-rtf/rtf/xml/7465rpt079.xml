@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report for the week of March 7 - March 13 1943</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-81c0d832-0860-4c08-b8a4-8ffafb3e103f</idno>
+				<idno type="qudexdocument">q-3647316d-3dd6-490e-957d-079b7034c0e0</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-994c7fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">MORALE REPORT FOR THE WEEK OF</note>
+				<note xml:id="q-9a4c7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="2">Mar. 7 - Mar. 13, 1943</note>
+				<note xml:id="q-9b4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">Office of Field Base Censor No. 2 hhh 1. HEALTH</note>
+				<note xml:id="q-9c4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">Favorable comments 100%. Within a very short time after landing, gains in weight have been found and statements to the effect that the men were in the best condition have been made. A Private (File No. 126) states:-</note>
+				<note xml:id="q-9d4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">"I am feeling very good now, never felt better in my life. I weigh 185 lbs. now and gaining 11 the time. I was 150 when I left home." (Co. B, 382 Port Bn. (TC)</note>
+				<note xml:id="q-9e4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">A Corporal comments (File No. 117) in these words:</note>
+				<note xml:id="q-9f4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">"In fact, in the best condition I've been in for probably 12 or 13 years." (AT. Co. 15th Inf.) hhh 2. MAIL</note>
+				<note xml:id="q-a04c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Favorable comments 20%, unfavorable comments 80%. A Lt. Col., (File No. 129) in speaking about communications with Chicago, Illinois.</note>
+				<note xml:id="q-a14c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">"Was I ever tickled to see letters with the APO number on them… about 17 days each way. (Hq. ABS)</note>
+				<note xml:id="q-a24c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">The unfavorable side of the picture shows delays in the receiptof mail as follows:- V-Mail, more than a month. Ordinary mail, spasmodic in arriving and a good deal of December mail was received in Larch. hhh 3. TRAINING 4. EQUIPMENT</note>
+				<note xml:id="q-a34c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">No comments were made under the above categories. hhh 5. FOOD</note>
+				<note xml:id="q-a44c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Favorable comments 65%, unfavorable 35%. In a happy frame of mind a private first class (File No. 106) made the following comment.-</note>
+				<note xml:id="q-a54c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">"Things go very well with me....Last night we had fried chicken, mashed potatoes, dried peas and carrots, apple sauce, bread, cake and coffee. Doesn't that sound pretty good? This morning we had my favorite breakfast- - - -flapjacks." (Co. C- 382 port Bn.) A Lt. Col. (File No. 112) writes:</note>
+				<note xml:id="q-a64c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">'We really get plenty to eat, we just gripe to be griping." (Hq. ABS) A Major (File No. 109) in a letter addressed to another Major at APO 871, commenting upon the superb food served to officers, states:-</note>
+				<note xml:id="q-a74c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">"But that doled out to the enlisted men is not too hot. This discrepancy bothers us and I hope that you as a member of General Staff will do something to more nearly equalize this gap." (6th Gen. Hosp.) letter dated 3/6/43</note>
+				<note xml:id="q-a84c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">The other comments which are distinctly unfavorable complain about the quantity of Spam being served with rarely a change in meat and the sameness of the food. A Major (File No. 119) states:-</note>
+				<note xml:id="q-a94c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">"For breakfast, Spam...Spam for lunch and for dinner at night we never miss Spam." (6th Gen. Hosp) letter dated 3/7/43.</note>
+				<note xml:id="q-aa4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">The two letter writers immediately above, it is to be noted are connected with the same outfit, and the latter letter was dated the day after the former. Another writer wants to know from home why there is a shortage of meat, and ends up with this remark (File No. 132)</note>
+				<note xml:id="q-ab4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">"We don't get it here" (3rd Ord. Co.) hhh 6. ENTERTAINMENT</note>
+				<note xml:id="q-ac4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Favorable comments 100%. Classical music was highly commended, bringing back memories, as some writers stated. Movies, officers dances, sport films especially football give them an opportunity of relaxation from the usual routine of work. One writer states that German Broadcast music is excellent. hhh 7. SPORTS</note>
+				<note xml:id="q-ad4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Favorable comments 100% Volley ball, followed by a hot shower was well appreciated by one writer (File No. 155) Baseball, football, horseshoes and soft ball, and boxing, with tournaments within and between the batteries are some of the sports available and many comments are made that there is sufficient time after dinner and before dark to indulge in these sports.</note>
+				<note xml:id="q-ae4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">A Lieutenant writes (File No. 121): "It feels pretty good to go running around the field and having a little fun after a day's work." (905th Ord Co (Hm) hhh 8. LEAVE 9. QUARTERS 10. POLITICS</note>
+				<note xml:id="q-af4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">No comments on the above. hhh 11. NEWS AND PROPAGANDA</note>
+				<note xml:id="q-b04c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The only comment referred to is from a corporal (File No. 125) who, in a letter writes:-</note>
+				<note xml:id="q-b14c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">"It isn't the money that we need. But yet, it's gratifying to learn that the soldiers aren't being forgotten." (Co. B. Port Ba. TC)</note>
+				<note xml:id="q-b24c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">This comment concerned a news broadcast referring to increased pay for the soldiers. hhh 12. CHURCH AND RELIGION</note>
+				<note xml:id="q-b34c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Favorable comments 100%. Time is provided for church service and the men get off any time in order to attend church, is the crux of the comments under this heading. hhh 13. HOME AFFAIRS</note>
+				<note xml:id="q-b44c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Unfavorable 100%. While in letters, the men attempt to boost morale at home yet on many occasions, they feel that the people at home are not being given a decent deal by the government. The question of safe arrival cards is one that is always raised, as witness the following (File No. 97)</note>
+				<note xml:id="q-b54c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">"It sure is a d--- shame that the safe arrival cards we made out were not mailed. Just because some one slipped up on a mishap in November is no reason, only, an efficient simple system of notification couldn't have continued." ( Hq. ABS) hhh 14. RELATIONS WITH CIVILIAN POPULATION</note>
+				<note xml:id="q-b64c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">No comments were found. hhh 15. RELATIONS WITH ALLIED TROOPS</note>
+				<note xml:id="q-b74c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">No comments. hhh 16. CENSORSHIP</note>
+				<note xml:id="q-b84c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">Unfavorable comments 100%. Complaints that information which is available to magazines and newspapers and cannot be discussed in mail by the men are found in many letters. In referring to newspaper articles and photographs in newspapers in the States, one writer says- (File No. 148)</note>
+				<note xml:id="q-b94c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">"Ye Gods, we cannot even send a picture of a gun. The men see and read that stuff and put up a helluva wail. If there's gonna be censorship, it should beabsolute and inflexible." (41st FA) hhh 17. GENERAL COMPLAINTS Many complaints that it was impossible to send money home through money orders were found.</note>
+				<note xml:id="q-ba4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">One writer, a Lieutenant, (File No. 137) writes: "I went over to the P.O. at 6:00 o'clock this morning and that is the fifth morning I have gone over there. .... I am sending a man over at 4:00 A.M. to get in line for me and maybe I will get my money orders at last." questions of promotion were raised by others.</note>
+				<note xml:id="q-bb4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">A private (File No. 146) states:-</note>
+				<note xml:id="q-bc4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">"Frankly I have given up all hope of promotion long ago, but I am willing to explore all the avenues." (36th Eng. Ba.)</note>
+				<note xml:id="q-bd4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">A Lieutenant (File No. 147):</note>
+				<note xml:id="q-be4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">We haven't had a promotion in the outfit and others are moving along." (6th Port Eq.) hhh 18. GENERAL</note>
+				<note xml:id="q-bf4c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">Requests were made for various articles, which have now been the subject of a separate report, and need not be dealt with here. In general, the morale seems to be higher than in previous reports, and the men are starting their savings in the form of war bonds or sending money home to be kept for them. One writer, a nurse (File No. 154) in comparing life aboard shipboard, says:-</note>
+				<note xml:id="q-c04c7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">"Our enlisted men live like cattle." (2nd Aux. Surg. Group)</note>
+			</div>
+		</body>
+	</text>
+</TEI>

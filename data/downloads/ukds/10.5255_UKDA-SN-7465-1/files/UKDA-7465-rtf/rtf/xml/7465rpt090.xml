@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-1becac9c-c8e0-454b-bd6f-310a32b0493a</idno>
+				<idno type="qudexdocument">q-50c93b2e-748b-4d74-a4c9-68dfd98066a2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-8f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">MORALE REPORT.</note>
+				<note xml:id="q-904f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">CONFIDENTIAL.</note>
+				<note xml:id="q-914f7fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="3">Part I. MORALE IN GENERAL.</note>
+				<note xml:id="q-924f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">Morale in general is quite good. Troops have recovered frail their reactions to the end of the European war.</note>
+				<note xml:id="q-934f7fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="5">Part II. FACTORS AFFECTING MORALE. hhh 1. Discipline.</note>
+				<note xml:id="q-944f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Unit and individual discipline is good and is reflected in general bearing and turn-out of men both on parade and walking out. hhh 2. Confidence.</note>
+				<note xml:id="q-954f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">(a) In Army Leaders and the War. The finish in Europe has given all ranks finer confidence in their 'leaders and there is high optimism that the Asiatic War will soon be over.</note>
+				<note xml:id="q-964f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">(b) Aims and Equipment. Very satisfactory.</note>
+				<note xml:id="q-974f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">(c) In Efficiency. Never higher. hhh 3. Mail.</note>
+				<note xml:id="q-984f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">All reports show that mail conditions are excellent with no complaints. hhh 4. Welfare and Entertainment.</note>
+				<note xml:id="q-994f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">(a) Living Conditions. Realized they are the best possible under the circumstances. i.e. Rather over-crowded due to limited billeting facilities. Rations are satisfactory.</note>
+				<note xml:id="q-9a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">(b) Recreation and Amusements. Mainly football, cricket, and swimming. Plenty of Unit transport is laid on for recreation and for getting to places of amusement.</note>
+				<note xml:id="q-9b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(c) General. Bathing trips are appreciated and as much sports gear as possible is being purchased. hhh 5. Education arid A.B.C.A.</note>
+				<note xml:id="q-9c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Little interest shown, except for same correspondence courses and courses in vocational training likely to be of use in civil life. Not much has been done on a unit basis owing to impending disbandment. The Post-hostilities Education Scheme is not very popular; probably further publicity will dispell this. hhh 6. Relations between Officers and Men.</note>
+				<note xml:id="q-9d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Just as they should be a good and co-operative spirit. hhh 7. Relations with other services.</note>
+				<note xml:id="q-9e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Satisfactory although not much contact. hhh 8. Relations with Allies.</note>
+				<note xml:id="q-9f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Good, except with Yugoslavs owing to their recent change of attitude and enforcement of petty restrictions when our men have been working in Yugoslavia.</note>
+				<note xml:id="q-a04f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">They are now regarded as being on the same level as Italians. hhh 9. Home Affairs, Post War and Release.</note>
+				<note xml:id="q-a14f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Not much interest in home affairs, except for forthcoming General Election, about which each man is expressing his individual political opinion.</note>
+				<note xml:id="q-a24f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Opinion rather confused about Post War affairs. After so much publicity and prophesy regarding the 'New World', most men prefer to dwell on more mundane matters. It is realised that a great deal depends on the San Francisco Conference. Some doubts expressed about the future of Anglo-Russian relations in view of recent events, but the view taken differs according to the political beliefs of the individual.</note>
+				<note xml:id="q-a34f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Release plan now accepted, and it is realised that it will take its time to work out. Some younger men, recently sent abroad, are concerned about Far East Service, as it means that they will be in the Army for about 7-8 years in all. hhh 10. Finance.</note>
+				<note xml:id="q-a44f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">Quite satisfactory. Great majority of men have credits. hhh 11. Miscellaneous.</note>
+				<note xml:id="q-a54f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">(a) Overseas Service. General hope that Python will be reduced. Some disappointment that it has not done so already. Large increase in compassionate posting applications, and S.S.A.F.A. interviews indicate that the length overseas service is making itself felt even among normal married people. The end of the European war has precipitated a number of matrimonial troubles which would have to come to a head sooner or later.</note>
+				<note xml:id="q-a64f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">(b) Leave. Realised that LIAP is too remote for the ordinary man, and is only for the 'lucky' individual. Bitterness at B.L.A. personnel getting hone regularly. Rome and local leave facilities much appreciated.</note>
+				<note xml:id="q-a74f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">(c) Relations with civil population. Little or no contact.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

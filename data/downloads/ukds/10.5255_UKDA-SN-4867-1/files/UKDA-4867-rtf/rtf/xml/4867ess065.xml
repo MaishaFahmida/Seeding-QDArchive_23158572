@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 66</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-e6d433c3-070b-4595-a1df-47f3406057fa</idno>
+        <idno type="qudexdocument">q-9dc0e72a-ecbc-487c-b692-b52ea69badcf</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-bd7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">The school term
+				was just ending and I was leaving school in a couple of <sic>days</sic><corr>days'</corr> time. I had spent the
+				last couple of days having interviews for jobs and was waiting for a reply from the
+				jobs. When the letters arrived two of them said that the vacancy was filled other,
+				other said that I could start work as a carpenter and joiner at Chatham docks as
+				soon as possible. I had been working for a couple of months when I met an attractive
+				young girl. On my eighteenth birthday I took my driving test and got <sic>mu</sic><corr>my</corr> own car an M
+				reg Honda Civic for which I had been saving for a long time. At the age of twenty I
+				got engaged to my girlfriend.</u>
+      <u xml:id="q-be7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I had been
+				earning £40 a week. We were now saving for a house.</u>
+      <u xml:id="q-bf7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">At 21 we got
+				married and lived in a house in Sheerness.</u>
+    </body>
+  </text>
+</TEI>

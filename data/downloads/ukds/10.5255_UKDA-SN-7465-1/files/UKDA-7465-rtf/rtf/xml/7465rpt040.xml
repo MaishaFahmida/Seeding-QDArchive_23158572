@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Public Reaction to the White Paper on a National Health Service: An Interim Report</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-1a50bce5-b6a1-4e81-8028-3d68c91f9d6d</idno>
+				<idno type="qudexdocument">q-55371192-4871-4a8e-bbfc-bcc64f868cff</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-e65788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">MINISTRY OF INFORMATION</note>
+				<note xml:id="q-e75788b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="2">HOME INTELLIGENCE SPECIAL REPORT</note>
+				<note xml:id="q-e85788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">PUBLIC REACTION TO TEE WHITE PAPER ON</note>
+				<note xml:id="q-e95788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">A NATIONAL HEALTH SERVICE</note>
+				<note xml:id="q-ea5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">An interim report.</note>
+				<note xml:id="q-eb5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">This investigation was made at the request of the Ministry of Health. Interim reports were received from the Intelligence Officers attached to the Regional Information Officers in the Civil Defence Regions of England and Wales, and Scotland. Regional reports were themselves based on reports from up to 60 intelligence correspondents.</note>
+				<note xml:id="q-ec5788b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="7">I. INTRODUCTION</note>
+				<note xml:id="q-ed5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">The most striking feature of the public reaction to the White Paper is the small degree of interest shown. Almost all correspondents agree that it is not being discussed spontaneously by the general public, and that, when the matter is raised, people have only hazy ideas as to the nature of the proposals. This fact must be constantly borne in mind in reading the main part of this report.</note>
+				<note xml:id="q-ee5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">The reasons advanced for the lack of interest are: - hhh 1. A mood of general scepticism about post-war problems.</note>
+				<note xml:id="q-ef5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">For months, the general public have been becoming increasingly sceptical about post-war reconstruction. This appears to date largely from the Government's announcement of its attitude to the Beveridge Report; there is no realisation as to what has been accepted. On the contrary, it is generally believed that nothing is to be done about Social Security. Similarly, despite the general approval of the Education Bill, there is still much doubt as to whether education is to be improved. In the case of the Health White Paper, few people seem to see the Service proposed as a reality; and there are many comments of the type: "All very fine, if it ever comes to anything"... "It's certain to get watered down before it gets onto the Statute Book". hhh 2. Specific scepticism.</note>
+				<note xml:id="q-f05788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Many working class people suggest that the scheme is an excuse for not accepting the Beveridge proposals. hhh 3. Insufficient publicity.</note>
+				<note xml:id="q-f15788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">After one day of press comments, it is thought that the newspapers have dried up.</note>
+				<note xml:id="q-f25788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">More press articles, and broadcasts are asked for. hhh 3a. A surfeit of reports.</note>
+				<note xml:id="q-f35788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">In the past two years, it is thought the general public have had their fill of reports and white papers. hhh 4. Other interests.</note>
+				<note xml:id="q-f45788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">The impending second front, end the crises in the coal industry are said to have turned people's thoughts away from the White Paper. hhh 5. The complicated nature of the proposals. hhh 6. The absence of anything very obvious to attack or criticise.</note>
+				<note xml:id="q-f55788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">It is suggested that, had there been anything of which people generally had violently disapproved, they would have been only too ready to voice their views.</note>
+				<note xml:id="q-f65788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Discussion is, however, quite considerable among the following minorities: -</note>
+				<note xml:id="q-f75788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">a. Doctors.</note>
+				<note xml:id="q-f85788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">b. Other health workers.</note>
+				<note xml:id="q-f95788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">c. Local authority members and officials.</note>
+				<note xml:id="q-fa5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">d. "Politically conscious" working people, and active members of left wing parties.</note>
+				<note xml:id="q-fb5788b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="22">II. GENERAL REACTION.</note>
+				<note xml:id="q-fc5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">Almost everyone expressing, any opinion voices general approval of the proposals. Usually this is vague. Sometimes it is qualified.</note>
+				<note xml:id="q-fd5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Many people have no idea at all as to the nature of the proposals; and they are criticised for not including features which they do in fact include thus; the comment has several times been heard: "The Service ought to be universal" or "it ought to be free".</note>
+				<note xml:id="q-fe5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">The points which get the most general welcome are: hhh 1. The retention of free choice of general practitioner.</note>
+				<note xml:id="q-ff5788b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">It is frequently asked whether there will also be free choice of consultants and hospitals inside the scheme. hhh 2. The inclusion of a specialist service.</note>
+				<note xml:id="q-005888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">The most generally criticised points are: - hhh 1. The retention of private, as well as public practice.</note>
+				<note xml:id="q-015888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">It appears to be almost universally believed among working-class people that the paying patient receives better treatment than the panel patient. A typical remark is: "I'd rather give my doctor my last half crown than go on his panel".</note>
+				<note xml:id="q-025888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">It is feared that the distinction will inevitably continue. Indeed, some working, people carry their dislike of panel practice so far that they welcome the retention of private practice - for fear all doctoring may be reduced to the mediocre level of the panel. hhh 2. Among middle-class people, dislike of the idea of sharing waiting-rooms with the poor. hhh 3. Fear of bureaucracy, excessive officialdom, regimentation and interference with people's lives - this again particularly from the middle classes. hhh 4. Vague feeling that the proposals do not go far enough - particularly from working-class people who do not know what the proposals are. hhh 5. In connection with the voluntary hospitals</note>
+				<note xml:id="q-035888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">a. A majority feel they should be taken over completely by the state.</note>
+				<note xml:id="q-045888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">b. A substantial minority, who believe in then are very anxious about their future. They feel that their sources of funds will inevitably dry up. hhh 6. This is not really a Health Service but a Sickness Service. Health depends on food, housing, education etc.</note>
+				<note xml:id="q-055888b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="32">III. DETAILED VIEWS. hhh A. General practitioner service</note>
+				<note xml:id="q-065888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">The arguments for and against the retention of private practice are elaborated.</note>
+				<note xml:id="q-075888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Those who favour its retention point out that people value more what they pay for.</note>
+				<note xml:id="q-085888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">There is little realisation of the benefits which should follow the extension of general practitioner care to dependents.</note>
+				<note xml:id="q-095888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">There has been little discussion of health centres. Women, who are already familiar with clinics, welcome the idea. Some fear the loss of the personal touch; they expect to be seen by an assistant who will only call the proper doctor when he thinks there is something serious.</note>
+				<note xml:id="q-0a5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">There is sane fear that the salaried doctor will think mere of his employers and his hours of work than of his patients; and that Health Centres will be staffed by the less efficient doctors, who are unable to make a success of practice outside. hhh B. The Clinics</note>
+				<note xml:id="q-0b5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">No substantial comments are made. hhh C. Consultant and specialist service</note>
+				<note xml:id="q-0c5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">This is almost universally approved; but it is feared that: -</note>
+				<note xml:id="q-0d5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">a. The poor will not really get the best.</note>
+				<note xml:id="q-0e5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">b. There will not be enough specialists to go round.</note>
+				<note xml:id="q-0f5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">c. The big towns will do better than the small towns and rural areas. hhh D. Hospitals</note>
+				<note xml:id="q-105888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">The arguments for and against the abolition of the voluntary hospitals are elaborated.</note>
+				<note xml:id="q-115888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">The main reasons given for favouring their abolition are: -</note>
+				<note xml:id="q-125888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">a. Only the State can afford to give a really good, and really universal service.</note>
+				<note xml:id="q-135888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">b. Their income from bequests and hospital savings schemes is bound to dry up, so they are doomed anyway.</note>
+				<note xml:id="q-145888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">c. Appeals, and flag days are a nuisance.</note>
+				<note xml:id="q-155888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">Those against their abolition fear "soulless state control"; they have no confidence in the Local Authorities; and they point to the value of the voluntary hospitals in stimulating local patriotism. They are very anxious for the future, though a minority of hospital managers express themselves privately as being glad that the days of begging and scraping will be ended.</note>
+				<note xml:id="q-165888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">Contributors ask what is going to happen to Hospital Savings Schemes.</note>
+				<note xml:id="q-175888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">The proposal for a hospital inspectorate is welcomed. hhh E. Drugs and appliances</note>
+				<note xml:id="q-185888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">Working class people feel that all appliances should be free. They say that it is particularly unfair to ask them to contribute specially to the expensive ones.</note>
+				<note xml:id="q-195888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">Those who favour cone payment for glasses and dentures point out that people only value what they have to pay for. hhh F. Administration</note>
+				<note xml:id="q-1a5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">This is a matter of interest only to groups specially concerned, and those living in poor areas where rates are already high.</note>
+				<note xml:id="q-1b5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">a. Local Authority members say they do not want to lose their hospitals. They say the suggested areas are too large. They fear central control and. Whitehall interference.</note>
+				<note xml:id="q-1c5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">b. Those of the general public who express views are against the Local Authorities. They say that some are lazy and incompetent, while those where the need for the new service .is greatest will be least able to afford it. They suggest that the Clinics should be taken over by the new Joint Authorities.</note>
+				<note xml:id="q-1d5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">c. The doctors fear any extension of Local Authority control. They do not welcome Joint Authorities composed only of Local Authority representatives; and they think that Local Health Services Councils will have no real power.</note>
+				<note xml:id="q-1e5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">d. Friendly Societies are reported to feel that the scheme was bound, to come, but hope the Government will find a part for them to play. hhh G. Finance</note>
+				<note xml:id="q-1f5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">Two general reactions are: -</note>
+				<note xml:id="q-205888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">a. If we can afford the war, we can afford a complete health service.</note>
+				<note xml:id="q-215888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">b. Where is the money to come from?</note>
+				<note xml:id="q-225888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">The only considered criticism is that the extra cost should all be centrally and not be added to the rates, since these certainly have to cover additional costs for education, housing etc. hhh H. Doctors attitudes</note>
+				<note xml:id="q-235888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">The younger doctors appear to adopt the attitude: "Better than we expected". Older doctors tend to say: "Not as bad as we feared".</note>
+				<note xml:id="q-245888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">Their greatest anxiety is a fear of an increase in form-filling and. bureaucracy. Younger doctors, in particular, fear that promotion will be by administrative rather than medical capacity; and. that the better posts will go not to practising doctors but to administrators.</note>
+				<note xml:id="q-255888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">Medical students are said to welcome the proposals.</note>
+				<note xml:id="q-265888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="65">It is widely expected by the general public that the doctors will be difficult and obstructive.</note>
+				<note xml:id="q-275888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="66">HOME INTELLIGENCE DIVISION</note>
+				<note xml:id="q-285888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="67">MARCH 14, 1944.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

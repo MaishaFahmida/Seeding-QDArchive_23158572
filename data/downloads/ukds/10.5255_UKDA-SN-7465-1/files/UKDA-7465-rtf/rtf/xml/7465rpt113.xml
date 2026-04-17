@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, HQ Raiding Support Regiment, CMF, 28 May 45</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-4a8baa70-9aea-4d22-8d9c-b510061b44b5</idno>
+				<idno type="qudexdocument">q-1d0b9103-a258-4e5d-8d11-c49b792ff556</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-72527fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject :- Morale Report</note>
+				<note xml:id="q-73527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">CONFIDENTIAL</note>
+				<note xml:id="q-74527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">RSR/A/60/28</note>
+				<note xml:id="q-75527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">HQ Raiding Support Regiment, CMF.</note>
+				<note xml:id="q-76527fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="5">28 May 45.</note>
+				<note xml:id="q-77527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">HQ LFA</note>
+				<note xml:id="q-78527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Reference your LFV44/A of 7 May 45. Herewith the Morale Report for the Regiment.</note>
+				<note xml:id="q-79527fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="8">Sec I. Morale in general</note>
+				<note xml:id="q-7a527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">The morale throughout is definitely high.</note>
+				<note xml:id="q-7b527fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="10">Sec II. Factors affecting morale hhh 1. Discipline</note>
+				<note xml:id="q-7c527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Very good. There has been. the odd bad case. But it is the exception. hhh 2. Confidence</note>
+				<note xml:id="q-7d527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Complete in all cases:</note>
+				<note xml:id="q-7e527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">a) In leaders.</note>
+				<note xml:id="q-7f527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">b) In arms and equipment.</note>
+				<note xml:id="q-80527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">c) In efficiency. hhh 3. Mail</note>
+				<note xml:id="q-81527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Not satisfactory lately. When the Regiment was split for the final battle, the A.P.O. undertook to sort the mail for the 75 mm troop and the Mortar troop in the north. They were quite unable to cope with it and the letters were all muddled up. We stopped that and put them in bags here, for the North. In spite of this they took a very long time to get there. This was before the very rapid advance had started. After that of course one could not expect much.</note>
+				<note xml:id="q-82527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">During the last month the letter mail has been very erratic. Papers from the U.K. are not coming through at all. hhh 4. Welfare and Entertainment</note>
+				<note xml:id="q-83527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">a. P.O.W. Camp - adequate.</note>
+				<note xml:id="q-84527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">b. Supplies of recreational stores are becoming very limited, anyway for those things that we really want. Footballs last for about two games and the boots no time at all. It is realized tho' that good leather is probably not available. Anyway nobody complains.</note>
+				<note xml:id="q-85527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">c. There is always of course the cry for more beer. hhh 5. Education</note>
+				<note xml:id="q-86527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Keenness is shown. The Post-War Educational scheme is awaited with some interest. hhh 6. Relations between Officers and Men</note>
+				<note xml:id="q-87527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">Excellent. hhh 7. With other Services</note>
+				<note xml:id="q-88527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">Good. hhh 8. With the Allies</note>
+				<note xml:id="q-89527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The men have little contact with the Americans. They will never understand their outlook and attitude. The behaviour of the Yugo-Slavs, with whom we had a good deal of contact, is deplored by all. Men are prepared to take strong action against them if it is necessary. hhh 9. Home Affairs - Post-War Release</note>
+				<note xml:id="q-8a527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Not very satisfactory. The British woman has shown in too many cases that 3 years is about her limit to remain faithful. Many homes are anyway broken up and this of course is very disturbing for the man out here. He forgets that he probably hasn't been faithful either - so there may be some reconciliation.</note>
+				<note xml:id="q-8b527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">The men are satisfied with the Release arrangements and there is always the hope that they may speed up a little. hhh 10. Finance</note>
+				<note xml:id="q-8c527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Satisfactory. hhh 11.</note>
+				<note xml:id="q-8d527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">a. Overseas Service</note>
+				<note xml:id="q-8e527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">A limit of 3 years is hoped for but difficulties are understood.</note>
+				<note xml:id="q-8f527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">b. Leave</note>
+				<note xml:id="q-90527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Local. Satisfactory.</note>
+				<note xml:id="q-91527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">c. Relations with civil population</note>
+				<note xml:id="q-92527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">In Northern Italy - Good.</note>
+				<note xml:id="q-93527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">In Southern Italy - Bad.</note>
+				<note xml:id="q-94527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Lt -Col.</note>
+				<note xml:id="q-95527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Commanding, Raiding Support Regiment.</note>
+				<note xml:id="q-96527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">HFM/DAS</note>
+			</div>
+		</body>
+	</text>
+</TEI>

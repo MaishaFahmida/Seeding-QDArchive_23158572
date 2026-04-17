@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 13 - January 1948</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-65bb64cf-e67f-44dc-821e-76d092ed9ec4</idno>
+				<idno type="qudexdocument">q-85f8ea3d-a11c-4c2f-9753-12ef8d4fb726</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-2f5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-305388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office Political Division</note>
+				<note xml:id="q-315388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">PRISC Branch</note>
+				<note xml:id="q-325388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">HQ Military Government</note>
+				<note xml:id="q-335388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">British Troops, Berlin</note>
+				<note xml:id="q-345388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">B.A.O.R.</note>
+				<note xml:id="q-355388b6-9e9d-e411-b1ae-00155df55c12" type="date" n="7">26 Jan 48</note>
+				<note xml:id="q-365388b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="8">REPORT ON BERLIN MORALE No.13</note>
+				<note xml:id="q-375388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">(Covering period 12-24 January)</note>
+				<note xml:id="q-385388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Note: Readers are asked to remember that although this report is compiled as objectively as possible, opinions expressed may often seem criti­cal and captious, This is because so-called "opinion-formers" among the German population may often be hysterical and ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting. hhh 1. General</note>
+				<note xml:id="q-395388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Not fuel, not food, not clothing nor currency reform but .the pros and cons of the evacuation of the Western Allies from Berlin is the main consideration at the moment. The failure of the London Conference, the militancy of the Cominform, the M Protocol revelation and the negotiations in Frankfurt have all conspired to give Berliners a bad attack of nerves. In spite of the statements of General Clay, General Robertson and Lord Pakenham few Berliners are convinced that the Allies will stay on in Berlin. Many Germans say that we may intend to stay but whether we will be able to is another matter.</note>
+				<note xml:id="q-3a5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">The interview given by General Clay to International News Service in which the General said that if the road and rail supply services of the US Forces in Berlin Gore cut, the US clement would be supplied by air while the Russians would have to feed the population in the US Sector, has caused considerable dismay.</note>
+				<note xml:id="q-3b5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Currency-reform continues-to occupy people's attention.</note>
+				<note xml:id="q-3c5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">The following paragraph by a fieldworker gives an accurate picture of the Berliners' mental state:- "A Berlin cabaret presents a poster that is strikingly appropriate to the position of Berlin, depicting as it does, the boar, Berlin's city emblem, balancing itself on a tight-rope stretched from East to West. We are all balancing ourselves on such a tight-rope, and our strained nerves are suspended between one Conference and another, between one Control Council meeting and the next, and up to now no decision has been reached. In addition there is the long wait for some settlement in foreign policy. Hovering thus between war and peace, between democracy and a Military Government, between hope and resignation, between messages from the East and from the West, the Germans - and this applies-to Berliners in particular - must perforce try to keep their balance. This state of affairs is bound in the long run to have an paralysing effect.</note>
+				<note xml:id="q-3d5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">After Germany' collapse the Allies announced that after a certain period of transition things would take, a turn for hotter. This was two and a half years ago. The uncertainty end insecurity has remained but the trust in Allied goodwill has largely disappeared. Germans who live, consumed by doubt, haunted by worries about food, politics and how to keep alive, cannot be expected to look far ahead or maintain balanced judgement on affairs of state. hhh 2. Mr. Bovin's Speech</note>
+				<note xml:id="q-3e5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">This has made an excellent impression and is interpreted as showing that "at last" Britain and the West are going to stand firm and strike no more compromises with the Soviets. His reference to West European Unity is welcomed as long as Germany or at least West Germany can be included in those plans. Germans are in general strongly prejudiced in favour of European Union. A recent survey showed more than 1 parson in 2 as being in favour of closer European Unity. hhh 3. Politics</note>
+				<note xml:id="q-3f5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">The last sitting of the Control Council was awaited with agitation and when the results were published a sense of relief that nothing serious had occurred was discernible. Alarmists had been busy with the idea that Marshall Sokolovski would return from Moscow with an aggressive policy.</note>
+				<note xml:id="q-405388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Protocol M has not created a sensation: it was read and digested by some but in the main the reaction was lukewarm. People tended to be either sceptical of its genuineness accepted it with a shrug of the shoulders. -"well, what else can you expect?"</note>
+				<note xml:id="q-415388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">The SPD is frequently reproached with timidity in the face of growing SED and Communist boldness.' The strikes in the Western Zones, in Italy and in France are frequently interpreted as showing Western "weakness" in the face of the Communist throat. The US and Britain are still attacked for spineless policy.</note>
+				<note xml:id="q-425388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Political affairs are regarded with complete apathy - the developments in West Germany interest only to the extent that people fear they might lead to the withdrawal of the Western Allies from Berlin. (For instance more than 1 person in 2 had heard nothing and knew nothing of the meetings of General Clay and General Robertson with the Bizonal Economic Council). hhh 4. Food</note>
+				<note xml:id="q-435388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Deliveries in general punctual. Apples announced before Christmas have, it is claimed, not been obtained by many families. Too speedy consumption of their potato stocks continues a nagging worry for many housewives. hhh 5. Attitude towards the Allies</note>
+				<note xml:id="q-445388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">The British are attacked for the tree-felling in the British Zone which is compared with Russian "robbery". Berliners' attitude to the British remains on the whole favourable.</note>
+				<note xml:id="q-455388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">The Americans have lost face because after all the talk and publicity about the Marshall Plan there have so far been no "results". General Clay's statement that if necessary the US personnel here would be supplied by air has perturbed many (sec "General").</note>
+				<note xml:id="q-465388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The Russian are viewed with antipathy. The following points were mentioned as leading to Soviet unpopularity:-</note>
+				<note xml:id="q-475388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">1) Totalitarian measures</note>
+				<note xml:id="q-485388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">2) Restrictions of personal liberty</note>
+				<note xml:id="q-495388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">3) Oder-Neisse frontier</note>
+				<note xml:id="q-4a5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">4) The dismantling's</note>
+				<note xml:id="q-4b5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">5) Reparations from urgent production</note>
+				<note xml:id="q-4c5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">6) Attitude in Peace Conference</note>
+				<note xml:id="q-4d5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">7) Soviet corporations in Eastern Zone</note>
+				<note xml:id="q-4e5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">8) Interference in German party politics the SED and the Kaiser affair.</note>
+				<note xml:id="q-4f5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">The French are said to look after their Sector less carefully than the other Allies - smaller allocations of extra food and fuel give rise to this allegation. hhh 6. Fuel</note>
+				<note xml:id="q-505388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Generally the mild weather has caused the fuel problem to recede into the background. There is some confidence now amongst the worst-off sections of the population that we'll get through the winter after all. hhh 7. Shortages</note>
+				<note xml:id="q-515388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Directors and hospital staff complain of crippling shortages of medicines and of bandages. Specified as in dangerously short supply are: cough mixtures, cotton, wool, atropin, morphia and patent types of bandages. hhh 8. Black Market</note>
+				<note xml:id="q-525388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">"Wer gut schmiert der gut faehrt" (who bribes well) seems to fit the times.</note>
+				<note xml:id="q-535388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">Russian and Jugoslav cigarettes are still to be purchased at lower prices than US or English cigarettes. A survey this month on corruption among municipal officials showed that the majority of Berliners believe that their public servants accept bribes. hhh 9. Motor Licenses</note>
+				<note xml:id="q-545388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">The Soviet refusal to renew motor licenses for some vehicles travelling to and fro from-Berlin to the Russian Zone has aroused much comment. Some interpret this as a Soviet move designed to em­barrass the Western Allies' supply of food to the Sectors and thus accelerate their-withdrawal from the city. hhh 10. Youth Amnesty</note>
+				<note xml:id="q-555388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">In youth circles this measure is regarded as the great "open sesame"- the one thing the Allies could do which would above all remove the feeling of those affected that they are "forgotten" men or women. hhh 11. Miscellaneous</note>
+				<note xml:id="q-565388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">A joke: "Why do the British cut down our woods?" - Answer: "so that Germany's voices do not rind an echo."</note>
+				<note xml:id="q-575388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">And a very contemporary lyric:</note>
+				<note xml:id="q-585388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">"Wer heute noch das Lubon liebt, - der schiebt,</note>
+				<note xml:id="q-595388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">Wem Ehrlichkeit das Blut borauscht - der tauscht,</note>
+				<note xml:id="q-5a5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">Wor fuor beide sich den Weg verbaut - der klaut,</note>
+				<note xml:id="q-5b5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">Doch wer ehrlich sich sein Brot erwirbt - der stirbt."</note>
+				<note xml:id="q-5c5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">A translation might be:</note>
+				<note xml:id="q-5d5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">"A man who holds his life most dear- will be a racketeer,</note>
+				<note xml:id="q-5e5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">A man whose honesty's his charter- will barter,</note>
+				<note xml:id="q-5f5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">A man of both those ways bereft - commits a theft,</note>
+				<note xml:id="q-605388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">A man who honestly his trade does ply - will die."</note>
+				<note xml:id="q-615388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">Tailpiece:</note>
+				<note xml:id="q-625388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">Schumacher visits England and is given a magnificent limousine by Attlee. The German climbs in and trios to start the car but nothing happens. He lifts the bonnet and sees there is no engine in the car. Ho asks Attlee why the car is not provided with an engine, and Attlee replies: "In England things are going downhill so fast you can coast along without an engine. In Germany 'es wird geschoben' (an untranslatable pun combining the meaning "pushed" with the meaning "swindled") and when 'nicht muhr geschobon Gird, Bann muessen Si, Herr Schumacher, sowieso aussteigen (and when the pushing(and swindling) in Germany ceases and better times come then Mr.Schumacher, you will have to get out anyway - i.e. you will lose your job-)."</note>
+				<note xml:id="q-635388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="53">J.E. Sheppard</note>
+				<note xml:id="q-645388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="54">P.O.R.O.</note>
+				<note xml:id="q-655388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="55">PRISC Branch</note>
+				<note xml:id="q-665388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="56">HQ Mil. Gov.</note>
+				<note xml:id="q-675388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="57">B.T.B.</note>
+				<note xml:id="q-685388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="58">B.A.O.R</note>
+			</div>
+		</body>
+	</text>
+</TEI>

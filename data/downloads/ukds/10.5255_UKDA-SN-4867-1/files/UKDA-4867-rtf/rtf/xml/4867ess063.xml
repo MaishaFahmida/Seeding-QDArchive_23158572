@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 64</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-686e4878-6e2a-491c-922d-b15463b712a8</idno>
+        <idno type="qudexdocument">q-52bc9274-b5e9-41ae-b2f9-607bfd469d92</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-b07e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Parst</note>
+      <u xml:id="q-b17e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">How can you <sic>right</sic><corr>write</corr>
+				about <sic>some thing</sic><corr>something</corr> that has not happen or may never happen.</u>
+      <u xml:id="q-b27e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I planned to stay
+				on for one year and it some point less. I {dot?} now if It has changed {everything?}
+				or not at 16 there was about 6000,000 without hob in the EEC.</u>
+      <u xml:id="q-b37e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I {dot?} <sic>thing</sic><corr>think</corr> is
+				was going to get better. I {dot} think this <sic>countree</sic><corr>country</corr> was going to stay as it had
+				<sic>be</sic><corr>been</corr>.</u>
+      <u xml:id="q-b47e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I think this
+				feeling was all over the place, which {illegible} in most with {African countries?}
+				which the USSR helping the Black people <sic>whith</sic><corr>with</corr> Arms to <sic>murded</sic><corr>murder</corr> one and another. It was
+				the {whith?} people felt anyway to get a Job you have to have a cse or O <sic>leve</sic><corr>level</corr> which
+				is the <sic>educatshunl</sic><corr>educational</corr><sic>eqwithalaut</sic><corr>equivalent</corr>{educational equivalent??!} to money the more you
+				have the <sic>beater</sic><corr>better</corr> the <sic>jop</sic><corr>job</corr>.</u>
+      <u xml:id="q-b57e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">When I <sic>frist</sic><corr>first</corr> left
+				school I had a few <sic>usless</sic><corr>useledd</corr> cse in English, computer studies, <sic>Eurpean</sic><corr>European</corr> studies and
+				{Broage?} and <sic>whonted</sic><corr>wanted</corr> to be in the police. I not no if I ever got there or not I {
+				sirpoles- suppose} not, so I {thoarg} { ide- I’d} be an {dot} and joint the Army I
+				only for two <sic>reson</sic><corr>reasons</corr>. There was ever few people in it and save up some money to by a
+				good <sic>siez</sic><corr>size</corr> sailing craft, and {?} it {?} a tender. To the {mi amigo?} it’s the same
+				off the government <sic>sied</sic><corr>side</corr> we are free this <sic>sied</sic><corr>side</corr> of the <sic>iion</sic><corr>iron</corr><sic>certain</sic><corr>curtain</corr> as long as you not
+				wear <sic>bages</sic><corr>badges</corr> consiring sirton radio station t shert, or give them any money so as they
+				can broadcast, three os only one at that time because the government had closed I
+				most of them down. By making it <sic>illgall</sic><corr>illegal</corr> to add-ever-tis on them.</u>
+      <u xml:id="q-b67e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">There is now only
+				two left carolive and mi miago, the <sic>reson</sic><corr>reason</corr> the goverm made the most was because
+				<sic>pireta</sic><corr>pirate</corr> radio, was not own by the <sic>govermit</sic><corr>government</corr>. There for they were on-able to broadcast
+				on them or take them what the play like the BBC.</u>
+      <u xml:id="q-b77e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I think I <sic>whill</sic><corr>will</corr>
+				joine up and save up a bout £2000 or so and get one and then leve now we got out the
+				Army. Are sea {I’ll see?} about being a tender this is <sic>illgale</sic><corr>illegal</corr> in this <sic>domp</sic><corr>dump</corr> of a
+				place. So I was <sic>cerfel</sic><corr>careful</corr>. I painted the ship Black <sic>whith</sic><corr>with</corr> a blue deck and on the boles
+				at the <sic>frot</sic><corr>front</corr> end painted a face on it with shack like teeth and and set off to. To
+				spin. For the sirplay’s you had to look out for government ship and <sic>Airoplanes</sic><corr>airplanes</corr><sic>becaus</sic><corr>because</corr> if they suus out you <sic>spen</sic><corr>spend</corr> a year in <sic>jaile</sic><corr>jail</corr>.</u>
+    </body>
+  </text>
+</TEI>

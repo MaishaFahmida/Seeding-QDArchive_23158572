@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 86</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-26e0d37d-8253-473e-b809-3c889c82d81f</idno>
+        <idno type="qudexdocument">q-8b106342-b073-4a2c-90fb-dc27a0204868</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-3c7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflection</note>
+      <u xml:id="q-3d7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">“What a time I
+				had”, I said out loud as I was thinking. My mind was wondering. It was one of those
+				days. Then suddenly my mind flashed back, I must have been day dreaming. I suddenly
+				went back in time to the last year of my school days. Things came clearer it was the
+				last day of school, I remember going round the teachers to get my leaving form
+				<sic>sighned</sic><corr>signed</corr> up, I went round the school time after time.</u>
+      <u xml:id="q-3e7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Come four o’clock
+				I was almost breathless.</u>
+      <u xml:id="q-3f7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Then as I walked
+				along the footpath to the gate, I felt. This is it there was no turning back now, so
+				I just kept on walking, the path seemed longer than usual, I <sic>surpose</sic><corr>suppose</corr> it was because
+				I knew it would probably be the last time I walked that path. As soon as I walked
+				out of the gate I felt free.</u>
+      <u xml:id="q-407f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">My mind flashed
+				on in time to my first day at work. It took quite some time to get a job and I was
+				very <sic>nerverse</sic><corr>nervous</corr>.</u>
+      <u xml:id="q-417f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">That first day
+				must have been the best of my life I made new friends met teachers and had a great
+				day with my partner. My mind flashed again to when I met Stephanie my wife she was a
+				nice young girl a year older than me, a big girl if you’ll pardon the expression. We
+				got married and {tired?} peacefully just me and her till she got to the age of 47
+				she had been ill with a rare stomach <sic>diseace</sic><corr>disease</corr> ever <sic>scince</sic><corr>since</corr> she was a child and was in
+				great pain, I spent every hour with I could, in hospital till she recovered and now
+				we have both retired her from nursing me from technical work in the labs we have two
+				fine children one a boy called john who was twenty <sic>thee</sic><corr>three</corr> and a girl called Kim who
+				was twenty five. They both have <sic>familys</sic><corr>families</corr> and are always good to me and Stephanie. Yes
+				I must say we made a go at our lives and it paid <sic>of</sic><corr>off</corr> well.</u>
+      <u xml:id="q-427f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">“Hmm” I sighed as
+				I nodded <sic>of</sic><corr>off</corr> to sleep hand in hand with Stephanie.</u>
+    </body>
+  </text>
+</TEI>

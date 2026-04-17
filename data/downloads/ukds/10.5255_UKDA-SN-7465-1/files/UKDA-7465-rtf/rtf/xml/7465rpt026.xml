@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Reaction Report No. 13 - December 1947</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-bab32a16-0d7c-46fa-a0dd-9852e16c7138</idno>
+				<idno type="qudexdocument">q-c977728b-ee04-499e-b18a-116c19cc370a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-695388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-6a5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-6b5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Governmental Sub-Commission</note>
+				<note xml:id="q-6c5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">PRISC Branch</note>
+				<note xml:id="q-6d5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ Military Government</note>
+				<note xml:id="q-6e5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">British Troops, Berlin</note>
+				<note xml:id="q-6f5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">B.A.O.R.</note>
+				<note xml:id="q-705388b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">10 Jan 48</note>
+				<note xml:id="q-715388b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="9">REACTION REPORT No.13</note>
+				<note xml:id="q-725388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">(From information gathered between 1 and 31 Dec 47)</note>
+				<note xml:id="q-735388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Note: Readers are asked to remember that although this report is compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be hysterical and ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting. hhh Contents:</note>
+				<note xml:id="q-745388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Question 1: Are you following the course of the foreign Ministers' Conference?</note>
+				<note xml:id="q-755388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">Question 2: Which of the Foreign Ministers made the most favourable proposals for Germany?</note>
+				<note xml:id="q-765388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Question 3: Do you believe that at this Conference a peace treaty with Germany will be concluded?</note>
+				<note xml:id="q-775388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Question 4: What would the consequences be for Germany if the Foreign Ministers did not reach agreement?</note>
+				<note xml:id="q-785388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Question 5: What would be the consequences for the Foreign Ministers did not reach an agreement?</note>
+				<note xml:id="q-795388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Question 6: Have you heard about the banning of the Kulturbund in the British and American Sectors?</note>
+				<note xml:id="q-7a5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Question 7: For what reasons was it banned?</note>
+				<note xml:id="q-7b5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Question 8: Do you 'believe that Americans and British would have recognised the Kulturbund if it had made application in the proper manner?</note>
+				<note xml:id="q-7c5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Note: Religion of respondents is shown as follows:-</note>
+				<note xml:id="q-7d5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">ev = evangelical</note>
+				<note xml:id="q-7e5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">cath = catholic -</note>
+				<note xml:id="q-7f5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">= no religion</note>
+				<note xml:id="q-805388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">misc = other religious sects</note>
+				<note xml:id="q-815388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">Note: When the Foreign ministers'' Conference broke up, work on questions 1-5 was for obvious reasons, suspended. Questions 1-5 were therefore put only to 266 people instead of 462. hhh Question 1: Are you following the course of the Foreign Ministers' Conference?</note>
+				<note xml:id="q-825388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Number Percentage</note>
+				<note xml:id="q-835388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">1. Yes 194 73%</note>
+				<note xml:id="q-845388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">2. No 72 27%</note>
+				<note xml:id="q-855388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">TOTAL: 266 100%</note>
+				<note xml:id="q-865388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">The majority (73%) were following the Foreign Ministers' Conference because the fate of Germany depended on its results. Some people claimed they interested themselves in the proceedings-because of general interest in world affairs, Men were rather more interested than women.</note>
+				<note xml:id="q-875388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Post inspector 25 (ev): "Yes - by press and radio because I am interested in politics. Every</note>
+				<note xml:id="q-885388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">German should be interested in this Conference."</note>
+				<note xml:id="q-895388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Typist (female) 20 (ev): "Yes, with great interest. I read the newspapers 'Telegraf" and "Neues Deutschland" to get both sides of the picture."</note>
+				<note xml:id="q-8a5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">27% the majority women, were not interested in the Conference either because they had no time or interest in politics or because they considered that the Conference would in any case fail.</note>
+				<note xml:id="q-8b5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Housewife, 29 (cath): "No - I have no time. My husband died two weeks ago and I have two small children." Housewife 39 (ev):</note>
+				<note xml:id="q-8c5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Housewife, 39 (ev) "No - I think the Conference is senseless so it doesn't interest me" hhh Which of the Foreign ministers made the most favourable proposals for Germany?</note>
+				<note xml:id="q-8d5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">266 interviewed.</note>
+				<note xml:id="q-8e5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">Number Percentage</note>
+				<note xml:id="q-8f5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">1. Marshall 90 34%</note>
+				<note xml:id="q-905388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">2. Molotov 23 9%</note>
+				<note xml:id="q-915388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">3. Bovin 19 7%</note>
+				<note xml:id="q-925388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">4. No opinion - not interested 127 47%</note>
+				<note xml:id="q-935388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">5. Refused answer 7 3%</note>
+				<note xml:id="q-945388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">TOTAL: 266 100%</note>
+				<note xml:id="q-955388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">Mr. Marshall's proposals were regarded by the majority (34%) as the most favourable for a variety of reasons. Many favoured Mr. Marshall's proposals because they regarded the United States as the country best able to help Germany rather than as a result of any consideration of the American viewpoint. The Marshall Plan, the Secretary of State's opposition to Communism, his insistence on a quick conclusion of a peace treaty, and his policy with regard to the Polish occupied provinces were separately or together selected by various respondents as the reasons for their support of Mr. Marshall. Women were less inclined than men to adopt a positive attitude.</note>
+				<note xml:id="q-965388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">Master plumber 59 (ev): "Marshall, because-of his plan itself and the proposals he made regarding the question of Germany's frontiers and economy."</note>
+				<note xml:id="q-975388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">Housewife 61 (ev): "Marshall, because 1) he is claiming no extra territory in Europe, 2) He judges the German people from a different standpoint, 3) he tries to make the Russians come to some agreement."</note>
+				<note xml:id="q-985388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">Doctor 30 (ev): "Marshall, he desires Germany's unity, the reconstruction of industry, the raising of the living standard, no reparations from current production and planned reactivation of the export trade."</note>
+				<note xml:id="q-995388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">Molotov's proposals were favoured by 9%, the majority women. Molotov's advocacy of a central German government and German unity, his opposition to the separation of the Saar from Germany and his insistence that Germany should not be transformed into a colony of other powers were the principal reasons for the popularity of his proposals.</note>
+				<note xml:id="q-9a5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">Technician 45 (misc): "Apart from other considerations Molotov's plan is the best because of his demand for German unity, Whether practice will come up to promises remains to be decided." Housewife 65 (-):</note>
+				<note xml:id="q-9b5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">Housewife 65 (-): "Molotov; if one can believe the news he gave to the unity of Germany pride of place in his proposals."</note>
+				<note xml:id="q-9c5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">Mr. Bevin's proposals were regarded as the most favourable by 7%. His support for the abolition of the zonal frontiers, socialisation measures, a central government and social and political unity were commended. •</note>
+				<note xml:id="q-9d5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">Orchestra conductor 46 (ev):"Bevin, in my opinion his plan corresponds most nearly to our wishes. A central government, the end of the zonal frontiers and economic unity." Housewife 29(ev):</note>
+				<note xml:id="q-9e5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">Housewife, 29 (ev) "Bevin.' The raising of the zonal frontiers, socialisation of the economy and a central government."</note>
+				<note xml:id="q-9f5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">47% either did not follow the Conference in the papers and had no idea how the proceedings had gone, or regarded themselves as unqualified to offer opinions on politicalmatters. Women constituted the majority in this group. hhh Question 3: Do you believe that at this Conference a peace treaty with Germany will be concluded?</note>
+				<note xml:id="q-a05388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">266 interviewed. Number Percentage</note>
+				<note xml:id="q-a15388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">1. Yes 35 13%</note>
+				<note xml:id="q-a25388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">2. No 160 60%</note>
+				<note xml:id="q-a35388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">3. No opinion 71 27%</note>
+				<note xml:id="q-a45388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">TOTAL: 266 100 %</note>
+				<note xml:id="q-a55388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">13%, women predominating, considered that the Conference would reach agreement on a peace treaty with Germany. Some thought that Russia would yield and a compromise be reached, others that a peace treaty would be concluded but only after the most protracted negotiations. Often belief in the success of the Conference was little more than a pious hope.</note>
+				<note xml:id="q-a65388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">Charwoman 49 (misc):"Yes, the Ministers have realised that the German people will perish if a peace treaty is not quickly concluded -- and they will never permit."</note>
+				<note xml:id="q-a75388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">Plumber 18 (ev): "The Russians will come down a peg and not prevent a peace treaty."</note>
+				<note xml:id="q-a85388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">Works manager 50 (ev): "Yes, it looks as though they will come to some agreement:"</note>
+				<note xml:id="q-a95388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="65">The majority (60%) we o pessimistic and did not believe that a peace Conference would be able to conclude a peace treaty. The principal argument was that the Allies were so disunited and had such completely divergent viewpoints on nearly everything that agreement never could be achieved. Men tended to take this view more than woman. Some claimed that the Russians were the chief stumbling block.</note>
+				<note xml:id="q-aa5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="66">Man (no profession) 32 (ev): "No, because here two opposite points of view clash; between democracy and Communism there can never be agreement."</note>
+				<note xml:id="q-ab5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="67">Secretary (female) 23 (cath): "No. If they have such difficulty in agreeing about the agenda then agreement about a peace treaty is unthinkable at the present time." Housewife 59 (ev):</note>
+				<note xml:id="q-ac5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="68">Housewife 59 (ev) "No, the disunity among them (the Allies) is too great. Each one is only seeking his own advantage. Therefore this Conference will also not result in a peace Conference."</note>
+				<note xml:id="q-ad5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="69">27%, the vast majority women, were not interested in the Conference and could offer no opinion. hhh Question 4:</note>
+				<note xml:id="q-ae5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="70">What would the consequences be for Germany if the foreign ministers did not reach agreement?</note>
+				<note xml:id="q-af5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="71">266 interviewed.</note>
+				<note xml:id="q-b05388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="72">Number percentage</note>
+				<note xml:id="q-b15388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="73">1. Ruin of Germany - Starvation - Communism 116 44%</note>
+				<note xml:id="q-b25388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="74">2. East-West partition of Germany 67 25%</note>
+				<note xml:id="q-b35388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="75">3. War between Russia and the West 13 5%</note>
+				<note xml:id="q-b45388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="76">4. No opinion - Not interested 70 26%</note>
+				<note xml:id="q-b55388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="77">T O T A L 266 100%</note>
+				<note xml:id="q-b65388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="78">The majority (44%) saw in the failure of the Foreign Ministers' Conference ruination for the German economy and starvation and chaos for the German people. Others- in- this group believed that the continuation of present economic conditions consequent upon the failure of tie Conference would lead to Communism. Men were slightly more to these views than women.</note>
+				<note xml:id="q-b75388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="79">"Complete chaos in the economic and political sphere - the continuation of the zonal frontiers."</note>
+				<note xml:id="q-b85388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="80">Turner 57 (ev): "Complete chaos in the economic and political sphere - the continuation of the zonal."</note>
+				<note xml:id="q-b95388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="81">Housewife 56 (ev): "With the cessation of American aid our living conditions would become catastrophically worse."</note>
+				<note xml:id="q-ba5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="82">Mechanic 18 (ev): "We would have to suffer a lot. To do would decrease a good deal and our living standard would also fall lower."</note>
+				<note xml:id="q-bb5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="83">25% foresaw as a result of the failure of the conferenced the partition of Germany into an Eastern and a Western State, while some thought a separate peace would be concluded with the Western Zones. An intensification of the rivalry and points of difference between East and West also expected.</note>
+				<note xml:id="q-bc5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="84">Doctor 30 (ev): "Partition of Germany into an Eastern and Western State. In the Eastern Zone the ruthless exploitation of working people and of industry, subjugation of personal freedom. In general a decline for the whole of Germany."</note>
+				<note xml:id="q-bd5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="85">Mechanic's Assistant 73 (ev): "Germany could be split up and there would be no more chances for us to recover."</note>
+				<note xml:id="q-be5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="86">Business Woman 35 (ev): "The iron curtain would fall once and for all and Germany as such would cease to exist.</note>
+				<note xml:id="q-bf5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="87">5% prophesied that the failure of the Peace Conference would cause war to break out between East and West.</note>
+				<note xml:id="q-c05388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="88">Seamstress 58 (6v): "Aggravation of the present distress and eventually warlike clashes in which we would again have to do the suffering."</note>
+				<note xml:id="q-c15388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="89">26%, the vast majority women, were not interested in politics or could offer no opinion. hhh Question 5: What would be the consequences for Berlin if the Foreign Ministers did net reach agreement?</note>
+				<note xml:id="q-c25388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="90">266 interviewed.</note>
+				<note xml:id="q-c35388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="91">Number Percentage</note>
+				<note xml:id="q-c45388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="92">1. The Western Allies would withdraw and Berlin would become Russian 61 20%</note>
+				<note xml:id="q-c55388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="93">2. Situation -would remain the same (The Western powers would stay) 50 19%</note>
+				<note xml:id="q-c65388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="94">3. Economic situation would deteriorate 39 14%</note>
+				<note xml:id="q-c75388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="95">4. Berlin would be isolated from the West 15 6%</note>
+				<note xml:id="q-c85388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="96">5. Sector boundaries would become frontiers - a Western and .eastern Berlin 14 5%</note>
+				<note xml:id="q-c95388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="97">6. Not interested --no opinion 87 33%</note>
+				<note xml:id="q-ca5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="98">TOTAL: 266 100%</note>
+				<note xml:id="q-cb5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="99">23% opined that the failure of the Peace Conference would result in Berlin becoming Russian. Others expected not only Russian occupation of the whole city but also mass flight from the city with strikes and possibly civil war. There was no significant difference of opinions as between men and women.</note>
+				<note xml:id="q-cc5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="100">Shop assistant (female) 54 (ev):"Then Berlin will be incorporated in the Russian zone. and I shall take my own life."</note>
+				<note xml:id="q-cd5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="101">Seamstress 55 (ev): "Berlin will become Russian and the Western powers will withdraw from Berlin."</note>
+				<note xml:id="q-ce5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="102">19% believed that the situation would remain the same, the Western Allies staying on in Berlin as before, Men were more inclined to adopt this viewpoint than women. Many People felt that conferences had been held before but none of them had made any difference to the situation, so why should this one?</note>
+				<note xml:id="q-cf5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="103">Housewife 60 (ev): "No notable results. There have been many conferences which have not altered the overall picture."</note>
+				<note xml:id="q-d05388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="104">Bookkeeper (female) 39 (-): "No results for Berlin. So long as it is occu­pied by the four Allies together there is nothing to fear."</note>
+				<note xml:id="q-d15388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="105">9% men predominating, feared that the economic situation would deteriorate Food imports from the US would, it was thought, be cut off while business would he paralysed.</note>
+				<note xml:id="q-d25388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="106">Housewife 59 (cath): "The food would become even scarcer. Most Berliners are shivering at the thought already.'</note>
+				<note xml:id="q-d35388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="107">Doctor 30 (ev): "What is happening in the Eastern Zone would be on the agenda for Berlin. Lowering of the standard of living, approximation to Russian conditions."</note>
+				<note xml:id="q-d45388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="108">6% foresaw the complete isolation of Berlin from Western Germany'. It might become a sort of free state in the middle 'of the Rusian Zone but its contact with the West would cease.</note>
+				<note xml:id="q-d55388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="109">Housekeeper 69 (ev) "Berlin would be like an island and be cut off from everything."</note>
+				<note xml:id="q-d65388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="110">Housewife 36 (ev): "A Western State would arise and Berlin would become an island and. would be very badly off for food."</note>
+				<note xml:id="q-d75388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="111">5% expected a hardening of the Sector boundaries and the possible formation of a Western Berlin and an Eastern Berlin.</note>
+				<note xml:id="q-d85388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="112">Official of Reichsbank 4.6 (ev):"After the failure of the London Conference they will not be able to avoid a complete ration between the Eastern and Western ideologies. That is to say the Eastern Sector will attach itself economically and politically to the Eastern Zone and the Western Sectors to the West Russia will not be inclined to supply the Western Sectors in any form. There will finally be some sort of Polish corridor (rail and road) from the West to Berlin to supply the Western Sectors." 33%, largely wowen, were not interested or had no opinion. hhh Question 6: Have you heard about the banning of the Kulturbund in the British and American Sectors?</note>
+				<note xml:id="q-d95388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="113">462 interviewed. Number Percentages</note>
+				<note xml:id="q-da5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="114">1. Yes 212 46%</note>
+				<note xml:id="q-db5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="115">2. No 250 54%</note>
+				<note xml:id="q-dc5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="116">TOTAL: 462 100%</note>
+				<note xml:id="q-dd5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="117">Those (46%) who were informed about the banning of the Kulturbund had obtained their information largely from the press and radio. Men were relatively more numerous than women in this group.</note>
+				<note xml:id="q-de5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="118">The majority (54% who were not acquainted with the banning, of the Kulturbund usually gave as an excuse that they were too busy and had too little time. Women Gere in the majority in this group hhh Question 7: For what reasons was it banned?</note>
+				<note xml:id="q-df5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="119">462 interviewed. Number Percentage</note>
+				<note xml:id="q-e05388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="120">1. Because it is a Communist not a non-party organisation 65 14%</note>
+				<note xml:id="q-e15388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="121">2. Because it did not make proper application for recognition 50 11%</note>
+				<note xml:id="q-e25388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="122">3. Don't know 347 75%</note>
+				<note xml:id="q-e35388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="123">TOTAL: 462 100%</note>
+				<note xml:id="q-e45388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="124">14% believed that the Kulturbund was banned for political reasons because it pursued a pro-SED) Russian-orientation Course which departed from the objectivity and non-partisanship which were laid down in its consti­tution. Some respondents in this group alleged that the Kulturbund was a cloak for Communist propaganda. Some believed that both the Kulturbund's political activity and its failure to make proper application were the causes of its being banned. Men were much better informed on this question than women.</note>
+				<note xml:id="q-e55388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="125">Insurance Clerk 39 : "Because the Kulturbund is in Its structure allied with the SED and has been politically active."</note>
+				<note xml:id="q-e65388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="126">Department chief 45 (misc): "The reasons are not wholly clear to me. It is a political affair. The Kulturbund is supported by the Communist side and is on that account pushed aside by the Western Allies"</note>
+				<note xml:id="q-e75388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="127">11% again mostly men, declared that the Kulturbund was banned because it has not apply for recognition at the proper time in the manner. A few were inclined to add that politics entered too much into the Kulturbund's activities. Men were more prone to express an opinion than women.</note>
+				<note xml:id="q-e85388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="128">Municipal inspector 53 (ev):"It did not apply for recognition to the British and Americans. Also the Kulturbund was too active politically."</note>
+				<note xml:id="q-e95388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="129">Building contractor 51 (ev.):"The Kulturbund is not authorised because it has put in no application."</note>
+				<note xml:id="q-ea5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="130">75%, the majority women, had no information about the Kulturbnd or could not express an opinion. hhh Question 8: Do you believe that the Americans and British would have recognised the Kulturbund if it had made application in the proper manner?</note>
+				<note xml:id="q-eb5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="131">462 interviewed.</note>
+				<note xml:id="q-ec5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="132">Number Percentage</note>
+				<note xml:id="q-ed5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="133">1. Yes 107 23%</note>
+				<note xml:id="q-ee5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="134">2. No 27 6%</note>
+				<note xml:id="q-ef5388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="135">3. No opinion 328 71%</note>
+				<note xml:id="q-f05388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="136">TOTAL: 462 100%</note>
+				<note xml:id="q-f15388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="137">23% the majority men, believed that the British and Americans would recegnise the Kulturbund if they made a normal application because it would be contrary to democratic practice to discriminate against such organisations on political grounds. It was claimed that under the British and Americans Communist organisations were accorded the same rights as non-Communist.</note>
+				<note xml:id="q-f25388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="138">Post inspector 25 (ev): "Yes, the Western powers would definitely have licensed the Kulturbund since they support every cultural undertaking in Germany."</note>
+				<note xml:id="q-f35388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="139">Secretary (female) 27 (ev):"Yes, it is a part of the democratic principles of the Western powers to license such associations which do not represent their point of view."</note>
+				<note xml:id="q-f45388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="140">Insurance clerk 34 (ev): "Yes, definitely. The SED is permitted in the Western Sectors also."</note>
+				<note xml:id="q-f55388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="141">6%, seeing in the Kulturbund a Communist organisatien and remembering the American campaign against Communism, concluded that the Kulturbund not be recognised under any circumstances because it was a Communist organisation. Many respondents in this group identified the British with the American anti-Communist campaign. Men were more inclined to this view than women.</note>
+				<note xml:id="q-f65388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="142">Turner 34 (ev): "No, the British and Americans cannot combat Communism on the one hand and on the other li­cense Communist associations."</note>
+				<note xml:id="q-f75388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="143">Mechanic 59 (misc): "No. With its present political line the Kulturbund would certainly never be permitted in their Sectors by the British and Americans."</note>
+				<note xml:id="q-f85388b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="144">71% know nothing about the existence of the Kulturbund, were not inter­ested or had no opinion. Women were as usual preponderant.</note>
+				<note xml:id="q-f95388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="145">J.E. Sheppard</note>
+				<note xml:id="q-fa5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="146">P.O.R.O.</note>
+				<note xml:id="q-fb5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="147">GOV SC</note>
+				<note xml:id="q-fc5388b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="148">PRISC Branch</note>
+			</div>
+		</body>
+	</text>
+</TEI>

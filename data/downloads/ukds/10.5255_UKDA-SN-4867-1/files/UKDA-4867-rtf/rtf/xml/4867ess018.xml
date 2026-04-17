@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 19</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-164d019a-63ee-4416-b83b-6adf7089f24f</idno>
+        <idno type="qudexdocument">q-a798c601-54df-47ee-8b9b-d4fdf80ea14d</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-bb7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">After leaving
+				school at 16 years old my first employment was in a factory. This employment was
+				only found through four months hard slog looking for a job, even then I was not
+				happy in the job I did. The factory was small situated on the island making clothes
+				and other garments. To a <sic>surtain</sic><corr>certain</corr> extent, with school behind me I was happy to have
+				“freedom”. I would work from eight thirty in the morning to five thirty at night,
+				travelling back home to my <sic>parents</sic><corr>parents'</corr> house on the no.9 bus which ran from {?} the
+				factory to Minister. Every Friday I would receive my wage package containing £23.50
+				net; £25.50 gross. The work was not physically demanding or hard but I know if I did
+				not turn up on time or not even at all I would pay financially or even pay with the
+				sack, at that at the time I could not afford. The car my parents were going to buy
+				me needed insurance, tax and some minor extras which all cost money. At the age of
+				18 I decided that the money I was earning could not support me fully. By Now I had a
+				car, out nearly every night drinking and my wage was only £35. I found employment
+				through the job centre, It was again factory work but it offered me better working
+				conditions and hours. The factory was again on the Island, just outside Leysdown
+				producing Japanese car <sic>componants</sic><corr>components</corr>, for the cars which were being imported as now
+				British Leyland had been liquidised six months ago. I still lived at home but
+				thought about moving in to a flat with a girl friend but financially I found that
+				unsuitable as the landlord was asking £30 per week rent, too much for me. By now my
+				parents had begun to question me about moving out of their house (father mainly) and
+				thinking of settling down finding some property and getting married of course. If I
+				had had it my way I would <sic>of</sic><corr>have</corr> never got married but this I did at the age of 27.
+				After several unsettled jobs and several bad decisions, the one which landed me in
+				court after driving with two illegal tyres of the front of my car for example. My
+				wife was of a middle class family, her parents being mildly well off. She found
+				employment quite all along easily with her seven ‘o’ levels. The marriage did not
+				last too long though, we had no children and an agreeable divorce, on both sides,
+				came as a relief.</u>
+      <u xml:id="q-bc7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">After looking
+				back at the past I had realised that now at 30 years old I had {done} bloody sod all
+				with my life and had no goal. This is when I decided to return to night school and
+				get some qualifications. Yes! Little pieces of paper which portrayed my
+				intelligence, flexibility and responsibility to an employer. I got my qualification
+				and even at the age of 31 decided to make a career out of engineering, electrical
+				that is. I worked not in a factory but in one of the new large hydro-electric
+				powerstations in Scotland, all this new employment was created by the uses of sea
+				power. My job was comfortable. I was also happy in what I was doing. I then slowly
+				began to climb up the ladder eventually becoming head of the department and then
+				director. All this stayed the same until I retired, a happily married man, married
+				to the <sic>secon</sic><corr>second</corr> wife at 35. I had money in my pocket and my own property not to say one
+				of the more luxurious car <sic>moddles</sic><corr>models</corr> produced in Russia. I thought about those years
+				between the age of 16 and 30 and shamed my self because how I had wasted them. All
+				that I did <sic>achive</sic><corr>achieve</corr> was done after school hours when nearly it could have been
+				done.</u>
+      <u xml:id="q-bd7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Please tell me
+				why I did not do it? Is it me, society or is it just the way life goes?</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-5f3db3ee-1dde-4097-8a4c-17d7e2876d47</idno>
+				<idno type="qudexdocument">q-638a8834-676b-491f-9fce-3ec4adb22d21</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-e84f7fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject:- Morale Report</note>
+				<note xml:id="q-e94f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">CONFIDENTIAL.</note>
+				<note xml:id="q-ea4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">RSR/A/60/19</note>
+				<note xml:id="q-eb4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">HQ Raiding Support Regiment CMF</note>
+				<note xml:id="q-ec4f7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="5">2 Mar 45</note>
+				<note xml:id="q-ed4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">HQ LFA</note>
+				<note xml:id="q-ee4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Reference your LFA/31/A of 15 Feb 45, Morale Report is as follows:</note>
+				<note xml:id="q-ef4f7fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="8">Sec I. Morale in general</note>
+				<note xml:id="q-f04f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Morale in the Regiment is high. Just at the present time some men are rather unsettled owing to the hold up in the new establishment. They do not know their future and of course some will have to go. Unless our new establishment comes through soon this will naturally get worse. I hope this is fully realized and that it will not be held up much longer. Those that have a definite objective, such as the men now waiting to go on operations, are on the top of their form.</note>
+				<note xml:id="q-f14f7fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="10">Sec II. Factors affecting Morale.</note>
+				<note xml:id="q-f24f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Varies at times - but on the whole is good. hhh 2. Confidence.</note>
+				<note xml:id="q-f34f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">a) In Army leaders and the war. Complete confidence.</note>
+				<note xml:id="q-f44f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">b) In arms and equipment. Complete confidence.</note>
+				<note xml:id="q-f54f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">c) In efficiency. Complete confidence. hhh 3. Mail.</note>
+				<note xml:id="q-f64f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Letter Mail satisfactory, but complaints are always coming in of parcels being lost. hhh 4. Welfare and Entertainment</note>
+				<note xml:id="q-f74f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">a) Living conditions - Good</note>
+				<note xml:id="q-f84f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">b) Recreation and amusement - Adequate</note>
+				<note xml:id="q-f94f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">c) General - - hhh 5. Education and ABCA</note>
+				<note xml:id="q-fa4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Time and attention is being paid to this whenever possible. Preparations for the new scheme are being thoroughly gone into. hhh 6. Relations with Officers and men</note>
+				<note xml:id="q-fb4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Very good and cordial. hhh 7. Relations with other services.</note>
+				<note xml:id="q-fc4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Very good and cordial. hhh 8. Relations with Allies.</note>
+				<note xml:id="q-fd4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">Very good and cordial. hhh 9. Home Affairs, Post War and Release.</note>
+				<note xml:id="q-fe4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">It is considered that not enough news is published of what happens in England day by day. Individuals get daily newspapers sent out to them but they take a long time in coming and do not always arrive. Our local daily paper could publish more.</note>
+				<note xml:id="q-ff4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The Plan for Release is considered to be fair and sound. I think this is universally agreed upon.</note>
+				<note xml:id="q-00507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">The attitude on Home Affairs in general seems to be "finish the war first and then we can start thinking about it ". This I think is quite understandable from the average soldier out here. hhh 10. Finance.</note>
+				<note xml:id="q-01507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Gratuities for ORs are considered too small. The difference between that paid to officers and ORs is much criticized. I think most of us agree on this. hhh 11. Miscellaneous.</note>
+				<note xml:id="q-02507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">a) Overseas Service. There is of course a very strong feeling that overseas service is much too long. It is generally thought that after 3 years abroad the efficiency of the average man normally begins to decline. The fact that men in B.L.A. get home leave does not help either. This must be realized though and everything possible being done to shorten the 4 1/2 years.</note>
+				<note xml:id="q-03507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">b) Leave. LIAP although very scarce is much appreciated.</note>
+				<note xml:id="q-04507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">c) Relations with Civil population. Fair.</note>
+				<note xml:id="q-05507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">Lt Col.,</note>
+				<note xml:id="q-06507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Commanding Raiding Support Regiment</note>
+				<note xml:id="q-07507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">JO</note>
+				<note xml:id="q-08507fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="33">04 March 1945</note>
+			</div>
+		</body>
+	</text>
+</TEI>

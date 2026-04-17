@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: No 2 SS Brigade Moral Report, 6 Dec 44</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-3786a984-aae6-4f97-8995-30c027a2a871</idno>
+				<idno type="qudexdocument">q-43386fc0-8a10-41bc-ac04-06290d18c79b</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-9b507fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">No 2 SS BRIGADE MORALE REPORT</note>
+				<note xml:id="q-9c507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">SECRET</note>
+				<note xml:id="q-9d507fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="3">6 Dec 44</note>
+				<note xml:id="q-9e507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">Ref. A52 hhh 1. OFFENCES AGAINST AA.</note>
+				<note xml:id="q-9f507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">AWOL - 5</note>
+				<note xml:id="q-a0507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Other offences - 45 hhh 2. CONFIDENCE</note>
+				<note xml:id="q-a1507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">a) In the general running of the war and in the leaders is good.</note>
+				<note xml:id="q-a2507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">b) Units have confidence in themselves.</note>
+				<note xml:id="q-a3507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">c) There is confidence in weapons and eqpt. hhh 3. CONTENTMENT</note>
+				<note xml:id="q-a4507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Contentment is fairly good, but there is a feeling that the Bde has been in the BARI area for too long - it has now been based for over 12 months in this area. The base area atmosphere of BARI is definitely not good for the tps. hhh 4. LIVING CONDITIONS</note>
+				<note xml:id="q-a5507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">a) Quarters - good.</note>
+				<note xml:id="q-a6507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">b) Messing - good, though some units are short of cooking facilities as RE work is extremely slow.</note>
+				<note xml:id="q-a7507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">c) Recreation and Amusements - fair - most amusements are in BARI area and are very crowded: also the general policy is to keep people out of BARI as much as possible. More mobile cinema snows are required. There is a shortage of sports gear.</note>
+				<note xml:id="q-a8507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">d) NAAFI - Tps' Canteens in BARI are good and unit canteens are operating with great success. Weekly issues are good, though spirits and beer are regrettably short.</note>
+				<note xml:id="q-a9507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">e) Leave - Amount allowed is reasonable, but facilities are poor. Greater facilities should be allowed for visits to ROME and other places of interest. Rest Camps in winter appear to be rather cold and cheerless. Leave to UK has created great interest and hope.</note>
+				<note xml:id="q-aa507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">f) Mail - good. hhh 5. FINANCE</note>
+				<note xml:id="q-ab507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Fair - pay still compares unfavorably with Dominion and Allied Tps, and most of all with civs at home. Debit balances are received more quickly than credit balances. There is still a feeling amongst offrs that they should be able to draw up to the amount of their pay. hhh 6. FAMILY DIFFICULTIES</note>
+				<note xml:id="q-ac507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Some units have assistance committees at home, which work well and more rapidly than army orgs. There is still a great deal of hard feeling over the length of time taken before the compassionate postings to UK are allowed: also, the terms are still too hard. Not many applications are made for postings to UK and these are all genuine: the number eventually allowed is very low. hhh 7. RELATIONS</note>
+				<note xml:id="q-ad507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">a) Between Offrs, NCOs and men is good.</note>
+				<note xml:id="q-ae507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">b) With other services - good.</note>
+				<note xml:id="q-af507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">c) With Allied Tps - good in general, but there is a certain amount of jealousy aroused by the additional pay and amenities granted to American tps.</note>
+				<note xml:id="q-b0507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">d) Women's Services - tolerable.</note>
+				<note xml:id="q-b1507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">e) Civs - Italians - difficult Others - good. hhh 8. EDUCATION</note>
+				<note xml:id="q-b2507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">There is not enough time in between ops and reorg for a set programme, but ABCA pamphlets are circulated and read. Lectures and debates are also held as opportunity arises. hhh 9. EFFICIENCY</note>
+				<note xml:id="q-b3507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">The standard of physical fitness and trg in the older members of units is good. Difficulty has been experienced in the past with untrained intakes. This will be obviated shortly as a trg wing is being est. The WE for this is most inadequate and needs increasing - a case is being put up separately to SS Gp and AFHQ. hhh 10. MISCELLANEOUS</note>
+				<note xml:id="q-b4507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">There is still the difficulty of disposing of unsuitable Mnes. In general they get safe jobs and RTU from a marine cdo is not looked upon as punish­ment. Such personnel should be sent to the Far East immediately instead of posting to easy jobs in pleasant countries.</note>
+				<note xml:id="q-b5507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">11. The above remarks apply chiefly to 2 and 40 (RM) Cdos. In general they will also apply to 9 and 43 (RM) Cdos, but reports have not been received from these units as they are away on ops. They will undoubtedly have some individual points which will be included in the next report.</note>
+				<note xml:id="q-b6507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">CMF</note>
+				<note xml:id="q-b7507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">REM/TRH</note>
+				<note xml:id="q-b8507fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">Brig Comd 2 SS Bde</note>
+			</div>
+		</body>
+	</text>
+</TEI>

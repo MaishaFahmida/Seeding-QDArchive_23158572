@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 145</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-32d43cc0-2658-4b78-a7b6-c2ac9807dac8</idno>
+				<idno type="qudexdocument">q-7b206110-88bb-4e2b-87bb-85f2414e386f</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-b965e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflections</note>
+			<u xml:id="q-ba65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">looking back I don’t
+				think that i have any bad memories of my past, from the age of 17 i have had three
+				steady jobs, I know that I was very unsettled at first I couldn’t get a job that I
+				really liked and could be suited to, I think the most happy thing to me was when I
+				<sic>past</sic><corr>passed</corr> my driving test I <sic>remeber</sic><corr>remember</corr> the joy of driving back home in the car bursting to
+				tell everyone.</u>
+			<u xml:id="q-bb65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">Although at the time I
+				didn’t enjoy my work in the large faversham firm I am pleased to say that achieved
+				a good working position before leaving to come here to <sic>Bromely</sic><corr>Bromley</corr>. I don’t regret
+				getting married at a fairly early age 22, I was glad to find a person to whom I
+				confide in and who would confide in me.</u>
+			<u xml:id="q-bc65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">My work that i have
+				done over the years has pleased me, I am glad to say that I never did anything
+				drastically wrong, and was able to keep calm, I can <sic>remeber</sic><corr>remember</corr> sitting in the class
+				room at school, being very frightened or at least dubious of what mistakes i would
+				make in the future years of working life.</u>
+			<u xml:id="q-bd65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="5">In the early years i
+				was a little saddened at not getting the right qualifications in the fifth year at
+				Comprehensive school, I did want so much at that particular time to go to Art
+				College for a couple of years training to become a Commercial Artist or a Window
+				dresser. I have, however, released my artistic talents on the interior and exterior
+				of the houses I have lived in over the last 50 years, people who have visited my
+				homes in this time period have <sic>complemented</sic><corr>complimented</corr> me, so I am pleased to say that I have
+				gained in this way what I thought was so lost 52 years ago.</u>
+			<u xml:id="q-be65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="6">I am pleased to say
+				that I have coped fairly well with saving of mortgages and savings when my family
+				were young, saving for holidays and luxuries. I was able to appreciate the value of
+				money at the age of 19 this is now a pleasing thought as I look back.</u>
+			<u xml:id="q-bf65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="7">I think the most
+				amusing exciting and amusing time in my life was when I got to work at Gatwick
+				airport in my 29th to 32nd years, the team in the office were friendly and helpful
+				and I am glad to say that I havent lost touch with any of them; they are all goof
+				friends of mine.</u>
+			<u xml:id="q-c065e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="8">I can remember sitting
+				at school and always wondering what my life would turn out to be like, wondering if
+				I were to marry soon or a little later or not at all, if I were to have children or
+				not, so many different things used to occur to me.</u>
+			<u xml:id="q-c165e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="9">I am glad that my life
+				has turned out well and I have had a nice home and luxuries that some unfortunate
+				people that I knew early on in life have missed.</u>
+		</body>
+	</text>
+</TEI>

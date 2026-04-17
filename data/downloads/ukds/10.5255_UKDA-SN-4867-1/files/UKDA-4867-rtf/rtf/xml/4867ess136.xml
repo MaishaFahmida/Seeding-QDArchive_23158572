@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 138</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-03d5e288-2d7c-476d-b326-b964e04860ce</idno>
+        <idno type="qudexdocument">q-a043b06f-4416-4f77-aaf3-feefc1db176b</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-e8805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-e9805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Today was my
+				eighteenth birthday. Looking back on my life I reflected over all those years and
+				what I had done with them.</u>
+      <u xml:id="q-ea805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">After leaving
+				school at 17, I went for my first proper job. It was working for the ministry of
+				Defence in London while at school I had visited the careers office several times, it
+				was from there I obtained the information about the ministry of Defence, and by the
+				time I had left school was pretty clear on what sort of work I would be doing.</u>
+      <u xml:id="q-eb805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After working
+				there as a clerical officer for a few years I decided that it wasn’t really my sort
+				of work. So I started to think about becoming a nurse, something I would have liked
+				to have done from a child.</u>
+      <u xml:id="q-ec805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">A few months
+				after leaving I started training to be a nurse, my five ‘o’ levels which I had
+				acquired were <sic>helpfull</sic><corr>helpful</corr>. This work I found more to my <sic>likeing</sic><corr>liking</corr> because it involved
+				people, and not just sitting around in an office all day.</u>
+      <u xml:id="q-ed805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Five months after
+				starting my training I was married at 20. I found it difficult at first carrying on
+				my training and having a husband. Finally three years training I became a fully
+				qualified nurse, and also a mother. I was a bit depressed at first, I remember after
+				all I had been <sic>sloging</sic><corr>slogging</corr> away for three years to become a nurse, then I became one and
+				had to give it up. But when I saw <sic>there</sic><corr>their</corr> faces I didn’t mind so much.</u>
+      <u xml:id="q-ee805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">After three years
+				I went back to work, by this time I found it a <sic>releaf</sic><corr>relief</corr> to get out. I found the work
+				more interesting then when I had left it, because I had no worries. The children
+				were at nursery school, and my husband at work as a builder we had a lovely home,
+				and I felt very happy. Life carried on like this until I retired, after sending my
+				children out into the world.</u>
+      <u xml:id="q-ef805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Life had
+				basically been good to me, apart from a few ups and downs.</u>
+    </body>
+  </text>
+</TEI>

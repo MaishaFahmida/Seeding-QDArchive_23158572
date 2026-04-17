@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 18</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-fe7697b7-56bb-4de9-b9b4-debf282e22b3</idno>
+        <idno type="qudexdocument">q-59b03f6c-e070-4bb0-b544-01def8bef4f4</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-b77d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-b87d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I stayed on at
+				school until I was seventeen, the idea was to take more ‘o’ level examinations
+				because the year before I only took one ‘o’ level. I wanted to be a racing driver
+				and I realised if I failed I would need ‘o’ levels to try and find another job with.
+				After leaving school at Seventeen I went for an apprenticeship as a mechanic. I was
+				told by the motor racing school that I would need to know a lot about the mechanics
+				of the car. While I was working I was trying to save some money but I just kept
+				spending it with nights out with friends. About half way through my apprenticeship I
+				began to realise that I would not be able to save all of the money required for my
+				motor racing lessons. The only way I could get enough was to borrow money from
+				someone, but who? I tried my father first and he said that if I could raise half the
+				money I need I will pay the rest. I did eventually raise my half and began my
+				lessons. At this time I was still living at home on the Isle of Sheppey, and my
+				motor racing lessons were at Brands Hatch. I could not catch a bus or train to the
+				circuit so my parents were driving me over, but they did not want to make a habit of
+				this. I’d have to get a flat near to the circuit but I could not afford to run it
+				myself I had to share with another driver but after about six <sic>monthes</sic><corr>months</corr> we fell out
+				with each other. I had nearly finished my lessons but I decided to come back to the
+				island and get a job as a full time mechanic.</u>
+      <u xml:id="q-b97d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">The money I had
+				saved up was now almost gone, I went back to live at home. Until I came back I had
+				hardly any social life in the evenings and it wasn’t long till I had a steady
+				girlfriend and job. My girlfriend and I saved enough money to marry and move into a
+				small house. We had two small children when we moved into a bigger house. Our
+				original house was kept in very good condition by my wife and I, so it sold quickly.
+				The new house we went into was a bit of a challenge, it needed a lot of time spent
+				on it decorating, which we did on our own at weekends and any spare time we had. It
+				took two years hard work to get the house how we wanted it. We decided we would know
+				save up to go on a holiday abroad. We hadn’t had a good holiday since our honeymoon.
+				We went with our two children for nine days in the South of France.</u>
+      <u xml:id="q-ba7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Looking back it
+				seems funny that I never bought a car before we moved house. I had passed my test,
+				wanted to be a racing driver, and worked on cars all day long. I soon started up my
+				own business as a mechanic but went in for selling d.i.v. goods mainly, this is what
+				everyone wanted to save themselves money.</u>
+    </body>
+  </text>
+</TEI>

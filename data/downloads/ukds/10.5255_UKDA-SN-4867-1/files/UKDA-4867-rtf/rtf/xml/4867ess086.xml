@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 87</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-7ee34ac8-3f9a-4002-af81-47e513a179a3</idno>
+        <idno type="qudexdocument">q-ca4681aa-8c97-4cc6-8540-ece99e225646</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-437f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-447f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back over
+				the past fifty eight years of my life overall I am pleased with what I achieved. I
+				became a teacher when I was twenty three. From then on I was happy I had achieved
+				what I wanted to be as a person and was living pretty comfortably. But things in
+				those days were not easy to come by, mind you with what I had been told when I was
+				sixteen I was getting things easy. I didn’t think so.</u>
+      <u xml:id="q-457f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">When I was about
+				thirteen and had joined the local comprehensive school, the only question which came
+				up was ‘what are you going to do when you leave school’. Of course then I had no
+				idea what I was going to do. Halfway through the first year of the school we had to
+				think very seriously what we were going to do in the coming last two years of our
+				official school life. This same as a not too welcome surprise. I mean nothing of
+				this sort of division making had been done in the previous school. It was suddenly
+				<sic>sprang</sic><corr>sprung</corr> upon me.</u>
+      <u xml:id="q-467f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Perhaps I was
+				fortunate in having parent that helped me make the right decision. I did make the
+				correct division in my eyes. In the following two years my work was of a slightly
+				above average standard.</u>
+      <u xml:id="q-477f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">But the last year
+				of compulsory schooling thing started becoming more worrying. I was on one hand
+				hoping violently that I would get a good result on my exams so I could carry on in
+				the sixth form and eventually go to college. For I had made up my mind to be a
+				trader in the end of the last year of compulsory schooling. But on the other hand I
+				was dreading the exam results to be negative. For that then meant I would have to
+				leave school and find work. This was particularly unpleasant because unemployment at
+				that time was terrible and secondly I would never <sic>achive</sic><corr>achieve</corr> another substitute to what
+				I really wanted to be. This carried on for about eight months before the exam
+				results had come through.</u>
+      <u xml:id="q-487f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I had passed some
+				of the exams but unfortunately failed some as well. I persuaded my parents to let me
+				stay on at school where I managed to get to college everything was fine. It was just
+				the getting off the ground part of the school which held you in torment.</u>
+      <u xml:id="q-497f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">As the years
+				progressed on, I saw what I had hoped it would be like when I was at the end of my
+				compulsory school life. Young people were being prepared for what they had to decide
+				on in their later life in the last year of the middle schools. There was also a
+				greater chance for young people to stay on at school for their benefit. As
+				unemployment came down more employees gave more of an opportunity of work for them
+				instead of the usual letter of <sic>disappiontment</sic><corr>disappointment</corr>.</u>
+      <u xml:id="q-4a7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">The pupils I used
+				to teach never seemed bothered by the worries I had. Perhaps the generations had
+				changed their view or was it that the worries did not exist anymore. I do not really
+				know, but I hope for the <sic>youngsters</sic><corr>youngsters'</corr> sake that the latter reason is correct.</u>
+      <u xml:id="q-4b7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">The money of a
+				teacher at the early stages was not an amount one could boast about. But I enjoyed
+				my job and as the years went by so did the money. Until now retired I think that it
+				was worth it, but should anyone have to go through the worry of his or her future at
+				such a late time?</u>
+    </body>
+  </text>
+</TEI>

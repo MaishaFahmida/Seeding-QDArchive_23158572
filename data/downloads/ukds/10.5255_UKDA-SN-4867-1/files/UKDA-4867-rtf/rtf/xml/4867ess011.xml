@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 12</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-bd067236-2d46-4e45-b2df-55f3ee975f3a</idno>
+        <idno type="qudexdocument">q-8523fb40-dd79-4fe7-aebe-b92ec7f00cff</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-8a7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-8b7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I left my
+				last school, I had already <sic>applyed</sic><corr>applied</corr> for some apprenticeships for a Job in Chatham
+				dockyard. I was applying for a Job as an electrician with another firm. I had
+				already applied at Chatham Once before. I failed the first time but <sic>applyed</sic><corr>applied</corr> again as
+				it had good pay. On the second time I passed in the maths and <sic>english</sic><corr>English</corr> exam which is
+				only the exams that you take when you apply for an apprenticeship. I asked my father
+				about an apprenticeship at Canning town Glass works but he told me that There were
+				none going and That I needed GCEs in English Maths. After getting the note that I
+				had passed in my maths-English exam at Chatham docks I rang my friends and asked if
+				they had passed as well. Both of them had passed the exam and were taking an
+				apprenticeship as electricians. Later on in life I got married to a young brunette
+				who had been engaged to me for nearly a year. I was 30 years old when I got married,
+				we now have four children ranging from 8 to13 years old.</u>
+    </body>
+  </text>
+</TEI>

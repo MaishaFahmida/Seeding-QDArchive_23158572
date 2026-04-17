@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 132</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-d0278357-01dd-4f83-8215-a338a5e14593</idno>
+        <idno type="qudexdocument">q-fd548a10-b041-4bd2-81f9-2132db7d4e37</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-bc805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-bd805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				eighteen and joined the W.R.N.S I visited Gibraltar, Germany, Hongkong and Cyprus
+				and served at least in each port. It was a great life. By the time I was 27 I was a
+				captain. After serving 10 <sic>years</sic><corr>years'</corr> service left to concentrate on my family and
+				personal side of life. With twins it was a lot coping but I managed. I missed the
+				service it was so friendly and so many different jobs to do you couldn’t get
+				bored.</u>
+      <u xml:id="q-be805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I managed to get
+				a part-time job when the children started school but when they got older I worked
+				full time and got a good job as an <sic>acocuntant</sic><corr>accountant</corr> for a shop. The training in the
+				W.R.N.S had come in handy.</u>
+      <u xml:id="q-bf805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">The children left
+				school with a handful of O and A levels and a journalist.</u>
+      <u xml:id="q-c0805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">We had a family
+				reunion on my 25th wedding <sic>aniversary</sic><corr>anniversary</corr>. I was 47 my husband 49. We both carried on
+				with our jobs. I helped to run a youth club and my husband Mark ran an athletic
+				club. One of the girls got married to a doctor at the same hospital as she worked.
+				It was just a family affair. When the kids left home we looked around for a smaller
+				more modern house. We ended up having one built.</u>
+      <u xml:id="q-c1805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">My husband
+				started a firm off which did very well. Then one of the girls got the sack the the
+				journalist. Her and her common law husband had an accident in their car nothing
+				serious. The nurse had a boy then a girl. The other <sic>finaly</sic><corr>finally</corr> got married.</u>
+      <u xml:id="q-c2805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I retired and
+				became involved with the <sic>nursry</sic><corr>nursery</corr> school I did child minding. We had an extension
+				built on at the back of our house.</u>
+      <u xml:id="q-c3805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">My husband
+				retired through ill health and died shortly afterwards. I then got involved with the
+				church.</u>
+    </body>
+  </text>
+</TEI>

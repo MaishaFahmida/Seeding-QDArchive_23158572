@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 13</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-5e1602c4-235e-4063-bd3d-e9e0ad245704</idno>
+        <idno type="qudexdocument">q-22074263-5b62-4e09-9e67-aafe5def63ef</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-8c7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-8d7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Just befor I left
+				school I got a “{promissary?} note” from the R.A.F. to join as an <sic>aprentice</sic><corr>apprentice</corr><sic>technition</sic><corr>technician</corr>. After I left school I {worked?} for the summer season in a stall. When I
+				went in the R.A.F. in august of 1978. I went through the 3 year training and passed
+				out as a junior technition. I was posted to overseas duty and soon most of the
+				world. When I came out I got a job with Marion Elliots <sic>untill</sic><corr>until</corr><sic>i</sic><corr>I</corr> retired.</u>
+    </body>
+  </text>
+</TEI>

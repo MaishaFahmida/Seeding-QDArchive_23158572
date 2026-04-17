@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report: Suggested Headings, 7 May 45</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-2f8a4f22-e4ae-4bfe-8926-5efba3db37fc</idno>
+				<idno type="qudexdocument">q-163bf051-5e2c-4869-b038-bdc8c183ef33</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-6317e013-1390-e311-a968-000bdb5cc6d5" type="theme" n="1">Subject: Morale Report List</note>
+				<note xml:id="q-6417e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="2">List 'B'.</note>
+				<note xml:id="q-6517e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="3">CONFIDENTIAL</note>
+				<note xml:id="q-6617e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="4">HQ,</note>
+				<note xml:id="q-6717e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="5">Land Forces Adriatic,</note>
+				<note xml:id="q-6817e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="6">C.M.F.</note>
+				<note xml:id="q-6917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="7">LFA/44/A.</note>
+				<note xml:id="q-6a17e013-1390-e311-a968-000bdb5cc6d5" type="date" n="8">7 May 45.</note>
+				<note xml:id="q-6b17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="9">1. Morale Reports for the three months ending 31 May will be rendered to this HQ by 4 June. It is essential that they should not be late and it is therefore suggested that they be prepared well in advance.</note>
+				<note xml:id="q-6c17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="10">2. Although it is probable that some units will no longer be under command this HQ at that date, it is very desirable that the reports be sent here, having regard to the special operations and the relations with JUGOSLAVS which will form an important part of the report.</note>
+				<note xml:id="q-6d17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="11">3. 207 Sub Area is requested to prepare a general report covering all units under command. It is not necessary for this HQ to have separate reports from STICKFORCE units.</note>
+				<note xml:id="q-6e17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="12">4. A list of suggested headings is given at Appendix 'A'.</note>
+				<note xml:id="q-6f17e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="13">Lt.Col.</note>
+				<note xml:id="q-7017e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="14">AA&amp;QMG.</note>
+				<note xml:id="q-7117e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="15">DGNL/SA.</note>
+				<note xml:id="q-7217e013-1390-e311-a968-000bdb5cc6d5" type="theme" n="16">APPENDIX 'A',</note>
+				<note xml:id="q-7317e013-1390-e311-a968-000bdb5cc6d5" type="subject" n="17">SUGGESTED HEADINGS FOR MORALE REPORT.</note>
+				<note xml:id="q-7417e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="18">Sec I. Morale in general.</note>
+				<note xml:id="q-7517e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="19">Sec II. Factors affecting morale.</note>
+				<note xml:id="q-7617e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="20">1. Discipline.</note>
+				<note xml:id="q-7717e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="21">2. Confidence.</note>
+				<note xml:id="q-7817e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="22">(a) In Army Leaders and the War.</note>
+				<note xml:id="q-7917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="23">(b) In arms and equipment.</note>
+				<note xml:id="q-7a17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="24">(c) In efficiency.</note>
+				<note xml:id="q-7b17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="25">3. Mail.</note>
+				<note xml:id="q-7c17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="26">4. Welfare and Entertainment.</note>
+				<note xml:id="q-7d17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="27">(a) Living conditions.</note>
+				<note xml:id="q-7e17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="28">(b) Recreation and amusements.</note>
+				<note xml:id="q-7f17e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="29">(c) General.</note>
+				<note xml:id="q-8017e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="30">5. Education and ABCA.</note>
+				<note xml:id="q-8117e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="31">6. Relations between officers and men.</note>
+				<note xml:id="q-8217e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="32">7. Relations with other services.</note>
+				<note xml:id="q-8317e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="33">8. Relations with Allies.</note>
+				<note xml:id="q-8417e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="34">9. Home affairs, Pest War and Release.</note>
+				<note xml:id="q-8517e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="35">10. Finance.</note>
+				<note xml:id="q-8617e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="36">11. Miscellaneous.</note>
+				<note xml:id="q-8717e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="37">(a) Overseas Service.</note>
+				<note xml:id="q-8817e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="38">(b) Leave.</note>
+				<note xml:id="q-8917e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="39">(c) Relations with civil population.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

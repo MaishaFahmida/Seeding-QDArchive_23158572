@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 41</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-42547812-8079-42af-bf5c-24f1912b6339</idno>
+        <idno type="qudexdocument">q-1e97ec15-6925-4c37-8bef-73fc35710808</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-1c7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">I left school at
+				sixteen and a half with two O’levels and a few C.S.E.s. The job situation was a bit
+				bleak, but not as bad as a few years earlier but I managed to get an apprenticeship
+				as an electrician at a factory which made windscreens, this was alright for about
+				three or four years. Then I left for a job a world wide firm which paid very good
+				money.</u>
+      <u xml:id="q-1d7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Once I was
+				settled at this new job, I got married to a girl I knew from my school days, she was
+				also working at a well paid job a we was living well for a short time until we both
+				decided to come down a peg or two and we ended up in a semi-detached house in
+				Sheerness.</u>
+      <u xml:id="q-1e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">As the years went
+				by a couple of kids appeared. My job came along well and I was offered a post out in
+				Canada but with the kids around it was impossible so I had to refuse it, but now I
+				wish I had not. I suppose the kids got have had just a good education out there.</u>
+      <u xml:id="q-1f7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I had been with
+				this firm about seven years so I decided it was time to move on. I never really
+				could stay at one job for very long. By now my wife had left her job to look after
+				the kids. So my new job had to pay well. It was the same kind of job but it gave me
+				less time off and I wasn’t very happy about this, but the pay gave us plenty to save
+				up, but I worked out a swap with a workmate and this gave me plenty of time off to
+				stay with the family. This was the job that I decided to stay with now until
+				retirement.</u>
+    </body>
+  </text>
+</TEI>

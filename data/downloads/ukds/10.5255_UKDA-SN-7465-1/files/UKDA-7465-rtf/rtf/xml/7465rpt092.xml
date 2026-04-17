@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, 1 March 1945</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-20992fa7-e469-461b-a922-7e7c2bd63eca</idno>
+				<idno type="qudexdocument">q-a7de45b2-f349-4d2f-85a1-ee427b129ca9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-cb4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-cc4f7fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="2">SUBJECT: Morale Report.</note>
+				<note xml:id="q-cd4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">O.C. Troops (Army)- VIS</note>
+				<note xml:id="q-ce4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">Ref: C/1101/P.I.</note>
+				<note xml:id="q-cf4f7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="5">1 March 45.</note>
+				<note xml:id="q-d04f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">H.Q.,</note>
+				<note xml:id="q-d14f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">Land Forces Adriatic.</note>
+				<note xml:id="q-d24f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Reference your LFA/44/A dated 15 Feb 45, herewith Morale Report called for:</note>
+				<note xml:id="q-d34f7fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="9">Sec I.</note>
+				<note xml:id="q-d44f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Morale in general. In the few sections two units remaining on VIS Island, morale is good.</note>
+				<note xml:id="q-d54f7fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="11">Sec II. hhh Discipline.</note>
+				<note xml:id="q-d64f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Good. hhh Confidence.</note>
+				<note xml:id="q-d74f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(a) In Army leaders and the war. The present Army leaders have certainly the confidence of officers and OR's. There are no doubts expressed about the outcome of the war, the majority only asking now soon small we finish it now.</note>
+				<note xml:id="q-d84f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(b) Inefficiency. This is one of the controversial points the individual soldier like to discuss. Forthright opinions are expressed generally to the detriment of some Branch of the Service out taken on the while I don't consider the men have any real doubts about efficiency. hhh Mail.</note>
+				<note xml:id="q-d94f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">This is a most important factor, and several months there was cause for alarm here. Recently, however, most mail is coming by air, and this problem seems to be solved now. hhh Welfare and Entertainment.</note>
+				<note xml:id="q-da4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">(a) Living conditions are good generally, out it is felt that a bigger effort might be made to supply fresh rations more frequently. Twice in five weeks is thought to be insufficient and has caused much grumbling.</note>
+				<note xml:id="q-db4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(b) Recreation Amusements. There is little in the way of organised amusements. The biggest need, however, could be overcome by the provision of one or two wireless sets with the better weather coming the recreational problem will largely take care of itself as there is excellent local bathing. The numbers or men are too small to allow for organised games here. hhh Relations between officers &amp; men.</note>
+				<note xml:id="q-dc4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Good. hhh Relations with other services.</note>
+				<note xml:id="q-dd4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">The RAF and Army do not appear to mix very much here, but relations are quite cordial. hhh Relations with Allies.</note>
+				<note xml:id="q-de4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Allies here comprise American Air Force anti partisans. Relations with the former are very friendly, and though language difficulties prevent fraternising with the latter, feelings are good on both sides now. hhh Home Affairs, Post War &amp; Release.</note>
+				<note xml:id="q-df4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">A reasonable amount interest is being taken in present planning, though a good deal of scepticism exists as to the practical working out of the Governments plans. Generally it is noticed that the men are apathetic about most political issues. There seems to be a great deal of "wait and see" policy.</note>
+				<note xml:id="q-e04f7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="22">06 Mar 1945 hhh Finance.</note>
+				<note xml:id="q-e14f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">The general feeling that the Government Gratuity Scheme is not a very munificent one. One of the main criticisms is that the … should be based solely on service and not rank. However, like many other issues it was quickly accepted as inevitable. hhh Miscellaneous.</note>
+				<note xml:id="q-e24f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">a) Overseas Service. Without a doubt a feeling is that it is far too long, as well as being unfair compared with RN and RAF periods.</note>
+				<note xml:id="q-e34f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">b) Leave. Opinions vary greatly, but it is felt that, whatever, the shortcomings of the scheme in some respects e.g. numbers involved, it is a step in the right direction to reduce the period of separation.</note>
+				<note xml:id="q-e44f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Relations with the civil population. Although there is not a great deal of mixing the relations are cordial. The Yugoslavs are respected.</note>
+				<note xml:id="q-e54f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Lieut, R.E.</note>
+				<note xml:id="q-e64f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">O.C. Troops; (Army) VIS.</note>
+				<note xml:id="q-e74f7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="29">6 MAR 1945</note>
+			</div>
+		</body>
+	</text>
+</TEI>

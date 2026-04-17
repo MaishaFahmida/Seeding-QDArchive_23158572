@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 149</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-2c240157-340f-4f24-bc22-7ac533400b8a</idno>
+				<idno type="qudexdocument">q-e53c190a-28ad-4023-bc5f-7a2d6ad743ab</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-d565e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflections</note>
+			<u xml:id="q-d665e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">As I stood there
+				looking out of the window I began to think back over the last 50 years. As I stayed
+				on at school an extra year to learn Shorthand and Typing, my first job was in an
+				office, as an office junior. I stayed as junior for two years, <sic>untill</sic><corr>until</corr> the lady above
+				me left. I stayed at that position for three years, <sic>untill</sic><corr>until</corr> I became Personal
+				Secretary. That position lasted for a further four years.</u>
+			<u xml:id="q-d765e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">I left that firm to
+				join another company. By this time I had married and had a baby girl. My husband is
+				a steel worker and works for the Steel Mill.</u>
+			<u xml:id="q-d865e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">Berfore we had Heidi
+				(my daughter) we used to live in Sittingboure then when my husband was <sic>transfered</sic><corr>transferred</corr> we
+				moved to London where we still live now. I had another baby a boy this time named
+				Gavin. I only work half the hours I used to now as the children take up most of my
+				time</u>
+			<u xml:id="q-d965e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="5">Heidi decided that she
+				wanted to be a secretary the same as I did, so she stayed on at school. Gavin
+				decided that he.</u>
+		</body>
+	</text>
+</TEI>

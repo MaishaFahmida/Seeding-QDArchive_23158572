@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Special Report No. 719 - October 1948</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-fe2c1ad9-e1c3-4ad4-93ad-ba4460b0920d</idno>
+				<idno type="qudexdocument">q-898628c8-9bf6-4705-b7f0-b088e49f5424</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-c114e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-c214e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-c314e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="3">Political Division</note>
+				<note xml:id="q-c414e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="4">York House</note>
+				<note xml:id="q-c514e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="5">HQ CCG (RE), Berlin</note>
+				<note xml:id="q-c614e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="6">B.A.O.R.2</note>
+				<note xml:id="q-c714e013-1390-e311-a968-000bdb5cc6d5" type="date" n="7">14 October 48</note>
+				<note xml:id="q-c814e013-1390-e311-a968-000bdb5cc6d5" type="subject" n="8">Special Report No. 719</note>
+				<note xml:id="q-c914e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="9">During the period 20 September to 10 October 690 people were interviewed by 14 Fieldworkers.</note>
+				<note xml:id="q-ca14e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="10">Question 1: What are your greatest cares and difficulties?</note>
+				<note xml:id="q-cb14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="11">690 interviewed: (321 Men and 369 Women).</note>
+				<note xml:id="q-cc14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="12">Number Percentage</note>
+				<note xml:id="q-cd14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="13">1. Procuring Household Fuel - no wood or coal for the winter - insufficient electricity and gas 168 24%</note>
+				<note xml:id="q-ce14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="14">2. Financial difficulties - double currency - lack of Western money 125 18%</note>
+				<note xml:id="q-cf14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="15">3. Procuring food 115 17%</note>
+				<note xml:id="q-d014e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="16">4. Political worries - Uncertainty concerning the fate of Berlin and of Germany - fear of another war. 70 10%</note>
+				<note xml:id="q-d114e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="17">5. Occupational worries - unemployment because of electricity cuts - lack of material - training difficulties 61 9% .</note>
+				<note xml:id="q-d214e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="18">6. Blockade - trade and transport difficulties. 57 8%</note>
+				<note xml:id="q-d314e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="19">7. Family worries - sickness - separated families - P.o.W.s 35 5%</note>
+				<note xml:id="q-d414e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="20">8. Procuring clothes 27 4%</note>
+				<note xml:id="q-d514e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="21">9. Housing worries - insufficient accommodation for the winter 18 3%</note>
+				<note xml:id="q-d614e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="22">10. No worries 14 2%</note>
+				<note xml:id="q-d714e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="23">Total 690 100%</note>
+				<note xml:id="q-d814e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="24">The same question was asked during the month of August 1947. For comparison this tabulation is given below.</note>
+				<note xml:id="q-d914e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="25">631 interviewed.</note>
+				<note xml:id="q-da14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="26">Number Percentage</note>
+				<note xml:id="q-db14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="27">1. Procurement of food 423 67%</note>
+				<note xml:id="q-dc14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="28">2. Worries about profession or business 65 10%</note>
+				<note xml:id="q-dd14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="29">3. Worries about future (economic and political) 46 7%</note>
+				<note xml:id="q-de14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="30">4. Procurement of clothes 32 5.0%</note>
+				<note xml:id="q-df14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="31">5. Financial worries - low salaries and high taxation 19 3%</note>
+				<note xml:id="q-e014e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="32">6. No or inadequate accommodation 18 3%</note>
+				<note xml:id="q-e114e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="33">7. Relations missing or in PoW camps 10. 2%</note>
+				<note xml:id="q-e214e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="34">8. Procurement of fuel etc. 9 1.5%</note>
+				<note xml:id="q-e314e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="35">9. No worries or difficulties. 9 1.5% 631 100.0 %</note>
+				<note xml:id="q-e414e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="36">Some of the answers given: -</note>
+				<note xml:id="q-e514e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="37">Welfare worker (female) 58 (ev): "Hunger, shortage of light and coal."</note>
+				<note xml:id="q-e614e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="38">Automechanic 34. (ev): "Shortage of Western currency. There is so much one wants to buy and one has no Western currency."</note>
+				<note xml:id="q-e714e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="39">CCG employee (female) (ev): "That the Western Powers might finally be forced to leave Berlin."</note>
+				<note xml:id="q-e814e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="40">Question 2: What are your greatest pleasures?</note>
+				<note xml:id="q-e914e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="41">690 interviewed. Number Percentage</note>
+				<note xml:id="q-ea14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="42">1. Entertainment (cinemas, theatres, radio, concerts, exhibitions) 152 22%</note>
+				<note xml:id="q-eb14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="43">2. Eating, smoking drinking, playing cards 106 15%</note>
+				<note xml:id="q-ec14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="44">3. Family, friends and parties 104 15%</note>
+				<note xml:id="q-ed14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="45">4. Sports, dancing, hiking, travelling 80 12%</note>
+				<note xml:id="q-ee14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="46">5. Work of various kinds (professional, work in garden) 68 10%</note>
+				<note xml:id="q-ef14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="47">6. Reading, lectures, discussions 50 7%</note>
+				<note xml:id="q-f014e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="48">7. Free time "for photography, handicrafts, stamp-collecting, chess-playing etc. 28 4%</note>
+				<note xml:id="q-f114e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="49">8. Sleep rest 13 2%</note>
+				<note xml:id="q-f214e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="50">9. Religion 4 1%</note>
+				<note xml:id="q-f314e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="51">10. No pleasures, many worries, no money 73 12% 1</note>
+				<note xml:id="q-f414e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="52">1. No opinion. 12 2% 690 100%</note>
+				<note xml:id="q-f514e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="53">----- Tabulation in August 1947 was as follows: -</note>
+				<note xml:id="q-f614e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="54">631 interviewed</note>
+				<note xml:id="q-f714e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="55">Number Percentage</note>
+				<note xml:id="q-f814e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="56">1. Entertainments (cinemas, theatre, radio, music, exhibitions) 97 15%</note>
+				<note xml:id="q-f914e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="57">2. Work of some sort (job work in garden etc) 86 14%</note>
+				<note xml:id="q-fa14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="58">3. Sport, dancing, hiking 70 11%</note>
+				<note xml:id="q-fb14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="59">4. Eating, smoking, drinking 71 11%</note>
+				<note xml:id="q-fc14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="60">5. Leisure (time for photography, stamp collection, chess etc.) 44 7%</note>
+				<note xml:id="q-fd14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="61">6. Reading 38 6%</note>
+				<note xml:id="q-fe14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="62">7. Family and friends 29 5%</note>
+				<note xml:id="q-ff14e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="63">8. Sleeping 11 2%</note>
+				<note xml:id="q-0015e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="64">9. Have no pleasures, are too worried 185 29% 631 100%</note>
+				<note xml:id="q-0115e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="65">Some of the answers given: -</note>
+				<note xml:id="q-0215e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="66">Knitter (female) 54 (ev): "Cinema and theatre."</note>
+				<note xml:id="q-0315e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="67">Housewife 42 (ev): '…good book; a good concert. "</note>
+				<note xml:id="q-0415e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="68">Porter’s wife 45 (ev): "To feel one evening that I have once again managed to give my 3 men and my mother enough to eat.”</note>
+				<note xml:id="q-0515e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="69">Postwoman 38 (ev): "That I cannot say. Money is too short, so that one cannot afford a treat without having a guilty conscience."</note>
+				<note xml:id="q-0615e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="70">Question 3: What is your greatest hope for the future?</note>
+				<note xml:id="q-0715e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="71">690 interviewed.</note>
+				<note xml:id="q-0815e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="72">Number Percentage</note>
+				<note xml:id="q-0915e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="73">1. A better standard of living (particularly as regards food) by a recovery on the part of German economy. 164 24%</note>
+				<note xml:id="q-0a15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="74">2. Peace Treaty and understanding between the nations . nations 103 15%</note>
+				<note xml:id="q-0b15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="75">3. A united independent Germany (with some of the Eastern territories) 86 12%</note>
+				<note xml:id="q-0c15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="76">4. The raising of the Berlin blockade 83 12%</note>
+				<note xml:id="q-0d15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="77">5. That the Russians will leave Germany 71 10%</note>
+				<note xml:id="q-0e15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="78">6. Better occupational prospects (also payment of pensions due) 50 7%</note>
+				<note xml:id="q-0f15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="79">7. Reunion of families, return of PoWs 40 6%</note>
+				<note xml:id="q-1015e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="80">8. Emigration facilities 24 4% 8. Emigration facilities2</note>
+				<note xml:id="q-1115e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="81">9. That all the Occupying Forces will leave Germany 15 2%</note>
+				<note xml:id="q-1215e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="82">10. That the Western Allies will remain in Berlin 15 2%</note>
+				<note xml:id="q-1315e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="83">11. Better household fuel supplies 8 1% 12. Fatalistic statemen</note>
+				<note xml:id="q-1415e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="84">12. Fatalistic statements 18 3%</note>
+				<note xml:id="q-1515e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="85">13. No opinion 13 2%</note>
+				<note xml:id="q-1615e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="86">Total 690 100%</note>
+				<note xml:id="q-1715e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="87">Tabulation in August 1947 was as follows:-</note>
+				<note xml:id="q-1815e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="88">631 interviewed. Number Percentage</note>
+				<note xml:id="q-1915e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="89">1. Return of normal conditions and the end of occupation and zonal frontiers 476 75.0%</note>
+				<note xml:id="q-1a15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="90">2. The withdrawal of the Russians 30 4.5%</note>
+				<note xml:id="q-1b15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="91">3. Reunion of families, return of PoWs 26 4.0%</note>
+				<note xml:id="q-1c15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="92">4. Return to home in Eastern Provinces - emigration. 16 3.0%</note>
+				<note xml:id="q-1d15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="93">5. The Marshall Plan and Allied help 10 1.5 %</note>
+				<note xml:id="q-1e15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="94">6. Have no hope 73% 12.0%</note>
+				<note xml:id="q-1f15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="95">Total 631 100.0%</note>
+				<note xml:id="q-2015e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="96">Same of the answers given: -</note>
+				<note xml:id="q-2115e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="97">Dep. manager 42(ev):"That one fine day Germany shall, be exonerated again and be readmitted to the family of nations and that-life should again worth living."</note>
+				<note xml:id="q-2215e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="98">Pensioner (female) 53 (cath): "Peace for Germany."</note>
+				<note xml:id="q-2315e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="99">Locksmith 24 (ev): "That Berlin should never become a communistic city."</note>
+				<note xml:id="q-2415e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="100">Pit master 77 (ev): "Death."</note>
+				<note xml:id="q-2515e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="101">Question 4: ''What is your greatest anxiety for the future?</note>
+				<note xml:id="q-2615e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="102">690 interviewed.</note>
+				<note xml:id="q-2715e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="103">Number Percentage</note>
+				<note xml:id="q-2815e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="104">1. War 205 29%</note>
+				<note xml:id="q-2915e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="105">2. That the Russians alone will remain in Berlin 86 12%</note>
+				<note xml:id="q-2a15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="106">3. That we shall be very cold this winter because of the lack of household fuel (gas and electricity) 77 11%</note>
+				<note xml:id="q-2b15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="107">4. The uncertain future of Germany (and of the Eastern territories) 65 9 %</note>
+				<note xml:id="q-2c15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="108">5. The continuing state of uncertainty in Berlin 64 9%</note>
+				<note xml:id="q-2d15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="109">6. Occupational worries - provision for old age - unemployment 40 6%</note>
+				<note xml:id="q-2e15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="110">7. That the Russians may triumph, with or without a war 31 5%</note>
+				<note xml:id="q-2f15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="111">8. The uncertain future of the individual 21 3%</note>
+				<note xml:id="q-3015e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="112">9. Worries concerning the family 17 3%</note>
+				<note xml:id="q-3115e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="113">10. The eclipse of the West and of Western culture 16 2%</note>
+				<note xml:id="q-3215e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="114">11. Financial worries - currency worries - lack of Western money 12 2%</note>
+				<note xml:id="q-3315e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="115">12. Expressions of hopelessness 39 6%</note>
+				<note xml:id="q-3415e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="116">13. No worries and no opinion 17 3%</note>
+				<note xml:id="q-3515e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="117">Total 690 100%</note>
+				<note xml:id="q-3615e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="118">Tabulation in August 1947 was as follows:-</note>
+				<note xml:id="q-3715e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="119">631 interviewed.</note>
+				<note xml:id="q-3815e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="120">Number Percentage</note>
+				<note xml:id="q-3915e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="121">1. The political situation - another war - the partition of Germany between East and West 183 29%</note>
+				<note xml:id="q-3a15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="122">2. The coming winter and a worsening of the economic situation 136 21%</note>
+				<note xml:id="q-3b15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="123">3. The Russification of Berlin and Germany - deportation to Russia 95 15%</note>
+				<note xml:id="q-3c15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="124">4. Hunger and the loss of will-power 47 8%</note>
+				<note xml:id="q-3d15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="125">5. Have no anxiety - nothing more to lose 152 24%</note>
+				<note xml:id="q-3e15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="126">6. No opinion 18 3%</note>
+				<note xml:id="q-3f15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="127">Total 631 100%</note>
+				<note xml:id="q-4015e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="128">Some of the answers given:-</note>
+				<note xml:id="q-4115e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="129">Graphic artist (female) 30 (ev): ”A new world war with the most cruel weapons."</note>
+				<note xml:id="q-4215e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="130">Lady secretary 26 (ev): "That Communism should spread further in Germany."</note>
+				<note xml:id="q-4315e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="131">Woman worker 36 (ev): "The coming winter without heating."</note>
+				<note xml:id="q-4415e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="132">Annuity holder 79 (ev): "That I shall freeze to death this winter."</note>
+				<note xml:id="q-4515e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="133">Question 5: Would you like to work for Mil. Gov. and why?</note>
+				<note xml:id="q-4615e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="134">690 interviewed</note>
+				<note xml:id="q-4715e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="135">Number Percentage</note>
+				<note xml:id="q-4815e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="136">YES 363 53%</note>
+				<note xml:id="q-4915e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="137">1. Like the British, have worked with them before, would like to get to know the allies 184 27%</note>
+				<note xml:id="q-4a15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="138">2. Because of additional meals and privileges 179 26%</note>
+				<note xml:id="q-4b15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="139">NO 209 30%</note>
+				<note xml:id="q-4c15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="140">3. Have a good job, do not wish to be dependent - too old 167 24%</note>
+				<note xml:id="q-4d15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="141">4. Do not wish to work for the Occupying Powers, do not like the British 42 6%</note>
+				<note xml:id="q-4e15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="142">5. It is all the same where one works 57 8%</note>
+				<note xml:id="q-4f15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="143">6. No opinion (answer declined 3 times) 61 9%</note>
+				<note xml:id="q-5015e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="144">Total 690 100%</note>
+				<note xml:id="q-5115e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="145">Tabulation in August 1947 was as follows: -</note>
+				<note xml:id="q-5215e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="146">631 interviewed.</note>
+				<note xml:id="q-5315e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="147">Number Percentage</note>
+				<note xml:id="q-5415e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="148">YES 315 50%</note>
+				<note xml:id="q-5515e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="149">1. Because of extra food and privileges 289 46%</note>
+				<note xml:id="q-5615e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="150">2. Like English - worked with them already 26 4%</note>
+				<note xml:id="q-5715e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="151">NO 269 42%</note>
+				<note xml:id="q-5815e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="152">3. Have a good job, Mil.Gov. pay inadequate, too old 128 20%</note>
+				<note xml:id="q-5915e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="153">4. Won't work for Occupying Power - don't like English 141 22%</note>
+				<note xml:id="q-5a15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="154">5. Doesn't matter where one works 14 2%</note>
+				<note xml:id="q-5b15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="155">6. No opinion 33 6%</note>
+				<note xml:id="q-5c15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="156">Total 631 100%</note>
+				<note xml:id="q-5d15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="157">Some of the answers given: -</note>
+				<note xml:id="q-5e15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="158">Owner of a dyeing works 57 (ev); "Yes, because the British are likeable."</note>
+				<note xml:id="q-5f15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="159">Merchant 42 (cath): "Because they are fair." Employee 44 (oath):</note>
+				<note xml:id="q-6015e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="160">Employee 44 (cath) "No, I dislike the Englishman's innate arrogance. I don't want to have anything to do with any of the Allies, no matter who they are."</note>
+				<note xml:id="q-6115e013-1390-e311-a968-000bdb5cc6d5" type="subheader" n="161">Question 6: Which of the Four Occupation Powers is working hardest for the political and economic reconstruction of Germany?</note>
+				<note xml:id="q-6215e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="162">A. 690 interviewed.</note>
+				<note xml:id="q-6315e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="163">Number Percentage</note>
+				<note xml:id="q-6415e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="164">1. America 386 56%</note>
+				<note xml:id="q-6515e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="165">2. America and Great Britain 94 14%</note>
+				<note xml:id="q-6615e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="166">3. Great Britain 89 13%</note>
+				<note xml:id="q-6715e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="167">4. Russia. 3 0%</note>
+				<note xml:id="q-6815e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="168">5. France 0 0%</note>
+				<note xml:id="q-6915e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="169">6. None of the 4 Occupying Powers; they are only exploiting Germany 35 5%</note>
+				<note xml:id="q-6a15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="170">7. No opinion 83 12%</note>
+				<note xml:id="q-6b15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="171">Total 690 100%</note>
+				<note xml:id="q-6c15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="172">In conjunction with the above question people were also asked which of the four Occupying Powers is doing the least for the political and economic reconstruction of Germany.</note>
+				<note xml:id="q-6d15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="173">B. 690 Interviewed. Number Percentage</note>
+				<note xml:id="q-6e15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="174">1. Russia 479 6%</note>
+				<note xml:id="q-6f15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="175">2. France 96 14%</note>
+				<note xml:id="q-7015e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="176">3. Russia and France 41 6%</note>
+				<note xml:id="q-7115e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="177">4. All four - they are only exploiting Germany 11 2%</note>
+				<note xml:id="q-7215e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="178">5. No opinion - cannot judge from a Berlin vantage point - not interested in politics (Refused answer two times) 63 9%</note>
+				<note xml:id="q-7315e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="179">Total 690 100%</note>
+				<note xml:id="q-7415e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="180">The tabulation of the question No. 6 asked in August 47 was as follows :-</note>
+				<note xml:id="q-7515e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="181">A. 673 interviewed.</note>
+				<note xml:id="q-7615e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="182">Number Percentage</note>
+				<note xml:id="q-7715e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="183">1. America 206 31%</note>
+				<note xml:id="q-7815e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="184">2. England 91 13%</note>
+				<note xml:id="q-7915e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="185">3. Russia 27 4%</note>
+				<note xml:id="q-7a15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="186">4. None - they only exploit Germany 118 18%</note>
+				<note xml:id="q-7b15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="187">5. No opinion - can't judge from Berlin - not interested in politics 231 34%</note>
+				<note xml:id="q-7c15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="188">Total 673 100%</note>
+				<note xml:id="q-7d15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="189">Some of the answers given: -</note>
+				<note xml:id="q-7e15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="190">Gardener 44 (ev): “I believe the Americans wish, to reconstruct Germany as they think that they will thus be most likely to stop the spread of Communism towards the West."</note>
+				<note xml:id="q-7f15e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="191">Jeweller 55 (ev) “America economically, Great Britain politically (as owing to its proximity she is most interested in Germany)."</note>
+				<note xml:id="q-8015e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="192">Worker 42 (ev): "Economically America, politically Great Britain, more human understanding,"</note>
+				<note xml:id="q-8115e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="193">Editor 46 (ev): "None of them; they all represent their own interests."</note>
+				<note xml:id="q-8215e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="194">B.</note>
+				<note xml:id="q-8315e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="195">Dep. Chief (female) 35 (ev): "The Russian Occupying Power follows quite definite aims does net wish any prosperity to develop in order to win over the population for Communism."</note>
+				<note xml:id="q-8415e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="196">Student 23 (ev): "The Russians and the French."</note>
+				<note xml:id="q-8515e013-1390-e311-a968-000bdb5cc6d5" type="reporttext" n="197">DISTRIBUTION</note>
+				<note xml:id="q-8615e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="198">James R. White</note>
+				<note xml:id="q-8715e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="199">Public Opinion Research. Office</note>
+				<note xml:id="q-8815e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="200">Political Division</note>
+				<note xml:id="q-8915e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="201">67 HQ CCG (BE).</note>
+				<note xml:id="q-8a15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="202">Bielefeld (2)</note>
+				<note xml:id="q-8b15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="203">Mr. Duncan Wilson</note>
+				<note xml:id="q-8c15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="204">Pol.Div.</note>
+				<note xml:id="q-8d15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="205">HQ CCG</note>
+				<note xml:id="q-8e15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="206">Berlin (1)</note>
+				<note xml:id="q-8f15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="207">Mr. Peter Davies</note>
+				<note xml:id="q-9015e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="208">Pol.Div.HQ</note>
+				<note xml:id="q-9115e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="209">CCG</note>
+				<note xml:id="q-9215e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="210">Berlin (1)</note>
+				<note xml:id="q-9315e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="211">Public Opinion Research Office</note>
+				<note xml:id="q-9415e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="212">Political Division</note>
+				<note xml:id="q-9515e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="213">714 HQ CCG</note>
+				<note xml:id="q-9615e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="214">Duesseldorf (1)</note>
+				<note xml:id="q-9715e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="215">Public Opinion Research Office</note>
+				<note xml:id="q-9815e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="216">Political Division</note>
+				<note xml:id="q-9915e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="217">63 HQ CCG</note>
+				<note xml:id="q-9a15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="218">Hamburg (1)</note>
+				<note xml:id="q-9b15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="219">Public Opinion Research Office</note>
+				<note xml:id="q-9c15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="220">Political Division</note>
+				<note xml:id="q-9d15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="221">229 HQ CCG</note>
+				<note xml:id="q-9e15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="222">Hannover (1)</note>
+				<note xml:id="q-9f15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="223">Mr. Swannell</note>
+				<note xml:id="q-a015e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="224">Information Services Branch</note>
+				<note xml:id="q-a115e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="225">HQ Mil.Gov.</note>
+				<note xml:id="q-a215e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="226">Information Centre (1)</note>
+				<note xml:id="q-a315e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="227">Mr. Wilson</note>
+				<note xml:id="q-a415e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="228">BBC Liaison Officer</note>
+				<note xml:id="q-a515e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="229">ISC Branch</note>
+				<note xml:id="q-a615e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="230">PRISC Group</note>
+				<note xml:id="q-a715e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="231">CCG Berlin (1)</note>
+				<note xml:id="q-a815e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="232">Dr. Williams</note>
+				<note xml:id="q-a915e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="233">Opinion Surveys</note>
+				<note xml:id="q-aa15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="234">ICD OMGUS</note>
+				<note xml:id="q-ab15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="235">APO 742 US Army (1)</note>
+				<note xml:id="q-ac15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="236">Mr. W Wallich</note>
+				<note xml:id="q-ad15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="237">Broadcasting Control</note>
+				<note xml:id="q-ae15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="238">ISD Branch</note>
+				<note xml:id="q-af15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="239">HQ Berlin (1)</note>
+				<note xml:id="q-b015e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="240">Broadcasting Control</note>
+				<note xml:id="q-b115e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="241">ISO Branch</note>
+				<note xml:id="q-b215e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="242">808 HQ CCG</note>
+				<note xml:id="q-b315e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="243">Cologne (1)</note>
+				<note xml:id="q-b415e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="244">Secretariat</note>
+				<note xml:id="q-b515e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="245">Intelligence Division</note>
+				<note xml:id="q-b615e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="246">HQ Berlin (1)</note>
+				<note xml:id="q-b715e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="247">Secretariat</note>
+				<note xml:id="q-b815e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="248">Mil.Gov &lt;http://Mil.Gov &gt;.</note>
+				<note xml:id="q-b915e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="249">Berlin (6)</note>
+				<note xml:id="q-ba15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="250">Governmental Structure Branch</note>
+				<note xml:id="q-bb15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="251">HQ Mil.Gov.</note>
+				<note xml:id="q-bc15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="252">Berlin (1)</note>
+				<note xml:id="q-bd15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="253">Public Safety Branch</note>
+				<note xml:id="q-be15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="254">HQ Mil.Gov.</note>
+				<note xml:id="q-bf15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="255">Berlin (1)</note>
+				<note xml:id="q-c015e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="256">Mr. Taylor</note>
+				<note xml:id="q-c115e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="257">Public Safety</note>
+				<note xml:id="q-c215e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="258">Quadripartite Section</note>
+				<note xml:id="q-c315e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="259">Berlin (2)</note>
+				<note xml:id="q-c415e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="260">Mr. T. Crichton</note>
+				<note xml:id="q-c515e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="261">Educational Advisers Office</note>
+				<note xml:id="q-c615e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="262">CCG Bad Rothenfelde</note>
+				<note xml:id="q-c715e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="263">76 HQ CCG (1)</note>
+				<note xml:id="q-c815e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="264">Col.Fillingham</note>
+				<note xml:id="q-c915e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="265">Deputy Secretary</note>
+				<note xml:id="q-ca15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="266">Central Secretariat HQ</note>
+				<note xml:id="q-cb15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="267">HQ CCG (1)</note>
+				<note xml:id="q-cc15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="268">Sir Eric Coates</note>
+				<note xml:id="q-cd15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="269">Financial Adviser</note>
+				<note xml:id="q-ce15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="270">Finance Division</note>
+				<note xml:id="q-cf15e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="271">HQ CCG Berlin (1)</note>
+				<note xml:id="q-d015e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="272">Mr. H.W.R. Homfrey</note>
+				<note xml:id="q-d115e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="273">Special Assistant</note>
+				<note xml:id="q-d215e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="274">Economic Sub-Commission</note>
+				<note xml:id="q-d315e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="275">HQ COG Berlin (1)</note>
+				<note xml:id="q-d415e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="276">Office of the Educational Adviser</note>
+				<note xml:id="q-d515e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="277">HQ CCG Berlin (1)</note>
+				<note xml:id="q-d615e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="278">Mr. Haig-Brown</note>
+				<note xml:id="q-d715e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="279">Film Section</note>
+				<note xml:id="q-d815e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="280">PRISC Branch</note>
+				<note xml:id="q-d915e013-1390-e311-a968-000bdb5cc6d5" type="contact" n="281">HQ Berlin (1)</note>
+			</div>
+		</body>
+	</text>
+</TEI>

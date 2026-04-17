@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 93</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-a56a174b-c7d1-48e8-90b2-331d2e547de1</idno>
+        <idno type="qudexdocument">q-10992628-7ada-4e32-a84e-42f290534c9f</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-6e7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-6f7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				sixteen- I was slightly under sixteen actually with five o’levels. I had provisional
+				entry to the College of Technology at Maidstone and only needed four o’levels to get
+				in.</u>
+      <u xml:id="q-707f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I went to college
+				and spent two years doing a Business Studies course. I had a good time there- it was
+				a lovely place- and left with an Ordinary National Diploma in Business Studies. This
+				opened up many possibilities for me, such as managerial schemes run by firms,
+				accountancy, banking and so on. All I wanted to be was a personal secretary so I
+				applied for posts in Maidstone and Sheerness. I did think of London but it was too
+				far to travel and I didn’t fancy living in.</u>
+      <u xml:id="q-717f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Anyway I got the
+				job in Sheerness at the Olau Line ferry company as a junior secretary. I left there
+				after nearly a year and went to work as a personal secretary in Maidstone.</u>
+      <u xml:id="q-727f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">It was here that
+				I met my husband. I had been working there for over a year when I met him. He’d been
+				with the turn for a couple of years and had just been promoted.</u>
+      <u xml:id="q-737f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">We started going
+				out together and after about a year we got married.</u>
+      <u xml:id="q-747f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I didn’t give up
+				work altogether but took a part time job with the firm instead.</u>
+      <u xml:id="q-757f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">That had to stop,
+				though, when we had our first child, Christine. She was a lovely little baby and
+				really looked like her dad.</u>
+      <u xml:id="q-767f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">She was two when
+				Michael came along.</u>
+      <u xml:id="q-777f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">By this time our
+				house was getting crowded and rather than move, we decided to extend. That done, we
+				had another boy. When he was five my husband prompted me to take another job so I
+				did.</u>
+      <u xml:id="q-787f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">The kids grew up
+				really fast and it seemed like no time until Chris got married. She was 22 and at 25
+				had her first child, my first grandchild.</u>
+      <u xml:id="q-797f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">Mike remained
+				single until he was nearly 29 because he had joined the Navy. However, he got
+				married and provided me with grandchildren, as well.</u>
+      <u xml:id="q-7a7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">Chris and her
+				husband had another girl and decided to limit the family to two.</u>
+      <u xml:id="q-7b7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">Actually we did
+				talk over the possibility of having another child ourselves but decided not to
+				because, as my husband put it, we couldn’t stand all that again!</u>
+      <u xml:id="q-7c7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">By this time the
+				other boy John was doing very well for himself. He had become area manager to some
+				firm or other and was working very hard. He got married at 26 and had a family of
+				his own.</u>
+      <u xml:id="q-7d7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="16">Now my first
+				grandchild was nearly 10 and the other were growing up fast!</u>
+      <u xml:id="q-7e7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="17">Now I sit here
+				with them all around me at the ripe old age of 69 and remenise. I can remember
+				little facts that I thought I had forgotten, over the years.</u>
+    </body>
+  </text>
+</TEI>

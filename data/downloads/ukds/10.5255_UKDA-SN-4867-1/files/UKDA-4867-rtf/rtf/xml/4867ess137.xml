@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 139</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-0ab77441-1a93-4a05-a51e-d16578981666</idno>
+        <idno type="qudexdocument">q-a112e004-78db-4c86-8cde-9dce6af81296</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-f0805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-f1805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I look back
+				over my life I think first of all about when I was leaving school. I can remember
+				wanting to leave school but I also wanted to stay on and learn shorthand and
+				typing.</u>
+      <u xml:id="q-f2805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I had seen the
+				careers officer about a career in a library or with children. Working with children
+				meant going to college and I knew I didn’t want to do that so I found out about
+				librarianship, as many jobs weren’t around in that or so it seemed I decided to stay
+				on and try and gain some extra exams.</u>
+      <u xml:id="q-f3805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">At the time of
+				<sic>leaveing</sic><corr>leaving</corr> school I had a part time job working at a plant nursery which I enjoyed
+				very much. The man who I worked for let me work there full time until September when
+				I went back to school.</u>
+      <u xml:id="q-f4805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">When I left the
+				sixth year I applied for secretarial jobs one of which I got. This job did not
+				involve promotion although I would have liked it to.</u>
+      <u xml:id="q-f5805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Looking back I
+				wonder why I took that job because it got boring. It was the same thing nearly every
+				day.</u>
+      <u xml:id="q-f6805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I would have
+				liked a library career much better because I could have gone to different libraries
+				to work and the routine would have changed.</u>
+      <u xml:id="q-f7805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Eventually after
+				a couple of years at that job I got married and left work when my children grew up I
+				went back to work as a personal secretary this job wasn’t boring as I was working
+				for my husband and we did a lot of travelling I saw places I had never seen
+				before.</u>
+      <u xml:id="q-f8805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">When I retired I
+				missed all the travelling around but I have my <sic>memiories</sic><corr>memories</corr> and my grandchildren are
+				always asking for stories when we went travelling. My husband is still with me and
+				we are still happy my life turned out fine after all.</u>
+    </body>
+  </text>
+</TEI>

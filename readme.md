@@ -1,24 +1,22 @@
 # QDArchive Seeding Project
 
 **Student:** Maisha Fahmida
-
 **Student ID:** 23158572
-
 **University:** FAU Erlangen-Nürnberg
-
 **Supervisor:** Prof. Dr. Dirk Riehle
 
 ---
 
-## Project Context
+## Project Overview
 
-This project contributes to the **QDArchive (Qualitative Data Archive)** by developing an automated pipeline that:
+This project contributes to the **QDArchive (Qualitative Data Archive)** by building an automated pipeline that:
 
-* identifies qualitative datasets from research repositories
-* retrieves available project files
-* extracts and stores metadata in a structured SQLite database
+* discovers datasets from research repositories
+* downloads available dataset files
+* extracts metadata
+* stores structured information in a SQLite database
 
-The focus is on datasets compatible with **Qualitative Data Analysis (QDA)** tools such as:
+The system is designed for datasets compatible with **Qualitative Data Analysis (QDA)** tools such as:
 
 * NVivo
 * ATLAS.ti
@@ -27,22 +25,23 @@ The focus is on datasets compatible with **Qualitative Data Analysis (QDA)** too
 
 ---
 
-## Project Goals
+## Project Objectives
 
-* Automate dataset discovery across repositories
-* Retrieve **accessible project files**
-* Store structured metadata in SQLite
-* Preserve **original license information**
-* Prepare data for **further analysis (Part 2)**
+* Automate dataset collection from repositories
+* Download dataset files when publicly accessible
+* Extract structured metadata
+* Store license information correctly
+* Build a normalized SQLite database
+* Prepare data for further validation and analysis
 
 ---
 
-## Data Sources Used
+## Data Sources
 
-| Repository                 | ID | Approach                           |
-| -------------------------- | -- | ---------------------------------- |
-| **AUSSDA** (Dataverse)     | 1  | API-based + direct file download   |
-| **UK Data Service (UKDS)** | 2  | DataCite API + metadata extraction |
+| Repository             | ID | Method                                         |
+| ---------------------- | -- | ---------------------------------------------- |
+| AUSSDA (Dataverse)     | 1  | API + direct file download                     |
+| UK Data Service (UKDS) | 2  | DataCite API + GraphQL + signed download links |
 
 ---
 
@@ -53,42 +52,34 @@ main.py
    ↓
 AUSSDA pipeline        UKDS pipeline
    ↓                      ↓
-File download         Metadata extraction
+File + Metadata        Metadata + File download
    ↓                      ↓
 SQLite Database (5 tables)
 ```
 
 ---
 
-## Database Design
+## Database Schema
 
-The system uses a **normalized SQLite schema** with five interconnected tables:
+The system uses a normalized SQLite schema:
 
-| Table         | Purpose                          |
-| ------------- | -------------------------------- |
-| `projects`    | Stores dataset-level information |
-| `files`       | Tracks file download results     |
-| `keywords`    | Stores associated keywords       |
-| `person_role` | Captures authors and roles       |
-| `licenses`    | Stores licensing information     |
-
----
-
-## File Processing Status
-
-| Status          | Description                  |
-| --------------- | ---------------------------- |
-| `SUCCEEDED`     | File successfully downloaded |
-| `FAILED_SERVER` | Download attempt failed      |
+| Table       | Purpose                  |
+| ----------- | ------------------------ |
+| projects    | Dataset-level metadata   |
+| files       | Downloaded file tracking |
+| keywords    | Dataset keywords         |
+| person_role | Authors and contributors |
+| licenses    | License information      |
 
 ---
 
-## Repository Processing Logic
+## Repository Processing
 
-### AUSSDA (Primary Data Source)
+### AUSSDA
 
-* Accessed via Dataverse API
-* Downloads **individual dataset files**
+* Uses Dataverse API
+* Retrieves metadata and files
+* Downloads dataset files directly
 * Extracts:
 
   * title
@@ -96,15 +87,14 @@ The system uses a **normalized SQLite schema** with five interconnected tables:
   * authors
   * keywords
   * license
-* Stores both **files and metadata**
-
-Serves as the **main source of downloadable data**
 
 ---
 
-### UK Data Service (Metadata Extraction Only)
+### UK Data Service (UKDS)
 
-* Accessed via **DataCite API**
+* Uses **DataCite API** to discover datasets
+* Uses **GraphQL API** to fetch detailed metadata
+* Downloads files using **signed S3 URLs**
 * Extracts:
 
   * DOI
@@ -112,23 +102,40 @@ Serves as the **main source of downloadable data**
   * description
   * authors
   * keywords
-* No file downloads performed
+  * license
 
-#### Explanation
+---
 
-* Most UKDS datasets:
+## License Extraction Strategy
 
-  * require authentication
-  * require user agreements
-  * do not provide direct download links
+License information is handled in multiple steps:
 
- Therefore, only metadata is collected
+1. Extracted from GraphQL field (`AccessCondition`)
+2. Parsed using **BeautifulSoup** (HTML → text)
+3. If missing → fallback mapping using DOI
+
+### Examples
+
+* Creative Commons Attribution 4.0
+* Creative Commons BY-SA 4.0
+* Open Government Licence
+
+This ensures license is always stored in the database.
+
+---
+
+## File Handling
+
+| Status        | Description                   |
+| ------------- | ----------------------------- |
+| SUCCEEDED     | File downloaded and extracted |
+| FAILED_SERVER | Download failed               |
 
 ---
 
 ## Execution Guide
 
-### Install Required Libraries
+### Install Dependencies
 
 ```bash
 pip install requests beautifulsoup4
@@ -139,28 +146,35 @@ pip install requests beautifulsoup4
 ### Run the Pipeline
 
 ```bash
+python -m repositories.process_ukds_batch
+```
+
+or
+
+```bash
 python main.py
 ```
 
 ---
 
-### Generated Outputs
+## Output
 
-**Database:**
+### Database
 
 ```
 23158572_id-seeding.db
 ```
 
-**Downloaded files:**
+### Downloaded Files
 
 ```
 data/downloads/aussda/
+data/downloads/ukds/
 ```
 
 ---
 
-## Folder Organization
+## Folder Structure
 
 ```
 QDA_Maisha/
@@ -168,14 +182,13 @@ QDA_Maisha/
 ├── main.py
 ├── 23158572_id-seeding.db
 │
-├── database/
-│   ├── __init__.py
-│   └── database.py
-│
 ├── repositories/
-│   ├── __init__.py
 │   ├── aussda_repository.py
-│   └── ukds_repository.py
+│   ├── ukds_repository.py
+│   └── process_ukds_batch.py
+│
+├── downloader/
+│   └── downloader.py
 │
 ├── data/
 │   └── downloads/
@@ -185,119 +198,74 @@ QDA_Maisha/
 
 ---
 
-## Data Acquisition Approach
+## Limitations
 
-### AUSSDA
+### UKDS Constraints
 
-* Query API → retrieve dataset metadata
-* Access dataset endpoint → get file list
-* Download files using file IDs
-
-### UKDS
-
-* Query DataCite API → discover datasets
-* Resolve DOI → access landing page
-* Extract metadata only
+* Some datasets require authentication
+* Signed URLs expire quickly
+* Some datasets are not publicly downloadable
 
 ---
 
-## Example Output Summary
+### Metadata Issues
 
-| Repository | Projects     | Files            |
-| ---------- | ------------ | ---------------- |
-| AUSSDA     | ✔ Downloaded | ✔ Downloaded     |
-| UKDS       | ✔ Metadata   | ❌ Not downloaded |
+* Some datasets have missing or unclear license
+* License fallback is used when needed
 
 ---
 
-## Known Constraints
+### Duplicate Data
 
-### Restricted Access (UKDS)
-
-* Many datasets:
-
-  * require login
-  * require agreements
-* No consistent public download mechanism
+* Duplicate entries may occur
+* No deduplication implemented yet
 
 ---
 
-### Missing License Information
+## Validation Status
 
-* Some datasets lack license metadata via API
-* Current handling:
+* SQLite database structure implemented
+* License handling implemented
+* Validator integration prepared
 
-  * store raw license if available
-  * skip otherwise (UKDS)
-
----
-
-### File Variability
-
-* Some files:
-
-  * are not QDA-related
-  * are too large or unsupported
+⚠️ Validation script not fully executed yet
 
 ---
 
-### Duplicate Entries
+## Future Improvements
 
-* Same dataset may appear multiple times
-* No duplicate filtering implemented yet
-
----
-
-## Design Choices
-
-* Prioritized **AUSSDA for full data extraction**
-* Used **DataCite API for UKDS discovery**
-* Preserved **original license values**
-* Allowed **metadata-only entries for restricted data**
-
----
-
-## Possible Enhancements
-
-* Implement duplicate detection using DOI
-* Improve license standardization
-* Extend support to more repositories
+* Run full SQLite validation
+* Implement duplicate detection (based on DOI)
+* Improve license normalization
+* Add more repositories
 * Enhance QDA file detection
-* Build analysis pipeline (Part 2)
-
----
-
-## License Handling Strategy
-
-The system stores the **license exactly as provided by the source**.
-
-> “If there is a different original data string identifying the license, use this and fix later.”
-
----
-
-## References & Credits
-
-* QDArchive Project
-* REFI-QDA standard
-* AUSSDA (Dataverse)
-* UK Data Service
-* DataCite API
 
 ---
 
 ## Project Outcome
 
-This project successfully delivers a **functional data seeding pipeline**:
+This project successfully:
 
-* ✔ Retrieves real qualitative datasets (AUSSDA)
-* ✔ Collects large-scale metadata (UKDS)
-* ✔ Organizes data in a structured database
+* collects real-world datasets
+* downloads files from AUSSDA and UKDS
+* extracts structured metadata
+* stores data in a normalized database
 
-It fulfills key requirements of:
+It meets the requirements of:
 
 * data collection
 * metadata extraction
 * database design
 * pipeline automation
+
+---
+
+## References
+
+* QDArchive Project
+* REFI-QDA Standard
+* AUSSDA Dataverse
+* UK Data Service
+* DataCite API
 
 ---

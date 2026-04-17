@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 2</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-d83db05d-9262-4bb3-a054-a3c34df04ba4</idno>
+        <idno type="qudexdocument">q-7be5a459-ad87-4090-87b3-1e567d6356d1</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-477d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflection</note>
+      <u xml:id="q-487d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I had just left
+				school. The fact that I didn’t have to go back hadn’t quite clicked into place
+				yet.</u>
+      <u xml:id="q-497d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">That July was
+				<sic>beutifully</sic><corr>beautifully</corr> sunny and I didn’t bother about preparing for my interval in August.</u>
+      <u xml:id="q-4a7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Eventually,
+				August came and I got down to preparing for my interview.</u>
+      <u xml:id="q-4b7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">The day came, I
+				walked through the door and sat down in a chair next to about ten other <sic>aplicants</sic><corr>applicants</corr>. I
+				was confident of breaking the ice and at least getting some “height off the ground”
+				but after that I faded away.</u>
+      <u xml:id="q-4c7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I got the job at
+				least and liked it very much at first. I was determined to not get bored to quickly,
+				so I varied my way of going about it.</u>
+      <u xml:id="q-4d7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">But as all jobs
+				go, because you are compelled to do it, your thoughts just to fade, on the thing you
+				used to like so much.</u>
+      <u xml:id="q-4e7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">After two years
+				at the same job I had found a better opportunity and took days off to find out the
+				details.</u>
+      <u xml:id="q-4f7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">After deciding
+				I’d like to try for it I prepared for the interview.</u>
+      <u xml:id="q-507d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Like many before
+				I wasn’t <sic>acepted</sic><corr>accepted</corr>. I still liked the type of work so I <sic>tryed</sic><corr>tried</corr> a different approach and
+				it showed possibilities.</u>
+      <u xml:id="q-517d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">I waited for a
+				month and then decided they’d given me up.</u>
+      <u xml:id="q-527d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">Eventually I
+				found a better job and got it, but it wasn’t easy.</u>
+      <u xml:id="q-537d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">Being a new job
+				I was quickly enthused and liked it very much.</u>
+      <u xml:id="q-547d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">It didn’t pay
+				much, but I didn’t need much and I was contented for about five years. It was on
+				that 5th year that I met my life long companion.</u>
+      <u xml:id="q-557d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">We were married
+				in the following year 1986. I was 24 and pleased with myself for not getting hitched
+				at an early age.</u>
+      <u xml:id="q-567d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="16">With family
+				planning and everything, I knew I had to get another job which paid more than I was
+				getting.</u>
+      <u xml:id="q-577d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="17">I searched, went
+				to interviews, and slogged hard at overtime, to keep going. Eventually I got a job.
+				It was well paid, but really, it wasn’t my sort of work.</u>
+      <u xml:id="q-587d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="18">I didn’t think
+				that would matter because they were fairly short hours and the money made a
+				difference.</u>
+      <u xml:id="q-597d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="19">But I was wrong.
+				I managed to grin and bear it, but that didn’t last long. I decided in going for
+				another interview.</u>
+      <u xml:id="q-5a7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="20">Only one came
+				through and because of various things happening at home, I didn’t prepare and didn’t
+				get the job.</u>
+      <u xml:id="q-5b7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="21">Anyway, I
+				learned to like it and I had that job up to the day I retired and I don’t think I
+				regretted that much. I certainly don’t now.</u>
+    </body>
+  </text>
+</TEI>

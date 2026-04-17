@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 154</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-4dcda2d7-2047-41ff-b898-4af6bc8d685c</idno>
+				<idno type="qudexdocument">q-d127de74-8184-48c1-8410-e4377b31b4fc</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-ea65e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1"
+				>Reflections</note>
+			<u xml:id="q-eb65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">I let the curtains fall
+				back into place and step back from the window. Outside a happy reunion takes place
+				between a grey haired woman of my age and her suntanned children and grandchildren
+				who have just arrived from Australia to celebrate her 67th birthday. Her life is how
+				I never wanted mine to be when I was a teenager.</u>
+			<u xml:id="q-ec65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">I remember well leaving
+				those school days behind and starting my career in London working for a fashion
+				magazine. At first it was tiring because I was travelling each day from my home in
+				Sheppey but as I gradually settled down I met many people I met many people and
+				eventually moved into a flat in Chelsea. Because of my work I met up and coming
+				actresses and actors, recording artists and models.</u>
+			<u xml:id="q-ed65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">After a time there I
+				moved from junior work to fashion editor and met a young designer although he had
+				just started off in business on his own I thought his clothes would catch on and
+				decided to become a partner. Gradually through a close <sic>busines</sic><corr>business</corr></u>
+		</body>
+	</text>
+</TEI>

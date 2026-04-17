@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 105</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-d056865b-9d6b-4490-8188-e3d3640284c0</idno>
+        <idno type="qudexdocument">q-09504641-2960-4e55-b17d-df5750f52461</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-dc7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-dd7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I sat looking
+				out of the window of the old people’s home, I watched the young teenagers coming
+				home from school. How smart they looked in their navy blue uniforms. It made me
+				remember my schooldays, I was just sixteen years old when I left. At that time my
+				main ambition was to get a job and earn some money, so that I could buy and do all
+				things that I had wished for.</u>
+      <u xml:id="q-de7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Luckily, due to a
+				lot of help from my father I became a clerical assistant in the civil service at
+				Chatham dockyard. My father and brother were both working <sic>their</sic><corr>there</corr> at the time. I
+				started on thirty pounds, I thought this was pretty good money, well it seemed to be
+				then. I had great fun as a teenager. As I my money rose, the better the time I had.
+				At seventeen my family and I moved off the island nearer to Chatham. I went out most
+				nights of the week. Occasionally during the summer I would spend weekends at Sheppey
+				staying with friends and they would come back to stay with me. The best bit came
+				when I was eighteen. I got a really smart car, well I thought it was, really it was
+				an old banger but I did it up and hit the road. From then I really got round, went
+				to London with my mates, <sic>shoping</sic><corr>shopping</corr> and going to concerts etc.</u>
+      <u xml:id="q-df7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">The next biggest
+				step was when I met Steve, I fell for him a few months after being introduced. We
+				started going out together and eventually got engaged. The engagement lasted for six
+				months and we got married when I was twenty two. It was a fabulous white wedding and
+				we honeymooned in the South of France. We had a small but nice house which we saved
+				the deposit for before marrying. I had my first child at twenty five, a little boy
+				called Danny. He was a proper lad, always in the mud or fighting and playing
+				football. At twenty eight I had a girl which we called Kelly. With the children we
+				just didn’t have the money to go out like we used to especially since I had given up
+				work. Steve was earning about eighty pound a week and we didn’t do too bad.</u>
+      <u xml:id="q-e07f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Life didn’t
+				change a great deal again until my own children left home, except that gradually we
+				got better off. I was nearly fifty when both had left home. Kelly got married and
+				Danny lived single for about a year, then married. After that Steve and I were
+				lonely but soon began to enjoy life in the way we did before having children.</u>
+      <u xml:id="q-e17f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">“Hello dear,
+				daydreaming again”</u>
+      <u xml:id="q-e27f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">“Steve, your home
+				early, I’ll get the dinner ready”.</u>
+    </body>
+  </text>
+</TEI>

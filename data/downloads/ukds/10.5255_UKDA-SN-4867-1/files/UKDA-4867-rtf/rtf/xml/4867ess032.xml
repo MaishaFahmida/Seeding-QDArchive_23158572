@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 33</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-2e4e3cdd-89de-4d81-8326-9f1b3dfac63f</idno>
+        <idno type="qudexdocument">q-6b68beaf-3655-46d2-83ad-193ff7d044b4</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-047e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">After failing to
+				get through to the <sic>seeboard</sic><corr>seaboard</corr>, I have still got 4 <sic>entrant</sic><corr>entrance</corr> exams left Bowaters <sic>wich</sic><corr>which</corr> I
+				have <sic>fialed</sic><corr>failed</corr> the steelworks <sic>wich</sic><corr>which</corr> I didn’t go to as I didn’t like the people who
+				worked there. Medway dry docks wich I passed as an electrical fitter. I had also got
+				a job at Rochester dock yard but only because me mum and dad knew the training
+				officer. <sic>Butt</sic><corr>But</corr> I chose Medway dry docks and <sic>wrot</sic><corr>wrote</corr> to the others to say that I won’t be
+				able to join <sic>there</sic><corr>their</corr> firm as I have already got a job much closer to home and rather
+				than deprive someone of my place I am writing to tell you that someone may fill my
+				vacant place. I’ll always remember the last day at school no work no nothing <sic>infact</sic><corr>in fact</corr>
+				I think that I <sic>whent</sic><corr>went</corr> home at lunchtime.</u>
+      <u xml:id="q-057e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I started work on
+				1st sept 1978 and brought home the grand total of £20 a week. It may not seem much
+				to you but it got me by. When I was fully trained I was bringing home £100 a week I
+				mean {I?} now you are bringing home £1000 a week 10 times more than I was but things
+				cost 20 times as much.</u>
+      <u xml:id="q-067e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Anyway on April
+				22nd 1979 I decided to take my driving lessons and that to most of my £20. But when
+				I passed my driving test it all seemed a waste of time until <sic>Apprill</sic><corr>April</corr> 1981 when I got
+				my first car a {?} a little sports <sic>wich</sic><corr>which</corr> was {later?} to be a waste of time as I had
+				a crash and spent several weeks in <sic>hoppital</sic><corr>hospital</corr> with a broken {?} and a damaged Retina
+				<sic>wich</sic><corr>which</corr> meant I couldn’t see out of 1 eye and that meant I had lost my £100 a week job.
+				After this I got a job at the Royal Doulton potteries, pushing <sic>barough</sic><corr>borough</corr> loads of clay
+				about this job only brought in £70 a week <sic>wich</sic><corr>which</corr> is a difference of £30 a week <sic>wich</sic><corr>which</corr><sic>Im</sic><corr>I'm</corr>
+				used <sic>too</sic><corr>to</corr>. So I looked around for another job and found one with John Laing’s over at
+				the Isle of grain this job paid much better than the other any of the jobs
+				before.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 14</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-1a75b37f-c57f-411e-8828-da1a74b688a0</idno>
+        <idno type="qudexdocument">q-08eba196-12a3-48e4-af2e-5bf9b211ce26</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-8e7d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My past</note>
+      <u xml:id="q-8f7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I left
+				school I took up <sic>aprentiship</sic><corr>apprenticeship</corr> as a fitter and {turner?} this <sic>ment</sic><corr>meant</corr> traveling from
+				<sic>sheppey</sic><corr>Sheppey</corr> to Rochester every day but this didn’t bother me to much as I had already a
+				<sic>mopead</sic><corr>moped</corr> and the next year I learned to drive a car so this didn’t <sic>realy</sic><corr>really</corr><sic>effect</sic><corr>affect</corr> me. So
+				I stayed to become a skilled man.</u>
+      <u xml:id="q-907d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">In the evening I
+				had already a small disco when I left school, but as the years progresed I built the
+				disco up and became quite good. Then when my <sic>aprenteship</sic><corr>apprenticeship</corr> had finished I had to make
+				some kind of <sic>disision</sic><corr>decision</corr> to what I was going to do so in the end I sold all of my disco
+				and put the money into a small business using the skill I had already learned from
+				my <sic>aprentiship</sic><corr>apprenticeship</corr> to become quite a good little engineering shop.</u>
+      <u xml:id="q-917d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I also had my
+				girl friend who from the age of sixteen was beginning to take up lots of time and
+				get involved in what I was doing so the shop I brought I had to make <sic>shure</sic><corr>sure</corr> had a
+				flat above so marriage could follow with out to much trouble which it did at the age
+				of 23.</u>
+    </body>
+  </text>
+</TEI>

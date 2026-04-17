@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 110</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-862b1fea-0a66-4659-b5ad-b10e01c430ae</idno>
+        <idno type="qudexdocument">q-08a825c8-7cd2-4e25-bb1c-2f9411c20697</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-04805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Happy Memories</note>
+      <u xml:id="q-05805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I felt as though
+				my adult life had just began when I left school. I thought things would go good, be
+				on the dole for a few weeks and then find myself a job. How wrong you can be, I was
+				more or less on there for six months and out of the blue came a change for the sort
+				of job that I had been looking for. By now I was seventeen and felt that this was
+				the real beginning.</u>
+      <u xml:id="q-06805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I would be
+				working in an office as a clerk, the money seemed to be alright then.</u>
+      <u xml:id="q-07805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I would also
+				dream of the day that I would leave the island for good even leaving England.</u>
+      <u xml:id="q-08805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">When being at a
+				certain age you feel that you want to see more of the world and what it had to
+				offer. Friends would say don’t go on living on a dream.</u>
+      <u xml:id="q-09805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">After nearly five
+				years at the same firm I had <sic>earnt</sic><corr>earned</corr> myself a higher place which meant more money. My
+				savings was already mounted up and decided to take a holiday. I flew from Gatwick,
+				which then was one of the nearest and clean looking airports.</u>
+      <u xml:id="q-0a805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Three weeks
+				relaxing in the sun, this seemed like luxury being waited on hand and foot by some
+				nice people as well.</u>
+      <u xml:id="q-0b805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">There was one who
+				meant a lot to me when I returned home we would write to each other. There was no
+				boyfriend at home and we seemed close.</u>
+      <u xml:id="q-0c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Work was the only
+				thing that kept my mind from twisting. Hoping that when I got home at night and
+				found that a party was laid on, also with a very special guests. My mum and dad knew
+				how much that he meant to me and sent for him.</u>
+      <u xml:id="q-0d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Two weeks we had
+				together and off he went home, but before he went home a little box was handed to
+				me- my wishes were being to turn true.</u>
+      <u xml:id="q-0e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">In August we
+				were married and have not {regarted?} since. We visit his family often and stay for
+				some time.</u>
+      <u xml:id="q-0f805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">Children were
+				not <sic>amoungst</sic><corr>amongst</corr> my choices, but two soon appear, three years difference.</u>
+      <u xml:id="q-10805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">I finished work
+				now and look upon my children to find there <sic>happyness</sic><corr>happiness</corr> the way I did. These seem
+				happy memories of years of hard work and dreams which came true. People always say
+				‘remember the good old <sic>day’s</sic><corr>days</corr>, they will always be the best’. I think so, the best
+				forty-four years so far I hope they continue!</u>
+    </body>
+  </text>
+</TEI>

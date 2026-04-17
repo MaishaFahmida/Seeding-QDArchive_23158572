@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 115</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-983cf834-57f1-47d9-ba1c-33e8b2220c4c</idno>
+        <idno type="qudexdocument">q-9ebd7526-0fdd-4b53-8a59-e1857ea3cacd</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-35805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-36805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I look out of
+				my window and see my grandchildren playing in the big playing field, I wonder if
+				their life would be like mine. I doubt it very much. Things seem to change over the
+				years I never grew up like my mother. She was so different from me.</u>
+      <u xml:id="q-37805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">When I left
+				school I lived with my stepmother, my real mother left all of us children and my
+				father when I was twelve then my father when I was twelve then my father died two
+				years later. So I was left with a step-mother. When I left school I had no
+				qualifications although I went in for quite a lot. I failed everything, but I got a
+				good grade in art. Which wasn’t much use. I went straight on the dole for a couple
+				of months until my brother got me a job with him in a garage. I wasn’t any mechanic
+				just a petrol pump attendant. I stayed there for a few years because I liked the
+				job. I was quite contented to get a job and to get on well with the people I worked
+				with. It wasn’t boring because I met all different kinds of people.</u>
+      <u xml:id="q-38805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">While I had this
+				job I got engaged to the boy who I was going out with while I was still at school.
+				Just as I started on another job which was working with my cousin in a fashion shop
+				I got married.</u>
+      <u xml:id="q-39805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">We had a
+				beautiful wedding. Well I thought it was beautiful but to any other person it could
+				have been just another wedding to them. My eldest brother gave me away and my
+				youngest sister was a bridesmaid because when she was living at home with us she
+				decided to go and live with her real mother. She was only ten at the time. My real
+				mother came to the wedding as well but I wouldn’t invite the man she had ran off
+				with, I always have hated him and I always will. After the wedding we went on
+				honeymoon to Tenariff for a week, it was lovely.</u>
+      <u xml:id="q-3a805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">After the
+				honey-moon I went back to the job in the shop and Larry went back to his job in the
+				dockyard.</u>
+      <u xml:id="q-3b805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Two years later
+				we had a baby boy. We named him Paul after my brother and Larry’s cousin. I had
+				finished work just before I had Paul, to become a housewife. At first life was
+				exciting to have a baby to look after and a husband a house but as the years went by
+				it became dreadfully boring, until I had another child. This time a girl. We named
+				her Sam, short for Samantha. When Sam was three we moved away from Sheerness to
+				London. We <sic>didnt</sic><corr>didn't</corr> like it in London much so we moved again to Rochester. Here we
+				settled. Larry got a job and with the help of a friend gradually built up a small
+				business. When both of the children went to school I started on another job in a
+				factory but it was terrible and I packed it up very quickly.</u>
+      <u xml:id="q-3c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Later I had
+				another boy. We named him Mark. After Mark I <sic>didnt</sic><corr>didn't</corr> get another job I was quite
+				content to be a mother, wife and housewife.</u>
+      <u xml:id="q-3d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Now my <sic>childrens</sic><corr>children's</corr>
+				children have grown, I wonder what their future will be.</u>
+      <u xml:id="q-3e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">I hope it will be
+				as good or better than mine. Everyone had their ups and downs. <sic>Lets</sic><corr>Let's</corr> just hope there
+				<sic>wont</sic><corr>won't</corr> be many downs.</u>
+    </body>
+  </text>
+</TEI>

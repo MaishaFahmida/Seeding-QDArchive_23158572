@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 83</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-d395565c-135b-4c9d-b6f3-d16370c67b32</idno>
+        <idno type="qudexdocument">q-c3a155bd-4892-4483-9358-3b551bfee695</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-2f7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-307f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">[Name omitted]. I
+				am 75 years old and I live on the Isle of Sheppey with my dear wife Elsie.</u>
+      <u xml:id="q-317f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Looking back on
+				my life it’s been very enjoyable even school wasn’t <sic>to</sic><corr>too</corr> bad I wasn’t very brainy in
+				most subjects but I was in music. At the end of the fifth year achieved a Grade 1
+				C.S.E. which was an O level in those days. After the fifth year I stayed on for a
+				{illegible} year in the 6th form, one thing I never liked about the sixth form was
+				Hutley! Err “<sic>exscuse</sic><corr>excuse</corr> me, Mr Hutley, well anyway he was just like one of those square
+				bashers you get in the army, whenever you was out of line “<sic>whatch</sic><corr>watch</corr> out Hutley’s
+				about”</u>
+      <u xml:id="q-327f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After my year was
+				up I had gained a couple more qualifications. I then left school and went into the
+				Royal Marines Band where I literally saw the world and also gaining a lot of
+				experience.</u>
+      <u xml:id="q-337f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I came out of the
+				<sic>Marine</sic><corr>Marines</corr>when I was 55 and I had gained myself quite a bit of cash I came out of the
+				<sic>Marrines</sic><corr>Marines</corr> and bought a house and retired.</u>
+      <u xml:id="q-347f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">From then on it
+				became fun just like when I was 15 and I use to go skateboarding I thought I would
+				have another go at it, but now they are different they run on nuclear energy and
+				they are very expensive.</u>
+    </body>
+  </text>
+</TEI>

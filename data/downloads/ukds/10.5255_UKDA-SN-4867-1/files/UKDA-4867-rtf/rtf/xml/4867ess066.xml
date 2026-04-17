@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 67</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-abc773d8-7c71-48c7-9c83-90976e5033d7</idno>
+        <idno type="qudexdocument">q-ae8189e4-89f9-4316-a9b9-c38cdf6ff642</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-c07e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">I remember it like it was yesterday. I was sixteen at the time and just leaving school. I sent away for an apprenticeship with the Royal Navy, and got in. When I left school in June. I went straight into the Navy doing an apprenticeship as an electrician. At the age of 19 I had finished my apprenticeship and went aboard a ship. Here I served what was left of my time and when I left at 25, I’d travelled all round the world. At the Age of 26, I had got me self a place in London. At the age of 27 I would get myself a motorbike and {toured?} the country. At the age of about 30 I’d settle down and have got married. I’d got myself a job as electrician by now and had a steady job. Then then moved to another country. We lived in United States for quite a time before we moved back to England. I was thirty three when we had our first child, and it was a boy. At the age of forty we all moved back to England and I was forty. My wife died when I was fifty and I went into an old people’s home. I remarried at the age of fifty five and we both lived in a flat in London. We moved out when I was fifty nine and moved into my old people’s home because of my wife’s bad health, where we are still living at the age of 60.</u>
+    </body>
+  </text>
+</TEI>

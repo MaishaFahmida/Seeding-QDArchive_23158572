@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 7</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-b22a1163-e9eb-4f01-9a5f-a6ec8cd432a8</idno>
+        <idno type="qudexdocument">q-f1482730-9482-446a-bdc1-d350b70c889b</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-767d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">I left school at
+				the age of seventeen with 3 ‘O’ levels and several C.S.Es and joined a small company
+				as an office boy at the age of eighteen in Sittingbourne. When the company expanded
+				I was transferred to a London branch, which meant leaving home and getting a flat in
+				London with a friend. After six years with the company slowly progressing I became
+				assistant manager. Soon after I bought a house just outside London, then eventually
+				a car. At the age of twenty-six I left the company and became a production manager
+				with a different one. By that time I was thinking about marriage having a car and
+				house and soon hoping to getting a small yacht. I began visiting other countries
+				every year for a holiday, with a group of friends and a girlfriend. At twenty-eight
+				I was offered a job in America with another branch of the same company. I took it. I
+				rented out the house and took a flat in America. After four years then, I came back
+				with thoughts of marriage renewed, still with the same company. At thirty-four I
+				marry a blonde, who is thirty. We live in the house with two cars and after a year
+				she has a baby boy. Eventually when I am thirty-eight we are divorced on grounds of
+				being sick of each other. She takes care of the boy and a car and alimony. After
+				this I put in for my job in America again and spend another six years then during
+				that time I met a Canadian girl and marry her. By this time I would assess myself as
+				a middle-classed manager, divorced, <sic>remarryed</sic><corr>remarried</corr>, three children, (one with my ex-wife
+				and twins by my second). and go to Canada where my mother lives, every year and to
+				England to see my parents every two years. At the age of forty-nine we go back to
+				England and soon after wife has another baby, this is to be the last (we hope).
+				After three years in England my parents die, leaving me with two houses and quite a
+				bit of money. I hear of my first son has gone on to university and his mother has
+				died. I am now fifty-nine and I don’t want to live any longer, so I will leave all
+				my money and property to my wife and children (including the one at university).
+				Retire with them and on my sixtieth birthday, I will kill myself (I hope).</u>
+    </body>
+  </text>
+</TEI>

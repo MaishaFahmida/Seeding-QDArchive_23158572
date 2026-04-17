@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 15</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-86083e7a-a411-4a44-b43b-3ca584f90e3f</idno>
+        <idno type="qudexdocument">q-638e25a8-1100-4c74-ab49-5f45c1508c77</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-927d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">Looking back on
+				my past I have few regrets, I know that if I had my time all over again it would be
+				no different. People say the teens are the best time of your life, no worries or
+				responsibilities, how wrong they are. Firstly I remember the conflicts between my
+				parents and I, and how they thought I didn’t care about my future, they were so very
+				wrong. They couldn’t understand how much I worried about getting a decent job, and
+				that stomach pain that you had when you failed that test for the career you had been
+				counting on.</u>
+      <u xml:id="q-937d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">The teachers were
+				only doing their job and they didn’t care whether you got the job or not, and it was
+				the same after school as well, when I left, people would ask how you were getting
+				on, but they didn’t really care, what was it to them if I was penniless with a
+				dismal future.</u>
+      <u xml:id="q-947d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Another worry was
+				the girls, you couldn’t concentrate on much for long without thinking about that
+				dishy bird sitting opposite, and how you’d like to get off with that.</u>
+      <u xml:id="q-957d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">When I eventually
+				got a decent job and settled down with a nice girl, there were the problems of that
+				smarmy bloke getting with that managerial job you’d been hoping to get promoted
+				to.</u>
+      <u xml:id="q-967d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Oh yes, there
+				were good times as well, like when you find out your wife has just had a lovely baby
+				boy, and you win a couple of grand on the horses, which was just enough to add to
+				your savings to put a deposit on that new six bedroomed house.</u>
+      <u xml:id="q-977d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">But now, I’ve
+				made a lot of money and I’ve no need to work for the rest of my days, but money
+				isn’t everything, sometimes I wonder what would’ve happened if I hadn’t been lucky
+				in business, if I didn’t make the money I had now. Would I be like my school friend
+				Mark who is still working at the factory job he found when he was sixteen and how
+				lucky I thought he was to take home £40 a week although we’re probably equally as
+				happy now.</u>
+      <u xml:id="q-987d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Now I’ve only to
+				see my grandchildren running around me, to make me happy, and only death to look
+				forward to. But my children will never have to graft like I did, at least I’ve got
+				the money to give them and <sic>thats</sic><corr>that's</corr> one thing <sic>Marks</sic><corr>Mark's</corr> children will never have.</u>
+    </body>
+  </text>
+</TEI>

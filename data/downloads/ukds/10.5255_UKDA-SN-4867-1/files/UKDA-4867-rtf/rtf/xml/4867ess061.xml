@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 62</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-25e88cf6-0e38-4950-a860-5d8dec9ad4ee</idno>
+        <idno type="qudexdocument">q-c52e17af-6064-47af-9392-6de633b2c85e</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-957e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-967e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When my exam
+				results arrived through the post, I didn’t open the envelope, but thought about my
+				plans. When I finally opened the envelope I saw I had done much better than I
+				thought I would, and I thought again about my plans. I could stay on in the sixth
+				year and try to gain what qualifications I required and then enter ‘The Royal Air
+				Force’ or I could apply to ‘The Big Brother Movement’ and become a park/forest
+				Ranger in Australia. I decided on the first one.</u>
+      <u xml:id="q-977e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I stayed on in
+				the Sixth Year and gained my five O’levels and joined the R.A.F I was an ‘Air
+				Electronics Operator’ flying in Nimrod, Submarine Hunters.</u>
+      <u xml:id="q-987e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I t was in the
+				fifth year I had been in the R.A.F. when I met Cybil an Australian. I was on a
+				courtesy visit to Australia and she was in ‘The Royal Australian Air Force’ as an
+				‘<sic>Assitant</sic><corr>assistant</corr> Air Traffic Controller’. She was based on Tasmania and during our free
+				time she showed me the sights of Tasmania, it was then that I fell in Love with her
+				and the Forests of Tasmania.</u>
+      <u xml:id="q-997e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I left the RAF a
+				year later and emigrated to Tasmania and applied for the job of Forest Ranger, I got
+				the job.</u>
+      <u xml:id="q-9a7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Cybil left the
+				R.A.A.F six months later and came to Tasmania (she had <sic>een</sic><corr>been</corr> posted to Canberra just
+				after I first met her) where we got married and settled down in the middle of the
+				Forest. By now I was Twenty-Five, she was Twenty-three.</u>
+      <u xml:id="q-9b7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Two years later
+				Cybil gave birth to our first son David {named after her father} and by this time I
+				had obtained my <sic>Hellicopters</sic><corr>helicopter's</corr> pilot licence and had become well known around this
+				area, that same year was the year of the ‘Great Fire’ which destroyed the ‘wooden’
+				village of ‘Montgomery-on-the-hill’.</u>
+      <u xml:id="q-9c7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">A year after that
+				Sybil gave birth to the twin, a three years later gave birth to Joyce.</u>
+      <u xml:id="q-9d7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Five years later
+				Sybil died of Cancer and shock after one of the twins, Jill was killed in the mighty
+				Tamu river. To get over the shock I went back to Britain to visit all my relations
+				while the kids <sic>staryed</sic><corr>stayed</corr> at <sic>Cybils</sic><corr>Cybil's</corr> mom and dad’s place in Melbourne. After two weeks
+				David came over and then we both went back together.</u>
+      <u xml:id="q-9e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">To get away from
+				the past I applied for a similar job in the USA which I didn’t get, I tried again
+				six months later and succeeded and so we emigrated.</u>
+      <u xml:id="q-9f7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">The next year my
+				parents died in a car crash so flew over attended their funeral.</u>
+    </body>
+  </text>
+</TEI>

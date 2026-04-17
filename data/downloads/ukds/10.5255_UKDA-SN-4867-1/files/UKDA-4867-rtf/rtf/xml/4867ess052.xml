@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 53</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-cce38a86-5733-49a7-bef3-8b50c05c7ee6</idno>
+        <idno type="qudexdocument">q-c3cab6be-21b2-4341-9541-452141fdfa72</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-637e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-647e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">For a time it
+				seemed I wouldn’t get a job and I kept trying to convince myself that I would get
+				one. I had managed to get one. When I did it was a huge <sic>reflefe</sic><corr>relief</corr> of <sic>tention</sic><corr>tension</corr> for me as
+				it had been <sic>worring</sic><corr>worrying</corr> me for about two years. It seemed as if my life would never end
+				as it Boringly dragged on for <sic>thouse</sic><corr>those</corr> first 5 years when I was doing my electrical
+				<sic>Apprenticeshipe</sic><corr>apprenticeship</corr> I became qualified and worked in Britain for 2 years and then moved
+				back to Australia (where I came from) and worked in a friend, firm who makes
+				Electrical light fittings.</u>
+    </body>
+  </text>
+</TEI>

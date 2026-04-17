@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 47</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-8ec1520c-5f28-4d68-95e7-17d3680e7aa7</idno>
+        <idno type="qudexdocument">q-299031fb-c21f-4f4d-8ddb-c88cbb80a988</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-3c7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">The Past</note>
+      <u xml:id="q-3d7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I was
+				sixteen just about to leave school, I <sic>aplied</sic><corr>applied</corr> to a collage. It was for a T.V
+				engineers course, and I got in.</u>
+      <u xml:id="q-3e7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I travelled there
+				on a Monday morning by train, and every week day night I stayed at a friends. And
+				then on Friday night I came home.</u>
+      <u xml:id="q-3f7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After a year I
+				finished the course the <sic>proffesion</sic><corr>profession</corr> of a T.V. engineer. I was quite lucky in getting
+				a job so quickly and so near home. At about that time 1980 there was a great
+				{illegible} for them.</u>
+      <u xml:id="q-407e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I got a job with
+				“Brittion &amp; Hobbs” (which by now had greatly expanded), in Sittingbourne High
+				Street. It was an easy place to get to from the train. I was there for about three
+				years, then I became the engineer in charge (which <sic>ment</sic><corr>meant</corr> more money).</u>
+      <u xml:id="q-417e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">After another
+				five years there was a vacancy at the shop in Sheerness High Street, this was in
+				1988. The vacancy was for manager and I got the post. By this time I had moved (with
+				my family) to a bigger house, but of course still in Minster.</u>
+      <u xml:id="q-427e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">While all this
+				was going on I had been driving, I took my test and passed, so I got myself a car,
+				an Austin Maxi.</u>
+      <u xml:id="q-437e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">All in all, I
+				wasn’t doing to bad for myself.</u>
+      <u xml:id="q-447e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">I was still a
+				bellringer at the local church and a <sic>faithfull</sic><corr>faithful</corr> member of the church, so <sic>faithfull</sic><corr>faithful</corr> in
+				fact, that I contemplated seriously to give up all I had to join an order of
+				monks.</u>
+      <u xml:id="q-457e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">After about ten
+				years I was getting a bit fed up with circuit boards and components so I changed my
+				job.</u>
+      <u xml:id="q-467e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">I joined
+				<sic>coustoms</sic><corr>customs</corr> and <sic>exice</sic><corr>excise</corr> at Dover. For this I done the same as before <sic>staid</sic><corr>stayed</corr> at a friends
+				during the week and on weekends I come home in the car.</u>
+      <u xml:id="q-477e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">This job was
+				very <sic>minotinus</sic><corr>monotonous</corr>, so I changed my jobs once more.</u>
+      <u xml:id="q-487e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">I wanted to do
+				something outside and not in doors, and I want a job were I didn’t have to wear
+				overalls or a uniform. I want something I could do on my own and meet people. So I
+				became a driving instructor.</u>
+      <u xml:id="q-497e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">Unfortunately
+				this was not a regular job. I meant anytime in the day from about 7 until 10 which
+				meant I had little time for myself. But I enjoyed it and stuck at it.</u>
+      <u xml:id="q-4a7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">After a while I
+				became a driving test examiner, which was a regular timed job. I remained that until
+				I retired today.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 134</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-2e1d1d7b-dfac-415d-a525-7b173f5f8d0e</idno>
+        <idno type="qudexdocument">q-81f347e6-d62f-46d5-a48c-beae60d78a4d</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-c8805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-c9805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">For the last
+				seventy years my life had been pretty normal. I left school at sixteen and a half
+				and waited for one month before I finally got the job I wanted as a Beauty
+				consultant in London. I had to leave home because the traveling became <sic>to</sic><corr>too</corr> much. I
+				moved to London, thinking that everything would be ok and I would have not a thing
+				to worry about. But when I finally moved up there I found out it was not so good
+				after all being on your own not knowing many people around me who to trust etc. So
+				one of the girls I worked with wanted to leave home and she lived with me. We used
+				to have a great time.</u>
+      <u xml:id="q-ca805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">When I was twenty
+				I was asked by my firm to go and work abroad. For a while, after a long thought I
+				decide to go. I stayed in France for eighteen months. Then came back here for a
+				month then back in France.</u>
+      <u xml:id="q-cb805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">When I was
+				twenty-seven I fell in love with a Frenchman and got married we had only known each
+				other for two months, and the marriage only lasted a year. “That was a year to
+				long”.</u>
+      <u xml:id="q-cc805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">So later on I got
+				involved with another Frenchman but I <sic>didnt</sic><corr>didn't</corr> get married again even though I was
+				pregnant. I was not going to fall for that old game again. We got on very well
+				neither of us had to ask <sic>premission</sic><corr>permission</corr> to go out with the opposite sex. Until I had the
+				child I could no longer go out because I had to look after it, things between <sic>is</sic><corr>us began</corr> to
+				fall apart until I left and came back to England. Where my mother looked after the
+				baby while I went to work. I work in a factory the money was very good.</u>
+      <u xml:id="q-cd805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">For eighteen
+				years I had saved up to go back to France to live even though I had some bad luck
+				the country was really nice and the people were friendly.</u>
+      <u xml:id="q-ce805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I was forty five
+				and my child was no longer a child he was an adult. He was architect so I was very
+				proud of him.</u>
+      <u xml:id="q-cf805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">In France I got
+				my job back as a beauty consultant and retired at sixty. I have enjoyed my
+				retirement so far and have also been on one cruise around the world, and intend to
+				go on another one on two <sic>years</sic><corr>years'</corr> time.</u>
+    </body>
+  </text>
+</TEI>

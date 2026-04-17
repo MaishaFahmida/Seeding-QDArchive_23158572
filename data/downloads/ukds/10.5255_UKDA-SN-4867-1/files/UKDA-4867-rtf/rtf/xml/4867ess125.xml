@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 127</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-90a87a37-e4fb-4ab4-a6ff-7844a952eab7</idno>
+        <idno type="qudexdocument">q-aec2a50c-5b7c-4ada-b501-3b84839e6aa9</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-9f805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Future</note>
+      <u xml:id="q-a0805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I am 15 years of
+				age, hoping to leave school to become a hairdresser or hope to be, and soon to run
+				my own <sic>buisness</sic><corr>business</corr>, and when I have raised quite a bit of money I shall <sic>imegrate</sic><corr>emmigrate</corr> and
+				start a <sic>buisness</sic><corr>business</corr> over in the <sic>united</sic><corr>United</corr><sic>states</sic><corr>States</corr> of <sic>america</sic><corr>America</corr> and shall have plans for
+				getting <sic>marrid</sic><corr>married</corr>. I shall have two kids and live over in the USA in a very big house.
+				I shall like to travel round the world to meet different kinds of people.</u>
+      <u xml:id="q-a1805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">When I get back
+				to the USA I hope to <sic>achevied</sic><corr>achieve</corr> quite a bit of money just enough to retire on.</u>
+      <u xml:id="q-a2805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">When I do retire
+				I shall have a big car to travel in but in the meantime my kids shall be better
+				educated by going to a school and hope they to shall get a good job.</u>
+      <u xml:id="q-a3805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I would like to
+				live back in <sic>england</sic><corr>England</corr> and see my parents that is if they are still alive I shall keep
+				my business <sic>runing</sic><corr>runnign</corr> even when I die. I want to retire in the country with plenty of
+				money. Hope to get a telegram from the Queen.</u>
+    </body>
+  </text>
+</TEI>

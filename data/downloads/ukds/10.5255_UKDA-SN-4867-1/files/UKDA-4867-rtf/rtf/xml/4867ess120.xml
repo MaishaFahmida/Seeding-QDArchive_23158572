@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 122</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-caac83ca-6f92-4c46-a63c-a7d45824531c</idno>
+        <idno type="qudexdocument">q-8f7c0e8e-1140-4896-837e-3bc5e89b60bf</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-71805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">“Looking Back”</note>
+      <u xml:id="q-72805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				the age of sixteen years and 1 month. The first thing I can remember is my parents
+				saying, you’d better go and find a job, you can’t live in this day and age. <sic>Ifact</sic><corr>In fact</corr> I
+				ended up going on the dole. The dole was quite good but you <sic>didnt</sic><corr>didn't</corr> get enough,
+				<sic>especialy</sic><corr>especially</corr> as you had to pay mother some.</u>
+      <u xml:id="q-73805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I was on the dole
+				for 6 months, I eventually got a job in “Abbots” The money was good, about £37.00 a
+				week.</u>
+      <u xml:id="q-74805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">On my 18th
+				Birthday I moved out of home and started living with a boyfriend on which I was
+				getting quite serious about. We eventually got married. I was 21 years of age and
+				he, 26 years of age.</u>
+      <u xml:id="q-75805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">We had our first
+				child when I was 23, it was a little girl. We called her Sarah. When I had her, I
+				had to leave work and start hunting for a house. We eventually got a perfect house
+				in the country for £20,000.</u>
+      <u xml:id="q-76805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Our second child
+				arrived 3 years later when I was 26. It was a boy called John. We had no more
+				children just the two.</u>
+      <u xml:id="q-77805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">My mother and
+				father died in a car crash a few years later. I missed them. I made the rest of my
+				life <sic>misserable</sic><corr>miserable</corr>. Things started going wrong with the <sic>marrage</sic><corr>marriage</corr>. And eventually, not on
+				my side mind, we got a <sic>devorse</sic><corr>divorce</corr> I was nearly 40. The children went into their
+				father’s <sic>passestion</sic><corr>possession</corr>. I saw then every weekend.</u>
+      <u xml:id="q-78805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Then when I was
+				45 I met a man aged 44. We fell in love and got married. We had no children.</u>
+      <u xml:id="q-79805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">My ex-husband
+				died at the age of 52 and I was quite upset about it all. We went and moved into
+				<sic>scotland</sic><corr>Scotland</corr> where my husband died, through a heart <sic>failiar</sic><corr>failure</corr>. My son and daughter were
+				now old enough to go their different ways, Sarah was 30 and John 27. Sarah was
+				married and John <sic>ingaged</sic><corr>engaged</corr>. I moved to Kent where I then retired.</u>
+    </body>
+  </text>
+</TEI>

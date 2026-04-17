@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 52</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-426529f7-ecd8-45d7-b51f-d90277ee22c6</idno>
+        <idno type="qudexdocument">q-a1c57e2b-c68b-4712-b1d1-a3317c71e185</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-607e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-617e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">Looking back over
+				my past, I suppose I can be fairly satisfied. After leaving school I got the
+				<sic>apprentiship</sic><corr>apprenticeship</corr> I wanted, and in the five years it took for me to learn my trade, I did
+				have some fun while I was still in my youthful stages. I had good mates and we knew
+				how to enjoy ourselves. After all, it’s no good working and slaving your heart out
+				it you can’t have leisure and freedom to do what you want.</u>
+      <u xml:id="q-627e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Later on in my
+				life, I can’t say getting married was a bad thing. I know I perhaps wouldn’t have
+				the freedom i once had but we got on allright, and it was worthwhile. As for work,
+				well as soon as I finished my trade, I left, and got a job as a {mate?} in Sheerness
+				Docks. I found it was no easy work and the money a lot better than doing my trade
+				work. I also took the occasion day off, and then I would do my favourite pastime,
+				fishing. I also went out in my dinghy I had ever since I was sixteen , and
+				especially if it was a calm day, I’d chug out <sic>their</sic><corr>there</corr> in midwater, and just sit <sic>their</sic><corr>there</corr>,
+				and take it all in. This was the perfect thing, and now I still admit I love having
+				a {dab?} in the sea. As time went by, I packed in my job, and I got a job as a mate
+				on a fishing boat. This was I think a great move as I was now doing the thing I
+				loved. We had some great times in that boat, and later on, I was forced to leave had
+				the boat got smashed in a storm. Up to then I was fairly lucky job wise but now I
+				had to go back for my profession, and there I remarried until I retired. I had
+				become very slow, and the whole face of the world had seemed to have changed since I
+				was a youngster.</u>
+    </body>
+  </text>
+</TEI>

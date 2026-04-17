@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Home Opinion, Memorandum by the Minister of Information - 27th November 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-327ba744-2674-4972-931f-81598311e593</idno>
+				<idno type="qudexdocument">q-ff368216-5eb0-4ba5-9c71-8a3ec5ec8396</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-a15888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">(THIS DOCUMENT IS THE PROPERTY OF HIS BRITANNIC MAJESTY'S GOVERNMENT)</note>
+				<note xml:id="q-a25888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">SECRET</note>
+				<note xml:id="q-a35888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">W. P. (42) 550</note>
+				<note xml:id="q-a45888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="4">27th November, 1942</note>
+				<note xml:id="q-a55888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">COPY NO.</note>
+				<note xml:id="q-a65888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">WAR CABINET</note>
+				<note xml:id="q-a75888b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="7">REPORT ON HOME OPINION</note>
+				<note xml:id="q-a85888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Memorandum by the Minister of Information</note>
+				<note xml:id="q-a95888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">The period which I am reviewing covers the weeks before and after the arrival of the news of the 8th Army's victory and of the occupation of Morocco and Algeria. This news has so deeply affected the course of public feeling that I can pass over the earlier part of the period in a few words.</note>
+				<note xml:id="q-aa5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">2. It was a time of apparent inactivity, and accordingly the feeling of the public was restless and in minor ways dissatisfied. The defence of Stalingrad was the main feature of the war and admiration for Russian tenacity was supplemented by a sense of disquiet that we were not apparently engaged in some comparable achievement. Out of this inevitably arose some lack of confidence and a sensitiveness to home-front problems that did not promise well for the winter.</note>
+				<note xml:id="q-ab5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">3. The news of victory in North Africa has, of course, been a fine stimulant. The public were quick to realise that the news of what we were doing was being conservatively handled and they were avowedly grateful for the restraint. Indeed, it has been instructive to note how reluctant many people have been to accept oven an achieved victory at its face value. The people of this country have been sternly conditioned by three years of war in which they have undergone many disappointments, and they are now as suspicious as the ancient Greeks of any exultation that seems to challenge fate. Observing this, I do not think that there is any danger of complacency or over-optimism that we need sot out to check.</note>
+				<note xml:id="q-ac5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">4. The decision to ring the church bells in celebration of General Alexander's victory was received with an awed disquiet. Approval and disapproval were fairly even. But I would venture the guess that there were many who, having satisfied their sense of fitness by entering a protest, welcomed with a quickening delight the actual sound of the pealing bells.</note>
+				<note xml:id="q-ad5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">5. A special feature of the satisfaction that the public have derived from the North African operations is shown in their praise for the elaborate and co-ordinated planning that made the operations successful. Both in Libya and in North Africa the General Staff has come into its own. This is of some significance for the future: for, although the public have never allowed themselves to doubt the fighting qualities of our soldiers, except at moments of consternation such as followed the fall of Singapore and Tobruk, they had unquestionably come to wonder whether we should ever display the capacity for large and co-ordinated planning with which they credited our enemies. So striking a demonstration of our capacity in this field has been received with real delight; and the effects are likely to spread beyond the area of military operations and supply.</note>
+				<note xml:id="q-ae5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">6. Lastly, there is the incident of General Montgomery and General Von Thema. This incident, trifling in itself, roused an altogether disproportionate amount of comment and, without exception, of disapproval. General Montgomery remained the hero of the hour; but that he should entertain a German General to dinner and allow himself to be photographed receiving him appears to have struck the home public as symptomatic of an attitude which they fear and resent: "let us all shake hands now that it is over". Naturally, I only refer to the incident because of its significant relation to a phase of public feeling.</note>
+				<note xml:id="q-af5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">7. The controversy about the chaining of prisoners of war became for weeks a subject of interest second in importance only to Stalingrad. The course of feeling was clearly defined. Once the distinction between tying prisoners, hands in the course of operations and tying them in actual captivity had been made clear it was immediately accepted. The first reaction to the German reprisal announcement was preponderantly in favour of retaliation. Support for this attitude waned steadily in succeeding weeks and the argument "we can't compete with the Germans on this" seems to have gained very general acceptance. For the time being, however, interest has died down.</note>
+				<note xml:id="q-b05888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">B. B.</note>
+				<note xml:id="q-b15888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="17">27th November, 1942.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

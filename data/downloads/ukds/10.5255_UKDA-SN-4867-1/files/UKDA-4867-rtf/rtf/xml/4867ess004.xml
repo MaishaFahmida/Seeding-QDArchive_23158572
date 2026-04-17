@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 4</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-6433e290-005a-41f9-97c2-aa644febad24</idno>
+        <idno type="qudexdocument">q-b083f756-1cc7-4d57-81d2-7938e3c89543</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-617d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-627d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">lot job-Give it
+				up-dole-looking around-love/marriage-kids?-divorce (maybe)-restlessness-middle
+				classness-contentment</u>
+      <u xml:id="q-637d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">In a way I was
+				glad to get out of school. The longer I stayed the more unbearable it became. Four
+				‘O’level equivalents was enough for me. I left.</u>
+      <u xml:id="q-647d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I remember there
+				was a lot of friction in the family over my decision. Parents wanted me to stay on
+				and get ‘A’s. But I stuck to my guns as a gesture to my parents/teachers/myself,
+				that I was my own boss. Although, if getting a job had been left to me I would have
+				been on the dole all my life.</u>
+      <u xml:id="q-657d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Mum found me a
+				nice office job. I took it without a word of protest. Jobs were scarce, it was the
+				done thing to take whatever came. Parents were glad. They had married me off to the
+				system and I said ‘I do’ without giving it a second thought. One morning when I was
+				18 I looked in the mirror to see I was turning into a nice office person, so I
+				chucked the job in. I divorced the system, for a little while any way. The years
+				from 18-23 were bad for me. I was looking around for something that couldn’t be
+				found. I had dropped out and it was hard because I had never repelled before.
+				Parents were worried, even shocked. I wasn’t but I got depressed a lot. There were
+				many different paths ahead of me. I didn’t want to take one. Social life consisted
+				of drinking, pictures and football. I wasn’t going anywhere fast.</u>
+      <u xml:id="q-667d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">After a few years
+				of this I knew myself a bit better. The rebel in me had died. I got myself a steady
+				job which was bearable and paid well.</u>
+      <u xml:id="q-677d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I hadn’t been
+				bothered with girls before but when love hit me it got me hard. I left my parents to
+				live with her. It was glorious. She was an angel. I was happy.</u>
+      <u xml:id="q-687d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">Then things lost
+				their originality. Marriage came, kids came (two one boy, one girl) By thirty-three.
+				I was in the same trap as my father was at that age and probably his father before
+				him. At thirty five I changed jobs and went up in the world dramatically. It didn’t
+				make me happier but she liked it (wife). A forty I can safely say my life had ended.
+				It was too late to start again. I wasn’t content but I just had to accept it.</u>
+      <u xml:id="q-697d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">As I began to
+				approach retirement I became less worried about happiness. I was able to accept what
+				I had an enjoy it. I had a lovely wife, kids (now all grown up) and a comfortable
+				house. I enjoyed the simple pleasures in life and stopped looking around for
+				something more.</u>
+      <u xml:id="q-6a7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Looking back now
+				I think somewhere I made the wrong decision I should have gone round the world or
+				something. Now I smile at my grandchildren and wait for death.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 117</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-bd29961d-1823-4c40-b291-cb3f01ff7740</idno>
+        <idno type="qudexdocument">q-791520b6-ec54-4e0f-92e5-64688fa6a808</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-3f805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">“Looking Back”</note>
+      <u xml:id="q-40805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I look back,
+				I remember the day I left school. I was sixteen at the time, and at the threshold of
+				my life. I had everything to look forward to. I had a ‘decent’ job, working in
+				Boots. I enjoyed the job very much, and I was quite happy for two years.</u>
+      <u xml:id="q-41805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">During those two
+				years, I went regularly to night school doing shorthand typing and taking O’level
+				English.</u>
+      <u xml:id="q-42805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I passed the
+				English, and got good speeds in <sic>shortand</sic><corr>shorthand</corr> and typing.</u>
+      <u xml:id="q-43805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I started
+				applying for secretarial jobs, and eventually got one.</u>
+      <u xml:id="q-44805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I was settled in
+				my job, and remained there for a long time.</u>
+      <u xml:id="q-45805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I was about 32,
+				when I met up with my old school friend, she was married with four children. She
+				<sic>didnt</sic><corr>didn't</corr> work, and she would say how lucky I was to be unmarried and have a decent
+				job.</u>
+      <u xml:id="q-46805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I started seeing
+				her again quite regularly, and met her brother.</u>
+      <u xml:id="q-47805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">It wasn’t love at
+				first sight, but we both had an immediate liking to each other. I began to see more
+				and more of him, and realised that I a strong feeling for him and he realised that
+				he had a strong feeling for me.</u>
+      <u xml:id="q-48805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">He proposed to
+				me, whilst we were having dinner. I said ‘yes’ straight away. We were married 2
+				months later, I kept my job as a secretary, and he as an electrical</u>
+      <u xml:id="q-49805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">fitter. He was
+				the best in the trade. We had our first child, when I was 33. I decided to pack my
+				job in, and become a mother and housewife.</u>
+      <u xml:id="q-4a805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">Our son was
+				about 2 when I became pregnant, again, but I lost it after 3 months.</u>
+      <u xml:id="q-4b805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="13">We decided to
+				not have any more children. When our son Mark, was about 13, his father was
+				tragically killed in a car crash.</u>
+      <u xml:id="q-4c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="14">We were both
+				heart broken, but we pulled ourselves together, and I got another job.</u>
+      <u xml:id="q-4d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="15">I wouldn’t say
+				Mark and I were rich, but we were quite well off. Mark was studying for his A’levels
+				then hoping to go on to university, to become a doctor. I helped him in <sic>everyway</sic><corr>every way</corr> I
+				could.</u>
+      <u xml:id="q-4e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="16">Mark got married
+				when he was 26. His wedding day, was the happiest of my life. He had a beautiful
+				wife. It wasn’t long before she herself, had a child. She was a bouncing beauty, the
+				image of her mother.</u>
+      <u xml:id="q-4f805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="17">I idolised her,
+				and still do really. Well! Wouldn’t you, if she was your only grandchild?</u>
+    </body>
+  </text>
+</TEI>

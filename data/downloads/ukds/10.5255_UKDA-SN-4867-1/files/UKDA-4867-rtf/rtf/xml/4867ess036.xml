@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 37</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-141628da-2de0-4a4f-882d-683bc67bfa7b</idno>
+        <idno type="qudexdocument">q-9a448af9-daf9-4cf9-a562-537d47e18c6e</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-147e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">The end of life for me and how I look back</note>
+      <u xml:id="q-157e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">My <sic>grate</sic><corr>great</corr><sic>grand dorter</sic><corr>granddaughter</corr><sic>ask</sic><corr>asked</corr> if I <sic>new</sic><corr>knew</corr> what I <sic>wonted</sic><corr>wanted</corr> to do when I left school because she wanted to <sic>no</sic><corr>know</corr>
+				because she was <sic>leving</sic><corr>leaving</corr> school herself but I did not <sic>no</sic><corr>know</corr> as I hear tell her. In 1978
+				on the 26 of may I left school to start work in a carpet shop (laying carpets) it
+				lasted just over a year then I moved <sic>of</sic><corr>off</corr> the island of <sic>Sheppy</sic><corr>Sheppey</corr> up to <sic>Sevenoks</sic><corr>Sevenoaks</corr><sic>wheir</sic><corr>where</corr> I
+				was married at the age of 18 years to a girl of also 18 years we then moved to <sic>hat	fild</sic><corr>Hatfield</corr> . <sic>Their</sic><corr>There</corr> we had our first son. We were 23 when he was born and 1 year later my
+				<sic>dorter</sic><corr>daughter</corr> was born. She was a baby of only 2 ½ pounds but after 3 years we were out
+				having fun. The boy left home a 13 to stay with his nan because she was <sic>diying</sic><corr>dying</corr> and
+				he was her <sic>favrit</sic><corr>favourite</corr><sic>grand son</sic><corr>grandson</corr> after I left the carpet shop I was earning up to 80
+				pounds a week. I then worked for a <sic>bilder</sic><corr>builder</corr> who was an uncle (who died 12 years later
+				but I was not working for him then I was back laying carpet till I was 36 then
+				earning as much a 100 to 140 pounds a week then we moved to <sic>australia</sic><corr>Australia</corr> working and
+				traveling till we settled <sic>finily</sic><corr>finally</corr> back on the island of <sic>Sheppy</sic><corr>Sheppey</corr> with both children
+				married with children the girl married firs at 19 and the boy a 22. I went back the
+				shop <sic>whear</sic><corr>where</corr> I first started laying carpets even back to my old job. I then <sic>retird</sic><corr>retired</corr>
+				some 24 years later, happy fit and with grandchildren to look after and make happy.
+				the son and <sic>dorter</sic><corr>daughter</corr> did not move <sic>of</sic><corr>off</corr> the <sic>Iland</sic><corr>island</corr> because they both had good jobs. me and
+				my wife then <sic>bort</sic><corr>bought</corr> a <sic>bunglo</sic><corr>bungalow</corr> in <sic>worden</sic><corr>warden</corr> bay. We were very happy until my wife was taken
+				ill with <sic>hart</sic><corr>heart</corr><sic>atajs</sic><corr>attacks</corr> which after 1 year killed her. I am now 89 and still happy but
+				not fit my <sic>childrens</sic><corr>chilcren's</corr> children have also got children. So I was <sic>lockey</sic><corr>lucky</corr> to live so
+				long and see so much with my wife but I did not plan my life. I just let it happen
+				which for me worked I was <sic>lockey</sic><corr>lucky</corr>. When you <sic>leve</sic><corr>leave</corr> school have a job to start <sic>of</sic><corr>off</corr> with.
+				<sic>Your</sic><corr>You're</corr> 17 <sic>brani</sic><corr>brainy</corr> and <sic>butifle</sic><corr>beautiful</corr> make it work out for you like it did for me. <sic>Jus</sic><corr>Just</corr> be
+				happy.</u>
+    </body>
+  </text>
+</TEI>

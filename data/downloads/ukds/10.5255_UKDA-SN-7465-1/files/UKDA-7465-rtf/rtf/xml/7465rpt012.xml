@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 42 - April 1949</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-f0ad573c-11cf-4c27-9f2d-7663e1c7b445</idno>
+				<idno type="qudexdocument">q-215f4aa0-2460-44c8-b6ad-daea4c4e31d7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-9d4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-9e4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-9f4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Lancaster House</note>
+				<note xml:id="q-a04f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">HQ CCG (BE)</note>
+				<note xml:id="q-a14f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">Berlin</note>
+				<note xml:id="q-a24f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">B.A. O. R. 2</note>
+				<note xml:id="q-a34f88b6-9e9d-e411-b1ae-00155df55c12" type="date" n="7">21 Apr 49</note>
+				<note xml:id="q-a44f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">To: Public Opinion Research Office</note>
+				<note xml:id="q-a54f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">Political Division</note>
+				<note xml:id="q-a64f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">229 HQ CCG</note>
+				<note xml:id="q-a74f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="11">Hannover</note>
+				<note xml:id="q-a84f88b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="12">Subject: Report on Berlin Morale No. 42.</note>
+				<note xml:id="q-a94f88b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="13">Enclosed herewith Berlin Morale Report No. 42 for the first half of April.</note>
+				<note xml:id="q-aa4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="14">J.E. Dixon</note>
+				<note xml:id="q-ab4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">P.O.R.O.</note>
+				<note xml:id="q-ac4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">HQ CCG (BE)</note>
+				<note xml:id="q-ad4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">B.A. O. R. 2</note>
+				<note xml:id="q-ae4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">CONFIDENTIAL</note>
+				<note xml:id="q-af4f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="19">Public Opinion Research Office</note>
+				<note xml:id="q-b04f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="20">Lancaster House</note>
+				<note xml:id="q-b14f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="21">HQ CCG (BE)</note>
+				<note xml:id="q-b24f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="22">Berlin</note>
+				<note xml:id="q-b34f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="23">B.A.O.R.2</note>
+				<note xml:id="q-b44f88b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="24">Report on Berlin Morale No. 42.</note>
+				<note xml:id="q-b54f88b6-9e9d-e411-b1ae-00155df55c12" type="date" n="25">(1st to 15th April).</note>
+				<note xml:id="q-b64f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Note: Readers are asked to remember that although this report is compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be ill informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting. hhh 1. General Atmosphere and Mood</note>
+				<note xml:id="q-b74f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">The general attitude of the Berliners remained more or less unchanged during the first fortnight in April, Most Berliners find things quiet at present compared with the lively period at the end of March.</note>
+				<note xml:id="q-b84f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">Although the discussions of the 3 Foreign Ministers in Washington concerning the future Western German State are being followed with interest in Berlin, they are not arousing much enthusiasm. Many Berliners do not consider themselves directly affected by these discussions, as they believe the decisions reached will apply only to Western Germany, not Berlin.</note>
+				<note xml:id="q-b94f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">Berliners who are not well versed in politics fail to appreciate the importance of the discussions, for although they are acquainted with terms like "Occupation Statute", "Parliamentary Council" and "Basic Law" from press and radio announcements, they are often unable to explain what these expressions mean.</note>
+				<note xml:id="q-ba4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">Many are of the opinion that the work of the German authorities in Bonn is being too long delayed by Party interests and that the Western Powers acted quite rightly in urging this work on.</note>
+				<note xml:id="q-bb4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">The majority welcomed the fact that Great Britain and the U.S.A. have succeeded in winning France over to a joint policy for Germany, and that the rebuilding of a German merchant fleet has been approved.</note>
+				<note xml:id="q-bc4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">The visit by the British Deputy Prime Minister, Mr. Morrison, strengthened the Berliners' sense of importance. Mr. Morrison's words concerning Berlin were received with general interest and satisfaction.</note>
+				<note xml:id="q-bd4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">A much discussed topic in the British Sector is the position of the population of West-Staaken, and fears are frequently expressed that the situation may develop into a second "Stolpe- case".</note>
+				<note xml:id="q-be4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Criticism of the Berlin SPD is constantly increasing; in the opinion of many Berliners (among them a large number who voted for the SPD) the SPD is using its election victory to give rein to totalitarian inclinations. In particular, frequent criticisms have recently been heard concerning the economic, social and educational policies of the SPD.</note>
+				<note xml:id="q-bf4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Rumours which crop up here and there that the Berlin blockade is about to be lifted are regarded with scepticism by most Berliners, Many state that such a measure could only have the aim of hindering the formation of a West German State and would therefore be a political manoeuvre. hhh 2. Financial Worries</note>
+				<note xml:id="q-c04f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">The money shortage is the Berliners' main worry at the moment. April is often described as the "black month", but it is generally hoped that the position will improve in May when the first full month's wages have been paid in Westmarks. The people are trying to overcome their present difficult­ies by the strictest economy. (Sec also item 9). hhh 3. Food</note>
+				<note xml:id="q-c14f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">A remarkably large number of complaints have recently been raised about the bad quality of the dried potato issue, and about the prices for dried potatoes and vegetables which in the opinion of many housewives are too high.</note>
+				<note xml:id="q-c24f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">The distribution of raisins and dried fruit and the announcement of a special Easter allocation of coffee beans for adults and chocolate for children were greatly welcomed by the population.</note>
+				<note xml:id="q-c34f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">Numerous complaints were raised concerning the system of distribution of cereals. It was asserted for example, that noodles were issued for babies, whereas adults received baby food as their cereal allocation.</note>
+				<note xml:id="q-c44f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">There is a large supply of canned fish in the shops, but most people cannot afford to buy these articles as the prices are claimed to be very high. hhh 4. Employment Worries</note>
+				<note xml:id="q-c54f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">At the beginning of April, an increase in the demand for employment was reported.</note>
+				<note xml:id="q-c64f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">The strike call to the Western Berlin railway workers was in general rejected by the population.</note>
+				<note xml:id="q-c74f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">The view is that nothing would have been achieved by the strike, which would at the most have resulted in a stoppage of West Berlin suburban rail traffic at the people's expense. The importance of a settlement of these wage problems, which are so urgent for the railway workers, is fully understood by the people, but they believe that a solution must be found by the Magistrat or the Kommandstura, not by a strike. The creation of a voluntary labour service as suggested by Dr. Friedensburg, has met with a mixed reception. About one half of the Berliners are on principle against any form of labour service, whereas the other half considers the formation of a. voluntary labour service on pre-1933 lines to be quite sensible. hhh 5. Attitude towards the Occupying Powers</note>
+				<note xml:id="q-c84f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">It is noticeable that Germans often hold the Occupying Powers responsible for orders issued by the Magistrat or other German authorities, as it is believed that official decrees always emanate from the Occupying Powers.</note>
+				<note xml:id="q-c94f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">The British Authorities' announcement that no flying boats would be employed in the airlift this summer was received with disappointment by the Berliners, as they had hoped that the airlift would be intensified by the use of flying boats during the summer months.</note>
+				<note xml:id="q-ca4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">The destruction of the giant crane in Hamburg was described by many as an incomprehensible and senseless action on the part of the British.</note>
+				<note xml:id="q-cb4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">Rumours that the manufacture of radio valves would soon be prohibited aroused considerable dismay in Berlin. In industrial circles it is believed that such a ban would throw thousands of skilled workers out of employment and valuable export orders would be lost to Berlin industry.</note>
+				<note xml:id="q-cc4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">The wish was frequently expressed that the Anglo-Americans should place one aircraft per day at the disposal of Germans; the German authorities should decide on the use of this plane. The control of business flights to the West would thereby be improved, and Berlin's relations with Western Germany could be extended by exchange visits on the part of politicians, business people, journalists, artists, sports personalities etc. Berliners think that too many of these opportunities were at present being lost because of Allied priority regulations. hhh 6. Denazification</note>
+				<note xml:id="q-cd4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">The amnesty for juveniles and nominal members decreed by the Kommandatura, was welcomed by those interviewed and in the opinion of many sections of the population was another decisive measure on the painful subject of denazification. hhh 7. Clothing</note>
+				<note xml:id="q-ce4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">The majority of Berliners consider that prices are still too high while admitting the supply and quality of textiles has been considerably improved. Many people stated, however, that the currency change-over would enable them to obtain new clothes when they received wages and salaries in full in Westmarks. hhh 8. Black Market Thu acute shortage of money continued to keep Black Market prices low.</note>
+				<note xml:id="q-cf4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">It is noteworthy that recently certain goods which are obtainable in the "free shops" of the Eastern Sector especially soap powder, buns, frozen vegetables and strong bottled beer, have been bought up in large quantities in the Eastern Sector by Black Marketeers, and sold at excessive Eastmark prices in the Western Sectors.</note>
+				<note xml:id="q-d04f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">Some Black Market prices are quoted as follows:-</note>
+				<note xml:id="q-d14f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">500 g butter 17.00-18.00 DM</note>
+				<note xml:id="q-d24f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">500 g sugar 3.50- 4.00</note>
+				<note xml:id="q-d34f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">500 g flour 2.00- 2.20</note>
+				<note xml:id="q-d44f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">500 g rice 4.00</note>
+				<note xml:id="q-d54f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">500 g tea 21.00</note>
+				<note xml:id="q-d64f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">500 g raw coffee 20.00-22.00</note>
+				<note xml:id="q-d74f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">100 g chocolate 4.50- 5.50</note>
+				<note xml:id="q-d84f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">1 Americ. cigarette 0.25</note>
+				<note xml:id="q-d94f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">1 egg 0.85</note>
+				<note xml:id="q-da4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">1 lemon 1.85</note>
+				<note xml:id="q-db4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">1 orange 3.00 hhh 9. Notes on Currency Conversion</note>
+				<note xml:id="q-dc4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">Those who, pursuant to the currency regulations, receive less than 100% of their income in Westmarks, state that they cannot meet their essential Westmark expenses. Above all, they find it difficult to produce the money for rent.</note>
+				<note xml:id="q-dd4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="65">Independent tradesmen, artisans, teachers and other groups of persons for whom no provision has yet been made in the change-over regulations, are urging that their position should be made quite clear as quickly as possible, since, as they state, their livelihood is being directly threatened.</note>
+				<note xml:id="q-de4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="66">Hotels, hairdressers and BVG transport services report a further drop in the number of patrons. The population considers it to be unjustified for electricity and gas charges to be paid in Westmarks from the 1st April, since it is a question of payment for consumption prior to the currency change-over.</note>
+				<note xml:id="q-df4f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="67">A reduction of postal fees and adjustment of postage rates to those in the Western Zones are also desired.</note>
+				<note xml:id="q-e04f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="68">The exchange of money by persons living in a Western Sector but working in Eastern Berlin was in the general opinion badly organised, and in many cases took several hours to complete.</note>
+				<note xml:id="q-e14f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="69">Individual firms have taken to reducing wages and salaries by 10-20% which has led to protests on the part of workers who are calling at the Price Office to obtain information on the wage stop.</note>
+				<note xml:id="q-e24f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="70">Payments of unemployment assistance are unanimously said to be unpunctual and are causing great hardship to the persons concerned. They claim they are often 5-6 weeks without money.</note>
+				<note xml:id="q-e34f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="71">In order to alleviate somewhat the shortage of money during this month, various firms and undertakings (including the Magistrat) granted advance payments before Easter against salaries due at the end of the month, these payments were welcomed by the majority concerned.</note>
+				<note xml:id="q-e44f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="72">J.E. Dixon</note>
+				<note xml:id="q-e54f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="73">P.O.R.O.</note>
+				<note xml:id="q-e64f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="74">HQ CCG (BE)</note>
+				<note xml:id="q-e74f88b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="75">B.A.O.R.2</note>
+				<note xml:id="q-e84f88b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="76">NF/20-4-49.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

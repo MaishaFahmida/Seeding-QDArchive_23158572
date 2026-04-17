@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Correspondence between E. Bamford and F.C. Bovenschen, 22 May 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-9c511feb-4195-4f5a-acf3-7c55d2038dbf</idno>
+				<idno type="qudexdocument">q-7176f75b-6259-423d-b428-55ae914618d8</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-dc537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">B.M./P.U.S./128/42.</note>
+				<note xml:id="q-dd537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="2">22nd May, 1942.</note>
+				<note xml:id="q-de537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">Dear Bamford,</note>
+				<note xml:id="q-df537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">I am sorry not to have sent you an earlier reply to your letter of 7th May asking whether we can contribute to your monthly report on the state of public morale. So far as the War Office is concerned, our reports on morale are written from the point of view of Army morale and not of the morale of the general public. And we have no regular report on front questions. But it is quite possible that in the regular reports which the Adjutant-General receives there may be information which throws light on the morale of civilians. If it would interest you to have any such information he will arrange that it is extracted as the reports are examined and sent to your department. Unfortunately our periodical reports are so timed that it will probably be impossible to let you have by the 20th of the month information referring to the immediately preceding period. We will, however, send the information to you as soon as it has been extracted periodically from the relevant reports.</note>
+				<note xml:id="q-e0537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">Yours sincerely.</note>
+				<note xml:id="q-e1537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">(Sgd.) F. C. BOVENSCHEN,</note>
+				<note xml:id="q-e2537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">E. St. J. Bamford, Esq., C.B., C.M.G.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

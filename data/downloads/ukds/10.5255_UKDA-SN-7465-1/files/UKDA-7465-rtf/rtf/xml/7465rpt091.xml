@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Morale Report, 1 March 1945</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-95f1c054-7870-4619-b24f-779b12b118a5</idno>
+				<idno type="qudexdocument">q-9030542e-3d6b-4348-8e9a-a2ae7cb00f50</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-a84f7fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject :- Morale Report</note>
+				<note xml:id="q-a94f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">Confidential</note>
+				<note xml:id="q-aa4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">37 Beach Group Workshop REME</note>
+				<note xml:id="q-ab4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">37BG/X</note>
+				<note xml:id="q-ac4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">1 March 45</note>
+				<note xml:id="q-ad4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">AA &amp; QMG</note>
+				<note xml:id="q-ae4f7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">H.Q., L.F.A.</note>
+				<note xml:id="q-af4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Reference your LFA/44/A dated 15 Feb 45. Herewith Morale Report for this Unit. hhh Sec I</note>
+				<note xml:id="q-b04f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">This Workshop is forming up very well, the personnel coming from a number of Units. It is a considerable time since the majority had the facilities offered in this Town. hhh Sec II.</note>
+				<note xml:id="q-b14f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">1. Good. One minor and one serious charge inlast quarter.</note>
+				<note xml:id="q-b24f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">2.</note>
+				<note xml:id="q-b34f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">(a)</note>
+				<note xml:id="q-b44f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(b) Good.</note>
+				<note xml:id="q-b54f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(c)</note>
+				<note xml:id="q-b64f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">3. Unit mail is arriving in irregular small batches, it is thought that, some are not receiving their Mail, which may be mis-directed. A.P.Os have been informed of present location.</note>
+				<note xml:id="q-b74f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">4.</note>
+				<note xml:id="q-b84f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">(a) Unit Billets are good. They are however shared with another Unit including Italian co-operators who are shortly due to move out.</note>
+				<note xml:id="q-b94f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">(b) Good.</note>
+				<note xml:id="q-ba4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">(c) All Ranks have one day free each week, normally Friday, to avoid week end rush at amusements.</note>
+				<note xml:id="q-bb4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">5. ABCA sessions are temporary suspended due to pressure of work. Correspondence courses requested at previous location beginning to arrive.</note>
+				<note xml:id="q-bc4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">6. Good.</note>
+				<note xml:id="q-bd4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">7. Good.</note>
+				<note xml:id="q-be4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">8. Good.</note>
+				<note xml:id="q-bf4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">9. Satisfactory.</note>
+				<note xml:id="q-c04f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">10. No Problems. Increasing amounts are being sent home by means of AF 01727a</note>
+				<note xml:id="q-c14f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">11</note>
+				<note xml:id="q-c24f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">. (a) Average 3 years</note>
+				<note xml:id="q-c34f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">(b) Overdue in many cases. It is hoped to obtain suitable vacancies shortly.</note>
+				<note xml:id="q-c44f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">(c) Good.</note>
+				<note xml:id="q-c54f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">Capt.</note>
+				<note xml:id="q-c64f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Officer Commanding</note>
+				<note xml:id="q-c74f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">C.M.F.</note>
+				<note xml:id="q-c84f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">JDA/</note>
+				<note xml:id="q-c94f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Copy to:- ADME., H.Q. L.F.A.</note>
+				<note xml:id="q-ca4f7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="35">01 MAR 1945</note>
+			</div>
+		</body>
+	</text>
+</TEI>

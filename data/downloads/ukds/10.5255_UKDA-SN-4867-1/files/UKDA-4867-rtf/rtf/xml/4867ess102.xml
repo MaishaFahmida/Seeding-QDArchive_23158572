@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 102</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-d5093123-8087-47ae-9059-12839eca0737</idno>
+        <idno type="qudexdocument">q-e5ab19bd-dc0f-40ff-bce9-e36d813c812f</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-c37f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-c47f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">My daughter’s son
+				came around to the home, <sic>bord</sic><corr>bored</corr> and nothing to do, he was meant to be at school, but
+				on the odd day would decided to come around and see me, this was his excuse. I
+				suppose this was the time it all started to come back to me. Being young again. At
+				my <sic>grandsons</sic><corr>grandson's</corr> age of sixteen years old.</u>
+      <u xml:id="q-c57f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">There I was
+				walking out of the school gates for the last time. Out into the whole to find a job
+				and start in the working class. It took a few weeks writing letters going for
+				interviews and so on, mum would tell me not to worry about it a job would come along
+				soon. But you do worry, anyway a few weeks passed and a job did come along, working
+				in a shop dealing with all sort of different things, it may not seem much but I
+				enjoyed it, I was meeting people and generally enjoying myself. Years passed and
+				after working myself up, I decided I needed a change away from the Island so I
+				moved, up to Wales where my sister had moved soon after she got married. I found the
+				place an exciting place to live, I found myself digs and within a short time was
+				settled down in a nice job, again I was meeting people and at the same time was
+				feeling homesick.</u>
+      <u xml:id="q-c67f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">This was so to be
+				overcome when I met Steve my husband. I left my job after two years of marriage to
+				start a family, our family consisted of one <sic>girls</sic><corr>girl</corr> and twin boys it was just
+				right.</u>
+      <u xml:id="q-c77f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">After the family
+				grew up I tried to get myself back to my job, but could not. The job situation was
+				getting to be a big problem in the whole world, tele, newspaper, etc all kept going
+				on and on about it. Finally after months of trying I landed myself in a paper
+				factory the wages good and the company of people was welcomed.</u>
+      <u xml:id="q-c87f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">More I stayed
+				until I was fifty-five and then had to give up work because of an operation I had to
+				have, and since then I have been a housewife, and seeing the pleasure of the
+				grandchildren growing up. But worry about them {facing?} in world.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 124</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-eef239f1-c135-476e-a634-2e8cfd558438</idno>
+        <idno type="qudexdocument">q-65a93513-2cf0-4144-a9af-b634c4400ecf</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-88805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Refecting</note>
+      <u xml:id="q-89805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">“Looking back on
+				when I left school, it was like turning into a new world. A much bigger one. It was
+				a most frightening experience at first, but then I got used to the idea, then it
+				became quite exciting. I soon found myself a full-time job in a factory as a
+				seamstress for “Race furniture”. I was proud of my very first wage of £19.20p even
+				if it wasn’t as much as what I expected.</u>
+      <u xml:id="q-8a805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Things started
+				happening very fast after that. In November nineteen seventy eight I got engaged to
+				a most wonderful person. We had been courting for two years. In the summer of
+				nineteen eighty we were wed. It was a most wonderful wedding, and the weather was
+				fine.</u>
+      <u xml:id="q-8b805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">In eighty three
+				“John”, our first son came along. One and a half year later “Jayne” arrived. We all
+				travelled around the world together. By now I was only part-time at “Race
+				Furniture”, as I spent most of my time tidying up after the children and picking
+				them up from school.</u>
+      <u xml:id="q-8c805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">John was married
+				at the age of eighteen.</u>
+      <u xml:id="q-8d805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">She is a
+				delightful girl his wife. Very shy though. Has a heart of gold. Shortly after Jayne
+				was married. Sad really, for she couldn’t have any children, so they adopted a
+				little boy.</u>
+      <u xml:id="q-8e805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">At the age of
+				sixty one my husband died. How I miss him. There’s only my here now. John and his
+				wife and three kids live in Australia, and Jayne is divorced living in London with
+				her son.</u>
+      <u xml:id="q-8f805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">But, at least I
+				still have my memories with me….”</u>
+    </body>
+  </text>
+</TEI>

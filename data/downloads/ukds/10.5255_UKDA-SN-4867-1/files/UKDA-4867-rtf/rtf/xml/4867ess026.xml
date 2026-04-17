@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 27</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-99f3609b-8d3c-451f-a3a5-da26bf292e7a</idno>
+        <idno type="qudexdocument">q-917e2216-169d-41fa-9a60-1a9a47bedaf4</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-e77d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My Past</note>
+      <u xml:id="q-e87d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">{Crossed out
+				plan}</u>
+      <u xml:id="q-e97d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Plan: Left school
+				16. Job. Apprentice 21 Finish apprenticeship, get job off the island. Get married,
+				raise family. Get <sic>morga</sic><corr>mortgage</corr>. Buy own home.</u>
+      <u xml:id="q-ea7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I left the
+				Sheppey School in the summer of 1978. I found this school more boring every year. I
+				did not agree with some of the teachers attitudes. It was hard finding a job, I
+				failed a few chances, but eventually got what I wanted locally, a craft
+				apprenticeship. I done a four year apprenticeship, the money was not spectacular,
+				but it was worth it in the long run.</u>
+      <u xml:id="q-eb7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">When I finished
+				my apprenticeship I got a job away from home. The money was a lot better and I was
+				able to get my own home. My craze on motorcycling never wore off, and I often was
+				off for weekends on my machine. When I was in my mid-<sic>twentys</sic><corr>twenties</corr> I started <sic>too</sic><corr>to</corr> settle
+				down and get married. My wife and I decided not <sic>too</sic><corr>to</corr> have children immediately, we
+				had a good time while we could, before we were tied down with our children. I was
+				always worried about my children, educational wise. I wanted them <sic>too</sic><corr>to</corr> have a better
+				education than I had. My wife is quite bright and sensible, and has a smashing
+				personality. She also likes a good ride.</u>
+      <u xml:id="q-ec7d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I am just coming
+				up for retirement now. I am looking forward <sic>too</sic><corr>to</corr> retiring, I will be able <sic>too</sic><corr>to</corr> spend
+				more time with my children and grandchildren. I have stayed with the same firm all
+				my life. I think when I die I will want <sic>too</sic><corr>to</corr> be <sic>crimated</sic><corr>cremated</corr>. I have enjoyed my life. I
+				have lived it how I wanted too. I have had a few worries in life but I have enjoyed
+				it. I hope my children or grandchildren don’t put me in a home.</u>
+    </body>
+  </text>
+</TEI>

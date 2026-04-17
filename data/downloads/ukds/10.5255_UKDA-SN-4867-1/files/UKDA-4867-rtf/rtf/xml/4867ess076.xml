@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 77</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-f9b836c8-40f5-47c0-ba8c-7178454508df</idno>
+        <idno type="qudexdocument">q-873f978d-1c5b-4f64-a226-85205cdd6fe7</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-fe7e5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">16-20</note>
+      <u xml:id="q-ff7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I am now sixty
+				and my life has gone <sic>its</sic><corr>it's</corr> not worth living any longer I’ve had enough. When I was
+				sixteen I left school, my {illegible} told me to stay on but I couldn’t be bothered
+				I just wanted to <sic>life</sic><corr>live</corr> from day to day. I suppose there wasn’t much enthusiasm behind
+				me but that life. From sixteen <sic>too</sic><corr>to</corr> twenty it was a good time no job and just
+				sponging money from my dad and he was a builder. My mum wanted me to go in the <sic>Navel</sic><corr>Navy</corr>
+				but again I couldn’t be bothered. From 16-20 and even now at 60 I never married, I
+				never did get on with girls <sic>a</sic><corr>it</corr> never <sic>laster</sic><corr>lasted</corr> long with them. I got a car, a ford, it
+				was an old banger and my old man said I should keep it in good working order, but I
+				wanted to go grass racing with it so it was taken away. So I asked for a bike, motor
+				bike. It was the first day on it and got that taken away because I went to made on
+				it.</u>
+      <u xml:id="q-007f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">After twenty I
+				had a job as an <sic>adertizer</sic><corr>advertiser</corr> because that was the only thing I was good at. <sic>Nothink</sic><corr>Nothing</corr>
+				really happened for a few years just the same old continuous life, having no real
+				<sic>enforment</sic><corr>enforcement</corr> and wonder what it was all about.</u>
+      <u xml:id="q-017f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Really I didn’t
+				<sic>now</sic><corr>know</corr> what life was all about or religion. My mum was a <sic>Jehavah’s</sic><corr>Jehova's</corr> witness and my dad
+				couldn’t be bother, still when I was 30 {illegible} I suddenly <sic>relized</sic><corr>realised</corr> I was <sic>lobley</sic><corr>lonely</corr>
+				and I’ve been <sic>lonly</sic><corr>lonely</corr> ever since. I was not married. I didn’t want to get married in
+				the first place because I wanted to prove to the girls I went with that I could live
+				without them just because ever body else needed them i didn’t. I always wanted to be
+				different from every body else in side of going with the majority. I was 40 now and
+				time was moving on I had a fairly nice house and looked after myself fairly well.
+				When I was 50 I realized I would soon be sixty and of all things I never had a
+				<sic>penchen</sic><corr>pension</corr>. My old man said to me that I couldn’t have a <sic>penchen</sic><corr>pension</corr> because I <sic>mite</sic><corr>might</corr> or he
+				said I probably wouldn’t live that long. Thank you dad. My dad said that they take
+				the money from and they only give you a little at the end and you wouldn’t live much
+				over 60. So that was it.</u>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 34</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-21e386fd-a354-4d94-9d7c-9ca8c8c298ce</idno>
+        <idno type="qudexdocument">q-9661fae6-1439-4ea2-838b-a565b74cf6e5</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-077e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">At the end of May
+				the day I leave. All excited and proud. In the morning I get up all tired and have
+				something to eat then dressed I step out the door. In the <sic>doll</sic><corr>dole</corr><sic>que</sic><corr>queue</corr> embarrassed, I
+				<sic>sighn</sic><corr>sign</corr>. In the paper shop to by a paper looking for vacancies no hope yet one I’ll
+				have a go at that. Home I run straight to the phone hallow is the job still going
+				yes the man said, can I have an interview, Come straight away. Off I go for the job
+				happy and pleased I approached the factory straight in The <sic>managers</sic><corr>manager's</corr> office. I was in
+				there for some time in fact two hours. I stepped out and shouted <sic>pluss</sic><corr>plus</corr> jumping in
+				the air. I rushed home and sat there all day and waited for my parents to arrive to
+				tell the good news.</u>
+      <u xml:id="q-087e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">At four a clock
+				They came in I’ve got a job start on Thursday. The job was packing <sic>asstant</sic><corr>assistant</corr> it was
+				worth the money all right for starters. When Thursday morning I get up had <sic>break fast</sic><corr>breakfast</corr> and was at work just <sic>befor</sic><corr>before</corr> half eight.</u>
+      <u xml:id="q-097e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Now Eighteen I
+				was moved up to working the machines it was good money. I had found a girl friend
+				who is seventeen we were going steady. After two years with her we decided to get
+				<sic>ingaged</sic><corr>engaged</corr> it was a great party. I was moved up again to machine mechanic it was double
+				pay. I decided not to look for another job <sic>becides</sic><corr>besides</corr> this one was paying off. Jayne
+				had a job and we were saving for a house when we get married which we made plans
+				for. We were getting on a bit when on <sic>Jaynes</sic><corr>Jayne's</corr> twenty fifth birthday I proposed and
+				she accepted and plans were made straight away. We were to wed in early summer. Our
+				house was being bought 2 weeks before the wedding. Time soon went and <sic>befor</sic><corr>before</corr> we <sic>new</sic><corr>knew</corr>
+				it we were in church it was great.</u>
+      <u xml:id="q-0a7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">After a year of
+				wed we had everything <sic>straightend</sic><corr>straightened</corr> out and the house was looking good. I was to buy a
+				car and take a test when I went I failed first then passed second time. I was made
+				foreman of our shop it came to quite a <sic>shoak</sic><corr>shock</corr>. Any way {were?} to a baby boy and the
+				is on its way. The boy is Daniel one year old. I was getting on a <sic>bitt</sic><corr>bit</corr> getting on
+				for forty five. And I’m getting very lazy and the years went <sic>Quik</sic><corr>quick</corr>. The kids were
+				getting and David is in his last year and a half so they on <sic>they</sic><corr>the</corr> way to a giant
+				surprise the same as I did.</u>
+      <u xml:id="q-0b7e5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I was getting
+				ready to retire and Jayne but I’ve had my fun and games in the past and I’ll never
+				forget them.</u>
+    </body>
+  </text>
+</TEI>

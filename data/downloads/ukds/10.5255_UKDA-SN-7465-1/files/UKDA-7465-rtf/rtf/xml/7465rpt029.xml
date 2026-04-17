@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Special Report No. 718 - September 1948</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-c8ca5aea-aabf-420b-8179-d57f87e21aa4</idno>
+				<idno type="qudexdocument">q-1d07f70b-94de-4dc2-808f-57ab81f0ed56</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-625488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-635488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-645488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Political Division</note>
+				<note xml:id="q-655488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">York House</note>
+				<note xml:id="q-665488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ CCG (BE)</note>
+				<note xml:id="q-675488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">Berlin</note>
+				<note xml:id="q-685488b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">B.A.O.R.2</note>
+				<note xml:id="q-695488b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">11 October 48</note>
+				<note xml:id="q-6a5488b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="9">Special Report No. 718.</note>
+				<note xml:id="q-6b5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">After the breakdown of the Moscow negotiations between the three Western Powers and the U.S.S.R. in September 48, 13 Fieldworkers interviewed 442 Berlin-ers during the period 28-30 September 48 on the following questions :- hhh Question 1: What do you think of the decision of the Western Powers to submit the Berlin question to the Security Council of UNO?</note>
+				<note xml:id="q-6c5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">442 interviewed. (224 Men and 218 Women)</note>
+				<note xml:id="q-6d5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Number Percentage</note>
+				<note xml:id="q-6e5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">1. Welcome the decision and look upon it as a last attempt to achieve a peaceful settlement 318 72%</note>
+				<note xml:id="q-6f5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">2. Did not think much of it 68 15%</note>
+				<note xml:id="q-705488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">3. Had no opinion 56 13% 442 100%</note>
+				<note xml:id="q-715488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Some of the answers given: -</note>
+				<note xml:id="q-725488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Locksmith (48): "This is the only measure to adopt and should have adopted long ago."</note>
+				<note xml:id="q-735488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">No profession (male 19): "This is right as the Americans and British cannot put up with the Russian attitude forever."</note>
+				<note xml:id="q-745488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Housewife (38): "Up till now UNO has had, no success whatsoever. Do not think it is, of any use."</note>
+				<note xml:id="q-755488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Post office employee (a): "Absolute nonsense, they only want to gain time and Russia will not be forced by UNO." hhh Question 2: Are you in agreement?</note>
+				<note xml:id="q-765488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">442 interviewed.</note>
+				<note xml:id="q-775488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">Number Percentage</note>
+				<note xml:id="q-785488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">1. YES 341 77%</note>
+				<note xml:id="q-795488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">a) because they are sure a peaceful solution will be found 24 5%</note>
+				<note xml:id="q-7a5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">b) because they expect the whole world through UNO to pass moral judgement on the behavior of the USSR 78 18%</note>
+				<note xml:id="q-7b5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">c) because they see in UNO chance of coming to agreement on the Berlin question and consider UNO to be the only body competent to deal with the problem 129 29%</note>
+				<note xml:id="q-7c5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">d) because it is the last chance of averting a war which would otherwise be inevitable 110 25%</note>
+				<note xml:id="q-7d5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">2. NO 52 12%</note>
+				<note xml:id="q-7e5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">a) because it can achieve nothing (Russia does not recognise resolutions or nullifies them by her veto) 31 7%</note>
+				<note xml:id="q-7f5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">b) because UNO is too weak and has had no success so far 12 3%</note>
+				<note xml:id="q-805488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">c) because they think there will be war in any case 9 2%</note>
+				<note xml:id="q-815488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">3. No opinion 49 11 442 100%</note>
+				<note xml:id="q-825488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Some of the answers given:-</note>
+				<note xml:id="q-835488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Driver (21); "Yes, the Russians must realise that the whole world is against them".</note>
+				<note xml:id="q-845488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">Dentist (55): "Yes, only UNO can decide. That is why it has been established"</note>
+				<note xml:id="q-855488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Master joiner: "Yes, perhaps this is the best way to avoid a war."</note>
+				<note xml:id="q-865488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">Pensioner: (62): "No, because the negotiations - ith the Russians will bad nowhere. Force can only be met with force."</note>
+				<note xml:id="q-875488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">Administrations official (60): "No, I consider that UNO is just as much of failure as the League of Nations." hhh Question 3: If Yes - what do you think will be the result?</note>
+				<note xml:id="q-885488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">341 interviewed.</note>
+				<note xml:id="q-895488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">Number Percentage</note>
+				<note xml:id="q-8a5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">1. believe that the decision will probably be in favour of the Western Powers in Germany and thus of Berlin 104 31%</note>
+				<note xml:id="q-8b5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">2. believe that Russia will use her power of veto, that negotiations will be in vain, the situation will become still more critical (possibly to the point of war) 147 43%</note>
+				<note xml:id="q-8c5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">3. believe that Russia will leave UNO 34 10%</note>
+				<note xml:id="q-8d5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">4. No opinion 56 16% 341 100%</note>
+				<note xml:id="q-8e5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">Some of the answers given:-</note>
+				<note xml:id="q-8f5488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">Housewife (22):."Yes, the Russians will be forced to lift the blockade."</note>
+				<note xml:id="q-905488b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">Representative (32): "Russia will leave UNO, or use her veto. The democratic world will impose sanctions against Russia. The result will be war."</note>
+			</div>
+		</body>
+	</text>
+</TEI>

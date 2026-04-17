@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 135</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-6d8d1064-611c-43fb-9f47-dfbc48fe9fe7</idno>
+        <idno type="qudexdocument">q-97598525-c53c-4c17-9bce-b995c9aa0656</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-d0805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-d1805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I have led a
+				pretty normal life. I left school when I was nearly eighteen and got a job. The
+				money was quite good, but carried on living with my parents. I kept that job for
+				eight months and then got a job as a personal secretary because the money was much
+				better. When I was nineteen, I got married to my boyfriend who I’d known at school.
+				It was good at school because you met so many people and had so many friends. We
+				used to go out <sic>alot</sic><corr>a lot</corr> to school discos and have a good time. When I left school, I
+				missed it even though I made new friends at work, but everything became more
+				serious.</u>
+      <u xml:id="q-d2805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">Two years after I
+				got married, I gave up working to have my first child. As soon as the child was old
+				enough to go to school, I started working again- not because we were poor but it
+				doesn’t hurt to have a bit of extra money, and I got bored being stuck at home all
+				day. With both my husband and myself working, we came fairly well off. This meant I
+				could have lots of new clothes and could afford to go out more often. We still saved
+				<sic>alot</sic><corr>a lot</corr> of money though.</u>
+      <u xml:id="q-d3805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">At the age of
+				twenty-eight I had my second child, and so, had to give up working again, but this
+				didn’t last for long. As soon as my second child went to school, I went back to
+				work. I gave my children a good upbringing so that I could be proud of them. One of
+				my children gained some A levels, whilst the other one got some o levels and left
+				school, but they both got good jobs.</u>
+      <u xml:id="q-d4805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">My father died
+				when I was forty although I knew he’d die sooner or later, I was still shocked and
+				upset. Five years later, my mother died and I inherited a fairly large sum of
+				money.</u>
+      <u xml:id="q-d5805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Now I’m eighty- I
+				don’t know how I’ve managed to live this long. My children have left and got married
+				and have also made me a grandmother three times. But I’m alone now. My husband has
+				gone. When he died, I thought I’d die without him, but I lived.</u>
+      <u xml:id="q-d6805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">Now, all I have
+				to look forward to, is my funeral and being buried next to my husband.</u>
+    </body>
+  </text>
+</TEI>

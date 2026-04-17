@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">School Leavers Study</title>
+				<title type="sourcedisplaylabel">Essay by 147</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+				<idno type="qudexsource">q-a0990bbb-a3e1-4b78-86bd-2d67676e7f38</idno>
+				<idno type="qudexdocument">q-ed93fcaa-78e2-451b-88bd-b002d14a6168</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>School Leavers Study, 1978</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<note xml:id="q-c665e5fb-0a7d-e311-a968-000bdb5cc6d5" type="heading1" n="1">The
+				Past</note>
+			<u xml:id="q-c765e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="2">Looking back over my
+				life I feel that my job was important for security knowing that I have had a fairly
+				good job and family life. My job was very important to me and as a result of my
+				<sic>secretererial</sic><corr>secretarial</corr> studies I have had a fairly comfortable job with good promotion
+				prospects leaving me in a fairly high position in a large office. I did not want to
+				have anything really fantastic just a reasonably job with worth while meaning in my
+				life. With the amount of money that I need to help support a family, to live as I
+				was <sic>acustomed</sic><corr>accustomed</corr> when living with my parents. Not to have to struggle to make ends
+				meet. A family was also very important with an average home and enough money to give
+				to my children a good education and a happy life.</u>
+			<u xml:id="q-c865e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="3">My ideal family would
+				be two children one boy and one girl. A husband who has security in a job.</u>
+			<u xml:id="q-c965e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="4">Looking back at my 50
+				years after leaving school, I found that any major decision before marriage was made
+				myself with very little influence on decisions of jobs.</u>
+			<u xml:id="q-ca65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="5">I always needed to be
+				involved in sport if not taking part spectating. A good social life not being stuck
+				at home evening after evening but getting out.</u>
+			<u xml:id="q-cb65e5fb-0a7d-e311-a968-000bdb5cc6d5" who="R" n="6">Seeing different
+				countries and places in England seeing how other the other people live in other
+				countries. Meeting people and having many interests to fall back on when
+				retiring.</u>
+		</body>
+	</text>
+</TEI>

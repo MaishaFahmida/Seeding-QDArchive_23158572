@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Weekly Statistical Report, week ending 1 April 1943</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-24a5bf4c-3625-4539-8261-205d0e89c745</idno>
+				<idno type="qudexdocument">q-d3b5f13b-80b6-4c32-87be-a1b37945f55f</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-f34e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL (EQUALS BRITISH SECRET)</note>
+				<note xml:id="q-f44e7fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="2">STATISTICAL REPORT</note>
+				<note xml:id="q-f54e7fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">BASE CENSORSHIP DETACHMENT NO. 1</note>
+				<note xml:id="q-f64e7fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="4">Period covered: 26 March to 1 April 1943, inclusive.</note>
+				<note xml:id="q-f74e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">Total outgoing incoming:</note>
+				<note xml:id="q-f84e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">1. Volume of letters received at Base Post Office:- No figures available at Base Post Office.</note>
+				<note xml:id="q-f94e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">2. Number of comment sheets prepared. 29</note>
+				<note xml:id="q-fa4e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">3. (Serial Nos. of comment sheets from BCD 1-1 to BCD 1-29, inclusive)</note>
+				<note xml:id="q-fb4e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">4. Number of letters condemned - 15</note>
+				<note xml:id="q-fc4e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">5. Volume of prints and parcels received at Base No figures available at Base Post Office</note>
+				<note xml:id="q-fd4e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">6. Number of prints and parcels condemned. 2</note>
+				<note xml:id="q-fe4e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">7. Amount of mail received from Base Post Office: 58,731</note>
+				<note xml:id="q-ff4e7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">8. Date and time mail received from Base Post Office:</note>
+				<note xml:id="q-004f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">8:30 AM 26 March 8,002</note>
+				<note xml:id="q-014f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">8:30 AM 27 March 9,533</note>
+				<note xml:id="q-024f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">8:30 AM 28 March 7,889</note>
+				<note xml:id="q-034f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">8:30 AM 29 March 5,296</note>
+				<note xml:id="q-044f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">8:30 AM 30 March 11,227</note>
+				<note xml:id="q-054f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">8:30 AM 31 March 11,668</note>
+				<note xml:id="q-064f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">8:30 AM 1 April 6.066</note>
+				<note xml:id="q-074f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">Total: 58,731</note>
+				<note xml:id="q-084f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">9. Date and time mail returned to Base Post Office:</note>
+				<note xml:id="q-094f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">8:30 AM 26 March 13,162</note>
+				<note xml:id="q-0a4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">8:30 AM 27 March 8,002</note>
+				<note xml:id="q-0b4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">8:30 AM 28 March 9,533</note>
+				<note xml:id="q-0c4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">8:30 AM 29 March 7,889</note>
+				<note xml:id="q-0d4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">8:30 AM 30 March 5,296</note>
+				<note xml:id="q-0e4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">8:30 AM 31 March 11,227</note>
+				<note xml:id="q-0f4f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">8:30 AM 1 April 11,668</note>
+				<note xml:id="q-104f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">Total: 66,777</note>
+				<note xml:id="q-114f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">10. Elapsed time mail in possession of Chief Base Censor: Not over 24 hours.</note>
+				<note xml:id="q-124f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">REMARKS Officer in charge of Base Post Office states as mail comes in from many sources they are unable to determine quantity that passes through their office and rather than give incorrect quantity preferred not to give any.</note>
+				<note xml:id="q-134f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">Mail passing through this office, some is returned to Base Post Officer after six hours of its receipt while the balance is returned within 24 hours.</note>
+				<note xml:id="q-144f7fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">CONFIDENTIAL (EQUALS BRITISH SECRET)</note>
+			</div>
+		</body>
+	</text>
+</TEI>

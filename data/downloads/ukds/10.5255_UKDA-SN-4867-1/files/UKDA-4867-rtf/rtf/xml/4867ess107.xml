@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 107</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-d7686056-a6d2-4f98-9c65-1acaa176c46c</idno>
+        <idno type="qudexdocument">q-4c53f265-6944-4acf-b92a-eafb7ae58ee5</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-ef7f5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflections</note>
+      <u xml:id="q-f07f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">As I sit here
+				<sic>memorys</sic><corr>memories</corr> of my younger days flash through my head I look back at my life from when I
+				was sixteen. I left school all set to go to <sic>colledge</sic><corr>college</corr> for a two year course in
+				hairdressing and beauty work. Though two years past very quickly and were the start
+				of my adult life. In though two years I found out just what it was like to live on
+				your own. After I had come out of <sic>colledge</sic><corr>college</corr> I had found a job in a quite busy salon
+				on the out-skirts of London. I lived away from home but I visited my parents most
+				weekends. I worked in the same salon for about four years I entered lots of
+				hairdressing competition and found those help me along in my profession. By this
+				time I was twenty-two and thinking about settling down. I had made quite a lot of
+				friends, but had still kept in touch with my friends on the island. I had found it
+				hard at eighteen to have no money but in the long run hairdressing paid off.</u>
+      <u xml:id="q-f17f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">One day my life
+				was completely changed the man I knew I was going to marry walk in to it. He came
+				into the shop to have his hair cut. We naturally got talking and from then on it was
+				all go. We got on very well and soon got engaged. We were engaged for two years and
+				then decided to get married. By this time I was twenty-five. We had saved enough to
+				put a deposit on a house. My husband worked as an engineer. We lived quite near to
+				where I worked, so it was only a little way into London. We did have some wonderful
+				nights out together. I gave up my work when I was expecting our first child. It was
+				a boy and we named it after Chris, my husband.</u>
+      <u xml:id="q-f27f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">My life had
+				changed again now we didn’t go out very much only once a week together. My time was
+				consumed with our baby boy. As soon as Chris started school I started my profession
+				again, but instead of in the shop I did it at home. I used to make a bomb doing it
+				at home. We had soon saved up enough money to move to a larger home. I was also now
+				expecting our second child at the age of thirty-two. Our second child was a girl and
+				we called it Marie. We decided this was our last child, one of each was enough.</u>
+      <u xml:id="q-f37f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">The house we
+				moved to was a three bedroomed semi-detached house. It was first large enough for
+				our family. Chris grew up very fast so did Marie. The years flew by. Soon Chris was
+				fifteen and Marie was ten. By now I was forty-seven. It was strange to see Chris
+				take an interest in girls and start bringing them home. I knew that soon both Chris
+				and Marie would just start their life while mine was nearly over. But I had lead a
+				full life and did not regret getting old.</u>
+    </body>
+  </text>
+</TEI>

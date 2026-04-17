@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Branch Memoranda, 1 July 42</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-bbbea296-febc-4b00-a7cb-237b76ea971f</idno>
+				<idno type="qudexdocument">q-d3a68afb-d390-48d8-9c0f-3bce93b3049e</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-b3537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">PLEASE PASS BY HAND</note>
+				<note xml:id="q-b4537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">COVER</note>
+				<note xml:id="q-b5537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">FOR</note>
+				<note xml:id="q-b6537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">BRANCH MEMORANDA</note>
+				<note xml:id="q-b7537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">(member pf council)</note>
+				<note xml:id="q-b8537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">B.M. No. 128/42</note>
+				<note xml:id="q-b9537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="7">2.</note>
+				<note xml:id="q-ba537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">P.U.S.</note>
+				<note xml:id="q-bb537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Occasionally, some light is thrown on civilian morale from the reports on morale I obtain from formations, and I could extract something from these if the Secretary of State wished to send it to the Ministry of Information. I should regard it as a report on the morale of the soldiers' wives and families rather than a report on the morale of the Army. It will mean extra work, and the reports are now coming in, so that I could not prepare them for some little time.</note>
+				<note xml:id="q-bc537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">I agree that anything on the Army's morale must be presented to the Cabinet by the Secretary of State, and I would not for a moment suggest that anything on this side should be incorporated.</note>
+				<note xml:id="q-bd537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Hobart House,</note>
+				<note xml:id="q-be537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="12">14th May, 1942.</note>
+				<note xml:id="q-bf537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="13">3.</note>
+				<note xml:id="q-c0537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">S.of S.</note>
+				<note xml:id="q-c1537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">I mentioned this question to you and you were disposed to think that the War Office should not make any contribution to the Minister of Information's Report. It is, however, probable that in the information which we receive about the morale of the troops, we shall get information which bears on the morale of civilians, and seeing that the Ministry of Information are not allowed to make enquiries from the troops themselves and that at the meeting at which the Minister of Information's paper was discussed, there appeared to be general agreement that the Minister should have help in producing his monthly appreciation, you may be prepared to authorise us to act on the lines of A of A.G's minute.</note>
+				<note xml:id="q-c2537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="16">16.5.42.</note>
+				<note xml:id="q-c3537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="17">5.</note>
+				<note xml:id="q-c4537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">A.G.</note>
+				<note xml:id="q-c5537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Thank you. Do you agree with 5.A.? If so will you be kind enough to have the first collection of information sent to me to pass on to the Ministry of Information as soon as it is ready? I should rather like to see at any rate the first collection.</note>
+				<note xml:id="q-c6537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="20">19.5.42.</note>
+				<note xml:id="q-c7537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="21">6.</note>
+				<note xml:id="q-c8537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">P.U.S.</note>
+				<note xml:id="q-c9537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">I agree to 5A, and will have information sent as required.</note>
+				<note xml:id="q-ca537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="24">21 May, 1942.</note>
+				<note xml:id="q-cb537fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="25">9.</note>
+				<note xml:id="q-cc537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">P.U.S.</note>
+				<note xml:id="q-cd537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">The Quarterly Morale Report was considered to-day by the Morale Committee.</note>
+				<note xml:id="q-ce537fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">At 9A are extracts which seem suitable for forwarding to the Ministry of Information.</note>
+				<note xml:id="q-cf537fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="29">19th June, 1942.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

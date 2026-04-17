@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 11</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-771e184a-81c6-4cce-9294-6fbc9ac84c84</idno>
+        <idno type="qudexdocument">q-951f7509-43fa-4687-9eb5-b5c221c9a2c2</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-847d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">My <sic>Parst</sic><corr>Past</corr></note>
+      <u xml:id="q-857d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I left
+				school I took an <sic>exsam</sic><corr>exam</corr> at Chetham dock yard In July.</u>
+      <u xml:id="q-867d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I took it twice
+				because I failed the first time.</u>
+      <u xml:id="q-877d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">The second time I
+				<sic>parst</sic><corr>passed</corr>.</u>
+      <u xml:id="q-887d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Because I had
+				<sic>parst</sic><corr>passed</corr> I was employed at the dock yard has an <sic>aprentes</sic><corr>apprentice</corr> for two years as an
+				<sic>electrion</sic><corr>electrician</corr>.</u>
+      <u xml:id="q-897d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">After my
+				<sic>aprentaship</sic><corr>apprenticeship</corr> was up I stayed at the dock yard for a couple of years.</u>
+    </body>
+  </text>
+</TEI>

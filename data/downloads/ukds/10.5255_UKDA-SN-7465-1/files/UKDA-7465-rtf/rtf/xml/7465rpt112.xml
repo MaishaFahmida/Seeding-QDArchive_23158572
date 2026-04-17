@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Land Forces Adriatic Signals, Morale Report, Feb 45</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-13c41aee-9ec3-4add-a424-d0b5946ac1a3</idno>
+				<idno type="qudexdocument">q-4d3b5d39-8cac-49ad-b1a0-2c49cadfa668</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-57527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">LAND FORCES ADRIATIC SIGNALS.</note>
+				<note xml:id="q-58527fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="2">MORALE REPORT</note>
+				<note xml:id="q-59527fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="3">SECTION I.</note>
+				<note xml:id="q-5a527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">Morale in general is good and reasonably high, particularly in view of the fighting on German soil. Morale is higher in sections engaged on operational work than it is in sections merely training.</note>
+				<note xml:id="q-5b527fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="5">SECTION II.</note>
+				<note xml:id="q-5c527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">Factors affecting Morale. hhh 1. Discipline:</note>
+				<note xml:id="q-5d527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Unit and Section discipline is good and is reflected, in the general bearing and dress of the men. Daily parades, frequent checks and. periods of weapon training and P.T. assist the maintenance of a good standard of discipline. hhh 2. Confidence:</note>
+				<note xml:id="q-5e527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">(a) In Army Leaders and the War. High, especially in view of the recent news.</note>
+				<note xml:id="q-5f527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">(b) In Arms and Equipment. Great confidence is expressed in our fighting and technical equipment, although comment is sometimes made about the more generous scales held by the Americans.</note>
+				<note xml:id="q-60527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">(c) In Efficiency: All men are extremely confident of their efficiency and it is accepted as a routine factor in the composition of the British Army. hhh 3. Mail</note>
+				<note xml:id="q-61527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Very satisfactory, since the de-rationing of A.M.L.C's and speeding up of mail from home. A few individual complaints, mainly due to people at home not writing. hhh 4. Welfare and Entertainment.</note>
+				<note xml:id="q-62527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">(a) Living conditions: As comfortable as circumstances permit. The men realise this.</note>
+				<note xml:id="q-63527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">(b) Recreation and Amusement. Inter-Section games (football) are played and recreational facilities are considered adequate. The distance of the Unit from BARI in relation to the cinemas and E.N.S.A. is a source of some complaint, despite Unit transport arrangements.</note>
+				<note xml:id="q-64527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">(c) General. Unit dances are held weekly and are very popular. Some grumble at recent repeated issue of dehydrated foods for meals. hhh 5. Education and A.B.C.A.</note>
+				<note xml:id="q-65527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">A few people have applied for Army Correspondence Courses. A.B.C.A. is quite popular and. gives rise to lively debates. A rather cynical view is taken about the Post-hostilities Education Scheme, which can be dispelled only when further information is released. hh 6. Relation between officers and men.</note>
+				<note xml:id="q-66527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Good. A cordial and co-operative spirit is displayed between all ranks. hhh 7. Relations with other services.</note>
+				<note xml:id="q-67527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Good, although there is not a great deal of contact, Signals normally working as independent detachments. hhh 8. Relations with Allies.</note>
+				<note xml:id="q-68527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">Good. A naive over-enthusiasm for the Russians, who have not been met in the flesh. A certain envy and prejudice of the Americans, because of their higher rate of pay and 'foreign' ways. Jugo-slavs now extremely unpopular. hhh 9. Home Affairs, Post-War and Release.</note>
+				<note xml:id="q-69527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Government plans on post-war housing and general future regarded with some concern as to whether all these plans can be realised. Opinions differ widely. Release plan now generally accepted. hhh 10. Finance.</note>
+				<note xml:id="q-6a527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Hardly any financial worries. hhh 11. Miscellaneous.</note>
+				<note xml:id="q-6b527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">(a) Overseas Service: Considered too long by all ranks.</note>
+				<note xml:id="q-6c527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">(b) Leave: Most men want to go to ROME. LIAP is regarded as being a chance for the 'lucky' individual.</note>
+				<note xml:id="q-6d527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">(c) Relations with Civil Population: Few contacts. A slightly contemptuous or condescending attitude blended with tolerance.</note>
+				<note xml:id="q-6e527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Field.</note>
+				<note xml:id="q-6f527fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="25">Feb, 45.</note>
+				<note xml:id="q-70527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">Major, R. Signals,</note>
+				<note xml:id="q-71527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">Comd Land Forces Adriatic Signals.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

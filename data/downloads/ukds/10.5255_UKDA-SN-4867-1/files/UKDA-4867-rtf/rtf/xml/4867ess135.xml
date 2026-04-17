@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 137</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-ad77d032-518d-4f0a-82a0-7ad80074b21a</idno>
+        <idno type="qudexdocument">q-0487c967-e35c-4292-aad1-323c2efc9201</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-de805d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Reflecting</note>
+      <u xml:id="q-df805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">When I left
+				school at 16 I felt as though I was now grown up and I could leave the secruity of
+				school and venture into the world outside.</u>
+      <u xml:id="q-e0805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">What I wanted was
+				to look after children either in a home or at home. But this was slightly harder
+				than I had thought it would be. I had the choice of either going to college and
+				doing a course or going to work until I was eighteen and then trying for a job.</u>
+      <u xml:id="q-e1805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">Of course I took
+				what I thought was the easy way out and took a job in a coop supermarket until I was
+				eighteen and this was where the fun and games started.</u>
+      <u xml:id="q-e2805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">The career’s
+				officer was the first person I saw. She gave me form to fill in and said I would
+				hear from her. Finally a letter came asking if I would like an interview at a
+				National Children’s Home as a <sic>Nursey</sic><corr>Nursery</corr> Nurse. But when the day came they asked me what
+				training I had had which of course was none so I was turned down. This went on I had
+				about 4 interviews but in all of them they asked the same thing “have you had any
+				training”. In the end I gave up. No job to go to on the dole!! Because I had worked
+				for over six months I was picking up twenty-five a week unemployment benefit but
+				this wasn’t what I wanted.</u>
+      <u xml:id="q-e3805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">I had thought,
+				while I was at school that it was easy, getting a job. I soon found out it wasn’t. I
+				still remember sitting in my lessons not doing anything ‘thinking why bother’ but I
+				wished I had.</u>
+      <u xml:id="q-e4805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">The teachers
+				weren’t really all that helpful not strict enough.</u>
+      <u xml:id="q-e5805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">After two or
+				three jobs in shops I saw the job advertised “child help needed. No Qualifications
+				Necessary. Good with children” I applied and got the I have not looked back since.
+				Altogether I have looked after kids of 3 different family’s watched them grow up. It
+				was what I wanted I had fulfilled my ambition. I got married at 33 and had 2
+				children of my own one boy and one girl.</u>
+      <u xml:id="q-e6805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">I thought that
+				would have been the end of my career but No, I still looked after family’s until I
+				was 58 and it was then I decided to retire to enjoy my grandchildren.</u>
+      <u xml:id="q-e7805d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">Now thinking
+				back, I was lucky really to succeed in the job I wanted. If I had taken the
+				opportunity of going college I would have done much better. You don’t know how hard
+				it is until you go out into the world. I think children should be taught more about
+				jobs and working so they what to expect so they don’t end up like a lot of people
+				unemployed!!</u>
+    </body>
+  </text>
+</TEI>

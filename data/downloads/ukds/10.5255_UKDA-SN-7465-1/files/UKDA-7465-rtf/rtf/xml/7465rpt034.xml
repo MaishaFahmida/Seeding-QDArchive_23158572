@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale - second half of November 1947</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-8acdcf84-6847-4925-a9bf-2251f7da0e9c</idno>
+				<idno type="qudexdocument">q-629206c6-5914-4ba8-a2c4-cc3eb8a2a03d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-3d5588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">CONFIDENTIAL</note>
+				<note xml:id="q-3e5588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office</note>
+				<note xml:id="q-3f5588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Governmental Sub-Commission</note>
+				<note xml:id="q-405588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">PRISC Branch</note>
+				<note xml:id="q-415588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">HQ Military Government</note>
+				<note xml:id="q-425588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">British Troops, Berlin</note>
+				<note xml:id="q-435588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">B.A.O.R.</note>
+				<note xml:id="q-445588b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="8">REPORT ON BERLIN MORALE. (15 - 30 November)</note>
+				<note xml:id="q-455588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Note: Readers are asked to remember that although this report is compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be hysterical and ill informed. PORO is not respon­sible for the views of the German population but is concerned only with the accuracy of the reporting. hhh 1. General</note>
+				<note xml:id="q-465588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Speculation about the outcome of the November Conference has increased and for this reason interested in Gorman domestic affairs has been more live­ly. The question preying on most Ands is "Will the Western allies withdraw and leave Berlin to the Russians?" and no amount of official denials has shaken people free from this anxiety. The failure of the preparatory talks in London has boon regarded as foreshadowing the failure of the conference.</note>
+				<note xml:id="q-475588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">Amongst the poorer sections of the population despair and apathy find increasing expression. Older people say that they managed to hold out last winter but this time, with no money or valuables to buy extra food or fuel they grimly reckon with death. Last winter people still hoped that the summer would herald improvements in the general economic situation whereas now the less well-to-do are grimly fatalistic and prepared for the worst. hhh 2. Food</note>
+				<note xml:id="q-485588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">Deliveries of normal rations were largely punctual. Delays in the deliveries of potatoes for storage are reported while in some districts cereals were also late. The allocation of one or two kilos of fruit was especially welcome and provided some answer to those who had boon complain­ing about the lack of fruit alleging that it had been diverted to the Black Market. From various Bezirks there are minor complaints - in Tempolhof for instance the sugar ration was delivered late and some people had to accept honey in lieu of a part of their sugar ration, an arrangement which was highly unpopular.</note>
+				<note xml:id="q-495588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">It is said that an increased potato ration would go far towards stil­ling the daily pangs o1 hunger and tremendously improve morale. The insufficient supply of potatoes hits old people very hard as they are unable to go and "hamster'' and cannot afford to buy extra supplies. hhh 3. Fuel</note>
+				<note xml:id="q-4a5588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">Little change to report. Official pronouncements on the fuel situation are subject to sarcastic and cynical comments. It is alleged for example that in the summer the public was informed that each household would re­ceive 7 zentners of coal which, however, have not yet materialised. The present coal allocation is said to cover only 20% of the normal domestic needs.</note>
+				<note xml:id="q-4b5588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Mounting Ruhr coal production has provoked comment on the small quantity of coal which reaches the German public. People ask how it is that Germany which used to supply Europe with coal now produces insuffi­cient coal to keep its own population warm.</note>
+				<note xml:id="q-4c5588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">There are the usual complaints and allegations about coal merchants disposing of their supplies on the Black Market. hhh 4. Housing</note>
+				<note xml:id="q-4d5588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">The recent heavy rainfall has damaged numerous temporary roofings, and there are many complaints of minor floods in blocks of flats. Grumbling about allocation of glass, wood, cement etc. for temporary re­pairs is widespread, while the old allegations about building materials being used for Black Market shops and bars still circulate. Blame for this improper use of building materials is often laid at the door of the Magistrat which is alleged not to exercise sufficient control. hhh 5. Business and Labour</note>
+				<note xml:id="q-4e5588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="18">The "employment" of work-shy persons in dummy jobs is much resented and many people do not understand why the authorities do not proceed more vigorously against such abuses.</note>
+				<note xml:id="q-4f5588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Employers complain that absenteeism is high because the workers go hamstering or stay away to attend to private business. Threats of dismissal have in most cases hardly any deterrent effect.</note>
+				<note xml:id="q-505588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">The shortage of clothing is becoming a nightmare problem for many people who are literally at a loss to know how to maintain their tattered garments for another month. The distribution of Bezugscheine with which one can buy clothing at normal prices is regarded as a "racket". hhh 6. Politics</note>
+				<note xml:id="q-515588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">The chief topic is the November Conference and Berliners are fearful that a breakdown in negotiations will lead to the withdrawal of the Western allies from Berlin (see "General"). The attack on conditions in the We­stern Zones and on Mil.Gov. policy there made by Marshal Sokolovsky in the Control Council is regarded as an indication that the conference cannot succeed.</note>
+				<note xml:id="q-525588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">The case of Dieter Friede (the journalist of the US licensed paper DER ABEND who is said to have "disappeared") is still hotly debated in the press and arouses considerable interest. The Police President Markgraf, of whom the city council already disapproved because of his dubious past and strong SED sympathies, has now been criticised in the city assembly for his casual attitude in the Dieter Friede case. Meetings have been staged in his support and in spite of the opposition of the majority in the city assembly ho still retains his position. The continued retention of Markgraf is interpreted by some as another instance of the Magistrat's "weakness".</note>
+				<note xml:id="q-535588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">The SPD still continues to be the best liked (or least hated) of the parties although I has lost support for what is termed its incompetence. A frequently heard point of view is that the political parties serve no purpose, bring only confusion in the work of reconstruction and have no real powers being usually the mouthpieces of one or other of the allies. hhh 7. Attitude to Mil.Gov. and the Allies</note>
+				<note xml:id="q-545588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">The view is expressed that the Americans are genuinely interested in helping Germany on to her feet and are the only people who have the means to do it.</note>
+				<note xml:id="q-555588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">The old story that in the Russian Zone potatoes have been collected for distillation of alcohol arouses indignant comment. It is further alleged that lignite sugar and butter have been exported from the Russian Zone chiefly through the ports of Wismar and Stettin.</note>
+				<note xml:id="q-565588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">British personnel remain popular and it is often said that "They don't make themselves noticeable".</note>
+				<note xml:id="q-575588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">The fact that the Western Sectors suffer electricity cuts while the Russian Sector escapes without them is held to be another example of the weakness of the Western Allies towards the Russians. hhh 8. Black Market</note>
+				<note xml:id="q-585588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">The closing of the "free" shops in the Russian Sector and confiscation of their goods together with the approach of Christmas has caused a rise in the Black Market prices. Cocoa, tea and coffee are cited as having risen in pride. The closing of these "free" shops is interpreted by some as signali­sing a clean-up of the Black Market, by others as a ruse to cause a rise in prices whereupon the business can be restarted.</note>
+				<note xml:id="q-595588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">Railway booking offices are accused of corruption in selling tickets. Only those who are prepared to bribe with money or cigarettes obtain tickets. It is alleged that travel orders can also be purchased "at a price". hhh 9. Denazification</note>
+				<note xml:id="q-5a5588b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">The increasing influence of the de Gaulle movement has led some people to ask why dictatorship is bad in Germany but permissable in France. The advantages and saving graces of National Socialism are frequently compared with the difficulties and hardships of the present day.</note>
+				<note xml:id="q-5b5588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="31">J.E. Sheppard</note>
+				<note xml:id="q-5c5588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="32">P.O.R.O.</note>
+				<note xml:id="q-5d5588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="33">GOV SC</note>
+				<note xml:id="q-5e5588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="34">PRISC Branch</note>
+				<note xml:id="q-5f5588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="35">HQ Mil.Gov.</note>
+				<note xml:id="q-605588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="36">B.T.B.</note>
+				<note xml:id="q-615588b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="37">B.A.O.R.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

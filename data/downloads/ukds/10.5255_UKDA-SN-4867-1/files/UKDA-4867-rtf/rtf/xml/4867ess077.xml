@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 78</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-02270dc4-efc6-4ced-b18a-1bdb3d69f070</idno>
+        <idno type="qudexdocument">q-5acbee51-be81-4c3d-ab89-c5c6f3fbf77a</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u xml:id="q-027f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="1">My Dad is trying
+				to get a job for me. The job is at his work shop <sic>were</sic><corr>where</corr> he bend <sic>winscreen</sic><corr>windscreens</corr> for cars. At
+				school I play cricket and belong to the Sheppey youth wing.</u>
+      <u xml:id="q-037f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I play table
+				tennis and pool. There are friend who we help we give but I like my friend sister
+				who is a third year.</u>
+      <u xml:id="q-047f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">I have now got a
+				job at my dad work where I help make car <sic>winscreen</sic><corr>windscreen</corr> I play football with the worker
+				in the spare time I some time take my friend sister to the picture once a week.</u>
+      <u xml:id="q-057f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">I have been
+				working about four years and I am taking part in the football team. I am getting
+				engage to Richard’s sister who has been working for two years in a shop.</u>
+      <u xml:id="q-067f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">I now live in a
+				flat near my work so it is easier to get there. It is to year before I get married
+				but I only play football four or five time a <sic>sesson</sic><corr>session</corr>. I am twenty two married to
+				Debbie we now live in a house together and we are thinking of raising a family.</u>
+      <u xml:id="q-077f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">Now I am thirty
+				with two child one is two year and the other three.</u>
+      <u xml:id="q-087f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">I still play
+				football I collect coin and stamp and I now bend the <sic>winscreen</sic><corr>windscreen</corr> for the cars. We play
+				tennis together and still go out at night to a dance where we help people to dance .
+				We sometime go out to the picture but when the summer come we go on holiday in a
+				holiday resort near Margate.</u>
+      <u xml:id="q-097f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="8">I am forty with
+				two children a wife who work at St John Ambulance and I repair cars as a hobby
+				sometime I take the children to a football match and teach them to play table tennis
+				football basket ball and hockey.</u>
+      <u xml:id="q-0a7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="9">Forty two work at
+				a garage as a mechanic train for football in the team which I play for collect stamp
+				but not coin because there are not very many about to collect. Play tennis in the
+				summer with my wife and children at Margate.</u>
+      <u xml:id="q-0b7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="10">I am forty five
+				and I work at a shop of my own with my wife helping we to serve we have six paper
+				<sic>boy</sic><corr>boys</corr> who <sic>diliver</sic><corr>deliver</corr> the <sic>papper</sic><corr>paper</corr> given up football but still play tennis in the <sic>sumer</sic><corr>summer</corr> the
+				children go to school in a secondary school almost in the fourth year I am hoping to
+				keep my children <sic>happie</sic><corr>happy</corr> to other people we are friend to help them with <sic>there</sic><corr>their</corr> Job
+				around the houses sometime we do charity <sic>schow</sic><corr>show</corr> for the old people we raise little
+				money each year.</u>
+      <u xml:id="q-0c7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="11">I am fifty,
+				children at work my wife and I still go round try to find job for our children if
+				they are now at work.</u>
+      <u xml:id="q-0d7f5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="12">I am sixty my
+				wife and I live on our own but the children come to see us when they are passing we
+				are help by are children around the house near <sic>are</sic><corr>our</corr> house there is football ground
+				which my children take me to see. We still go out but we stay in <sic>must</sic><corr>most</corr> of the time.
+				We live in a smaller houses but are children help us to decorate it.</u>
+    </body>
+  </text>
+</TEI>

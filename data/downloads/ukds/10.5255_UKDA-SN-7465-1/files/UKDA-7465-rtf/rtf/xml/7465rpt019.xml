@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: Report on Berlin Morale No. 35 - second half of December 1948</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-f1ec84eb-8d99-4fe3-b954-8fb3b42cb154</idno>
+				<idno type="qudexdocument">q-b1d699e4-140a-4442-90a6-9b767606a918</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-165188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="1">Tel: 86 5778</note>
+				<note xml:id="q-175188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="2">Public Opinion Research Office,</note>
+				<note xml:id="q-185188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="3">Political Division,</note>
+				<note xml:id="q-195188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="4">Lancaster House,</note>
+				<note xml:id="q-1a5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="5">H.Q., C.C.G., (BE),</note>
+				<note xml:id="q-1b5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">Berlin,</note>
+				<note xml:id="q-1c5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="7">B.A.O.R.2.</note>
+				<note xml:id="q-1d5188b6-9e9d-e411-b1ae-00155df55c12" type="date" n="8">3rd January 1949</note>
+				<note xml:id="q-1e5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">To: Public Opinion Research Officer</note>
+				<note xml:id="q-1f5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="10">Political Division,</note>
+				<note xml:id="q-205188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="11">229 HQ CCG (3E)</note>
+				<note xml:id="q-215188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="12">HANNOVER.</note>
+				<note xml:id="q-225188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="13">B.A.O.R.</note>
+				<note xml:id="q-235188b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="14">Subject: Berlin morale Report No.35</note>
+				<note xml:id="q-245188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">Attached is report on Berlin, Morale No.35 for the second half of December.</note>
+				<note xml:id="q-255188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">Readers are asked to remember that although this report is compiled as objectively as possible, opinions expressed may often seem critical and captious. This is because so-called "opinion formers" among the German population may often be ill-informed. PORO is not responsible for the views of the German population but is concerned only with the accuracy of the reporting.</note>
+				<note xml:id="q-265188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="17">J.E.Dixon</note>
+				<note xml:id="q-275188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="18">P.O.R.O.</note>
+				<note xml:id="q-285188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="19">Pol. Div.</note>
+				<note xml:id="q-295188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="20">HQ CCG (BE)</note>
+				<note xml:id="q-2a5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="21">B.A.O.R.2</note>
+				<note xml:id="q-2b5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">CONFIDENTIAL</note>
+				<note xml:id="q-2c5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="23">Public Opinion Research Office,</note>
+				<note xml:id="q-2d5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="24">Political Division,</note>
+				<note xml:id="q-2e5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="25">Lancaster House,</note>
+				<note xml:id="q-2f5188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="26">H.Q., C.C.G., (BE),</note>
+				<note xml:id="q-305188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="27">Berlin,</note>
+				<note xml:id="q-315188b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="28">B.A. O. R. 2.</note>
+				<note xml:id="q-325188b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="29">BERLIN MORALE REPORT No.35</note>
+				<note xml:id="q-335188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(Second Half December) hhh 1 GENERAL MOOD AND MORALE</note>
+				<note xml:id="q-345188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">Two events mainly occupied the minds of the Berliners during mid-December,</note>
+				<note xml:id="q-355188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">1. The blowing up of the wireless towers in the French sector;</note>
+				<note xml:id="q-365188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">2. The handing over of the village of Stolpe by the French to the Russians.</note>
+				<note xml:id="q-375188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">The blowing up of the wireless towers was welcomed by the majority of West Berliners. While they realise the necessity for air safety in Tegel, they welcomed this action even more because it badly affected the communist Sender of Berlin.</note>
+				<note xml:id="q-385188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">The attitude of the French in the case of Stolpe, however, was not understood and was rejected. People are of the opinion that it was wrong of the French Military Government to allow the population of Stolpe (approximately one thousand persons) to participate in the elections a few days before the handing over, (over 90% of all eligible voters voted for democracy). It is feared that their participation in the election is bound to have very serious consequences for the population through Russian military administration. In this connection, Berliners voiced the opinion that the continued stay of the Western Powers in Berlin might one of these days be terminated suddenly as in Stolpe. If, as it has been en explained, the welfare of two million Berliners is of greater importance than that of the one thousand inhabitants of Stolpe, it is feared that similar "justification" may be put forward for withdrawing from the whole of Berlin, i.e., that the welfare of forty million Western Germans be more important than that of two million Berliners. The explanation given by the French Military Government to the effect that they were forced by treaty and formal juridical reasons to move out of Stolpe is, in the view of many Berliners, unsatisfactory and insufficient. It is their opinion that the Russians would certainly not have felt themselves tied down by written agreements.</note>
+				<note xml:id="q-395188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">Apart from this, thoughts of most Berliners were circled around the Christmas festivities and their daily cares and worries. Foreign political events (for instance, China and Indonesia) or news from western Germany aroused little interest. Even the communique concerning the international control of the Ruhr caused very little comment. Those Berliners who were interested in the question of the Ruhr were of the opinion that this communique was a victory of French diplomacy over the Anglo-Americans to the detriment of German economy and self-government.</note>
+				<note xml:id="q-3a5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">The thoughts of the Berliners on the end of the old year are not very optimistic. It is feared that the New Year will either bring war or that the supply of Berlin by air together with all its deprivations and difficulties will become a fixed condition. A peaceful agreement on the part of the great powers and a settlement of the Berlin crisis which will satisfy all participants is described as hardly probable by the majority of West Berliners. hhh 2. BERLIN CHRISTMAS</note>
+				<note xml:id="q-3b5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">In spite of the blockade, lack of fuel, and cuts in electricity, the people in the western sectors managed to celebrate a Christmas which was better than they had previously imagined.</note>
+				<note xml:id="q-3c5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">For weeks every household had saved food and fuel in order to render the holidays as agreeable and comfortable as possible. The increase in rations introduced with effect from 1st November made it possible for almost every family to bake cakes, and the Bakers accordingly spoke of "post-war records". The cooking pots mainly contained rabbits and people with plenty of money were fortunate in having obtained a goose by way of the gaps in the zonal barriers. The display of goods in the windows of shops was more extensive than in the past years. The shortage of ready cash (which had mainly been expended for food and fuel) prevented many sales. What was mostly bought were practical gifts or small toys for children.</note>
+				<note xml:id="q-3d5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">Cinemas, theatres and cafes recorded good attendance. The greatest rush mostly concentrated on the hours in the afternoon since even during the holidays the Berlin U-Bahn and tramways stopped running towards six in the evening.</note>
+				<note xml:id="q-3e5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">Very few Berlin firms gave their employees the customary Christmas bonuses because of the general lack of money and the extreme low position of Berlin economy.</note>
+				<note xml:id="q-3f5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">The Allies took pains to give Berlin children some Christmas happiness and Christmas parties were given in many parts of the town.</note>
+				<note xml:id="q-405188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">The allocation of electric current was somewhat greater during the holidays (4.-6 hours of electric supply were generally available in the hours of the afternoon and evening). These allocations, however, were described as insufficient and the people in Berlin thought that an electric supply similar to that available on Election Day (light and traffic until 2300 hours) should have been maintained.</note>
+				<note xml:id="q-415188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">The Christmas rations (25 grammes bean coffee and 100 grammes of sweets) had a disappointing effect. Cereal coupons were honoured in raisins and dried fruit, and sugar coupons were honoured by supplies of honey, and the Berliners thought these things should have been distributed as additional rations without having to give up coupons. The frozen meat delivered during the third ration period in place of tinned meat was welcomed by all.</note>
+				<note xml:id="q-425188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="45">A factor which was criticised and regretted was the impossibility of receiving parcels and letter parcels from outside Berlin. Many Berliners were disappointed at not receiving parcels from friends and relations. hhh 3. FUEL</note>
+				<note xml:id="q-435188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="46">The supply of fuel is at present the greatest worry of the Berliners. The comparatively mild weather up to present has protected them from the worst, yet most Berliners think that a catastrophe will be inevitable if a sharp or continued frost should come. The only allocation of 25 lbs. of coal and one caseful of wood per household has now been used, and many people spent December in cold and dark rooms. To obtain coal from the Eastern sector or to gather wood in the environ­ments of Berlin has become practically impossible. The Eastern police stationed at the town and sector borders recently commenced to search the hand luggage of passengers in U and S Bahn and in the tramways, and confiscate a large amount of goods. hhh 4. FOOD SUPPLY</note>
+				<note xml:id="q-445188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="47">The rations for the period under review wore honoured in full. Many housewives, however, were forced by the staggered supply of individual commodities to make several visits to the shops in order to obtain the quantities they were allocated, thus losing much valuable time queueing.</note>
+				<note xml:id="q-455188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="48">Many Berlin mothers complained that their children receive only dried skimmed milk. They are of the opinion that dried full-cream milk would not require more cargo space and that this exchange should there­fore be possible without further difficulty. Many mothers further request that their children get cocoa and chocolate. These are two items which are in great supply on the black market but which cannot be afforded by the majority of the population.</note>
+				<note xml:id="q-465188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="49">Despite the lack of fresh foods and the unvaried diet of the Berliners, the problem of food supply has improved during the last weeks and now stands well behind the problems of fuel and money. hhh 5. EMPLOYMENT PROBLEMS</note>
+				<note xml:id="q-475188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="50">The lack of raw materials and coal as well as the difficulties of transport are responsible for the fact that Berlin's economy continues to remain greatly hampered. Recently there were again reports of more closures and the number of unemployed and part-time workers has increased. hhh 6. BLACK MARKET</note>
+				<note xml:id="q-485188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="51">The increase in price of black market produce prior to the Christmas holidays was only temporary owing to the general shortage of money.</note>
+				<note xml:id="q-495188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="52">Chocolate and American cigarettes were in abundant supply. Prices of some goods are as follows:-</note>
+				<note xml:id="q-4a5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="53">500g Butter 20.00 - 22.00 DM(W)</note>
+				<note xml:id="q-4b5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="54">500g Coffee 22.00 - 25.00 "</note>
+				<note xml:id="q-4c5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="55">500g Flour 2.00 - 3.00 "</note>
+				<note xml:id="q-4d5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="56">500g Sugar 6.00 - 7.00 "</note>
+				<note xml:id="q-4e5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="57">500g Cocoa 30.00 - 32.00 "</note>
+				<note xml:id="q-4f5188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="58">500g Apples 2.00 - 3.00 "</note>
+				<note xml:id="q-505188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="59">100g Chocolate 6.00 - 7.00 "</note>
+				<note xml:id="q-515188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="60">20 American Cigarettes 7.50 - 8.50 "</note>
+				<note xml:id="q-525188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="61">1 Ztr. Potatoes 35.00 - 40.00 "</note>
+				<note xml:id="q-535188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="62">1 Ztr. Coal 14.00 - 16.00 "</note>
+				<note xml:id="q-545188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="63">1 Pr. Stockings. 12.00 - 13.00 "</note>
+				<note xml:id="q-555188b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="64">3.1.49. S.B.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

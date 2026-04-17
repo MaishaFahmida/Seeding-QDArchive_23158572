@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: No 2 SS Brigade Morale Report, 25 Aug 44</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-660ac766-88dc-42d5-ba8d-223fba58db0b</idno>
+				<idno type="qudexdocument">q-d85acfbc-0a73-4415-a794-0fa8c882352a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-fc517fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">SUBJECT:- Morale Report</note>
+				<note xml:id="q-fd517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">6bsa/244/A</note>
+				<note xml:id="q-fe517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">CONFIDENTIAL</note>
+				<note xml:id="q-ff517fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">'A' 2 District</note>
+				<note xml:id="q-00527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">Ref your 202 A dated 7 Jul 44.</note>
+				<note xml:id="q-01527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">1. Herewith at Appx 'A' morale report, in duplicate, up to 20 Aug 44 for this Sub-Area. This covers 67 Grn, 69 Grn and HQ SO(M) and is based on written reports from these three fmns and a conference of Commanding Officers of all units under comd this HQ.</note>
+				<note xml:id="q-02527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">2. Reports from Land Forces ADRIATIC and 25 AA Edo are NOT included.</note>
+				<note xml:id="q-03527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="8">Brigadier.</note>
+				<note xml:id="q-04527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="9">Commander. cc 6 Base Sub Area.</note>
+				<note xml:id="q-05527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">Copies to:- 67 Grn</note>
+				<note xml:id="q-06527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">69 Grn</note>
+				<note xml:id="q-07527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="12">HQ SO(M)</note>
+				<note xml:id="q-08527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="13">Land Forces Adriatic</note>
+				<note xml:id="q-09527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="14">25 AA Bde</note>
+				<note xml:id="q-0a527fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="15">26 Aug 44</note>
+				<note xml:id="q-0b527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">HPCJ/EJB</note>
+				<note xml:id="q-0c527fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="17">No 2 SS Brigade Morale Report</note>
+				<note xml:id="q-0d527fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="18">25 Aug 44</note>
+				<note xml:id="q-0e527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">Three out of the four units of this Bde are now in Italy and have been for almost half the period covered by this report. The fourth unit is still in an operational role on a Dalmatian Island. hhh 1. Offences against the AA</note>
+				<note xml:id="q-0f527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">(a) Absence- 3 (one mental)</note>
+				<note xml:id="q-10527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="21">(b) Other offences- 30 (chiefly CMP charges against MT)</note>
+				<note xml:id="q-11527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">(c) Minor offences- Various owing to high standard of discipline required.</note>
+				<note xml:id="q-12527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="23">The standard of discipline in one unit of the Bde was at one time unsatisfactory but has now improved as a result of radical action. hhh 2. Confidence</note>
+				<note xml:id="q-13527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">(a) There appears to be complete confidence in the army's cause and leaders amongst all ranks of this Bde.</note>
+				<note xml:id="q-14527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">(b) Officers and men have great confidence in their arms and equipment. There is a noticeable preference for the long bayonet. hhh 3. Contentment.</note>
+				<note xml:id="q-15527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">(a) Interest in training is maintained despite the lack of suitable training areas around Monopoli Camp and the restrictions imposed by an Island. Not being included in the recent French landings has caused disappointment and there is a general eagerness to move north and join in the final round- up. While the men have appreciated the amenities available in a base area after a long period of discomfort on a Dalmatian Island there is a marked and growing feeling that assault troops, at this stage of the war should be helping the main armies in the main theatres of war. There is a general feeling that the policy regarding the employment of Commandos in the Far East should be explained.</note>
+				<note xml:id="q-16527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">(b) Living conditions</note>
+				<note xml:id="q-17527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">(i) Tentage - good but apt to be overcrowded due to the large amount of special kit carried by the special service soldier. The camp area is satisfactory at present but it is hoped the Bde will not remain when winter comes. The unit on the Island lives in bivouacs and is necessarily less well off.</note>
+				<note xml:id="q-18527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">(ii) Messing - the only adverse report is from a unit which has not yet had the help of the ACC. A QMSI has not been obtained and undoubtedly conditions will improve. It is a great pity that ACC assistance is so hard to obtain.</note>
+				<note xml:id="q-19527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(iii) NAAFI - satisfactory apart from shortage of beer which causes considerable complaint. Boot polish and Bluebell also too short.</note>
+				<note xml:id="q-1a527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">(iv) Most recreation and amusement is taken out of doors - swimming etc. In five weeks only one mobile cinema has been obtained. This should be available at least once a week. Shortly an EFI will be in operation and small concert parties could be catered for. More frequent ENSA parties would be much appreciated on the Island provided they are of high standard.</note>
+				<note xml:id="q-1b527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">(v) Leave - maximum compatible with training and operations. The necessity to maintain operational strength on the Island makes the leave turn-over in one unit slow.</note>
+				<note xml:id="q-1c527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">(vi) Mail - quite satisfactory.</note>
+				<note xml:id="q-1d527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">(c) Finance - quite adequate for the present theatre but there is still a serious grievance with regard to the disproportion of the rates of pay of a soldier and a munition maker: Also between American and colonial troops on the one hand and British rates of pay on the other, and the fact that Americans are continually raising prices beyond the reach of the British soldier.</note>
+				<note xml:id="q-1e527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">(d) Comparatively few cases of family difficulties and these all genuine. Very few men are successful in their applications for home postings and then only after such delays as make the posting unnecessary. It is generally felt that the stringent restrictions on compassionate postings could now be relaxed</note>
+				<note xml:id="q-1f527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">(e) Although NCOs are made to feel their position and responsibilities there is a marked comradeship between all ranks in SS units. Standard of officers is high and they are taught to pay great attention to this subject.</note>
+				<note xml:id="q-20527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">(f) Relations with RAF are good and the men have a great respect for the work of the RAF. What little social relationship has been possible with ATS appears to have been reasonable. Relationship with Dominion and US troops is fair but disciplinary conditions are so different that there is little understanding. The difficulties out­lined in (c) above are apt to discourage much mixing, while the low standard of smartness and saluting causes surprise.</note>
+				<note xml:id="q-21527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">(g) Relationship with troops of other nationalities is good except where Italians are concerned where there is little respect. High with Poles, Yugoslavs and Belgians because of personal experience.</note>
+				<note xml:id="q-22527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">4. There has been very little educational training or ABCA because all available time for training has been spent on military and physical fitness. The opportunities for introducing this training now that 3 units are in a base camp are being exploited.</note>
+				<note xml:id="q-23527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">5. Both physical fitness and discipline are the prime requirements in a Commando soldier and the standard is very high indeed in this Bde.</note>
+				<note xml:id="q-24527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">Brigadier.</note>
+				<note xml:id="q-25527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">C and No 2 SS Brigade</note>
+				<note xml:id="q-26527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">CMF</note>
+				<note xml:id="q-27527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">REM/DE</note>
+			</div>
+		</body>
+	</text>
+</TEI>

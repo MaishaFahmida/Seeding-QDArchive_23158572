@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: HQ 2SS Bde Morale Report, 28 Nov 44</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-447fde9a-f3b3-45e2-a7f6-a48c230c58d0</idno>
+				<idno type="qudexdocument">q-2d548a53-94d4-4d63-a9d3-307abaaa6c27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-97527fbc-9e9d-e411-b1ae-00155df55c12" type="theme" n="1">Subject: Morale Report</note>
+				<note xml:id="q-98527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">CONFIDENTIAL</note>
+				<note xml:id="q-99527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">Ref: A.52</note>
+				<note xml:id="q-9a527fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="4">28 Nov 44</note>
+				<note xml:id="q-9b527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="5">To: HQ LFA</note>
+				<note xml:id="q-9c527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="6">From: HQ 2 SS Bde</note>
+				<note xml:id="q-9d527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="7">Ref your LFA/44/AG dated 21 Nov 44 requesting Morale Report to be submitted by this HQ.</note>
+				<note xml:id="q-9e527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="8">Please note that it will not be possible to obtain Unit Reports from either 9 Cdo or 43 (RM) Cdo in time, but consolidated report submitted by this HQ will include all known facts in respect of these units.</note>
+				<note xml:id="q-9f527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">Capt</note>
+				<note xml:id="q-a0527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">SC</note>
+				<note xml:id="q-a1527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">for Comd 2 SS Bde</note>
+				<note xml:id="q-a2527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">CMF</note>
+				<note xml:id="q-a3527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">CHP/TRH</note>
+				<note xml:id="q-a4527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">CONFIDENTIAL</note>
+				<note xml:id="q-a5527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="15">Adv. HQ Special Boat Service,</note>
+				<note xml:id="q-a6527fbc-9e9d-e411-b1ae-00155df55c12" type="contact" n="16">L.F.A., C.M.F.</note>
+				<note xml:id="q-a7527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="17">Ref. ASBS/24/58</note>
+				<note xml:id="q-a8527fbc-9e9d-e411-b1ae-00155df55c12" type="date" n="18">28 Nov. 44.</note>
+				<note xml:id="q-a9527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="19">To:- HQ LFA.</note>
+				<note xml:id="q-aa527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="20">Copy to: Adv. 'Q' Base</note>
+				<note xml:id="q-ab527fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="21">1. MORALE IN GENERAL</note>
+				<note xml:id="q-ac527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="22">The morale of this unit has been maintained at a very high standard for the period under review largely due to a move to a new theatre of operations where work has been plentiful. The large part played by the unit in the pursuit of the enemy through GREECE, combined with the honour of being the first Allied Troops to enter a liberated ATHENS have been contributing factors.</note>
+				<note xml:id="q-ad527fbc-9e9d-e411-b1ae-00155df55c12" type="subject" n="23">2. FACTORS AFFECTING MORALE. hhh (a) Discipline.</note>
+				<note xml:id="q-ae527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="24">Discipline in a unit of this nature has of necessity to be, and is, of a very high standard; any slackening off in the basic discipline merely leads to trouble in the field. hhh (b) Confidence.</note>
+				<note xml:id="q-af527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="25">(i) Army, Leaders, War. Confidence in these aspects appears sound and the general feeling is that a successful conclusion to the war in EUROPE is purely a matter of months. This, however, is not sufficiently strong as to lead to over-confidence.</note>
+				<note xml:id="q-b0527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="26">(ii) Arms and Equipment. The unit is in the fortunate position of being able to obtain much specialised equipment which is not available to normal units. Furthermore, if dissatisfied with any particular weapon or item of equipment it is normally possible to exchange until the ideal is found; thus the general equipment in use is that regarded by the unit as the best possible at the time and consequently confidence in arms and equipment is always high.</note>
+				<note xml:id="q-b1527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="27">(iii) Efficiency. Due to the nature and type of our operations, confidence in the efficiency of the individual and of the team must of necessity be very high. Any sign of lack of confidence will always lead to trouble in the field, more particularly when in enemy occupied territory. hhh (c) Mail.</note>
+				<note xml:id="q-b2527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="28">The present mail position is extremely satisfactory and complaints directed against Army Postal Services are rare. hhh (d) Welfare and Entertainment.</note>
+				<note xml:id="q-b3527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="29">(i) Living Conditions. Two camps are in use at the moment; an Adv. 'Q' Base at BARI Stadium which naturally is not an ideal establishment for winter quarters being built of concrete and consequently being damp; a Rear HQ is at MONTE ST ANGELO at a height of 3,000 ft. This is an ideal building, being a school, but local authorities move slowly over such matters as repairing central heating and hot water systems and. producing extra fuel on account of being billeted over 2,000 ft above sea level. When completed this should make excellent winter quarters.</note>
+				<note xml:id="q-b4527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="30">(ii) Recreation and General Amusement. Recreation takes the form of football, basketball etc.; lack of football boots is a complaint in the case of the former. Darts is naturally popular and other indoor games are indulged in. Cinemas are within reach of both camps. Local entertainment with the exception of 'vino' is non-existent.</note>
+				<note xml:id="q-b5527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="31">(iii) General. The lack of wireless sets is still very noticeable but this is no doubt a general criticism in any unit. On the whole the welfare situation is satisfactory, the only complaint being that men are unable to obtain a meal in BARI- the NAAFI and YMCA supplying only rolls. hhh (e) Education and ABCA.</note>
+				<note xml:id="q-b6527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="32">Unfortunately circumstances such as intensive training preclude much in the way of Education and ABCA but in the Sqns general discussions on an organised basis frequently take place as part of the normal training programme. hhh (f) Relationship between Officers and men.</note>
+				<note xml:id="q-b7527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="33">As the basic unit is a patrol of one officer and ten men, the relationship between officers and men is extremely close. hhh (g) Relationship with other Services.</note>
+				<note xml:id="q-b8527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="34">Since the means of travel to our scene of operations is either by Naval Craft or by air, we have many dealings with the Royal Navy and the Royal Air Force. The co-operation and good fellowship existing between R.N. and S.B.S. is remarkable; in the M.E. personnel of the unit were honorary members of the ALEXANDRIA Fleet Club. Relationship between the men who fly aircraft and the 'bodies' who jump from them is always and necessarily very close. hhh (h) Relationship with Allies.</note>
+				<note xml:id="q-b9527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="35">The only Allies with whom the unit has come into close contact have been the GREEKS with whom we have done several operations in M.E. Relationship here has been Good. Respect and admiration for our other Allies is high. hhh (i) Home Affairs and Post War Release.</note>
+				<note xml:id="q-ba527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="36">As the Greater part of the unit has been and still is away from the mainland it is not possible to state their reactions to the Post War Release Plans; but there appears to be a General feeling that Home Affairs are being properly conducted. hhh (j) Finance.</note>
+				<note xml:id="q-bb527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="37">Men take much interest in their financial affairs and the overseas service increase has done much to improve the position, in addition all ranks in SBS who are parachute trained receive a further two shillings per day. hhh (k) Miscellaneous</note>
+				<note xml:id="q-bc527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="38">(i) Overseas Service. The general feeling about this is that most people will be home within six or nine months either permanently or en route to the Far East. The scheme for Xmas home leave is popular although it is realised that very few men will be involved.</note>
+				<note xml:id="q-bd527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="39">(ii) Leave. The leave situation is satisfactory although leave centres are limited.</note>
+				<note xml:id="q-be527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="40">(iii) Relations with Civil Population. As a very large proportion of the unit has been in action against the ITALIAN Army either in the Western Desert or in the Aegean, there is naturally no great feeling of cordiality between personnel and the civilian population; the attitude of the former is one of correct aloofness. All ranks were surprised and not a little indignant at the request recently made by the ITALIAN Government that their nation should be regarded as Allies instead of co-belligerents. !!</note>
+				<note xml:id="q-bf527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="41">GC/M</note>
+				<note xml:id="q-c0527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="42">Major.</note>
+				<note xml:id="q-c1527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="43">G.II.</note>
+				<note xml:id="q-c2527fbc-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="44">S.B.S.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

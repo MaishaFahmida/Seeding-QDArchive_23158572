@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="collectiondisplaylabel">School Leavers Study</title>
+        <title type="sourcedisplaylabel">Essay by 23</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="qudexcollection">q-41037361-714f-493f-94bd-18ee7e3fa29e</idno>
+        <idno type="qudexsource">q-fd62b26c-cf4f-4f70-847e-2d0b93808ff7</idno>
+        <idno type="qudexdocument">q-97ad2baa-ac4f-4525-b19c-48d26726383a</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>School Leavers Study, 1978</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <note xml:id="q-d27d5d94-362c-e311-93c1-000bdb5cc6d5" type="heading1" n="1">Past Life</note>
+      <u xml:id="q-d37d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="2">I left school at
+				16 after passing two ‘o’ levels and failing a third. With these qualifications, I
+				was able to get the job of clerical assistant in H.M Customs and Excise offices at
+				Sheerness dock. I continued to live at home but paid for my keep. The first thing I
+				done with my wages was to buy a motorbike for reasons of transport and ego. I soon
+				joined a parachuting club and the next few years of my life were {illegible} to the
+				learning of proper parachuting. My weekly income was sufficient to pay for my board,
+				my fuel and my hobby. I used very little for petty things like drink. During my
+				second year I took a weekend in Holland, <sic>toaring</sic><corr>touring</corr> with my bike. I travelled by {Ocean
+				line?} and only had to pay £7.50 for fare. After I had learned and experienced as
+				much as I wanted to in parachuting, I moved on to hang-gliding, which proved to be
+				an expensive sport. During this time I attended evening classes to obtain further
+				‘o’ levels in physics, English literature and French. When I had passed these (which
+				I did first time) I applied for the next step in my career, the post of clerical
+				officer. There was some delay before I was situated in this position, but with my
+				extra qualifications and a good 4 year work record already, I was accepted. Many
+				times I had given thought to the idea of renting a flat, but this was just
+				un-economical, and actually pointless as I could live with a certain degree of
+				comfort with my parents for a relatively small amount of money.</u>
+      <u xml:id="q-d47d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="3">However, this
+				became impossible when I became seriously involved with a girl. I would not take
+				part in a religious marriage ceremony as this would have been hypocrisy, me never
+				having been to church since I decided not to. We agreed to have a registry office
+				wedding. With the decision to marry, came flat hunting. I was able to afford a
+				reasonable flat with my recent promotion, and we found one after many months of
+				searching.</u>
+      <u xml:id="q-d57d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="4">During the next
+				few years, I switched my hobby again and felt a sense of achievement after reaching
+				a high degree of skill in each of my past pass-times. The marriage was a good one,
+				as we understood each other not only emotionally but spiritually as well (we were
+				both vegetarian and had been since we began to think reasonably). No children were
+				born as we wouldn’t take part in the act of bringing a child into the world, until
+				it was a better place. However, our joint sex life was mutually satisfying.</u>
+      <u xml:id="q-d67d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="5">Promotion was
+				again within sight and this I nearly failed the interview when the question of
+				politics came up and I had to be satisfied with labelling myself as politically
+				non-active, although I firmly believed in a form of Marxist society as the ideal
+				society.</u>
+      <u xml:id="q-d77d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="6">The marriage
+				ended with my wife becoming a statistic on a death rate accident paper.</u>
+      <u xml:id="q-d87d5d94-362c-e311-93c1-000bdb5cc6d5" who="R" n="7">My life
+				continued, with me changing from hobby to hobby, each offering a taste of what life
+				had to offer. I made my will and enclosed a request that a party should be held
+				after my cremation, as I had once felt grief and wouldn’t inflict it on anybody
+				else. Now I’m 60 and still going strong. There are still hobbies to try and I won’t
+				grow old.</u>
+    </body>
+  </text>
+</TEI>

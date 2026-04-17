@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="collectiondisplaylabel">Morale and Home Intelligence Reports</title>
+				<title type="sourcedisplaylabel">Report: War Cabinet: Report on Home Opinion, Memorandum by the Minister of Information, October 2, 1942</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="qudexcollection">q-q-d1414a1f-1105-4844-8a63-f22fbd4e97d7</idno>
+				<idno type="qudexsource">q-q-e708cc50-9645-4cad-b475-94670567aec2</idno>
+				<idno type="qudexdocument">q-5b44ece7-2b96-4a48-8b15-528f18aa979f</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Morale and Home Intelligence Reports, 1941-1949</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<note xml:id="q-715888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="1">(This document is the property of Britannic majesty's government)</note>
+				<note xml:id="q-725888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="2">COPY NO 19</note>
+				<note xml:id="q-735888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="3">SECRET</note>
+				<note xml:id="q-745888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="4">W.P. (42) 454</note>
+				<note xml:id="q-755888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="5">9th October, 1942.</note>
+				<note xml:id="q-765888b6-9e9d-e411-b1ae-00155df55c12" type="contact" n="6">War Cabinet</note>
+				<note xml:id="q-775888b6-9e9d-e411-b1ae-00155df55c12" type="theme" n="7">Report on Home Opinion</note>
+				<note xml:id="q-785888b6-9e9d-e411-b1ae-00155df55c12" type="subject" n="8">Memorandum by the Minister of Information</note>
+				<note xml:id="q-795888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="9">The fourth winter of the war falls on a public not flagging or out of heart but for the time being much more preoccupied with the unavoidable difficulties of every day life than with the larger issues of the progress of the war of world politics. A year ago there were many to believe that the end of the war was not far off and that we should not have to spend another winter in the shelters: now the expectations of a speedy end to the war seems to have faded altogether and people have settled down to a steady plugging away at the jobs that immediately concern them.</note>
+				<note xml:id="q-7a5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="10">2. Much of this might change overnight with an intensification of our share in military operations. In the meantime hopes are uncertain while practical problems are real. Indeed, post-war conditions seem to be more of a cause of anxiety as to what they may bring to the individual in the shape of unemployment and distress than of hope for the blessings that they may bring to the nation at large. Criticism of the management of the production side of the war was so vigorous and widespread earlier this year has mainly died away; so has criticism of the government itself. The House of Commons on the other hand, has not enjoyed the same immunity, the Lord Privy Seal's comment on members' attendance in the House having been received with vigorous and sustained approval.</note>
+				<note xml:id="q-7b5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="11">3. The war news that has dominated men's minds throughout the period is the battle of Stalingrad. Every week of successful defence confirms the popularity of the Russians and there is much uneasiness and unhappiness at the spectacle of our apparent inaction. For this reason a piece of news such as the passing of the recent convoy to Russia is received with real pleasure.</note>
+				<note xml:id="q-7c5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="12">4. But uneasiness and unhappiness do not now feed any clamour for a Second Front. When on compares the public feeling on this subject in September 1942 with the feeling a year ago, it is remarkable how great the change has been. As a political issue it has ceased to count. There is much greater awareness of the tremendous gravity of such an undertaking; and the public seems satisfied to accept that "prodding", whether of military or political leaders is neither wise nor necessary.</note>
+				<note xml:id="q-7d5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="13">5. No single factor has contributed more powerfully to bring this about than the news of the Dieppe raid. It has all along been widely believed that the raid was intended to be "the Second Front", or that it would have turned into one if operations had gone more favourably. The first impact of the news was highly stimulating, and it is reported that in many factories it lent an appreciable impetus to production. Gradually, however, it came to be realized that serious difficulties had been encountered and heavy losses suffered; and the public, seeing for the first time as it were the opening phases of a landing enacted, appear to have drawn a grim moral from what they saw.</note>
+				<note xml:id="q-7e5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="14">6. The review comes back in the end to the fact that the public are regarding the coming winter with foreboding as a period dominated not by hunger buy by cold, darkness and irksome transport difficulties. The prospect of air raids grows more formidable. It is on these practical things that their attention will mainly be concentrated.</note>
+				<note xml:id="q-7f5888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="15">7. The public are taking fuel economy to heart and are making serious efforts to meet the Government's appeal, but they find it so hard to understand why this country should be short of coal that their efforts are accompanied by resentment against what they describe as Government mismanagement in having allowed the present situation to come about. They do not look forward to rationing with apprehension, for not only has their experience of commodity rationing been favourable hitherto, but they have also derived real satisfaction from the thought that whatever supplies are available are being shared out on an equitable basis unaffected by the influence of privilege or money. Finally, the readiness of response from the lower income groups is affected by the feeling that they have never been able to afford to do otherwise than economise in fuel and that the range in which saving ought to be sought is amongst the higher income groups occupying the larger houses.</note>
+				<note xml:id="q-805888b6-9e9d-e411-b1ae-00155df55c12" type="reporttext" n="16">B.B.</note>
+				<note xml:id="q-815888b6-9e9d-e411-b1ae-00155df55c12" type="date" n="17">9th Ootober,1942.</note>
+			</div>
+		</body>
+	</text>
+</TEI>

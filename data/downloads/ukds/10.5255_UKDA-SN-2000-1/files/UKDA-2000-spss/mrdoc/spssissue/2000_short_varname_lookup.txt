@@ -1,0 +1,42 @@
+Lookup table for users of SPSS 11 and previous
+Short and full variable names for file: 2000
+
+At least one string variable has been truncated to 255 bytes
+
+Abbreviated  Extended
+Name         Name
+
+blfilenu     blfilenumber
+datesofi     datesofinterview
+educatio     education
+firstnam     firstnames
+govtoffr     govtoffregion
+healthch     healthchildbirth
+interv_1     interviewername
+interv_2     interviewnotes
+intervie     interviewid
+keytopic     keytopics
+locati_1     locationtype
+location     locationofinterview
+marrstat     marrstatus
+miscella     miscellaneous
+monoster     monostereo
+newoccup     newoccupationclass
+noisered     noisereduction
+numberpa     numberpages
+occupa_1     occupationclass
+occupati     occupation
+original     originalscopy
+parentsw     parentsworkhistory
+placeofi     placeofinterview
+pseudony     pseudonym
+secondna     secondnames
+soc2000c     soc2000class
+tapescom     tapescomplete
+totaltap     totaltapes
+transc_1     transcriptquality
+transcri     transcriptcomplete
+typeofta     typeoftape
+ukdafile     ukdafilename
+workhist     workhistory
+
