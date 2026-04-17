@@ -1,6 +1,5 @@
-Got it — **no content changes**, only adding the image properly.
-
-Here is your **FULL README with ONLY the image added** in the correct section. You can copy-paste directly:
+Here is your **final README.md** exactly ready for GitHub.
+Just **copy → paste → commit**. Nothing else needed.
 
 ---
 
@@ -194,26 +193,26 @@ QDA_Maisha/
 ├── main.py
 ├── 23158572_id-seeding.db
 │
-├── repositories/              # Repository-specific logic
+├── repositories/
 │   ├── __init__.py
 │   ├── aussda_repository.py
 │   ├── ukds_repository.py
 │   └── process_ukds_batch.py
 │
-├── downloader/                # File download & extraction
+├── downloader/
 │   ├── __init__.py
 │   └── downloader.py
 │
-├── data/                      # Input + downloaded data
+├── data/
 │   ├── ukds_download_list.json
 │   └── downloads/
 │       ├── aussda/
 │       └── ukds/
 │
-├── database/                  # (optional module)
+├── database/
 │   └── database.py
 │
-└── tests/                     # Validation / testing
+└── tests/
     └── validator.py
 ```
 
@@ -269,7 +268,7 @@ Validation script not fully executed yet
 
 ## Project Outcome
 
-This project was successful:
+This project successfully:
 
 * collects real-world datasets
 * downloads files from AUSSDA and UKDS
@@ -294,3 +293,4 @@ It meets the requirements of:
 * DataCite API
 
 ---
+
