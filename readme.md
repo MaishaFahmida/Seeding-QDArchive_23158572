@@ -1,13 +1,16 @@
 # QDArchive Seeding Project
 
 **Student:** Maisha Fahmida
+
 **Student ID:** 23158572
+
 **University:** FAU Erlangen-Nürnberg
+
 **Supervisor:** Prof. Dr. Dirk Riehle
 
 ---
 
-## Project Overview
+##  Project Overview
 
 This project contributes to the **QDArchive (Qualitative Data Archive)** by building an automated pipeline that:
 
@@ -25,7 +28,7 @@ The system is designed for datasets compatible with **Qualitative Data Analysis 
 
 ---
 
-## Project Objectives
+##  Project Objectives
 
 * Automate dataset collection from repositories
 * Download dataset files when publicly accessible
@@ -36,7 +39,7 @@ The system is designed for datasets compatible with **Qualitative Data Analysis 
 
 ---
 
-## Data Sources
+##  Data Sources
 
 | Repository             | ID | Method                                         |
 | ---------------------- | -- | ---------------------------------------------- |
@@ -45,7 +48,7 @@ The system is designed for datasets compatible with **Qualitative Data Analysis 
 
 ---
 
-## System Workflow
+##  System Workflow
 
 ```
 main.py
@@ -59,7 +62,7 @@ SQLite Database (5 tables)
 
 ---
 
-## Database Schema
+##  Database Schema
 
 The system uses a normalized SQLite schema:
 
@@ -73,9 +76,9 @@ The system uses a normalized SQLite schema:
 
 ---
 
-## Repository Processing
+##  Repository Processing Pipelines
 
-### AUSSDA
+###  AUSSDA Pipeline
 
 * Uses Dataverse API
 * Retrieves metadata and files
@@ -90,7 +93,7 @@ The system uses a normalized SQLite schema:
 
 ---
 
-### UK Data Service (UKDS)
+### UK Data Service (UKDS) Pipeline
 
 * Uses **DataCite API** to discover datasets
 * Uses **GraphQL API** to fetch detailed metadata
@@ -124,7 +127,7 @@ This ensures license is always stored in the database.
 
 ---
 
-## File Handling
+##  File Handling Status
 
 | Status        | Description                   |
 | ------------- | ----------------------------- |
@@ -133,9 +136,9 @@ This ensures license is always stored in the database.
 
 ---
 
-## Execution Guide
+##  Execution Guide
 
-### Install Dependencies
+###  Install Dependencies
 
 ```bash
 pip install requests beautifulsoup4
@@ -143,7 +146,7 @@ pip install requests beautifulsoup4
 
 ---
 
-### Run the Pipeline
+###  Run the Pipeline
 
 ```bash
 python -m repositories.process_ukds_batch
@@ -157,15 +160,15 @@ python main.py
 
 ---
 
-## Output
+##  Output Artifacts
 
-### Database
+###  Database
 
 ```
 23158572_id-seeding.db
 ```
 
-### Downloaded Files
+###  Downloaded Files
 
 ```
 data/downloads/aussda/
@@ -174,7 +177,7 @@ data/downloads/ukds/
 
 ---
 
-## Folder Structure
+##  Project Structure
 
 ```
 QDA_Maisha/
@@ -182,25 +185,34 @@ QDA_Maisha/
 ├── main.py
 ├── 23158572_id-seeding.db
 │
-├── repositories/
+├── repositories/              # Repository-specific logic
+│   ├── __init__.py
 │   ├── aussda_repository.py
 │   ├── ukds_repository.py
 │   └── process_ukds_batch.py
 │
-├── downloader/
+├── downloader/                # File download & extraction
+│   ├── __init__.py
 │   └── downloader.py
 │
-├── data/
+├── data/                      # Input + downloaded data
+│   ├── ukds_download_list.json
 │   └── downloads/
 │       ├── aussda/
 │       └── ukds/
+│
+├── database/                  # (optional module)
+│   └── database.py
+│
+└── tests/                     # Validation / testing
+    └── validator.py
 ```
 
 ---
 
-## Limitations
+##  Limitations
 
-### UKDS Constraints
+###  UKDS Constraints
 
 * Some datasets require authentication
 * Signed URLs expire quickly
@@ -208,31 +220,31 @@ QDA_Maisha/
 
 ---
 
-### Metadata Issues
+###  Metadata Issues
 
 * Some datasets have missing or unclear license
 * License fallback is used when needed
 
 ---
 
-### Duplicate Data
+###  Duplicate Data
 
 * Duplicate entries may occur
 * No deduplication implemented yet
 
 ---
 
-## Validation Status
+##  Validation Status
 
 * SQLite database structure implemented
 * License handling implemented
 * Validator integration prepared
 
-⚠️ Validation script not fully executed yet
+ Validation script not fully executed yet
 
 ---
 
-## Future Improvements
+##  Future Improvements
 
 * Run full SQLite validation
 * Implement duplicate detection (based on DOI)
@@ -242,7 +254,7 @@ QDA_Maisha/
 
 ---
 
-## Project Outcome
+##  Project Outcome
 
 This project successfully:
 
@@ -260,7 +272,7 @@ It meets the requirements of:
 
 ---
 
-## References
+##  References
 
 * QDArchive Project
 * REFI-QDA Standard
