@@ -1,0 +1,29 @@
+-- database: c:\Users\Maisha Fahmida\Desktop\QDA_Maisha\23158572_id-seeding.db
+
+SELECT * FROM projects;
+BEGIN;
+
+DELETE FROM files
+WHERE project_id IN (
+    SELECT id FROM projects WHERE repository_id = 2
+);
+
+DELETE FROM keywords
+WHERE project_id IN (
+    SELECT id FROM projects WHERE repository_id = 2
+);
+
+DELETE FROM person_role
+WHERE project_id IN (
+    SELECT id FROM projects WHERE repository_id = 2
+);
+
+DELETE FROM licenses
+WHERE project_id IN (
+    SELECT id FROM projects WHERE repository_id = 2
+);
+
+DELETE FROM projects
+WHERE repository_id = 2;
+
+COMMIT;
