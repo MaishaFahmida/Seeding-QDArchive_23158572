@@ -27,20 +27,9 @@ The final workflow produces a complete set of outputs: the classification SQLite
 
 Overall, the project demonstrates an end-to-end pipeline covering **automated data acquisition, database construction, project-type classification, ISIC Rev. 5 categorization, primary-file classification, validation, and final result reporting.**
 
----
-# QDArchive Seeding Project
 
-**Student:** Maisha Fahmida
 
-**Student ID:** 23158572
-
-**University:** FAU Erlangen-Nürnberg
-
-**Supervisor:** Prof. Dr. Dirk Riehle
-
----
-
-##  Project Overview
+##  Part 1 — Data Acquisition
 
 This project contributes to the **QDArchive (Qualitative Data Archive)** by building an automated pipeline that:
 
