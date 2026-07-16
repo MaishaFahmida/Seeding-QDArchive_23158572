@@ -3,7 +3,6 @@ Just **copy → paste → commit**. Nothing else needed.
 
 ---
 
-markdown
 # Author
 
 **Name:** Maisha Fahmida <br>
