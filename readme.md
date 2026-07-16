@@ -4,6 +4,30 @@ Just **copy → paste → commit**. Nothing else needed.
 ---
 
 ```markdown
+# Author
+
+- **Name:** Maisha Fahmida
+- **Student ID:** 23158572
+- **University:** Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- **Supervisor:** Prof. Dr. Dirk Riehle
+
+---
+
+# Full Project Overview
+
+This project contributes to the **QDArchive (Qualitative Data Archive)** initiative by building an automated pipeline to discover, download, and structure qualitative research datasets, and then classify them for future analysis.
+
+The work is divided into two main parts:
+
+**Part 1 — Data Acquisition** searches open data repositories for qualitative and QDA-related research projects, downloads publicly accessible files where available, extracts metadata (titles, descriptions, keywords, authors, licenses), and stores everything in a normalized SQLite database (`23158572-seeding.db`).
+
+**Part 2 — Classification** extends the acquired database by classifying every project into one of four project types (`QDA_PROJECT`, `QD_PROJECT`, `OTHER_PROJECT`, `NOT_A_PROJECT`) based on the file types it contains. Relevant `QD_PROJECT` records are then classified against the **ISIC Rev. 5** taxonomy at the Section + Division level, using a weighted keyword-matching classifier that combines project metadata (title, description, keywords) with text extracted directly from each project's primary data files. Each primary data file is also classified individually where extractable text is available.
+
+The final workflow produces a complete set of outputs: the classification SQLite database, an XLSX results table, repository-level statistics, vector-based classification histograms, ranked top-class tables, and a final PDF report.
+
+Overall, the project demonstrates an end-to-end pipeline covering **automated data acquisition, database construction, project-type classification, ISIC Rev. 5 categorization, primary-file classification, validation, and final result reporting.**
+
+---
 # QDArchive Seeding Project
 
 **Student:** Maisha Fahmida
