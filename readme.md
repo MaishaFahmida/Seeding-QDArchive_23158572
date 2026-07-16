@@ -6,9 +6,9 @@ Just **copy → paste → commit**. Nothing else needed.
 markdown
 # Author
 
-**Name:** Maisha Fahmida
-**Student ID:** 23158572
-**University:** Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+**Name:** Maisha Fahmida <br>
+**Student ID:** 23158572<br>
+**University:** Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) <br>
 **Supervisor:** Prof. Dr. Dirk Riehle
 
 ---
